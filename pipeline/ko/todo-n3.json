@@ -2160,13 +2160,13 @@
    ]
   },
   {
-   "id": "j1207600",
-   "word": "掛け",
-   "reading": "かけ",
+   "id": "j1594100",
+   "word": "仕掛け",
+   "reading": "しかけ",
    "gloss_en": [
-    "credit",
-    "money owed on an account; bill",
-    "hanger; holder; rest; rack"
+    "device; contrivance; mechanism; gadget",
+    "trick; trap; calculated manipulation; gambit",
+    "(small) scale; half finished"
    ]
   },
   {
@@ -5171,12 +5171,13 @@
    ]
   },
   {
-   "id": "j1430580",
-   "word": "直",
-   "reading": "なお",
+   "id": "j1599390",
+   "word": "直す",
+   "reading": "なおす",
    "gloss_en": [
-    "ordinary; common",
-    "doing nothing"
+    "to repair; to mend; to fix; to correct (a mistake, bad habit, etc.)",
+    "to change; to alter; to convert; to translate",
+    "to put back; to put away"
    ]
   },
   {
@@ -14027,9 +14028,9 @@
    "ko_tatoeba": null
   },
   {
-   "id": "j1207600",
-   "ja": "彼は上着をコート掛けにかけた。",
-   "en": "He hung his coat on a hook.",
+   "id": "j1594100",
+   "ja": "この仕掛けはスイッチで動く。",
+   "en": "This device is actuated by a switch.",
    "ko_tatoeba": null
   },
   {
@@ -16027,6 +16028,12 @@
   {
    "id": "j1510650",
    "ja": "彼は１日ごとに日程を変える。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1599390",
+   "ja": "できるだけ早く、直すつもりよ。",
    "en": null,
    "ko_tatoeba": null
   },

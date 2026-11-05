@@ -274,12 +274,11 @@
    ]
   },
   {
-   "id": "j1376600",
-   "word": "正しい",
-   "reading": "ただしい",
+   "id": "j1377080",
+   "word": "正午",
+   "reading": "しょうご",
    "gloss_en": [
-    "right; correct",
-    "proper; righteous; just; honest"
+    "noon; midday"
    ]
   },
   {
@@ -1374,13 +1373,11 @@
    ]
   },
   {
-   "id": "j1376590",
-   "word": "正",
-   "reading": "せい",
+   "id": "j1493370",
+   "word": "不正",
+   "reading": "ふせい",
    "gloss_en": [
-    "(logical) true; regular",
-    "10^40; ten duodecillion",
-    "original"
+    "injustice; unfairness; wrongdoing; iniquity"
    ]
   },
   {
@@ -1527,13 +1524,13 @@
    ]
   },
   {
-   "id": "j1252050",
-   "word": "計",
-   "reading": "けい",
+   "id": "j1198430",
+   "word": "会計",
+   "reading": "かいけい",
    "gloss_en": [
-    "plan",
-    "meter; measuring device",
-    "(in) total; total (of)"
+    "accounting; finance; account; reckoning",
+    "bill (at a restaurant); check",
+    "accountant; treasurer; paymaster; cashier"
    ]
   },
   {
@@ -2436,14 +2433,6 @@
    "reading": "よのなか",
    "gloss_en": [
     "society; the world; the times"
-   ]
-  },
-  {
-   "id": "j1377080",
-   "word": "正午",
-   "reading": "しょうご",
-   "gloss_en": [
-    "noon; midday"
    ]
   },
   {
@@ -5354,8 +5343,8 @@
    "ko_tatoeba": null
   },
   {
-   "id": "j1376600",
-   "ja": "トムが正しいとは思わないな。",
+   "id": "j1377080",
+   "ja": "正午までにはそこに着くはずだ。",
    "en": null,
    "ko_tatoeba": null
   },
@@ -6056,6 +6045,12 @@
    "ko_tatoeba": "신세 많이 졌습니다."
   },
   {
+   "id": "j1493370",
+   "ja": "私はそんな不正をするくらいなら死んだ方がいい。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
    "id": "j1465720",
    "ja": "トムって、入院してるそうよ。",
    "en": null,
@@ -6149,6 +6144,12 @@
    "id": "j1583470",
    "ja": "その品は品切れになりました。",
    "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1198430",
+   "ja": "チェックアウトしたいので、会計をおねがいします。",
+   "en": "I'd like to check out. Do you have my bill?",
    "ko_tatoeba": null
   },
   {
@@ -6736,12 +6737,6 @@
   {
    "id": "j1373850",
    "ja": "世の中を動かしてみたいんだ。",
-   "en": null,
-   "ko_tatoeba": null
-  },
-  {
-   "id": "j1377080",
-   "ja": "正午までにはそこに着くはずだ。",
    "en": null,
    "ko_tatoeba": null
   },

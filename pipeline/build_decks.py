@@ -25,6 +25,14 @@ KANJI_RE = re.compile(r"[一-鿿]")
 BAD_FORM_TAGS = {"rK", "sK", "iK", "oK", "ateji"}
 BAD_KANA_TAGS = {"ok", "rk", "sk", "ik"}
 BAD_SENSE_MISC = {"arch", "obs", "rare", "obsc", "dated", "vulg", "X", "derog"}
+# hand-reviewed: JMdict entries that are poor study items (technical senses etc.)
+EXCLUDE = {
+    "1376600",  # 正 せい (logical true; 10^40)
+    "1252050",  # 計 けい (meter; total)
+    "1376590",  # 正 せい (logical true)
+    "1430580",  # 直 なお (ordinary; doing nothing)
+    "1207600",  # 掛け かけ (credit; money owed)
+}
 
 
 def kata_to_hira(s: str) -> str:
@@ -107,6 +115,8 @@ print("collecting candidate words")
 CANDS = []
 for e in jm["words"]:
     seq = e["id"]
+    if seq in EXCLUDE:
+        continue
     forms = [
         k for k in e["kanji"]
         if kanji_of(k["text"]) and not (set(k["tags"]) & BAD_FORM_TAGS)
@@ -194,7 +204,7 @@ import fugashi  # noqa: E402
 TAGGER = fugashi.Tagger()
 
 
-READING_FIX = {"日本": "にほん"}
+READING_FIX = {"日本": "にほん", "私": "わたし", "私たち": "わたしたち"}
 
 
 def ruby_tokens(text: str, toks=None):

@@ -14,9 +14,14 @@ ROOT = Path(__file__).resolve().parent
 APP_DATA = ROOT.parent / "app" / "public" / "data"
 APP_DATA.mkdir(parents=True, exist_ok=True)
 KANJI_RE = re.compile(r"[一-鿿]")
-HIRA_RE = re.compile(r"^[ぁ-ゟー]+$")
+HIRA_RE = re.compile(r"^[ぁ-ゟァ-ヺー]+$")  # kana (loanword parts like ジェット)
 
-EUM_EXCEPTIONS = {"円": "원"}
+# Unihan gives a reading that is not the usual Korean one for these shinjitai forms
+EUM_EXCEPTIONS = {"円": "원", "体": "체", "楽": "락", "画": "화", "台": "대", "欠": "결", "予": "예"}
+# hun-eum is shared across decks (an N5 kanji used in an N4 word keeps its N5 hun-eum)
+ALL_HUN = {}
+for _p in sorted(ROOT.glob("ko/n[0-9].json")):
+    ALL_HUN.update(json.load(open(_p, encoding="utf-8")).get("kanji", {}))
 BASE_CH = re.compile(r"[一-鿿々ヶ]")
 
 
@@ -93,7 +98,7 @@ for level in (5, 4, 3):
 
     kanji = {}
     for k, v in deck["kanji"].items():
-        hun = ko["kanji"].get(k)
+        hun = ko["kanji"].get(k) or ALL_HUN.get(k)
         if not hun and v["level"] == level:
             errors.append(f"{tag} kanji {k}: no Korean hun-eum")
         # the eum (last syllable) must match Unihan's Korean reading.
