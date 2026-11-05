@@ -1,0 +1,11350 @@
+{
+ "deck": "N5",
+ "kanji_list": [
+  "日",
+  "一",
+  "国",
+  "人",
+  "年",
+  "大",
+  "十",
+  "二",
+  "本",
+  "中",
+  "長",
+  "出",
+  "三",
+  "時",
+  "行",
+  "見",
+  "月",
+  "後",
+  "前",
+  "生",
+  "五",
+  "間",
+  "上",
+  "東",
+  "四",
+  "今",
+  "金",
+  "九",
+  "入",
+  "学",
+  "高",
+  "円",
+  "子",
+  "外",
+  "八",
+  "六",
+  "下",
+  "来",
+  "気",
+  "小",
+  "七",
+  "山",
+  "話",
+  "女",
+  "北",
+  "午",
+  "百",
+  "書",
+  "先",
+  "名",
+  "川",
+  "千",
+  "水",
+  "半",
+  "男",
+  "西",
+  "電",
+  "校",
+  "語",
+  "土",
+  "木",
+  "聞",
+  "食",
+  "車",
+  "何",
+  "南",
+  "万",
+  "毎",
+  "白",
+  "天",
+  "母",
+  "火",
+  "右",
+  "読",
+  "友",
+  "左",
+  "休",
+  "父",
+  "雨"
+ ],
+ "kanji": {
+  "一": {
+   "level": 5,
+   "on": [
+    "いち",
+    "いつ"
+   ],
+   "kun": [
+    "ひと-",
+    "ひと.つ"
+   ],
+   "meaning_en": [
+    "one",
+    "one radical (no.1)"
+   ],
+   "eum": [
+    "일"
+   ],
+   "strokes": 1,
+   "parts": []
+  },
+  "七": {
+   "level": 5,
+   "on": [
+    "しち"
+   ],
+   "kun": [
+    "なな",
+    "なな.つ",
+    "なの"
+   ],
+   "meaning_en": [
+    "seven"
+   ],
+   "eum": [
+    "칠"
+   ],
+   "strokes": 2,
+   "parts": [
+    "乙",
+    "匕",
+    "ノ"
+   ]
+  },
+  "万": {
+   "level": 5,
+   "on": [
+    "まん",
+    "ばん"
+   ],
+   "kun": [
+    "よろず"
+   ],
+   "meaning_en": [
+    "ten thousand",
+    "10,000"
+   ],
+   "eum": [
+    "만"
+   ],
+   "strokes": 3,
+   "parts": [
+    "｜",
+    "ノ",
+    "一"
+   ]
+  },
+  "三": {
+   "level": 5,
+   "on": [
+    "さん",
+    "ぞう"
+   ],
+   "kun": [
+    "み",
+    "み.つ",
+    "みっ.つ"
+   ],
+   "meaning_en": [
+    "three"
+   ],
+   "eum": [
+    "삼"
+   ],
+   "strokes": 3,
+   "parts": [
+    "一",
+    "二"
+   ]
+  },
+  "上": {
+   "level": 5,
+   "on": [
+    "じょう",
+    "しょう",
+    "しゃん"
+   ],
+   "kun": [
+    "うえ",
+    "-うえ",
+    "うわ-",
+    "かみ",
+    "あ.げる",
+    "-あ.げる",
+    "あ.がる",
+    "-あ.がる",
+    "あ.がり",
+    "-あ.がり",
+    "のぼ.る",
+    "のぼ.り",
+    "のぼ.せる",
+    "のぼ.す",
+    "たてまつ.る"
+   ],
+   "meaning_en": [
+    "above",
+    "up"
+   ],
+   "eum": [
+    "상"
+   ],
+   "strokes": 3,
+   "parts": [
+    "一",
+    "卜"
+   ]
+  },
+  "下": {
+   "level": 5,
+   "on": [
+    "か",
+    "げ"
+   ],
+   "kun": [
+    "した",
+    "しも",
+    "もと",
+    "さ.げる",
+    "さ.がる",
+    "くだ.る",
+    "くだ.り",
+    "くだ.す",
+    "-くだ.す",
+    "くだ.さる",
+    "お.ろす",
+    "お.りる"
+   ],
+   "meaning_en": [
+    "below",
+    "down",
+    "descend",
+    "give"
+   ],
+   "eum": [
+    "하"
+   ],
+   "strokes": 3,
+   "parts": [
+    "｜",
+    "一",
+    "卜"
+   ]
+  },
+  "中": {
+   "level": 5,
+   "on": [
+    "ちゅう"
+   ],
+   "kun": [
+    "なか",
+    "うち",
+    "あた.る"
+   ],
+   "meaning_en": [
+    "in",
+    "inside",
+    "middle",
+    "mean"
+   ],
+   "eum": [
+    "중"
+   ],
+   "strokes": 4,
+   "parts": [
+    "｜",
+    "口"
+   ]
+  },
+  "九": {
+   "level": 5,
+   "on": [
+    "きゅう",
+    "く"
+   ],
+   "kun": [
+    "ここの",
+    "ここの.つ"
+   ],
+   "meaning_en": [
+    "nine"
+   ],
+   "eum": [
+    "구"
+   ],
+   "strokes": 2,
+   "parts": []
+  },
+  "二": {
+   "level": 5,
+   "on": [
+    "に",
+    "じ"
+   ],
+   "kun": [
+    "ふた",
+    "ふた.つ",
+    "ふたたび"
+   ],
+   "meaning_en": [
+    "two",
+    "two radical (no. 7)"
+   ],
+   "eum": [
+    "이"
+   ],
+   "strokes": 2,
+   "parts": []
+  },
+  "五": {
+   "level": 5,
+   "on": [
+    "ご"
+   ],
+   "kun": [
+    "いつ",
+    "いつ.つ"
+   ],
+   "meaning_en": [
+    "five"
+   ],
+   "eum": [
+    "오"
+   ],
+   "strokes": 4,
+   "parts": []
+  },
+  "人": {
+   "level": 5,
+   "on": [
+    "じん",
+    "にん"
+   ],
+   "kun": [
+    "ひと",
+    "-り",
+    "-と"
+   ],
+   "meaning_en": [
+    "person"
+   ],
+   "eum": [
+    "인"
+   ],
+   "strokes": 2,
+   "parts": []
+  },
+  "今": {
+   "level": 5,
+   "on": [
+    "こん",
+    "きん"
+   ],
+   "kun": [
+    "いま"
+   ],
+   "meaning_en": [
+    "now"
+   ],
+   "eum": [
+    "금"
+   ],
+   "strokes": 4,
+   "parts": [
+    "个",
+    "一"
+   ]
+  },
+  "休": {
+   "level": 5,
+   "on": [
+    "きゅう"
+   ],
+   "kun": [
+    "やす.む",
+    "やす.まる",
+    "やす.める"
+   ],
+   "meaning_en": [
+    "rest",
+    "day off",
+    "retire",
+    "sleep"
+   ],
+   "eum": [
+    "휴"
+   ],
+   "strokes": 6,
+   "parts": [
+    "化",
+    "木"
+   ]
+  },
+  "何": {
+   "level": 5,
+   "on": [
+    "か"
+   ],
+   "kun": [
+    "なに",
+    "なん",
+    "なに-",
+    "なん-"
+   ],
+   "meaning_en": [
+    "what"
+   ],
+   "eum": [
+    "하"
+   ],
+   "strokes": 7,
+   "parts": [
+    "化",
+    "口",
+    "亅",
+    "一"
+   ]
+  },
+  "先": {
+   "level": 5,
+   "on": [
+    "せん"
+   ],
+   "kun": [
+    "さき",
+    "ま.ず"
+   ],
+   "meaning_en": [
+    "before",
+    "ahead",
+    "previous",
+    "future"
+   ],
+   "eum": [
+    "선"
+   ],
+   "strokes": 6,
+   "parts": [
+    "ノ",
+    "土",
+    "儿"
+   ]
+  },
+  "入": {
+   "level": 5,
+   "on": [
+    "にゅう",
+    "じゅ"
+   ],
+   "kun": [
+    "い.る",
+    "-い.る",
+    "-い.り",
+    "い.れる",
+    "-い.れ",
+    "はい.る"
+   ],
+   "meaning_en": [
+    "enter",
+    "insert"
+   ],
+   "eum": [
+    "입"
+   ],
+   "strokes": 2,
+   "parts": []
+  },
+  "八": {
+   "level": 5,
+   "on": [
+    "はち",
+    "はつ"
+   ],
+   "kun": [
+    "や",
+    "や.つ",
+    "やっ.つ",
+    "よう"
+   ],
+   "meaning_en": [
+    "eight",
+    "eight radical (no. 12)"
+   ],
+   "eum": [
+    "팔"
+   ],
+   "strokes": 2,
+   "parts": [
+    "ハ"
+   ]
+  },
+  "六": {
+   "level": 5,
+   "on": [
+    "ろく",
+    "りく"
+   ],
+   "kun": [
+    "む",
+    "む.つ",
+    "むっ.つ",
+    "むい"
+   ],
+   "meaning_en": [
+    "six"
+   ],
+   "eum": [
+    "륙",
+    "육"
+   ],
+   "strokes": 4,
+   "parts": [
+    "ハ",
+    "亠"
+   ]
+  },
+  "円": {
+   "level": 5,
+   "on": [
+    "えん"
+   ],
+   "kun": [
+    "まる.い",
+    "まる",
+    "まど",
+    "まど.か",
+    "まろ.やか"
+   ],
+   "meaning_en": [
+    "circle",
+    "yen",
+    "round"
+   ],
+   "eum": [
+    "엔"
+   ],
+   "strokes": 4,
+   "parts": [
+    "冂",
+    "亠",
+    "一",
+    "｜"
+   ]
+  },
+  "出": {
+   "level": 5,
+   "on": [
+    "しゅつ",
+    "すい"
+   ],
+   "kun": [
+    "で.る",
+    "-で",
+    "だ.す",
+    "-だ.す",
+    "い.でる",
+    "い.だす"
+   ],
+   "meaning_en": [
+    "exit",
+    "leave",
+    "go out",
+    "come out"
+   ],
+   "eum": [
+    "출"
+   ],
+   "strokes": 5,
+   "parts": [
+    "｜",
+    "山",
+    "凵"
+   ]
+  },
+  "前": {
+   "level": 5,
+   "on": [
+    "ぜん"
+   ],
+   "kun": [
+    "まえ",
+    "-まえ"
+   ],
+   "meaning_en": [
+    "in front",
+    "before"
+   ],
+   "eum": [
+    "전"
+   ],
+   "strokes": 9,
+   "parts": [
+    "一",
+    "刈",
+    "月",
+    "并"
+   ]
+  },
+  "北": {
+   "level": 5,
+   "on": [
+    "ほく"
+   ],
+   "kun": [
+    "きた"
+   ],
+   "meaning_en": [
+    "north"
+   ],
+   "eum": [
+    "배",
+    "북"
+   ],
+   "strokes": 5,
+   "parts": [
+    "匕",
+    "爿"
+   ]
+  },
+  "十": {
+   "level": 5,
+   "on": [
+    "じゅう",
+    "じっ",
+    "じゅっ"
+   ],
+   "kun": [
+    "とお",
+    "と",
+    "そ"
+   ],
+   "meaning_en": [
+    "ten"
+   ],
+   "eum": [
+    "십"
+   ],
+   "strokes": 2,
+   "parts": []
+  },
+  "千": {
+   "level": 5,
+   "on": [
+    "せん"
+   ],
+   "kun": [
+    "ち"
+   ],
+   "meaning_en": [
+    "thousand"
+   ],
+   "eum": [
+    "천"
+   ],
+   "strokes": 3,
+   "parts": [
+    "ノ",
+    "十"
+   ]
+  },
+  "午": {
+   "level": 5,
+   "on": [
+    "ご"
+   ],
+   "kun": [
+    "うま"
+   ],
+   "meaning_en": [
+    "noon",
+    "sign of the horse",
+    "11AM-1PM",
+    "seventh sign of Chinese zodiac"
+   ],
+   "eum": [
+    "오"
+   ],
+   "strokes": 4,
+   "parts": [
+    "ノ",
+    "干",
+    "十",
+    "乞"
+   ]
+  },
+  "半": {
+   "level": 5,
+   "on": [
+    "はん"
+   ],
+   "kun": [
+    "なか.ば"
+   ],
+   "meaning_en": [
+    "half",
+    "middle",
+    "odd number",
+    "semi-"
+   ],
+   "eum": [
+    "반"
+   ],
+   "strokes": 5,
+   "parts": [
+    "｜",
+    "二",
+    "并",
+    "十"
+   ]
+  },
+  "南": {
+   "level": 5,
+   "on": [
+    "なん",
+    "な"
+   ],
+   "kun": [
+    "みなみ"
+   ],
+   "meaning_en": [
+    "south"
+   ],
+   "eum": [
+    "남"
+   ],
+   "strokes": 9,
+   "parts": [
+    "干",
+    "十",
+    "并",
+    "冂"
+   ]
+  },
+  "友": {
+   "level": 5,
+   "on": [
+    "ゆう"
+   ],
+   "kun": [
+    "とも"
+   ],
+   "meaning_en": [
+    "friend"
+   ],
+   "eum": [
+    "우"
+   ],
+   "strokes": 4,
+   "parts": [
+    "ノ",
+    "一",
+    "又"
+   ]
+  },
+  "右": {
+   "level": 5,
+   "on": [
+    "う",
+    "ゆう"
+   ],
+   "kun": [
+    "みぎ"
+   ],
+   "meaning_en": [
+    "right"
+   ],
+   "eum": [
+    "우"
+   ],
+   "strokes": 5,
+   "parts": [
+    "ノ",
+    "一",
+    "口"
+   ]
+  },
+  "名": {
+   "level": 5,
+   "on": [
+    "めい",
+    "みょう"
+   ],
+   "kun": [
+    "な",
+    "-な"
+   ],
+   "meaning_en": [
+    "name",
+    "noted",
+    "distinguished",
+    "reputation"
+   ],
+   "eum": [
+    "명"
+   ],
+   "strokes": 6,
+   "parts": [
+    "口",
+    "夕"
+   ]
+  },
+  "四": {
+   "level": 5,
+   "on": [
+    "し"
+   ],
+   "kun": [
+    "よ",
+    "よ.つ",
+    "よっ.つ",
+    "よん"
+   ],
+   "meaning_en": [
+    "four"
+   ],
+   "eum": [
+    "사"
+   ],
+   "strokes": 5,
+   "parts": [
+    "儿",
+    "囗"
+   ]
+  },
+  "国": {
+   "level": 5,
+   "on": [
+    "こく"
+   ],
+   "kun": [
+    "くに"
+   ],
+   "meaning_en": [
+    "country"
+   ],
+   "eum": [
+    "국"
+   ],
+   "strokes": 8,
+   "parts": [
+    "王",
+    "囗",
+    "丶"
+   ]
+  },
+  "土": {
+   "level": 5,
+   "on": [
+    "ど",
+    "と"
+   ],
+   "kun": [
+    "つち"
+   ],
+   "meaning_en": [
+    "soil",
+    "earth",
+    "ground",
+    "Turkey"
+   ],
+   "eum": [
+    "토"
+   ],
+   "strokes": 3,
+   "parts": []
+  },
+  "外": {
+   "level": 5,
+   "on": [
+    "がい",
+    "げ"
+   ],
+   "kun": [
+    "そと",
+    "ほか",
+    "はず.す",
+    "はず.れる",
+    "と-"
+   ],
+   "meaning_en": [
+    "outside"
+   ],
+   "eum": [
+    "외"
+   ],
+   "strokes": 5,
+   "parts": [
+    "卜",
+    "夕"
+   ]
+  },
+  "大": {
+   "level": 5,
+   "on": [
+    "だい",
+    "たい"
+   ],
+   "kun": [
+    "おお-",
+    "おお.きい",
+    "-おお.いに"
+   ],
+   "meaning_en": [
+    "large",
+    "big"
+   ],
+   "eum": [
+    "대"
+   ],
+   "strokes": 3,
+   "parts": []
+  },
+  "天": {
+   "level": 5,
+   "on": [
+    "てん"
+   ],
+   "kun": [
+    "あまつ",
+    "あめ",
+    "あま-"
+   ],
+   "meaning_en": [
+    "heavens",
+    "sky",
+    "imperial"
+   ],
+   "eum": [
+    "천"
+   ],
+   "strokes": 4,
+   "parts": [
+    "一",
+    "大",
+    "二"
+   ]
+  },
+  "女": {
+   "level": 5,
+   "on": [
+    "じょ",
+    "にょ",
+    "にょう"
+   ],
+   "kun": [
+    "おんな",
+    "め"
+   ],
+   "meaning_en": [
+    "woman",
+    "female"
+   ],
+   "eum": [
+    "녀",
+    "여"
+   ],
+   "strokes": 3,
+   "parts": []
+  },
+  "子": {
+   "level": 5,
+   "on": [
+    "し",
+    "す",
+    "つ"
+   ],
+   "kun": [
+    "こ",
+    "-こ",
+    "ね"
+   ],
+   "meaning_en": [
+    "child",
+    "sign of the rat",
+    "11PM-1AM",
+    "first sign of Chinese zodiac"
+   ],
+   "eum": [
+    "자"
+   ],
+   "strokes": 3,
+   "parts": []
+  },
+  "学": {
+   "level": 5,
+   "on": [
+    "がく"
+   ],
+   "kun": [
+    "まな.ぶ"
+   ],
+   "meaning_en": [
+    "study",
+    "learning",
+    "science"
+   ],
+   "eum": [
+    "학"
+   ],
+   "strokes": 8,
+   "parts": [
+    "子",
+    "尚",
+    "冖"
+   ]
+  },
+  "小": {
+   "level": 5,
+   "on": [
+    "しょう"
+   ],
+   "kun": [
+    "ちい.さい",
+    "こ-",
+    "お-",
+    "さ-"
+   ],
+   "meaning_en": [
+    "little",
+    "small"
+   ],
+   "eum": [
+    "소"
+   ],
+   "strokes": 3,
+   "parts": []
+  },
+  "山": {
+   "level": 5,
+   "on": [
+    "さん",
+    "せん"
+   ],
+   "kun": [
+    "やま"
+   ],
+   "meaning_en": [
+    "mountain"
+   ],
+   "eum": [
+    "산"
+   ],
+   "strokes": 3,
+   "parts": []
+  },
+  "川": {
+   "level": 5,
+   "on": [
+    "せん"
+   ],
+   "kun": [
+    "かわ"
+   ],
+   "meaning_en": [
+    "stream",
+    "river",
+    "river or three-stroke river radical (no. 47)"
+   ],
+   "eum": [
+    "천"
+   ],
+   "strokes": 3,
+   "parts": []
+  },
+  "左": {
+   "level": 5,
+   "on": [
+    "さ",
+    "しゃ"
+   ],
+   "kun": [
+    "ひだり"
+   ],
+   "meaning_en": [
+    "left"
+   ],
+   "eum": [
+    "좌"
+   ],
+   "strokes": 5,
+   "parts": [
+    "ノ",
+    "一",
+    "工"
+   ]
+  },
+  "年": {
+   "level": 5,
+   "on": [
+    "ねん"
+   ],
+   "kun": [
+    "とし"
+   ],
+   "meaning_en": [
+    "year",
+    "counter for years"
+   ],
+   "eum": [
+    "년",
+    "연"
+   ],
+   "strokes": 6,
+   "parts": [
+    "ノ",
+    "一",
+    "干",
+    "乞"
+   ]
+  },
+  "後": {
+   "level": 5,
+   "on": [
+    "ご",
+    "こう"
+   ],
+   "kun": [
+    "のち",
+    "うし.ろ",
+    "うしろ",
+    "あと",
+    "おく.れる"
+   ],
+   "meaning_en": [
+    "behind",
+    "back",
+    "later"
+   ],
+   "eum": [
+    "후"
+   ],
+   "strokes": 9,
+   "parts": [
+    "夂",
+    "幺",
+    "彳"
+   ]
+  },
+  "日": {
+   "level": 5,
+   "on": [
+    "にち",
+    "じつ"
+   ],
+   "kun": [
+    "ひ",
+    "-び",
+    "-か"
+   ],
+   "meaning_en": [
+    "day",
+    "sun",
+    "Japan",
+    "counter for days"
+   ],
+   "eum": [
+    "일"
+   ],
+   "strokes": 4,
+   "parts": []
+  },
+  "時": {
+   "level": 5,
+   "on": [
+    "じ"
+   ],
+   "kun": [
+    "とき",
+    "-どき"
+   ],
+   "meaning_en": [
+    "time",
+    "hour"
+   ],
+   "eum": [
+    "시"
+   ],
+   "strokes": 10,
+   "parts": [
+    "寸",
+    "土",
+    "日"
+   ]
+  },
+  "書": {
+   "level": 5,
+   "on": [
+    "しょ"
+   ],
+   "kun": [
+    "か.く",
+    "-が.き",
+    "-がき"
+   ],
+   "meaning_en": [
+    "write"
+   ],
+   "eum": [
+    "서"
+   ],
+   "strokes": 10,
+   "parts": [
+    "日",
+    "聿"
+   ]
+  },
+  "月": {
+   "level": 5,
+   "on": [
+    "げつ",
+    "がつ"
+   ],
+   "kun": [
+    "つき"
+   ],
+   "meaning_en": [
+    "month",
+    "moon"
+   ],
+   "eum": [
+    "월"
+   ],
+   "strokes": 4,
+   "parts": []
+  },
+  "木": {
+   "level": 5,
+   "on": [
+    "ぼく",
+    "もく"
+   ],
+   "kun": [
+    "き",
+    "こ-"
+   ],
+   "meaning_en": [
+    "tree",
+    "wood"
+   ],
+   "eum": [
+    "목"
+   ],
+   "strokes": 4,
+   "parts": []
+  },
+  "本": {
+   "level": 5,
+   "on": [
+    "ほん"
+   ],
+   "kun": [
+    "もと"
+   ],
+   "meaning_en": [
+    "book",
+    "present",
+    "main",
+    "origin"
+   ],
+   "eum": [
+    "본"
+   ],
+   "strokes": 5,
+   "parts": [
+    "一",
+    "木"
+   ]
+  },
+  "来": {
+   "level": 5,
+   "on": [
+    "らい",
+    "たい"
+   ],
+   "kun": [
+    "く.る",
+    "きた.る",
+    "きた.す",
+    "き.たす",
+    "き.たる",
+    "き",
+    "こ"
+   ],
+   "meaning_en": [
+    "come",
+    "due",
+    "next",
+    "cause"
+   ],
+   "eum": [
+    "래"
+   ],
+   "strokes": 7,
+   "parts": [
+    "｜",
+    "二",
+    "米",
+    "亠",
+    "木"
+   ]
+  },
+  "東": {
+   "level": 5,
+   "on": [
+    "とう"
+   ],
+   "kun": [
+    "ひがし"
+   ],
+   "meaning_en": [
+    "east"
+   ],
+   "eum": [
+    "동"
+   ],
+   "strokes": 8,
+   "parts": [
+    "｜",
+    "一",
+    "日",
+    "木",
+    "田"
+   ]
+  },
+  "校": {
+   "level": 5,
+   "on": [
+    "こう",
+    "きょう"
+   ],
+   "kun": [],
+   "meaning_en": [
+    "exam",
+    "school",
+    "printing",
+    "proof"
+   ],
+   "eum": [
+    "교"
+   ],
+   "strokes": 10,
+   "parts": [
+    "父",
+    "木",
+    "亠"
+   ]
+  },
+  "母": {
+   "level": 5,
+   "on": [
+    "ぼ"
+   ],
+   "kun": [
+    "はは",
+    "も"
+   ],
+   "meaning_en": [
+    "mother"
+   ],
+   "eum": [
+    "모"
+   ],
+   "strokes": 5,
+   "parts": [
+    "毋"
+   ]
+  },
+  "毎": {
+   "level": 5,
+   "on": [
+    "まい"
+   ],
+   "kun": [
+    "ごと",
+    "-ごと.に"
+   ],
+   "meaning_en": [
+    "every"
+   ],
+   "eum": [
+    "매"
+   ],
+   "strokes": 6,
+   "parts": [
+    "母",
+    "毋",
+    "乞"
+   ]
+  },
+  "気": {
+   "level": 5,
+   "on": [
+    "き",
+    "け"
+   ],
+   "kun": [
+    "いき",
+    "き"
+   ],
+   "meaning_en": [
+    "spirit",
+    "mind",
+    "air",
+    "atmosphere"
+   ],
+   "eum": [
+    "기"
+   ],
+   "strokes": 6,
+   "parts": [
+    "气",
+    "丶",
+    "ノ",
+    "乞"
+   ]
+  },
+  "水": {
+   "level": 5,
+   "on": [
+    "すい"
+   ],
+   "kun": [
+    "みず",
+    "みず-"
+   ],
+   "meaning_en": [
+    "water"
+   ],
+   "eum": [
+    "수"
+   ],
+   "strokes": 4,
+   "parts": []
+  },
+  "火": {
+   "level": 5,
+   "on": [
+    "か"
+   ],
+   "kun": [
+    "ひ",
+    "-び",
+    "ほ-"
+   ],
+   "meaning_en": [
+    "fire"
+   ],
+   "eum": [
+    "화"
+   ],
+   "strokes": 4,
+   "parts": []
+  },
+  "父": {
+   "level": 5,
+   "on": [
+    "ふ"
+   ],
+   "kun": [
+    "ちち"
+   ],
+   "meaning_en": [
+    "father"
+   ],
+   "eum": [
+    "부"
+   ],
+   "strokes": 4,
+   "parts": []
+  },
+  "生": {
+   "level": 5,
+   "on": [
+    "せい",
+    "しょう"
+   ],
+   "kun": [
+    "い.きる",
+    "い.かす",
+    "い.ける",
+    "う.まれる",
+    "うま.れる",
+    "う.まれ",
+    "うまれ",
+    "う.む",
+    "お.う",
+    "は.える",
+    "は.やす",
+    "き",
+    "なま",
+    "なま-",
+    "な.る",
+    "な.す",
+    "む.す",
+    "-う"
+   ],
+   "meaning_en": [
+    "life",
+    "genuine",
+    "birth"
+   ],
+   "eum": [
+    "생"
+   ],
+   "strokes": 5,
+   "parts": []
+  },
+  "男": {
+   "level": 5,
+   "on": [
+    "だん",
+    "なん"
+   ],
+   "kun": [
+    "おとこ",
+    "お"
+   ],
+   "meaning_en": [
+    "male"
+   ],
+   "eum": [
+    "남"
+   ],
+   "strokes": 7,
+   "parts": [
+    "田",
+    "力"
+   ]
+  },
+  "白": {
+   "level": 5,
+   "on": [
+    "はく",
+    "びゃく"
+   ],
+   "kun": [
+    "しろ",
+    "しら-",
+    "しろ.い"
+   ],
+   "meaning_en": [
+    "white"
+   ],
+   "eum": [
+    "백"
+   ],
+   "strokes": 5,
+   "parts": []
+  },
+  "百": {
+   "level": 5,
+   "on": [
+    "ひゃく",
+    "びゃく"
+   ],
+   "kun": [
+    "もも"
+   ],
+   "meaning_en": [
+    "hundred"
+   ],
+   "eum": [
+    "백"
+   ],
+   "strokes": 6,
+   "parts": [
+    "一",
+    "白"
+   ]
+  },
+  "聞": {
+   "level": 5,
+   "on": [
+    "ぶん",
+    "もん"
+   ],
+   "kun": [
+    "き.く",
+    "き.こえる"
+   ],
+   "meaning_en": [
+    "hear",
+    "ask",
+    "listen"
+   ],
+   "eum": [
+    "문"
+   ],
+   "strokes": 14,
+   "parts": [
+    "耳",
+    "門"
+   ]
+  },
+  "行": {
+   "level": 5,
+   "on": [
+    "こう",
+    "ぎょう",
+    "あん"
+   ],
+   "kun": [
+    "い.く",
+    "ゆ.く",
+    "-ゆ.き",
+    "-ゆき",
+    "-い.き",
+    "-いき",
+    "おこな.う",
+    "おこ.なう"
+   ],
+   "meaning_en": [
+    "going",
+    "journey",
+    "carry out",
+    "conduct"
+   ],
+   "eum": [
+    "항",
+    "행"
+   ],
+   "strokes": 6,
+   "parts": [
+    "彳"
+   ]
+  },
+  "西": {
+   "level": 5,
+   "on": [
+    "せい",
+    "さい",
+    "す"
+   ],
+   "kun": [
+    "にし"
+   ],
+   "meaning_en": [
+    "west",
+    "Spain"
+   ],
+   "eum": [
+    "서"
+   ],
+   "strokes": 6,
+   "parts": []
+  },
+  "見": {
+   "level": 5,
+   "on": [
+    "けん"
+   ],
+   "kun": [
+    "み.る",
+    "み.える",
+    "み.せる"
+   ],
+   "meaning_en": [
+    "see",
+    "hopes",
+    "chances",
+    "idea"
+   ],
+   "eum": [
+    "견",
+    "현"
+   ],
+   "strokes": 7,
+   "parts": [
+    "目",
+    "儿"
+   ]
+  },
+  "話": {
+   "level": 5,
+   "on": [
+    "わ"
+   ],
+   "kun": [
+    "はな.す",
+    "はなし"
+   ],
+   "meaning_en": [
+    "tale",
+    "talk"
+   ],
+   "eum": [
+    "화"
+   ],
+   "strokes": 13,
+   "parts": [
+    "言",
+    "口",
+    "舌"
+   ]
+  },
+  "語": {
+   "level": 5,
+   "on": [
+    "ご"
+   ],
+   "kun": [
+    "かた.る",
+    "かた.らう"
+   ],
+   "meaning_en": [
+    "word",
+    "speech",
+    "language"
+   ],
+   "eum": [
+    "어"
+   ],
+   "strokes": 14,
+   "parts": [
+    "言",
+    "口",
+    "五"
+   ]
+  },
+  "読": {
+   "level": 5,
+   "on": [
+    "どく",
+    "とく",
+    "とう"
+   ],
+   "kun": [
+    "よ.む",
+    "-よ.み"
+   ],
+   "meaning_en": [
+    "read"
+   ],
+   "eum": [
+    "독",
+    "두"
+   ],
+   "strokes": 14,
+   "parts": [
+    "言",
+    "士",
+    "儿",
+    "冖"
+   ]
+  },
+  "車": {
+   "level": 5,
+   "on": [
+    "しゃ"
+   ],
+   "kun": [
+    "くるま"
+   ],
+   "meaning_en": [
+    "car"
+   ],
+   "eum": [
+    "거",
+    "차"
+   ],
+   "strokes": 7,
+   "parts": []
+  },
+  "金": {
+   "level": 5,
+   "on": [
+    "きん",
+    "こん",
+    "ごん"
+   ],
+   "kun": [
+    "かね",
+    "かな-",
+    "-がね"
+   ],
+   "meaning_en": [
+    "gold"
+   ],
+   "eum": [
+    "금",
+    "김"
+   ],
+   "strokes": 8,
+   "parts": [
+    "王",
+    "ハ",
+    "个",
+    "并"
+   ]
+  },
+  "長": {
+   "level": 5,
+   "on": [
+    "ちょう"
+   ],
+   "kun": [
+    "なが.い",
+    "おさ"
+   ],
+   "meaning_en": [
+    "long",
+    "leader",
+    "superior",
+    "senior"
+   ],
+   "eum": [
+    "장"
+   ],
+   "strokes": 8,
+   "parts": []
+  },
+  "間": {
+   "level": 5,
+   "on": [
+    "かん",
+    "けん"
+   ],
+   "kun": [
+    "あいだ",
+    "ま",
+    "あい"
+   ],
+   "meaning_en": [
+    "interval",
+    "space"
+   ],
+   "eum": [
+    "간"
+   ],
+   "strokes": 12,
+   "parts": [
+    "日",
+    "門"
+   ]
+  },
+  "雨": {
+   "level": 5,
+   "on": [
+    "う"
+   ],
+   "kun": [
+    "あめ",
+    "あま-",
+    "-さめ"
+   ],
+   "meaning_en": [
+    "rain"
+   ],
+   "eum": [
+    "우"
+   ],
+   "strokes": 8,
+   "parts": []
+  },
+  "電": {
+   "level": 5,
+   "on": [
+    "でん"
+   ],
+   "kun": [],
+   "meaning_en": [
+    "electricity"
+   ],
+   "eum": [
+    "전"
+   ],
+   "strokes": 13,
+   "parts": [
+    "雨",
+    "田",
+    "乙"
+   ]
+  },
+  "食": {
+   "level": 5,
+   "on": [
+    "しょく",
+    "じき"
+   ],
+   "kun": [
+    "く.う",
+    "く.らう",
+    "た.べる",
+    "は.む"
+   ],
+   "meaning_en": [
+    "eat",
+    "food"
+   ],
+   "eum": [
+    "식"
+   ],
+   "strokes": 9,
+   "parts": []
+  },
+  "高": {
+   "level": 5,
+   "on": [
+    "こう"
+   ],
+   "kun": [
+    "たか.い",
+    "たか",
+    "-だか",
+    "たか.まる",
+    "たか.める"
+   ],
+   "meaning_en": [
+    "tall",
+    "high",
+    "expensive"
+   ],
+   "eum": [
+    "고"
+   ],
+   "strokes": 10,
+   "parts": [
+    "口",
+    "亠",
+    "冂"
+   ]
+  }
+ },
+ "cards": [
+  {
+   "id": "j1160790",
+   "word": "一",
+   "reading": "いち",
+   "furigana": [
+    [
+     "一",
+     "いち"
+    ]
+   ],
+   "kanji": [
+    "一"
+   ],
+   "pos": [
+    "num",
+    "pref"
+   ],
+   "gloss_en": [
+    "one; 1",
+    "best",
+    "first; foremost"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "12993390",
+    "ja": "一、二、三、四、五。",
+    "ruby": [
+     [
+      "一",
+      "いち"
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "二、三",
+      "にさん"
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "四、五",
+      "しご"
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "하나, 둘, 셋, 넷, 다섯."
+   }
+  },
+  {
+   "id": "j1592250",
+   "word": "国",
+   "reading": "くに",
+   "furigana": [
+    [
+     "国",
+     "くに"
+    ]
+   ],
+   "kanji": [
+    "国"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "country; state",
+    "region",
+    "national government; central government"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "11369590",
+    "ja": "どこの国で生まれたんですか？",
+    "ruby": [
+     [
+      "どこ",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "国",
+      "くに"
+     ],
+     [
+      "で",
+      null
+     ],
+     [
+      "生",
+      "う"
+     ],
+     [
+      "まれ",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "です",
+      null
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "？",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1468060",
+   "word": "年",
+   "reading": "とし",
+   "furigana": [
+    [
+     "年",
+     "とし"
+    ]
+   ],
+   "kanji": [
+    "年"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "year",
+    "age; years",
+    "past one's prime; old age"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "226785",
+    "ja": "お年をお聞きしてよろしいでしょうか。",
+    "ruby": [
+     [
+      "お",
+      null
+     ],
+     [
+      "年",
+      "とし"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "お",
+      null
+     ],
+     [
+      "聞",
+      "き"
+     ],
+     [
+      "き",
+      null
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "よろしい",
+      null
+     ],
+     [
+      "でしょう",
+      null
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "Might I ask your age?",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1579840",
+   "word": "十",
+   "reading": "じゅう",
+   "furigana": [
+    [
+     "十",
+     "じゅう"
+    ]
+   ],
+   "kanji": [
+    "十"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "ten; 10",
+    "ten years of age"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "122693",
+    "ja": "日本に来てから十年になります。",
+    "ruby": [
+     [
+      "日本",
+      "にほん"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "来",
+      "き"
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "から",
+      null
+     ],
+     [
+      "十",
+      "じゅう"
+     ],
+     [
+      "年",
+      "ねん"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "なり",
+      null
+     ],
+     [
+      "ます",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1522150",
+   "word": "本",
+   "reading": "ほん",
+   "furigana": [
+    [
+     "本",
+     "ほん"
+    ]
+   ],
+   "kanji": [
+    "本"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "book; volume; script",
+    "this; present; current; ... in question",
+    "main; head; principal"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "8734514",
+    "ja": "本、見つけることができた？",
+    "ruby": [
+     [
+      "本",
+      "ほん"
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "見",
+      "み"
+     ],
+     [
+      "つける",
+      null
+     ],
+     [
+      "こと",
+      null
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "でき",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "？",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "책, 찾을 수 있었어?"
+   }
+  },
+  {
+   "id": "j1423310",
+   "word": "中",
+   "reading": "なか",
+   "furigana": [
+    [
+     "中",
+     "なか"
+    ]
+   ],
+   "kanji": [
+    "中"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "inside; interior",
+    "among; within",
+    "middle; center; centre"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10489229",
+    "ja": "中にいるの？",
+    "ruby": [
+     [
+      "中",
+      "なか"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "いる",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "？",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "안에 있어?"
+   }
+  },
+  {
+   "id": "j1429750",
+   "word": "長い",
+   "reading": "ながい",
+   "furigana": [
+    [
+     "長",
+     "なが"
+    ],
+    [
+     "い",
+     null
+    ]
+   ],
+   "kanji": [
+    "長"
+   ],
+   "pos": [
+    "adj-i"
+   ],
+   "gloss_en": [
+    "long (distance, length)",
+    "long (time); protracted; prolonged"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "197382",
+    "ja": "ビルには長い間あっていない。",
+    "ruby": [
+     [
+      "ビル",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "長",
+      "なが"
+     ],
+     [
+      "い",
+      null
+     ],
+     [
+      "間",
+      "あいだ"
+     ],
+     [
+      "あっ",
+      null
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "い",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1338180",
+   "word": "出す",
+   "reading": "だす",
+   "furigana": [
+    [
+     "出",
+     "だ"
+    ],
+    [
+     "す",
+     null
+    ]
+   ],
+   "kanji": [
+    "出"
+   ],
+   "pos": [
+    "v5s",
+    "vt"
+   ],
+   "gloss_en": [
+    "to take out; to get out",
+    "to put out; to reveal; to show",
+    "to submit (e.g. thesis); to turn in"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "227715",
+    "ja": "おじは気前よく金を出す。",
+    "ruby": [
+     [
+      "おじ",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "気前",
+      "きまえ"
+     ],
+     [
+      "よく",
+      null
+     ],
+     [
+      "金",
+      "かね"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "出",
+      "だ"
+     ],
+     [
+      "す",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1579350",
+   "word": "三",
+   "reading": "さん",
+   "furigana": [
+    [
+     "三",
+     "さん"
+    ]
+   ],
+   "kanji": [
+    "三"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "three; 3"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10899900",
+    "ja": "この国には、三年前に来たんだ。",
+    "ruby": [
+     [
+      "この",
+      null
+     ],
+     [
+      "国",
+      "くに"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "三",
+      "さん"
+     ],
+     [
+      "年",
+      "ねん"
+     ],
+     [
+      "前",
+      "まえ"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "来",
+      "き"
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "だ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1578850",
+   "word": "行く",
+   "reading": "いく",
+   "furigana": [
+    [
+     "行",
+     "い"
+    ],
+    [
+     "く",
+     null
+    ]
+   ],
+   "kanji": [
+    "行"
+   ],
+   "pos": [
+    "v5k-s",
+    "vi"
+   ],
+   "gloss_en": [
+    "to go; to move (towards); to head (towards); to leave (for)",
+    "to move through; to travel across; to walk along (e.g. a road)",
+    "to go (well, badly, etc.); to proceed; to turn out; to get along"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "230153",
+    "ja": "アメリカへ行く時間がない。",
+    "ruby": [
+     [
+      "アメリカ",
+      null
+     ],
+     [
+      "へ",
+      null
+     ],
+     [
+      "行",
+      "い"
+     ],
+     [
+      "く",
+      null
+     ],
+     [
+      "時間",
+      "じかん"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "나는 미국에 갈 시간이 없다."
+   }
+  },
+  {
+   "id": "j1259290",
+   "word": "見る",
+   "reading": "みる",
+   "furigana": [
+    [
+     "見",
+     "み"
+    ],
+    [
+     "る",
+     null
+    ]
+   ],
+   "kanji": [
+    "見"
+   ],
+   "pos": [
+    "v1",
+    "vt"
+   ],
+   "gloss_en": [
+    "to see; to look; to watch; to view",
+    "to examine; to look over; to assess; to check",
+    "to look after; to attend to; to take care of; to keep an eye on"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "201946",
+    "ja": "テレビを見るのやめましょう。",
+    "ruby": [
+     [
+      "テレビ",
+      null
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "見",
+      "み"
+     ],
+     [
+      "る",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "やめ",
+      null
+     ],
+     [
+      "ましょう",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1269320",
+   "word": "後",
+   "reading": "あと",
+   "furigana": [
+    [
+     "後",
+     "あと"
+    ]
+   ],
+   "kanji": [
+    "後"
+   ],
+   "pos": [
+    "n",
+    "adj-no"
+   ],
+   "gloss_en": [
+    "behind; rear",
+    "after; later",
+    "remainder; the rest"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10465552",
+    "ja": "すごいね！後で見てみよっと。",
+    "ruby": [
+     [
+      "すごい",
+      null
+     ],
+     [
+      "ね",
+      null
+     ],
+     [
+      "！",
+      null
+     ],
+     [
+      "後",
+      "あと"
+     ],
+     [
+      "で",
+      null
+     ],
+     [
+      "見",
+      "み"
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "みよっ",
+      null
+     ],
+     [
+      "と",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1392580",
+   "word": "前",
+   "reading": "まえ",
+   "furigana": [
+    [
+     "前",
+     "まえ"
+    ]
+   ],
+   "kanji": [
+    "前"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "in front (of); before (e.g. a building)",
+    "before; earlier; previously; prior",
+    "(the) front; frontal part; fore; head (e.g. of a line)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "195363",
+    "ja": "まっすぐ前を見てください。",
+    "ruby": [
+     [
+      "まっすぐ",
+      null
+     ],
+     [
+      "前",
+      "まえ"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "見",
+      "み"
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "ください",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "Look forward, please.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1268060",
+   "word": "五",
+   "reading": "ご",
+   "furigana": [
+    [
+     "五",
+     "ご"
+    ]
+   ],
+   "kanji": [
+    "五"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "five; 5"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "3804584",
+    "ja": "五ヶ国語話します。",
+    "ruby": [
+     [
+      "五",
+      "ご"
+     ],
+     [
+      "ヶ国",
+      "かこく"
+     ],
+     [
+      "語",
+      "ご"
+     ],
+     [
+      "話",
+      "はな"
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "ます",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "저는 다섯 개의 언어를 합니다."
+   }
+  },
+  {
+   "id": "j1315920",
+   "word": "時間",
+   "reading": "じかん",
+   "furigana": [
+    [
+     "時",
+     "じ"
+    ],
+    [
+     "間",
+     "かん"
+    ]
+   ],
+   "kanji": [
+    "時",
+    "間"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "time",
+    "hour",
+    "period; class; lesson"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "228889",
+    "ja": "いつだって読書の時間は見つけられる。",
+    "ruby": [
+     [
+      "いつ",
+      null
+     ],
+     [
+      "だ",
+      null
+     ],
+     [
+      "って",
+      null
+     ],
+     [
+      "読書",
+      "どくしょ"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "時",
+      "じ"
+     ],
+     [
+      "間",
+      "かん"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "見",
+      "み"
+     ],
+     [
+      "つけ",
+      null
+     ],
+     [
+      "られる",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "We can always find time for reading.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1352130",
+   "word": "上",
+   "reading": "うえ",
+   "furigana": [
+    [
+     "上",
+     "うえ"
+    ]
+   ],
+   "kanji": [
+    "上"
+   ],
+   "pos": [
+    "n",
+    "adj-no"
+   ],
+   "gloss_en": [
+    "above; over; up",
+    "top; summit; upper part; head (e.g. of a staircase)",
+    "surface; on (top of)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "195131",
+    "ja": "マントルピースの上にあるよ。",
+    "ruby": [
+     [
+      "マントルピース",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "上",
+      "うえ"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "ある",
+      null
+     ],
+     [
+      "よ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1447440",
+   "word": "東",
+   "reading": "ひがし",
+   "furigana": [
+    [
+     "東",
+     "ひがし"
+    ]
+   ],
+   "kanji": [
+    "東"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "east"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "122411",
+    "ja": "日本は東アジアにあります。",
+    "ruby": [
+     [
+      "日本",
+      "にほん"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "東",
+      "ひがし"
+     ],
+     [
+      "アジア",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "あり",
+      null
+     ],
+     [
+      "ます",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1579470",
+   "word": "四",
+   "reading": "し",
+   "furigana": [
+    [
+     "四",
+     "し"
+    ]
+   ],
+   "kanji": [
+    "四"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "four; 4"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1579110",
+   "word": "今日",
+   "reading": "きょう",
+   "furigana": [
+    [
+     "今日",
+     "きょう"
+    ]
+   ],
+   "kanji": [
+    "今",
+    "日"
+   ],
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "gloss_en": [
+    "today; this day",
+    "these days; recently; nowadays"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "232046",
+    "ja": "今日は何をしたいですか。",
+    "ruby": [
+     [
+      "今日",
+      "きょう"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "何",
+      "なん"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "たい",
+      null
+     ],
+     [
+      "です",
+      null
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "What would you like to do today?",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1001820",
+   "word": "お金",
+   "reading": "おかね",
+   "furigana": [
+    [
+     "お",
+     null
+    ],
+    [
+     "金",
+     "かね"
+    ]
+   ],
+   "kanji": [
+    "金"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "money"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "232845",
+    "ja": "いくらお金をもっていますか。",
+    "ruby": [
+     [
+      "いくら",
+      null
+     ],
+     [
+      "お",
+      null
+     ],
+     [
+      "金",
+      "かね"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "もっ",
+      null
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "い",
+      null
+     ],
+     [
+      "ます",
+      null
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "돈을 얼마나 가지고 계세요?"
+   }
+  },
+  {
+   "id": "j1578150",
+   "word": "九",
+   "reading": "きゅう",
+   "furigana": [
+    [
+     "九",
+     "きゅう"
+    ]
+   ],
+   "kanji": [
+    "九"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "nine; 9"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "148059",
+    "ja": "十中八九ジェーンは来るだろう。",
+    "ruby": [
+     [
+      "十",
+      "じゅう"
+     ],
+     [
+      "中",
+      "ちゅう"
+     ],
+     [
+      "八",
+      "はち"
+     ],
+     [
+      "九",
+      "きゅう"
+     ],
+     [
+      "ジェーン",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "来",
+      "く"
+     ],
+     [
+      "る",
+      null
+     ],
+     [
+      "だろう",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1465590",
+   "word": "入る",
+   "reading": "はいる",
+   "furigana": [
+    [
+     "入",
+     "はい"
+    ],
+    [
+     "る",
+     null
+    ]
+   ],
+   "kanji": [
+    "入"
+   ],
+   "pos": [
+    "v5r",
+    "vi"
+   ],
+   "gloss_en": [
+    "to enter; to come in; to go in; to get in",
+    "to join (a club, company, etc.); to enter (a university, the army, etc.); to enroll (in); to go into (e.g. politics)",
+    "to be contained (in); to be included (in); to be inside (e.g. a box); to come under (a heading)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "223679",
+    "ja": "このジョッキは１パイント入る。",
+    "ruby": [
+     [
+      "この",
+      null
+     ],
+     [
+      "ジョッキ",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "１",
+      null
+     ],
+     [
+      "パイント",
+      null
+     ],
+     [
+      "入",
+      "はい"
+     ],
+     [
+      "る",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1413240",
+   "word": "大学",
+   "reading": "だいがく",
+   "furigana": [
+    [
+     "大",
+     "だい"
+    ],
+    [
+     "学",
+     "がく"
+    ]
+   ],
+   "kanji": [
+    "大",
+    "学"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "university; college",
+    "former imperial university of Japan (established under the ritsuryō system for the training of government administrators)",
+    "the Great Learning (one of the Four Books)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10901880",
+    "ja": "みんな、この大学の学生です。",
+    "ruby": [
+     [
+      "みんな",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "この",
+      null
+     ],
+     [
+      "大",
+      "だい"
+     ],
+     [
+      "学",
+      "がく"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "学生",
+      "がくせい"
+     ],
+     [
+      "です",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1283190",
+   "word": "高い",
+   "reading": "たかい",
+   "furigana": [
+    [
+     "高",
+     "たか"
+    ],
+    [
+     "い",
+     null
+    ]
+   ],
+   "kanji": [
+    "高"
+   ],
+   "pos": [
+    "adj-i"
+   ],
+   "gloss_en": [
+    "high; tall",
+    "expensive; high-priced",
+    "high (level); above average (in degree, quality, etc.)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10212512",
+    "ja": "このテレビ、大きいし高いよ。",
+    "ruby": [
+     [
+      "この",
+      null
+     ],
+     [
+      "テレビ",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "大",
+      "おお"
+     ],
+     [
+      "きい",
+      null
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "高",
+      "たか"
+     ],
+     [
+      "い",
+      null
+     ],
+     [
+      "よ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1175570",
+   "word": "円",
+   "reading": "えん",
+   "furigana": [
+    [
+     "円",
+     "えん"
+    ]
+   ],
+   "kanji": [
+    "円"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "yen (currency of Japan)",
+    "circle"
+   ],
+   "waller": 3,
+   "example": {
+    "tid": "235190",
+    "ja": "５０００円ばかりもっている。",
+    "ruby": [
+     [
+      "５０",
+      null
+     ],
+     [
+      "００",
+      null
+     ],
+     [
+      "円",
+      "えん"
+     ],
+     [
+      "ばかり",
+      null
+     ],
+     [
+      "もっ",
+      null
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "いる",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1583090",
+   "word": "八",
+   "reading": "はち",
+   "furigana": [
+    [
+     "八",
+     "はち"
+    ]
+   ],
+   "kanji": [
+    "八"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "eight; 8"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "11588461",
+    "ja": "八時にお前んとこに行くから。",
+    "ruby": [
+     [
+      "八",
+      "はち"
+     ],
+     [
+      "時",
+      "じ"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "お",
+      null
+     ],
+     [
+      "前",
+      "まえ"
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "とこ",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "行",
+      "い"
+     ],
+     [
+      "く",
+      null
+     ],
+     [
+      "から",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1585310",
+   "word": "六",
+   "reading": "ろく",
+   "furigana": [
+    [
+     "六",
+     "ろく"
+    ]
+   ],
+   "kanji": [
+    "六"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "six; 6"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "77237",
+    "ja": "六時きっかりにここへ来なさい。",
+    "ruby": [
+     [
+      "六",
+      "ろく"
+     ],
+     [
+      "時",
+      "じ"
+     ],
+     [
+      "きっかり",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "ここ",
+      null
+     ],
+     [
+      "へ",
+      null
+     ],
+     [
+      "来",
+      "き"
+     ],
+     [
+      "なさい",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1184140",
+   "word": "下",
+   "reading": "した",
+   "furigana": [
+    [
+     "下",
+     "した"
+    ]
+   ],
+   "kanji": [
+    "下"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "below; down; under; younger (e.g. daughter)",
+    "bottom",
+    "beneath; underneath"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "12593359",
+    "ja": "キーはマットの下にあります。",
+    "ruby": [
+     [
+      "キー",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "マット",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "下",
+      "した"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "あり",
+      null
+     ],
+     [
+      "ます",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1547900",
+   "word": "来月",
+   "reading": "らいげつ",
+   "furigana": [
+    [
+     "来",
+     "らい"
+    ],
+    [
+     "月",
+     "げつ"
+    ]
+   ],
+   "kanji": [
+    "来",
+    "月"
+   ],
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "gloss_en": [
+    "next month"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "868622",
+    "ja": "来月一人で日本に行きます。",
+    "ruby": [
+     [
+      "来",
+      "らい"
+     ],
+     [
+      "月",
+      "げつ"
+     ],
+     [
+      "一人",
+      "ひとり"
+     ],
+     [
+      "で",
+      null
+     ],
+     [
+      "日本",
+      "にほん"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "行",
+      "い"
+     ],
+     [
+      "き",
+      null
+     ],
+     [
+      "ます",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j2136180",
+   "word": "小さな",
+   "reading": "ちいさな",
+   "furigana": [
+    [
+     "小",
+     "ちい"
+    ],
+    [
+     "さな",
+     null
+    ]
+   ],
+   "kanji": [
+    "小"
+   ],
+   "pos": [
+    "adj-pn"
+   ],
+   "gloss_en": [
+    "small; little; tiny"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "4916",
+    "ja": "「どうかしたの？」と小さな白いウサギが聞きました。",
+    "ruby": [
+     [
+      "「",
+      null
+     ],
+     [
+      "どう",
+      null
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "？",
+      null
+     ],
+     [
+      "」",
+      null
+     ],
+     [
+      "と",
+      null
+     ],
+     [
+      "小",
+      "ちい"
+     ],
+     [
+      "さな",
+      null
+     ],
+     [
+      "白",
+      "しろ"
+     ],
+     [
+      "い",
+      null
+     ],
+     [
+      "ウサギ",
+      null
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "聞",
+      "き"
+     ],
+     [
+      "き",
+      null
+     ],
+     [
+      "まし",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "작고 흰 토끼는 \"무슨 일 있니?\" 라고 물어봤습니다."
+   }
+  },
+  {
+   "id": "j1319210",
+   "word": "七",
+   "reading": "しち",
+   "furigana": [
+    [
+     "七",
+     "しち"
+    ]
+   ],
+   "kanji": [
+    "七"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "seven"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10858057",
+    "ja": "「今日って、何日？」「七月七日よ」",
+    "ruby": [
+     [
+      "「",
+      null
+     ],
+     [
+      "今日",
+      "きょう"
+     ],
+     [
+      "って",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "何",
+      "なん"
+     ],
+     [
+      "日",
+      "にち"
+     ],
+     [
+      "？",
+      null
+     ],
+     [
+      "」",
+      null
+     ],
+     [
+      "「",
+      null
+     ],
+     [
+      "七",
+      "しち"
+     ],
+     [
+      "月",
+      "がつ"
+     ],
+     [
+      "七",
+      "しち"
+     ],
+     [
+      "日",
+      "にち"
+     ],
+     [
+      "よ",
+      null
+     ],
+     [
+      "」",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1302680",
+   "word": "山",
+   "reading": "やま",
+   "furigana": [
+    [
+     "山",
+     "やま"
+    ]
+   ],
+   "kanji": [
+    "山"
+   ],
+   "pos": [
+    "n",
+    "ctr"
+   ],
+   "gloss_en": [
+    "mountain; hill",
+    "mine",
+    "(mountain) forest"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "11603998",
+    "ja": "やるべきことは山ほどあるぞ。",
+    "ruby": [
+     [
+      "やる",
+      null
+     ],
+     [
+      "べき",
+      null
+     ],
+     [
+      "こと",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "山",
+      "やま"
+     ],
+     [
+      "ほど",
+      null
+     ],
+     [
+      "ある",
+      null
+     ],
+     [
+      "ぞ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1600900",
+   "word": "話",
+   "reading": "はなし",
+   "furigana": [
+    [
+     "話",
+     "はなし"
+    ]
+   ],
+   "kanji": [
+    "話"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "talk; speech; chat; conversation",
+    "topic; subject",
+    "discussions; negotiation; argument"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "77142",
+    "ja": "話を聞かせてくれ。",
+    "ruby": [
+     [
+      "話",
+      "はなし"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "聞",
+      "き"
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "せ",
+      null
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "くれ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "I want a full report though.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1344970",
+   "word": "女の子",
+   "reading": "おんなのこ",
+   "furigana": [
+    [
+     "女",
+     "おんな"
+    ],
+    [
+     "の",
+     null
+    ],
+    [
+     "子",
+     "こ"
+    ]
+   ],
+   "kanji": [
+    "女",
+    "子"
+   ],
+   "pos": [
+    "exp",
+    "n"
+   ],
+   "gloss_en": [
+    "girl; daughter; baby girl",
+    "young woman"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "1484789",
+    "ja": "トムさんはビキニの女の子を見ていた。",
+    "ruby": [
+     [
+      "トム",
+      null
+     ],
+     [
+      "さん",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "ビキニ",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "女",
+      "おんな"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "子",
+      "こ"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "見",
+      "み"
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "い",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "톰 씨는 비키니를 입은 여자 아이를 보고 있었다."
+   }
+  },
+  {
+   "id": "j1520670",
+   "word": "北",
+   "reading": "きた",
+   "furigana": [
+    [
+     "北",
+     "きた"
+    ]
+   ],
+   "kanji": [
+    "北"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "north",
+    "the North; northern territories",
+    "North Korea"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "11589034",
+    "ja": "北って、どっち？",
+    "ruby": [
+     [
+      "北",
+      "きた"
+     ],
+     [
+      "って",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "どっち",
+      null
+     ],
+     [
+      "？",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1488000",
+   "word": "百",
+   "reading": "ひゃく",
+   "furigana": [
+    [
+     "百",
+     "ひゃく"
+    ]
+   ],
+   "kanji": [
+    "百"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "hundred; 100"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "519523",
+    "ja": "百セントは一ドルになります。",
+    "ruby": [
+     [
+      "百",
+      "ひゃく"
+     ],
+     [
+      "セント",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "一",
+      "いち"
+     ],
+     [
+      "ドル",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "なり",
+      null
+     ],
+     [
+      "ます",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1343950",
+   "word": "書く",
+   "reading": "かく",
+   "furigana": [
+    [
+     "書",
+     "か"
+    ],
+    [
+     "く",
+     null
+    ]
+   ],
+   "kanji": [
+    "書"
+   ],
+   "pos": [
+    "v5k",
+    "vt"
+   ],
+   "gloss_en": [
+    "to write; to compose; to pen",
+    "to draw; to paint"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "154797",
+    "ja": "読むことも書くこともできない。",
+    "ruby": [
+     [
+      "読",
+      "よ"
+     ],
+     [
+      "む",
+      null
+     ],
+     [
+      "こと",
+      null
+     ],
+     [
+      "も",
+      null
+     ],
+     [
+      "書",
+      "か"
+     ],
+     [
+      "く",
+      null
+     ],
+     [
+      "こと",
+      null
+     ],
+     [
+      "も",
+      null
+     ],
+     [
+      "でき",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1387990",
+   "word": "先生",
+   "reading": "せんせい",
+   "furigana": [
+    [
+     "先",
+     "せん"
+    ],
+    [
+     "生",
+     "せい"
+    ]
+   ],
+   "kanji": [
+    "先",
+    "生"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "teacher; instructor; master",
+    "sensei; title or form of address for a teacher, master, doctor, lawyer, etc.",
+    "intimate or teasing form of address"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "13259054",
+    "ja": "先生、こんにちは。",
+    "ruby": [
+     [
+      "先",
+      "せん"
+     ],
+     [
+      "生",
+      "せい"
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "こんにちは",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "선생님, 안녕하세요."
+   }
+  },
+  {
+   "id": "j1390020",
+   "word": "川",
+   "reading": "かわ",
+   "furigana": [
+    [
+     "川",
+     "かわ"
+    ]
+   ],
+   "kanji": [
+    "川"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "river; stream",
+    "River; the ... river"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "11843834",
+    "ja": "トムは、いかだで川を下った。",
+    "ruby": [
+     [
+      "トム",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "いかだ",
+      null
+     ],
+     [
+      "で",
+      null
+     ],
+     [
+      "川",
+      "かわ"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "下",
+      "くだ"
+     ],
+     [
+      "っ",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1388740",
+   "word": "千",
+   "reading": "せん",
+   "furigana": [
+    [
+     "千",
+     "せん"
+    ]
+   ],
+   "kanji": [
+    "千"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "thousand; 1,000"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "141432",
+    "ja": "千人もの人がそこにいた。",
+    "ruby": [
+     [
+      "千",
+      "せん"
+     ],
+     [
+      "人",
+      "にん"
+     ],
+     [
+      "も",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "人",
+      "ひと"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "そこ",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "い",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1371260",
+   "word": "水",
+   "reading": "みず",
+   "furigana": [
+    [
+     "水",
+     "みず"
+    ]
+   ],
+   "kanji": [
+    "水"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "water (esp. cool or cold)",
+    "fluid (esp. in an animal tissue); liquid",
+    "flood; floodwaters"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10092041",
+    "ja": "水を出しっぱなしにしないで。",
+    "ruby": [
+     [
+      "水",
+      "みず"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "出",
+      "だ"
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "っぱなし",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "で",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1478750",
+   "word": "半",
+   "reading": "はん",
+   "furigana": [
+    [
+     "半",
+     "はん"
+    ]
+   ],
+   "kanji": [
+    "半"
+   ],
+   "pos": [
+    "n-pref",
+    "n"
+   ],
+   "gloss_en": [
+    "half; semi-; partial",
+    "half-past",
+    "odd number"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10617697",
+    "ja": "それは３年半前のことでした。",
+    "ruby": [
+     [
+      "それ",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "３",
+      null
+     ],
+     [
+      "年",
+      "ねん"
+     ],
+     [
+      "半",
+      "はん"
+     ],
+     [
+      "前",
+      "まえ"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "こと",
+      null
+     ],
+     [
+      "でし",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1419990",
+   "word": "男",
+   "reading": "おとこ",
+   "furigana": [
+    [
+     "男",
+     "おとこ"
+    ]
+   ],
+   "kanji": [
+    "男"
+   ],
+   "pos": [
+    "n",
+    "n-pref"
+   ],
+   "gloss_en": [
+    "man; male",
+    "fellow; guy; chap; bloke",
+    "male lover; boyfriend; man"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "12652393",
+    "ja": "ほんとうに男らしくないよね。",
+    "ruby": [
+     [
+      "ほんとう",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "男",
+      "おとこ"
+     ],
+     [
+      "らしく",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "よ",
+      null
+     ],
+     [
+      "ね",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1380840",
+   "word": "西",
+   "reading": "にし",
+   "furigana": [
+    [
+     "西",
+     "にし"
+    ]
+   ],
+   "kanji": [
+    "西"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "west"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "196995",
+    "ja": "フランスは西ヨーロッパにある。",
+    "ruby": [
+     [
+      "フランス",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "西",
+      "にし"
+     ],
+     [
+      "ヨーロッパ",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "ある",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1270910",
+   "word": "語",
+   "reading": "ご",
+   "furigana": [
+    [
+     "語",
+     "ご"
+    ]
+   ],
+   "kanji": [
+    "語"
+   ],
+   "pos": [
+    "n",
+    "n-suf",
+    "ctr"
+   ],
+   "gloss_en": [
+    "word; term",
+    "language",
+    "speech"
+   ],
+   "waller": 3,
+   "example": {
+    "tid": "194658",
+    "ja": "メキシコではなに語を話すのですか。",
+    "ruby": [
+     [
+      "メキシコ",
+      null
+     ],
+     [
+      "で",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "なに",
+      null
+     ],
+     [
+      "語",
+      "ご"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "話",
+      "はな"
+     ],
+     [
+      "す",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "です",
+      null
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "What is the language spoken in Mexico?",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1445270",
+   "word": "土",
+   "reading": "つち",
+   "furigana": [
+    [
+     "土",
+     "つち"
+    ]
+   ],
+   "kanji": [
+    "土"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "earth; soil; dirt; clay",
+    "the earth (historically, esp. as opposed to the heavens); the ground; the land",
+    "low-quality torinoko-gami (containing mud)"
+   ],
+   "waller": 3,
+   "example": {
+    "tid": "518854",
+    "ja": "かれは土に水をやった。",
+    "ruby": [
+     [
+      "かれ",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "土",
+      "つち"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "水",
+      "みず"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "やっ",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1534520",
+   "word": "木",
+   "reading": "き",
+   "furigana": [
+    [
+     "木",
+     "き"
+    ]
+   ],
+   "kanji": [
+    "木"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "tree; shrub; bush",
+    "wood; timber",
+    "wooden clappers (signalling the beginning or end of a performance)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "149142",
+    "ja": "車がどしんと木にぶつかった。",
+    "ruby": [
+     [
+      "車",
+      "くるま"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "どしん",
+      null
+     ],
+     [
+      "と",
+      null
+     ],
+     [
+      "木",
+      "き"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "ぶつかっ",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1591110",
+   "word": "聞く",
+   "reading": "きく",
+   "furigana": [
+    [
+     "聞",
+     "き"
+    ],
+    [
+     "く",
+     null
+    ]
+   ],
+   "kanji": [
+    "聞"
+   ],
+   "pos": [
+    "v5k",
+    "vt"
+   ],
+   "gloss_en": [
+    "to hear",
+    "to listen (e.g. to music)",
+    "to ask; to enquire; to query"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "2129968",
+    "ja": "トムはこれについて聞くべきだ。",
+    "ruby": [
+     [
+      "トム",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "これ",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "つい",
+      null
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "聞",
+      "き"
+     ],
+     [
+      "く",
+      null
+     ],
+     [
+      "べき",
+      null
+     ],
+     [
+      "だ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1358280",
+   "word": "食べる",
+   "reading": "たべる",
+   "furigana": [
+    [
+     "食",
+     "た"
+    ],
+    [
+     "べる",
+     null
+    ]
+   ],
+   "kanji": [
+    "食"
+   ],
+   "pos": [
+    "v1",
+    "vt"
+   ],
+   "gloss_en": [
+    "to eat",
+    "to live on (e.g. a salary); to live off; to subsist on"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "13476756",
+    "ja": "ケイトは毎日パンを食べる。",
+    "ruby": [
+     [
+      "ケイト",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "毎日",
+      "まいにち"
+     ],
+     [
+      "パン",
+      null
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "食",
+      "た"
+     ],
+     [
+      "べる",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "케이트는 매일 빵을 먹는다."
+   }
+  },
+  {
+   "id": "j1577100",
+   "word": "何",
+   "reading": "なに",
+   "furigana": [
+    [
+     "何",
+     "なに"
+    ]
+   ],
+   "kanji": [
+    "何"
+   ],
+   "pos": [
+    "pn"
+   ],
+   "gloss_en": [
+    "what",
+    "you-know-what; that thing",
+    "whatsit; whachamacallit; what's-his-name; what's-her-name"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1459870",
+   "word": "南",
+   "reading": "みなみ",
+   "furigana": [
+    [
+     "南",
+     "みなみ"
+    ]
+   ],
+   "kanji": [
+    "南"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "south"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "123204",
+    "ja": "南ターミナルはどこですか。",
+    "ruby": [
+     [
+      "南",
+      "みなみ"
+     ],
+     [
+      "ターミナル",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "どこ",
+      null
+     ],
+     [
+      "です",
+      null
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1584460",
+   "word": "万",
+   "reading": "まん",
+   "furigana": [
+    [
+     "万",
+     "まん"
+    ]
+   ],
+   "kanji": [
+    "万"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "10,000; ten thousand",
+    "myriad",
+    "everything; all"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "205586",
+    "ja": "それは１万円ぐらいするだろう。",
+    "ruby": [
+     [
+      "それ",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "１",
+      null
+     ],
+     [
+      "万",
+      "まん"
+     ],
+     [
+      "円",
+      "えん"
+     ],
+     [
+      "ぐらい",
+      null
+     ],
+     [
+      "する",
+      null
+     ],
+     [
+      "だろう",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1474900",
+   "word": "白",
+   "reading": "しろ",
+   "furigana": [
+    [
+     "白",
+     "しろ"
+    ]
+   ],
+   "kanji": [
+    "白"
+   ],
+   "pos": [
+    "n",
+    "adj-no"
+   ],
+   "gloss_en": [
+    "white",
+    "innocence; innocent person",
+    "blank space"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1438690",
+   "word": "天気",
+   "reading": "てんき",
+   "furigana": [
+    [
+     "天",
+     "てん"
+    ],
+    [
+     "気",
+     "き"
+    ]
+   ],
+   "kanji": [
+    "天",
+    "気"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "weather",
+    "fair weather; fine weather"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "171537",
+    "ja": "今日が天気ならいいのに。",
+    "ruby": [
+     [
+      "今日",
+      "きょう"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "天",
+      "てん"
+     ],
+     [
+      "気",
+      "き"
+     ],
+     [
+      "なら",
+      null
+     ],
+     [
+      "いい",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "I wish it were fine today.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1002650",
+   "word": "お母さん",
+   "reading": "おかあさん",
+   "furigana": [
+    [
+     "お",
+     null
+    ],
+    [
+     "母",
+     "かあ"
+    ],
+    [
+     "さん",
+     null
+    ]
+   ],
+   "kanji": [
+    "母"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "mother; mom; mum; ma",
+    "wife",
+    "you (of an elderly person older than the speaker); she; her"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1193610",
+   "word": "火",
+   "reading": "ひ",
+   "furigana": [
+    [
+     "火",
+     "ひ"
+    ]
+   ],
+   "kanji": [
+    "火"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "fire; flame; blaze"
+   ],
+   "waller": 4,
+   "example": {
+    "tid": "223038",
+    "ja": "このライターは火がつかない。",
+    "ruby": [
+     [
+      "この",
+      null
+     ],
+     [
+      "ライター",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "火",
+      "ひ"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "つか",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1171010",
+   "word": "右",
+   "reading": "みぎ",
+   "furigana": [
+    [
+     "右",
+     "みぎ"
+    ]
+   ],
+   "kanji": [
+    "右"
+   ],
+   "pos": [
+    "n",
+    "adj-no"
+   ],
+   "gloss_en": [
+    "right; right-hand side",
+    "right hand",
+    "the above (in a piece of vertical writing); above-mentioned"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "11165428",
+    "ja": "日本車は、右ハンドルです。",
+    "ruby": [
+     [
+      "日本",
+      "にほん"
+     ],
+     [
+      "車",
+      "しゃ"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "右",
+      "みぎ"
+     ],
+     [
+      "ハンドル",
+      null
+     ],
+     [
+      "です",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1456360",
+   "word": "読む",
+   "reading": "よむ",
+   "furigana": [
+    [
+     "読",
+     "よ"
+    ],
+    [
+     "む",
+     null
+    ]
+   ],
+   "kanji": [
+    "読"
+   ],
+   "pos": [
+    "v5m",
+    "vt"
+   ],
+   "gloss_en": [
+    "to read",
+    "to recite (e.g. a sutra); to chant",
+    "to predict; to guess; to forecast; to read (someone's thoughts)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10624302",
+    "ja": "読みたくないんなら、読むな。",
+    "ruby": [
+     [
+      "読",
+      "よ"
+     ],
+     [
+      "み",
+      null
+     ],
+     [
+      "たく",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "なら",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "読",
+      "よ"
+     ],
+     [
+      "む",
+      null
+     ],
+     [
+      "な",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1539980",
+   "word": "友",
+   "reading": "とも",
+   "furigana": [
+    [
+     "友",
+     "とも"
+    ]
+   ],
+   "kanji": [
+    "友"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "friend; companion; comrade; pal",
+    "accompaniment; companion (e.g. book); complement; accessory"
+   ],
+   "waller": 3,
+   "example": {
+    "tid": "1747680",
+    "ja": "本は友になぞらえることが出来る。",
+    "ruby": [
+     [
+      "本",
+      "ほん"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "友",
+      "とも"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "なぞらえる",
+      null
+     ],
+     [
+      "こと",
+      null
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "出来",
+      "でき"
+     ],
+     [
+      "る",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1290800",
+   "word": "左",
+   "reading": "ひだり",
+   "furigana": [
+    [
+     "左",
+     "ひだり"
+    ]
+   ],
+   "kanji": [
+    "左"
+   ],
+   "pos": [
+    "n",
+    "adj-no"
+   ],
+   "gloss_en": [
+    "left; left-hand side",
+    "left hand",
+    "the left (wing); leftist"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10615138",
+    "ja": "左のタオルが、あなたのよ。",
+    "ruby": [
+     [
+      "左",
+      "ひだり"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "タオル",
+      null
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "あなた",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "よ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1227500",
+   "word": "休み",
+   "reading": "やすみ",
+   "furigana": [
+    [
+     "休",
+     "やす"
+    ],
+    [
+     "み",
+     null
+    ]
+   ],
+   "kanji": [
+    "休"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "rest; recess; respite",
+    "vacation; holiday; absence; suspension",
+    "dormancy (of a silkworm prior to moulting)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "7911956",
+    "ja": "もし半年休みがあったら何する？",
+    "ruby": [
+     [
+      "もし",
+      null
+     ],
+     [
+      "半年",
+      "はんとし"
+     ],
+     [
+      "休",
+      "やす"
+     ],
+     [
+      "み",
+      null
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "あっ",
+      null
+     ],
+     [
+      "たら",
+      null
+     ],
+     [
+      "何",
+      "なん"
+     ],
+     [
+      "する",
+      null
+     ],
+     [
+      "？",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "만약 반년동안 휴일이 있다면 뭐할래?"
+   }
+  },
+  {
+   "id": "j1002590",
+   "word": "お父さん",
+   "reading": "おとうさん",
+   "furigana": [
+    [
+     "お",
+     null
+    ],
+    [
+     "父",
+     "とう"
+    ],
+    [
+     "さん",
+     null
+    ]
+   ],
+   "kanji": [
+    "父"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "father; dad; papa; pa",
+    "husband",
+    "you (of an elderly person older than the speaker); he; him"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1171900",
+   "word": "雨",
+   "reading": "あめ",
+   "furigana": [
+    [
+     "雨",
+     "あめ"
+    ]
+   ],
+   "kanji": [
+    "雨"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "rain",
+    "rainy day; rainy weather",
+    "the November suit (in hanafuda)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "4720220",
+    "ja": "「雨やんだかな？」「やんでるといいね」",
+    "ruby": [
+     [
+      "「",
+      null
+     ],
+     [
+      "雨",
+      "あめ"
+     ],
+     [
+      "や",
+      null
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "だ",
+      null
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "な",
+      null
+     ],
+     [
+      "？",
+      null
+     ],
+     [
+      "」",
+      null
+     ],
+     [
+      "「",
+      null
+     ],
+     [
+      "やん",
+      null
+     ],
+     [
+      "でる",
+      null
+     ],
+     [
+      "と",
+      null
+     ],
+     [
+      "いい",
+      null
+     ],
+     [
+      "ね",
+      null
+     ],
+     [
+      "」",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "\"비가 그친 걸까?\" \"그치면 좋겠네.\""
+   }
+  },
+  {
+   "id": "j1576150",
+   "word": "一人",
+   "reading": "ひとり",
+   "furigana": [
+    [
+     "一人",
+     "ひとり"
+    ]
+   ],
+   "kanji": [
+    "一",
+    "人"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "one person",
+    "being alone; being by oneself",
+    "being single; being unmarried"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "4728",
+    "ja": "それはあなたが一人になりたくないからです。",
+    "ruby": [
+     [
+      "それ",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "あなた",
+      null
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "一人",
+      "ひとり"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "なり",
+      null
+     ],
+     [
+      "たく",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "から",
+      null
+     ],
+     [
+      "です",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "왜냐하면 당신은 혼자가 되고 싶지 않기 때문이에요."
+   }
+  },
+  {
+   "id": "j1580640",
+   "word": "人",
+   "reading": "ひと",
+   "furigana": [
+    [
+     "人",
+     "ひと"
+    ]
+   ],
+   "kanji": [
+    "人"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "person; someone; somebody",
+    "human beings; mankind; man; people",
+    "human (Homo sapiens)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "13151025",
+    "ja": "あの人たちはロシア人です。",
+    "ruby": [
+     [
+      "あの",
+      null
+     ],
+     [
+      "人",
+      "ひと"
+     ],
+     [
+      "たち",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "ロシア",
+      null
+     ],
+     [
+      "人",
+      "ひと"
+     ],
+     [
+      "です",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "저 사람들은 러시아 사람입니다."
+   }
+  },
+  {
+   "id": "j1412890",
+   "word": "大きな",
+   "reading": "おおきな",
+   "furigana": [
+    [
+     "大",
+     "おお"
+    ],
+    [
+     "きな",
+     null
+    ]
+   ],
+   "kanji": [
+    "大"
+   ],
+   "pos": [
+    "adj-pn"
+   ],
+   "gloss_en": [
+    "big; large; great"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "198872",
+    "ja": "なんて大きなかぼちゃなんだ！",
+    "ruby": [
+     [
+      "なんて",
+      null
+     ],
+     [
+      "大",
+      "おお"
+     ],
+     [
+      "きな",
+      null
+     ],
+     [
+      "かぼちゃ",
+      null
+     ],
+     [
+      "な",
+      null
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "だ",
+      null
+     ],
+     [
+      "！",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1335000",
+   "word": "十日",
+   "reading": "とおか",
+   "furigana": [
+    [
+     "十",
+     "とお"
+    ],
+    [
+     "日",
+     "か"
+    ]
+   ],
+   "kanji": [
+    "十",
+    "日"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "10th day of the month",
+    "ten days"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1582710",
+   "word": "日本",
+   "reading": "にほん",
+   "furigana": [
+    [
+     "日本",
+     "にほん"
+    ]
+   ],
+   "kanji": [
+    "日",
+    "本"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "Japan"
+   ],
+   "waller": 3,
+   "example": null
+  },
+  {
+   "id": "j1464250",
+   "word": "日中",
+   "reading": "にっちゅう",
+   "furigana": [
+    [
+     "日",
+     "にっ"
+    ],
+    [
+     "中",
+     "ちゅう"
+    ]
+   ],
+   "kanji": [
+    "日",
+    "中"
+   ],
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "gloss_en": [
+    "daytime; during the day",
+    "Japan and China; Japanese-Chinese; Sino-Japanese"
+   ],
+   "waller": 3,
+   "example": null
+  },
+  {
+   "id": "j1338240",
+   "word": "出る",
+   "reading": "でる",
+   "furigana": [
+    [
+     "出",
+     "で"
+    ],
+    [
+     "る",
+     null
+    ]
+   ],
+   "kanji": [
+    "出"
+   ],
+   "pos": [
+    "v1",
+    "vi"
+   ],
+   "gloss_en": [
+    "to leave; to exit; to go out; to come out",
+    "to leave (on a journey); to depart; to start out; to set out",
+    "to move forward"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "11045124",
+    "ja": "いつになったら出るんだろう。",
+    "ruby": [
+     [
+      "いつ",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "なっ",
+      null
+     ],
+     [
+      "たら",
+      null
+     ],
+     [
+      "出",
+      "で"
+     ],
+     [
+      "る",
+      null
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "だろう",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1301330",
+   "word": "三日",
+   "reading": "みっか",
+   "furigana": [
+    [
+     "三",
+     "みっ"
+    ],
+    [
+     "日",
+     "か"
+    ]
+   ],
+   "kanji": [
+    "三",
+    "日"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "3rd day of the month",
+    "three days"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "8593473",
+    "ja": "二、三日のうちに電話するよ。",
+    "ruby": [
+     [
+      "二",
+      "に"
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "三",
+      "みっ"
+     ],
+     [
+      "日",
+      "か"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "うち",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "電話",
+      "でんわ"
+     ],
+     [
+      "する",
+      null
+     ],
+     [
+      "よ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1598680",
+   "word": "時々",
+   "reading": "ときどき",
+   "furigana": [
+    [
+     "時",
+     "とき"
+    ],
+    [
+     "々",
+     "どき"
+    ]
+   ],
+   "kanji": [
+    "時"
+   ],
+   "pos": [
+    "adv",
+    "adj-no"
+   ],
+   "gloss_en": [
+    "sometimes; occasionally; at times; from time to time",
+    "seasonal; of the season; appropriate (for the season or occasion)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "13649998",
+    "ja": "時々トムとともにそれをする。",
+    "ruby": [
+     [
+      "時",
+      "とき"
+     ],
+     [
+      "々",
+      "どき"
+     ],
+     [
+      "トム",
+      null
+     ],
+     [
+      "と",
+      null
+     ],
+     [
+      "とも",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "それ",
+      null
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "する",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1589060",
+   "word": "行う",
+   "reading": "おこなう",
+   "furigana": [
+    [
+     "行",
+     "おこな"
+    ],
+    [
+     "う",
+     null
+    ]
+   ],
+   "kanji": [
+    "行"
+   ],
+   "pos": [
+    "v5u",
+    "vt"
+   ],
+   "gloss_en": [
+    "to perform; to do; to conduct oneself; to carry out"
+   ],
+   "waller": 4,
+   "example": null
+  },
+  {
+   "id": "j1259210",
+   "word": "見せる",
+   "reading": "みせる",
+   "furigana": [
+    [
+     "見",
+     "み"
+    ],
+    [
+     "せる",
+     null
+    ]
+   ],
+   "kanji": [
+    "見"
+   ],
+   "pos": [
+    "v1",
+    "vt"
+   ],
+   "gloss_en": [
+    "to show; to display",
+    "to make (something or someone) look ...; to present an appearance of ...",
+    "to make (something) worth watching; to be entertaining"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1268070",
+   "word": "五つ",
+   "reading": "いつつ",
+   "furigana": [
+    [
+     "五",
+     "いつ"
+    ],
+    [
+     "つ",
+     null
+    ]
+   ],
+   "kanji": [
+    "五"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "five",
+    "five years of age",
+    "eight o'clock (old time system)"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1215230",
+   "word": "間",
+   "reading": "あいだ",
+   "furigana": [
+    [
+     "間",
+     "あいだ"
+    ]
+   ],
+   "kanji": [
+    "間"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "space (between); gap; interval; distance",
+    "period of time (during, while); duration; interval",
+    "between (two parties or things)"
+   ],
+   "waller": 4,
+   "example": {
+    "tid": "75828",
+    "ja": "二人の間がしっくり行かない。",
+    "ruby": [
+     [
+      "二人",
+      "ふたり"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "間",
+      "あいだ"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "しっくり",
+      null
+     ],
+     [
+      "行",
+      "い"
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "They don't get along together.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1352320",
+   "word": "上げる",
+   "reading": "あげる",
+   "furigana": [
+    [
+     "上",
+     "あ"
+    ],
+    [
+     "げる",
+     null
+    ]
+   ],
+   "kanji": [
+    "上"
+   ],
+   "pos": [
+    "v1",
+    "vt"
+   ],
+   "gloss_en": [
+    "to raise; to elevate",
+    "to move something (to a higher place); to put onto (e.g. a shelf)",
+    "to increase (price, quality, status, etc.); to raise (a wage)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10574121",
+    "ja": "トムはしょっちゅう話をでっ上げるからな。",
+    "ruby": [
+     [
+      "トム",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "しょっちゅう",
+      null
+     ],
+     [
+      "話",
+      "はなし"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "で",
+      null
+     ],
+     [
+      "っ",
+      null
+     ],
+     [
+      "上",
+      "あ"
+     ],
+     [
+      "げる",
+      null
+     ],
+     [
+      "から",
+      null
+     ],
+     [
+      "な",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1307040",
+   "word": "四つ",
+   "reading": "よっつ",
+   "furigana": [
+    [
+     "四",
+     "よっ"
+    ],
+    [
+     "つ",
+     null
+    ]
+   ],
+   "kanji": [
+    "四"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "four; 4",
+    "four years of age",
+    "ten o'clock (in the old time system)"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1579130",
+   "word": "今年",
+   "reading": "ことし",
+   "furigana": [
+    [
+     "今年",
+     "ことし"
+    ]
+   ],
+   "kanji": [
+    "今",
+    "年"
+   ],
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "gloss_en": [
+    "this year"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "12324498",
+    "ja": "これが今年のカタログです。",
+    "ruby": [
+     [
+      "これ",
+      null
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "今年",
+      "ことし"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "カタログ",
+      null
+     ],
+     [
+      "です",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1243600",
+   "word": "九つ",
+   "reading": "ここのつ",
+   "furigana": [
+    [
+     "九",
+     "ここの"
+    ],
+    [
+     "つ",
+     null
+    ]
+   ],
+   "kanji": [
+    "九"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "nine",
+    "nine years of age",
+    "twelve o'clock (old time system)"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1465610",
+   "word": "入れる",
+   "reading": "いれる",
+   "furigana": [
+    [
+     "入",
+     "い"
+    ],
+    [
+     "れる",
+     null
+    ]
+   ],
+   "kanji": [
+    "入"
+   ],
+   "pos": [
+    "v1",
+    "vt"
+   ],
+   "gloss_en": [
+    "to put in; to let in; to take in; to bring in",
+    "to admit; to accept; to employ; to hire",
+    "to accept; to comply; to grant; to adopt (a policy, etc.)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "8720582",
+    "ja": "コーヒーにクリームを入れる？",
+    "ruby": [
+     [
+      "コーヒー",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "クリーム",
+      null
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "入",
+      "い"
+     ],
+     [
+      "れる",
+      null
+     ],
+     [
+      "？",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1206900",
+   "word": "学生",
+   "reading": "がくせい",
+   "furigana": [
+    [
+     "学",
+     "がく"
+    ],
+    [
+     "生",
+     "せい"
+    ]
+   ],
+   "kanji": [
+    "学",
+    "生"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "student (esp. a university student)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "8743394",
+    "ja": "まだ学生なの？",
+    "ruby": [
+     [
+      "まだ",
+      null
+     ],
+     [
+      "学",
+      "がく"
+     ],
+     [
+      "生",
+      "せい"
+     ],
+     [
+      "な",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "？",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "아직 학생이야?"
+   }
+  },
+  {
+   "id": "j1307770",
+   "word": "子",
+   "reading": "こ",
+   "furigana": [
+    [
+     "子",
+     "こ"
+    ]
+   ],
+   "kanji": [
+    "子"
+   ],
+   "pos": [
+    "n",
+    "n-suf"
+   ],
+   "gloss_en": [
+    "child; kid; teenager; youngster",
+    "(one's) child; offspring",
+    "young woman"
+   ],
+   "waller": 4,
+   "example": {
+    "tid": "9594044",
+    "ja": "トムっていい子なんだよ。",
+    "ruby": [
+     [
+      "トム",
+      null
+     ],
+     [
+      "って",
+      null
+     ],
+     [
+      "いい",
+      null
+     ],
+     [
+      "子",
+      "こ"
+     ],
+     [
+      "な",
+      null
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "だ",
+      null
+     ],
+     [
+      "よ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "톰은 좋은 아이야."
+   }
+  },
+  {
+   "id": "j1203620",
+   "word": "外国",
+   "reading": "がいこく",
+   "furigana": [
+    [
+     "外",
+     "がい"
+    ],
+    [
+     "国",
+     "こく"
+    ]
+   ],
+   "kanji": [
+    "外",
+    "国"
+   ],
+   "pos": [
+    "n",
+    "adj-no"
+   ],
+   "gloss_en": [
+    "foreign country"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "228994",
+    "ja": "いつか外国へ行きたいものだ。",
+    "ruby": [
+     [
+      "いつ",
+      null
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "外",
+      "がい"
+     ],
+     [
+      "国",
+      "こく"
+     ],
+     [
+      "へ",
+      null
+     ],
+     [
+      "行",
+      "い"
+     ],
+     [
+      "き",
+      null
+     ],
+     [
+      "たい",
+      null
+     ],
+     [
+      "もの",
+      null
+     ],
+     [
+      "だ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1203250",
+   "word": "外",
+   "reading": "そと",
+   "furigana": [
+    [
+     "外",
+     "そと"
+    ]
+   ],
+   "kanji": [
+    "外"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "outside; exterior",
+    "the open (air)",
+    "other place; somewhere else; outside one's group (family, company, etc.)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "12143118",
+    "ja": "外には出たくない。",
+    "ruby": [
+     [
+      "外",
+      "そと"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "出",
+      "で"
+     ],
+     [
+      "たく",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "밖으로는 나가고 싶지 않아."
+   }
+  },
+  {
+   "id": "j1583095",
+   "word": "八つ",
+   "reading": "やっつ",
+   "furigana": [
+    [
+     "八",
+     "やっ"
+    ],
+    [
+     "つ",
+     null
+    ]
+   ],
+   "kanji": [
+    "八"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "eight",
+    "eight years of age",
+    "two o'clock (old time system)"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1561470",
+   "word": "六日",
+   "reading": "むいか",
+   "furigana": [
+    [
+     "六",
+     "むい"
+    ],
+    [
+     "日",
+     "か"
+    ]
+   ],
+   "kanji": [
+    "六",
+    "日"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "6th day of the month",
+    "six days"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1184160",
+   "word": "下がる",
+   "reading": "さがる",
+   "furigana": [
+    [
+     "下",
+     "さ"
+    ],
+    [
+     "がる",
+     null
+    ]
+   ],
+   "kanji": [
+    "下"
+   ],
+   "pos": [
+    "v5r",
+    "vi"
+   ],
+   "gloss_en": [
+    "to come down; to go down; to fall; to drop",
+    "to hang; to dangle",
+    "to move back; to step back; to withdraw; to retire"
+   ],
+   "waller": 4,
+   "example": null
+  },
+  {
+   "id": "j1221520",
+   "word": "気",
+   "reading": "き",
+   "furigana": [
+    [
+     "気",
+     "き"
+    ]
+   ],
+   "kanji": [
+    "気"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "spirit; mind; heart",
+    "nature; disposition",
+    "intention; mind; will; motivation"
+   ],
+   "waller": 4,
+   "example": {
+    "tid": "4704249",
+    "ja": "その話聞いたことある気がする。",
+    "ruby": [
+     [
+      "その",
+      null
+     ],
+     [
+      "話",
+      "はなし"
+     ],
+     [
+      "聞",
+      "き"
+     ],
+     [
+      "い",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "こと",
+      null
+     ],
+     [
+      "ある",
+      null
+     ],
+     [
+      "気",
+      "き"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "する",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "그 이야기 들어본 적이 있는 것 같아."
+   }
+  },
+  {
+   "id": "j1347750",
+   "word": "小さい",
+   "reading": "ちいさい",
+   "furigana": [
+    [
+     "小",
+     "ちい"
+    ],
+    [
+     "さい",
+     null
+    ]
+   ],
+   "kanji": [
+    "小"
+   ],
+   "pos": [
+    "adj-i"
+   ],
+   "gloss_en": [
+    "small; little; tiny",
+    "slight; below average (in degree, amount, etc.); minor; small",
+    "low (e.g. sound); soft (e.g. voice)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "219669",
+    "ja": "この本は何と小さいのだろう。",
+    "ruby": [
+     [
+      "この",
+      null
+     ],
+     [
+      "本",
+      "ほん"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "何",
+      "なん"
+     ],
+     [
+      "と",
+      null
+     ],
+     [
+      "小",
+      "ちい"
+     ],
+     [
+      "さい",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "だろう",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1579630",
+   "word": "七日",
+   "reading": "なのか",
+   "furigana": [
+    [
+     "七",
+     "なの"
+    ],
+    [
+     "日",
+     "か"
+    ]
+   ],
+   "kanji": [
+    "七",
+    "日"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "7th day of the month",
+    "seven days"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1344930",
+   "word": "女",
+   "reading": "おんな",
+   "furigana": [
+    [
+     "女",
+     "おんな"
+    ]
+   ],
+   "kanji": [
+    "女"
+   ],
+   "pos": [
+    "n",
+    "n-pref"
+   ],
+   "gloss_en": [
+    "woman; female",
+    "female lover; girlfriend; mistress; (someone's) woman"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "144456",
+    "ja": "人は男か女のどちらかである。",
+    "ruby": [
+     [
+      "人",
+      "ひと"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "男",
+      "おとこ"
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "女",
+      "おんな"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "どちら",
+      null
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "で",
+      null
+     ],
+     [
+      "ある",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1268990",
+   "word": "午後",
+   "reading": "ごご",
+   "furigana": [
+    [
+     "午",
+     "ご"
+    ],
+    [
+     "後",
+     "ご"
+    ]
+   ],
+   "kanji": [
+    "午",
+    "後"
+   ],
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "gloss_en": [
+    "afternoon; p.m."
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10212599",
+    "ja": "今日の午後は時間がないんだ。",
+    "ruby": [
+     [
+      "今日",
+      "きょう"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "午",
+      "ご"
+     ],
+     [
+      "後",
+      "ご"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "時間",
+      "じかん"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "だ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1387500",
+   "word": "先月",
+   "reading": "せんげつ",
+   "furigana": [
+    [
+     "先",
+     "せん"
+    ],
+    [
+     "月",
+     "げつ"
+    ]
+   ],
+   "kanji": [
+    "先",
+    "月"
+   ],
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "gloss_en": [
+    "last month"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "141890",
+    "ja": "先月インフルエンザにかかった。",
+    "ruby": [
+     [
+      "先",
+      "せん"
+     ],
+     [
+      "月",
+      "げつ"
+     ],
+     [
+      "インフルエンザ",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "かかっ",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1531710",
+   "word": "名前",
+   "reading": "なまえ",
+   "furigana": [
+    [
+     "名",
+     "な"
+    ],
+    [
+     "前",
+     "まえ"
+    ]
+   ],
+   "kanji": [
+    "名",
+    "前"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "name",
+    "given name; first name"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "232988",
+    "ja": "あなたの名前はリストからはずされた。",
+    "ruby": [
+     [
+      "あなた",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "名",
+      "な"
+     ],
+     [
+      "前",
+      "まえ"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "リスト",
+      null
+     ],
+     [
+      "から",
+      null
+     ],
+     [
+      "はずさ",
+      null
+     ],
+     [
+      "れ",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "Your name was dropped from the list.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1420010",
+   "word": "男の子",
+   "reading": "おとこのこ",
+   "furigana": [
+    [
+     "男",
+     "おとこ"
+    ],
+    [
+     "の",
+     null
+    ],
+    [
+     "子",
+     "こ"
+    ]
+   ],
+   "kanji": [
+    "男",
+    "子"
+   ],
+   "pos": [
+    "exp",
+    "n"
+   ],
+   "gloss_en": [
+    "boy; son; baby boy",
+    "young man"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "231277",
+    "ja": "あのハンサムな男の子を見て。",
+    "ruby": [
+     [
+      "あの",
+      null
+     ],
+     [
+      "ハンサム",
+      null
+     ],
+     [
+      "な",
+      null
+     ],
+     [
+      "男",
+      "おとこ"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "子",
+      "こ"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "見",
+      "み"
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "Look at that good-looking boy.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1443840",
+   "word": "電話",
+   "reading": "でんわ",
+   "furigana": [
+    [
+     "電",
+     "でん"
+    ],
+    [
+     "話",
+     "わ"
+    ]
+   ],
+   "kanji": [
+    "電",
+    "話"
+   ],
+   "pos": [
+    "n",
+    "vs",
+    "vt",
+    "vi"
+   ],
+   "gloss_en": [
+    "telephone call; phone call",
+    "telephone (device); phone"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "537009",
+    "ja": "だれも電話に出ませんでした。",
+    "ruby": [
+     [
+      "だれ",
+      null
+     ],
+     [
+      "も",
+      null
+     ],
+     [
+      "電",
+      "でん"
+     ],
+     [
+      "話",
+      "わ"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "出",
+      "で"
+     ],
+     [
+      "ませ",
+      null
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "でし",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "아무도 전화를 받지 않았습니다."
+   }
+  },
+  {
+   "id": "j1279590",
+   "word": "校長",
+   "reading": "こうちょう",
+   "furigana": [
+    [
+     "校",
+     "こう"
+    ],
+    [
+     "長",
+     "ちょう"
+    ]
+   ],
+   "kanji": [
+    "校",
+    "長"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "principal; head teacher; headmaster; headmistress"
+   ],
+   "waller": 4,
+   "example": {
+    "tid": "173570",
+    "ja": "校長が先生の後ろから入ってきた。",
+    "ruby": [
+     [
+      "校",
+      "こう"
+     ],
+     [
+      "長",
+      "ちょう"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "先生",
+      "せんせい"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "後",
+      "うし"
+     ],
+     [
+      "ろ",
+      null
+     ],
+     [
+      "から",
+      null
+     ],
+     [
+      "入",
+      "はい"
+     ],
+     [
+      "っ",
+      null
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "き",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1283500",
+   "word": "高校",
+   "reading": "こうこう",
+   "furigana": [
+    [
+     "高",
+     "こう"
+    ],
+    [
+     "校",
+     "こう"
+    ]
+   ],
+   "kanji": [
+    "高",
+    "校"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "senior high school; high school"
+   ],
+   "waller": 4,
+   "example": {
+    "tid": "8687230",
+    "ja": "高校って、マンモス校だった？",
+    "ruby": [
+     [
+      "高",
+      "こう"
+     ],
+     [
+      "校",
+      "こう"
+     ],
+     [
+      "って",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "マンモス",
+      null
+     ],
+     [
+      "校",
+      "こう"
+     ],
+     [
+      "だっ",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "？",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1591150",
+   "word": "聞こえる",
+   "reading": "きこえる",
+   "furigana": [
+    [
+     "聞",
+     "き"
+    ],
+    [
+     "こえる",
+     null
+    ]
+   ],
+   "kanji": [
+    "聞"
+   ],
+   "pos": [
+    "v1",
+    "vi"
+   ],
+   "gloss_en": [
+    "to be heard; to be audible; to reach one's ears",
+    "to sound (like); to come across (as)",
+    "to be well known; to be famous"
+   ],
+   "waller": 4,
+   "example": {
+    "tid": "11731737",
+    "ja": "「聞こえる？」「うん。聞こえる」",
+    "ruby": [
+     [
+      "「",
+      null
+     ],
+     [
+      "聞",
+      "き"
+     ],
+     [
+      "こえる",
+      null
+     ],
+     [
+      "？",
+      null
+     ],
+     [
+      "」",
+      null
+     ],
+     [
+      "「",
+      null
+     ],
+     [
+      "うん",
+      null
+     ],
+     [
+      "。",
+      null
+     ],
+     [
+      "聞",
+      "き"
+     ],
+     [
+      "こえる",
+      null
+     ],
+     [
+      "」",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1443530",
+   "word": "電車",
+   "reading": "でんしゃ",
+   "furigana": [
+    [
+     "電",
+     "でん"
+    ],
+    [
+     "車",
+     "しゃ"
+    ]
+   ],
+   "kanji": [
+    "電",
+    "車"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "train; electric train"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "13167178",
+    "ja": "電車で来たんです。",
+    "ruby": [
+     [
+      "電",
+      "でん"
+     ],
+     [
+      "車",
+      "しゃ"
+     ],
+     [
+      "で",
+      null
+     ],
+     [
+      "来",
+      "き"
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "です",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "기차를 타고 왔어요."
+   }
+  },
+  {
+   "id": "j1323080",
+   "word": "車",
+   "reading": "くるま",
+   "furigana": [
+    [
+     "車",
+     "くるま"
+    ]
+   ],
+   "kanji": [
+    "車"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "car; automobile; vehicle",
+    "wheel; castor; caster"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "628695",
+    "ja": "この車は、だれのですか？",
+    "ruby": [
+     [
+      "この",
+      null
+     ],
+     [
+      "車",
+      "くるま"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "だれ",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "です",
+      null
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "？",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "이 자동차는 누구의 것입니까?"
+   }
+  },
+  {
+   "id": "j2846738",
+   "word": "何",
+   "reading": "なん",
+   "furigana": [
+    [
+     "何",
+     "なん"
+    ]
+   ],
+   "kanji": [
+    "何"
+   ],
+   "pos": [
+    "pn"
+   ],
+   "gloss_en": [
+    "what",
+    "how many",
+    "many; a lot of"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "184431",
+    "ja": "学校の前に何本か木が見えます。",
+    "ruby": [
+     [
+      "学校",
+      "がっこう"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "前",
+      "まえ"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "何",
+      "なん"
+     ],
+     [
+      "本",
+      "ぽん"
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "木",
+      "き"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "見",
+      "み"
+     ],
+     [
+      "え",
+      null
+     ],
+     [
+      "ます",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "You see some trees in front of the school.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1524720",
+   "word": "毎日",
+   "reading": "まいにち",
+   "furigana": [
+    [
+     "毎",
+     "まい"
+    ],
+    [
+     "日",
+     "にち"
+    ]
+   ],
+   "kanji": [
+    "毎",
+    "日"
+   ],
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "gloss_en": [
+    "every day; daily"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "13476756",
+    "ja": "ケイトは毎日パンを食べる。",
+    "ruby": [
+     [
+      "ケイト",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "毎",
+      "まい"
+     ],
+     [
+      "日",
+      "にち"
+     ],
+     [
+      "パン",
+      null
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "食",
+      "た"
+     ],
+     [
+      "べる",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "케이트는 매일 빵을 먹는다."
+   }
+  },
+  {
+   "id": "j1584360",
+   "word": "毎年",
+   "reading": "まいとし",
+   "furigana": [
+    [
+     "毎",
+     "まい"
+    ],
+    [
+     "年",
+     "とし"
+    ]
+   ],
+   "kanji": [
+    "毎",
+    "年"
+   ],
+   "pos": [
+    "adv",
+    "n"
+   ],
+   "gloss_en": [
+    "every year; yearly; annually"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10230511",
+    "ja": "トムって、毎年ボストンに行ってるんだよ。",
+    "ruby": [
+     [
+      "トム",
+      null
+     ],
+     [
+      "って",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "毎",
+      "まい"
+     ],
+     [
+      "年",
+      "とし"
+     ],
+     [
+      "ボストン",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "行",
+      "い"
+     ],
+     [
+      "っ",
+      null
+     ],
+     [
+      "てる",
+      null
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "だ",
+      null
+     ],
+     [
+      "よ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "톰은 매년 보스턴에 가요."
+   }
+  },
+  {
+   "id": "j1474910",
+   "word": "白い",
+   "reading": "しろい",
+   "furigana": [
+    [
+     "白",
+     "しろ"
+    ],
+    [
+     "い",
+     null
+    ]
+   ],
+   "kanji": [
+    "白"
+   ],
+   "pos": [
+    "adj-i"
+   ],
+   "gloss_en": [
+    "white",
+    "blank (e.g. paper); uncolored; unmarked; spotless",
+    "innocent; not guilty; pure"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "4916",
+    "ja": "「どうかしたの？」と小さな白いウサギが聞きました。",
+    "ruby": [
+     [
+      "「",
+      null
+     ],
+     [
+      "どう",
+      null
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "？",
+      null
+     ],
+     [
+      "」",
+      null
+     ],
+     [
+      "と",
+      null
+     ],
+     [
+      "小",
+      "ちい"
+     ],
+     [
+      "さな",
+      null
+     ],
+     [
+      "白",
+      "しろ"
+     ],
+     [
+      "い",
+      null
+     ],
+     [
+      "ウサギ",
+      null
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "聞",
+      "き"
+     ],
+     [
+      "き",
+      null
+     ],
+     [
+      "まし",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "작고 흰 토끼는 \"무슨 일 있니?\" 라고 물어봤습니다."
+   }
+  },
+  {
+   "id": "j1540150",
+   "word": "友人",
+   "reading": "ゆうじん",
+   "furigana": [
+    [
+     "友",
+     "ゆう"
+    ],
+    [
+     "人",
+     "じん"
+    ]
+   ],
+   "kanji": [
+    "友",
+    "人"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "friend"
+   ],
+   "waller": 3,
+   "example": {
+    "tid": "1589506",
+    "ja": "アンには友人がたくさんいる。",
+    "ruby": [
+     [
+      "アン",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "友",
+      "ゆう"
+     ],
+     [
+      "人",
+      "じん"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "たくさん",
+      null
+     ],
+     [
+      "いる",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1227560",
+   "word": "休む",
+   "reading": "やすむ",
+   "furigana": [
+    [
+     "休",
+     "やす"
+    ],
+    [
+     "む",
+     null
+    ]
+   ],
+   "kanji": [
+    "休"
+   ],
+   "pos": [
+    "v5m",
+    "vi"
+   ],
+   "gloss_en": [
+    "to be absent; to take a day off",
+    "to rest; to have a break",
+    "to go to bed; to (lie down to) sleep; to turn in; to retire"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "2976546",
+    "ja": "トムはよく学校を休む。",
+    "ruby": [
+     [
+      "トム",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "よく",
+      null
+     ],
+     [
+      "学校",
+      "がっこう"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "休",
+      "やす"
+     ],
+     [
+      "む",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1463770",
+   "word": "日",
+   "reading": "ひ",
+   "furigana": [
+    [
+     "日",
+     "ひ"
+    ]
+   ],
+   "kanji": [
+    "日"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "day; days",
+    "sun; sunshine; sunlight",
+    "(the) day; daytime; daylight"
+   ],
+   "waller": 4,
+   "example": {
+    "tid": "1944381",
+    "ja": "今日は学校に行かない日だ。",
+    "ruby": [
+     [
+      "今日",
+      "きょう"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "学校",
+      "がっこう"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "行",
+      "い"
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "日",
+      "ひ"
+     ],
+     [
+      "だ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "오늘은 학교에 가지 않는 날이다."
+   }
+  },
+  {
+   "id": "j1160820",
+   "word": "一つ",
+   "reading": "ひとつ",
+   "furigana": [
+    [
+     "一",
+     "ひと"
+    ],
+    [
+     "つ",
+     null
+    ]
+   ],
+   "kanji": [
+    "一"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "one",
+    "for one thing",
+    "only"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10826184",
+    "ja": "一つをキャンセルしました。",
+    "ruby": [
+     [
+      "一",
+      "ひと"
+     ],
+     [
+      "つ",
+      null
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "キャンセル",
+      null
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "まし",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "하나를 취소했습니다"
+   }
+  },
+  {
+   "id": "j1414170",
+   "word": "大人",
+   "reading": "おとな",
+   "furigana": [
+    [
+     "大人",
+     "おとな"
+    ]
+   ],
+   "kanji": [
+    "大",
+    "人"
+   ],
+   "pos": [
+    "n",
+    "adj-no",
+    "adj-na"
+   ],
+   "gloss_en": [
+    "adult; grown-up"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "9795461",
+    "ja": "大人げないことしなきゃいいのに。",
+    "ruby": [
+     [
+      "大人",
+      "おとな"
+     ],
+     [
+      "げ",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "こと",
+      null
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "なきゃ",
+      null
+     ],
+     [
+      "いい",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "유치한 짓 하지 않으면 좋을 텐데."
+   }
+  },
+  {
+   "id": "j1582670",
+   "word": "二人",
+   "reading": "ふたり",
+   "furigana": [
+    [
+     "二人",
+     "ふたり"
+    ]
+   ],
+   "kanji": [
+    "二",
+    "人"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "two persons; two people; pair; couple"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "8090451",
+    "ja": "二人ともこんなところで何してるの？",
+    "ruby": [
+     [
+      "二人",
+      "ふたり"
+     ],
+     [
+      "とも",
+      null
+     ],
+     [
+      "こんな",
+      null
+     ],
+     [
+      "ところ",
+      null
+     ],
+     [
+      "で",
+      null
+     ],
+     [
+      "何",
+      "なん"
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "てる",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "？",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "너희 둘 다 이런 곳에서 뭐하는 거야?"
+   }
+  },
+  {
+   "id": "j1600850",
+   "word": "二十日",
+   "reading": "はつか",
+   "furigana": [
+    [
+     "二十日",
+     "はつか"
+    ]
+   ],
+   "kanji": [
+    "二",
+    "十",
+    "日"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "20th day of the month",
+    "20 days"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1461140",
+   "word": "二",
+   "reading": "に",
+   "furigana": [
+    [
+     "二",
+     "に"
+    ]
+   ],
+   "kanji": [
+    "二"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "two; 2"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "8568947",
+    "ja": "二時半までそれをしたくない。",
+    "ruby": [
+     [
+      "二",
+      "に"
+     ],
+     [
+      "時",
+      "じ"
+     ],
+     [
+      "半",
+      "はん"
+     ],
+     [
+      "まで",
+      null
+     ],
+     [
+      "それ",
+      null
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "たく",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1255430",
+   "word": "月",
+   "reading": "つき",
+   "furigana": [
+    [
+     "月",
+     "つき"
+    ]
+   ],
+   "kanji": [
+    "月"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "Moon",
+    "month",
+    "moonlight"
+   ],
+   "waller": 4,
+   "example": {
+    "tid": "2970662",
+    "ja": "天に月がある。",
+    "ruby": [
+     [
+      "天",
+      "てん"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "月",
+      "つき"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "ある",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "하늘에 달이 있다."
+   }
+  },
+  {
+   "id": "j1269410",
+   "word": "後ろ",
+   "reading": "うしろ",
+   "furigana": [
+    [
+     "後",
+     "うし"
+    ],
+    [
+     "ろ",
+     null
+    ]
+   ],
+   "kanji": [
+    "後"
+   ],
+   "pos": [
+    "n",
+    "adj-no"
+   ],
+   "gloss_en": [
+    "back; behind; rear"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "174308",
+    "ja": "後ろのドアにへこみができた。",
+    "ruby": [
+     [
+      "後",
+      "うし"
+     ],
+     [
+      "ろ",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "ドア",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "へこみ",
+      null
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "でき",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1576200",
+   "word": "一生",
+   "reading": "いっしょう",
+   "furigana": [
+    [
+     "一",
+     "いっ"
+    ],
+    [
+     "生",
+     "しょう"
+    ]
+   ],
+   "kanji": [
+    "一",
+    "生"
+   ],
+   "pos": [
+    "n",
+    "adj-no",
+    "adv"
+   ],
+   "gloss_en": [
+    "whole life; a lifetime; all through life",
+    "(the only, the greatest, etc.) of one's life"
+   ],
+   "waller": 3,
+   "example": {
+    "tid": "10933306",
+    "ja": "もう一生こんなことはしません。",
+    "ruby": [
+     [
+      "もう",
+      null
+     ],
+     [
+      "一",
+      "いっ"
+     ],
+     [
+      "生",
+      "しょう"
+     ],
+     [
+      "こんな",
+      null
+     ],
+     [
+      "こと",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "ませ",
+      null
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1366770",
+   "word": "人間",
+   "reading": "にんげん",
+   "furigana": [
+    [
+     "人",
+     "にん"
+    ],
+    [
+     "間",
+     "げん"
+    ]
+   ],
+   "kanji": [
+    "人",
+    "間"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "human being; human; person; man",
+    "character (of a person)"
+   ],
+   "waller": 3,
+   "example": {
+    "tid": "216307",
+    "ja": "しかし、人間はちがっている。",
+    "ruby": [
+     [
+      "しかし",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "人",
+      "にん"
+     ],
+     [
+      "間",
+      "げん"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "ちがっ",
+      null
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "いる",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1352570",
+   "word": "上る",
+   "reading": "のぼる",
+   "furigana": [
+    [
+     "上",
+     "のぼ"
+    ],
+    [
+     "る",
+     null
+    ]
+   ],
+   "kanji": [
+    "上"
+   ],
+   "pos": [
+    "v5r",
+    "vi"
+   ],
+   "gloss_en": [
+    "to ascend; to go up; to climb",
+    "to ascend (as a natural process, e.g. the Sun); to rise",
+    "to go to (the capital)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "175628",
+    "ja": "月は東から上る。",
+    "ruby": [
+     [
+      "月",
+      "つき"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "東",
+      "ひがし"
+     ],
+     [
+      "から",
+      null
+     ],
+     [
+      "上",
+      "のぼ"
+     ],
+     [
+      "る",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1288850",
+   "word": "今",
+   "reading": "いま",
+   "furigana": [
+    [
+     "今",
+     "いま"
+    ]
+   ],
+   "kanji": [
+    "今"
+   ],
+   "pos": [
+    "n",
+    "adj-no",
+    "adv"
+   ],
+   "gloss_en": [
+    "now; the present time; just now; soon",
+    "another; more"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "172752",
+    "ja": "今のアナウンスは何だったのですか。",
+    "ruby": [
+     [
+      "今",
+      "いま"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "アナウンス",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "何",
+      "なん"
+     ],
+     [
+      "だっ",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "です",
+      null
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "What did the announcement just say?",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1465850",
+   "word": "入学",
+   "reading": "にゅうがく",
+   "furigana": [
+    [
+     "入",
+     "にゅう"
+    ],
+    [
+     "学",
+     "がく"
+    ]
+   ],
+   "kanji": [
+    "入",
+    "学"
+   ],
+   "pos": [
+    "n",
+    "vs",
+    "vi"
+   ],
+   "gloss_en": [
+    "admission (to a school or university); entrance; enrolment; enrollment"
+   ],
+   "waller": 4,
+   "example": null
+  },
+  {
+   "id": "j1476920",
+   "word": "八日",
+   "reading": "ようか",
+   "furigana": [
+    [
+     "八",
+     "よう"
+    ],
+    [
+     "日",
+     "か"
+    ]
+   ],
+   "kanji": [
+    "八",
+    "日"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "8th day of the month",
+    "eight days"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "9472440",
+    "ja": "日本では、八月八日はヒゲの日です。",
+    "ruby": [
+     [
+      "日本",
+      "にほん"
+     ],
+     [
+      "で",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "八",
+      "はち"
+     ],
+     [
+      "月",
+      "がつ"
+     ],
+     [
+      "八",
+      "よう"
+     ],
+     [
+      "日",
+      "か"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "ヒゲ",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "日",
+      "ひ"
+     ],
+     [
+      "です",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1585315",
+   "word": "六つ",
+   "reading": "むっつ",
+   "furigana": [
+    [
+     "六",
+     "むっ"
+    ],
+    [
+     "つ",
+     null
+    ]
+   ],
+   "kanji": [
+    "六"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "six",
+    "six years of age",
+    "six o'clock (old time system)"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1548220",
+   "word": "来年",
+   "reading": "らいねん",
+   "furigana": [
+    [
+     "来",
+     "らい"
+    ],
+    [
+     "年",
+     "ねん"
+    ]
+   ],
+   "kanji": [
+    "来",
+    "年"
+   ],
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "gloss_en": [
+    "next year"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10296414",
+    "ja": "来年もまたここに来たいな。",
+    "ruby": [
+     [
+      "来",
+      "らい"
+     ],
+     [
+      "年",
+      "ねん"
+     ],
+     [
+      "も",
+      null
+     ],
+     [
+      "また",
+      null
+     ],
+     [
+      "ここ",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "来",
+      "き"
+     ],
+     [
+      "たい",
+      null
+     ],
+     [
+      "な",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1547720",
+   "word": "来る",
+   "reading": "くる",
+   "furigana": [
+    [
+     "来",
+     "く"
+    ],
+    [
+     "る",
+     null
+    ]
+   ],
+   "kanji": [
+    "来"
+   ],
+   "pos": [
+    "vk",
+    "vi"
+   ],
+   "gloss_en": [
+    "to come (spatially or temporally); to approach; to arrive",
+    "to come back; to do ... and come back",
+    "to come to be; to become; to get; to grow"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "3677754",
+    "ja": "ここよく来るの？",
+    "ruby": [
+     [
+      "ここ",
+      null
+     ],
+     [
+      "よく",
+      null
+     ],
+     [
+      "来",
+      "く"
+     ],
+     [
+      "る",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "？",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "여기 자주 와?"
+   }
+  },
+  {
+   "id": "j1319220",
+   "word": "七つ",
+   "reading": "ななつ",
+   "furigana": [
+    [
+     "七",
+     "なな"
+    ],
+    [
+     "つ",
+     null
+    ]
+   ],
+   "kanji": [
+    "七"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "seven",
+    "seven years of age",
+    "four o'clock (old time system)"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1562350",
+   "word": "話す",
+   "reading": "はなす",
+   "furigana": [
+    [
+     "話",
+     "はな"
+    ],
+    [
+     "す",
+     null
+    ]
+   ],
+   "kanji": [
+    "話"
+   ],
+   "pos": [
+    "v5s",
+    "vt"
+   ],
+   "gloss_en": [
+    "to talk; to speak; to converse; to chat",
+    "to tell; to explain; to narrate; to mention",
+    "to speak (a language)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10109294",
+    "ja": "お前なんかに話すことはない。",
+    "ruby": [
+     [
+      "お",
+      null
+     ],
+     [
+      "前",
+      "まえ"
+     ],
+     [
+      "なんか",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "話",
+      "はな"
+     ],
+     [
+      "す",
+      null
+     ],
+     [
+      "こと",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1269060",
+   "word": "午前",
+   "reading": "ごぜん",
+   "furigana": [
+    [
+     "午",
+     "ご"
+    ],
+    [
+     "前",
+     "ぜん"
+    ]
+   ],
+   "kanji": [
+    "午",
+    "前"
+   ],
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "gloss_en": [
+    "morning; a.m."
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "157196",
+    "ja": "午前中はずっと本を読んでました。",
+    "ruby": [
+     [
+      "午",
+      "ご"
+     ],
+     [
+      "前",
+      "ぜん"
+     ],
+     [
+      "中",
+      "ちゅう"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "ずっと",
+      null
+     ],
+     [
+      "本",
+      "ほん"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "読",
+      "よ"
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "で",
+      null
+     ],
+     [
+      "まし",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "오전 중에는 쭉 책을 읽고 있었습니다."
+   }
+  },
+  {
+   "id": "j1387210",
+   "word": "先",
+   "reading": "さき",
+   "furigana": [
+    [
+     "先",
+     "さき"
+    ]
+   ],
+   "kanji": [
+    "先"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "point; tip; end; nozzle",
+    "head (of a line); front",
+    "first; before; ahead (of)"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "205916",
+    "ja": "それから先の話を聞きたい。",
+    "ruby": [
+     [
+      "それ",
+      null
+     ],
+     [
+      "から",
+      null
+     ],
+     [
+      "先",
+      "さき"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "話",
+      "はなし"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "聞",
+      "き"
+     ],
+     [
+      "き",
+      null
+     ],
+     [
+      "たい",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "I'd like to know the rest of the story.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1347870",
+   "word": "小学校",
+   "reading": "しょうがっこう",
+   "furigana": [
+    [
+     "小",
+     "しょう"
+    ],
+    [
+     "学",
+     "がっ"
+    ],
+    [
+     "校",
+     "こう"
+    ]
+   ],
+   "kanji": [
+    "小",
+    "学",
+    "校"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "primary school; elementary school; grade school"
+   ],
+   "waller": 4,
+   "example": {
+    "tid": "224447",
+    "ja": "ここにもとは小学校があった。",
+    "ruby": [
+     [
+      "ここ",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "もと",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "小",
+      "しょう"
+     ],
+     [
+      "学",
+      "がっ"
+     ],
+     [
+      "校",
+      "こう"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "あっ",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1576260",
+   "word": "一日",
+   "reading": "いちにち",
+   "furigana": [
+    [
+     "一",
+     "いち"
+    ],
+    [
+     "日",
+     "にち"
+    ]
+   ],
+   "kanji": [
+    "一",
+    "日"
+   ],
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "gloss_en": [
+    "one day",
+    "all day (long); the whole day; from morning till night",
+    "first day of the month"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "11655426",
+    "ja": "一日何時間テレビを見ますか？",
+    "ruby": [
+     [
+      "一",
+      "いち"
+     ],
+     [
+      "日",
+      "にち"
+     ],
+     [
+      "何",
+      "なん"
+     ],
+     [
+      "時間",
+      "じかん"
+     ],
+     [
+      "テレビ",
+      null
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "見",
+      "み"
+     ],
+     [
+      "ます",
+      null
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "？",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j2225040",
+   "word": "一日",
+   "reading": "ついたち",
+   "furigana": [
+    [
+     "一日",
+     "ついたち"
+    ]
+   ],
+   "kanji": [
+    "一",
+    "日"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "first day of the month; the first of the month"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "192249",
+    "ja": "ローマは一日にしてならず。",
+    "ruby": [
+     [
+      "ローマ",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "一日",
+      "ついたち"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "なら",
+      null
+     ],
+     [
+      "ず",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1588880",
+   "word": "大きい",
+   "reading": "おおきい",
+   "furigana": [
+    [
+     "大",
+     "おお"
+    ],
+    [
+     "きい",
+     null
+    ]
+   ],
+   "kanji": [
+    "大"
+   ],
+   "pos": [
+    "adj-i"
+   ],
+   "gloss_en": [
+    "big; large; great",
+    "loud",
+    "extensive; spacious"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10212512",
+    "ja": "このテレビ、大きいし高いよ。",
+    "ruby": [
+     [
+      "この",
+      null
+     ],
+     [
+      "テレビ",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "大",
+      "おお"
+     ],
+     [
+      "きい",
+      null
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "高",
+      "たか"
+     ],
+     [
+      "い",
+      null
+     ],
+     [
+      "よ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1461160",
+   "word": "二つ",
+   "reading": "ふたつ",
+   "furigana": [
+    [
+     "二",
+     "ふた"
+    ],
+    [
+     "つ",
+     null
+    ]
+   ],
+   "kanji": [
+    "二"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "two"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "13199281",
+    "ja": "二つしか見つけられなかった。",
+    "ruby": [
+     [
+      "二",
+      "ふた"
+     ],
+     [
+      "つ",
+      null
+     ],
+     [
+      "しか",
+      null
+     ],
+     [
+      "見",
+      "み"
+     ],
+     [
+      "つけ",
+      null
+     ],
+     [
+      "られ",
+      null
+     ],
+     [
+      "なかっ",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "두 개 밖에 못 찾았어."
+   }
+  },
+  {
+   "id": "j1462900",
+   "word": "二日",
+   "reading": "ふつか",
+   "furigana": [
+    [
+     "二日",
+     "ふつか"
+    ]
+   ],
+   "kanji": [
+    "二",
+    "日"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "2nd day of the month",
+    "two days"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1598550",
+   "word": "出かける",
+   "reading": "でかける",
+   "furigana": [
+    [
+     "出",
+     "で"
+    ],
+    [
+     "かける",
+     null
+    ]
+   ],
+   "kanji": [
+    "出"
+   ],
+   "pos": [
+    "v1",
+    "vi"
+   ],
+   "gloss_en": [
+    "to go out (e.g. on an excursion or outing); to leave; to depart; to start",
+    "to be about to leave; to be just going out"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10962448",
+    "ja": "いつパーティーに出かけるの？",
+    "ruby": [
+     [
+      "いつ",
+      null
+     ],
+     [
+      "パーティー",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "出",
+      "で"
+     ],
+     [
+      "かける",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "？",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1299740",
+   "word": "三つ",
+   "reading": "みっつ",
+   "furigana": [
+    [
+     "三",
+     "みっ"
+    ],
+    [
+     "つ",
+     null
+    ]
+   ],
+   "kanji": [
+    "三"
+   ],
+   "pos": [
+    "num"
+   ],
+   "gloss_en": [
+    "three",
+    "three years of age"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "224844",
+    "ja": "コーヒー三つおねがいします。",
+    "ruby": [
+     [
+      "コーヒー",
+      null
+     ],
+     [
+      "三",
+      "みっ"
+     ],
+     [
+      "つ",
+      null
+     ],
+     [
+      "お",
+      null
+     ],
+     [
+      "ねがい",
+      null
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "ます",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1162130",
+   "word": "一月",
+   "reading": "ひとつき",
+   "furigana": [
+    [
+     "一",
+     "ひと"
+    ],
+    [
+     "月",
+     "つき"
+    ]
+   ],
+   "kanji": [
+    "一",
+    "月"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "one month"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1378690",
+   "word": "生まれる",
+   "reading": "うまれる",
+   "furigana": [
+    [
+     "生",
+     "う"
+    ],
+    [
+     "まれる",
+     null
+    ]
+   ],
+   "kanji": [
+    "生"
+   ],
+   "pos": [
+    "v1",
+    "vi"
+   ],
+   "gloss_en": [
+    "to be born"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "199613",
+    "ja": "どんぐりからオークが生まれる。",
+    "ruby": [
+     [
+      "どんぐり",
+      null
+     ],
+     [
+      "から",
+      null
+     ],
+     [
+      "オーク",
+      null
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "生",
+      "う"
+     ],
+     [
+      "まれる",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1268570",
+   "word": "五日",
+   "reading": "いつか",
+   "furigana": [
+    [
+     "五",
+     "いつ"
+    ],
+    [
+     "日",
+     "か"
+    ]
+   ],
+   "kanji": [
+    "五",
+    "日"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "5th day of the month",
+    "five days"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "169490",
+    "ja": "三日から五日で。",
+    "ruby": [
+     [
+      "三",
+      "みっ"
+     ],
+     [
+      "日",
+      "か"
+     ],
+     [
+      "から",
+      null
+     ],
+     [
+      "五",
+      "いつ"
+     ],
+     [
+      "日",
+      "か"
+     ],
+     [
+      "で",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "Maybe three to five days.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1307320",
+   "word": "四日",
+   "reading": "よっか",
+   "furigana": [
+    [
+     "四",
+     "よっ"
+    ],
+    [
+     "日",
+     "か"
+    ]
+   ],
+   "kanji": [
+    "四",
+    "日"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "4th day of the month",
+    "four days"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1289100",
+   "word": "今月",
+   "reading": "こんげつ",
+   "furigana": [
+    [
+     "今",
+     "こん"
+    ],
+    [
+     "月",
+     "げつ"
+    ]
+   ],
+   "kanji": [
+    "今",
+    "月"
+   ],
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "gloss_en": [
+    "this month"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "172471",
+    "ja": "今月いっぱいここにいます。",
+    "ruby": [
+     [
+      "今",
+      "こん"
+     ],
+     [
+      "月",
+      "げつ"
+     ],
+     [
+      "いっぱい",
+      null
+     ],
+     [
+      "ここ",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "い",
+      null
+     ],
+     [
+      "ます",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1243850",
+   "word": "九日",
+   "reading": "ここのか",
+   "furigana": [
+    [
+     "九",
+     "ここの"
+    ],
+    [
+     "日",
+     "か"
+    ]
+   ],
+   "kanji": [
+    "九",
+    "日"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "9th day of the month",
+    "nine days"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1203650",
+   "word": "外国人",
+   "reading": "がいこくじん",
+   "furigana": [
+    [
+     "外",
+     "がい"
+    ],
+    [
+     "国",
+     "こく"
+    ],
+    [
+     "人",
+     "じん"
+    ]
+   ],
+   "kanji": [
+    "外",
+    "国",
+    "人"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "foreigner; foreign citizen; foreign national; alien"
+   ],
+   "waller": 5,
+   "example": null
+  },
+  {
+   "id": "j1443000",
+   "word": "電気",
+   "reading": "でんき",
+   "furigana": [
+    [
+     "電",
+     "でん"
+    ],
+    [
+     "気",
+     "き"
+    ]
+   ],
+   "kanji": [
+    "電",
+    "気"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "electricity",
+    "(electric) light"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "10314820",
+    "ja": "このエアコンは電気を食うな。",
+    "ruby": [
+     [
+      "この",
+      null
+     ],
+     [
+      "エアコン",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "電",
+      "でん"
+     ],
+     [
+      "気",
+      "き"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "食",
+      "く"
+     ],
+     [
+      "う",
+      null
+     ],
+     [
+      "な",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1206730",
+   "word": "学校",
+   "reading": "がっこう",
+   "furigana": [
+    [
+     "学",
+     "がっ"
+    ],
+    [
+     "校",
+     "こう"
+    ]
+   ],
+   "kanji": [
+    "学",
+    "校"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "school"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "11277667",
+    "ja": "どうして学校に行かなかったの？",
+    "ruby": [
+     [
+      "どう",
+      null
+     ],
+     [
+      "し",
+      null
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "学",
+      "がっ"
+     ],
+     [
+      "校",
+      "こう"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "行",
+      "い"
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "なかっ",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "？",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": "왜 학교에 가지 않았어?"
+   }
+  },
+  {
+   "id": "j1584350",
+   "word": "毎月",
+   "reading": "まいつき",
+   "furigana": [
+    [
+     "毎",
+     "まい"
+    ],
+    [
+     "月",
+     "つき"
+    ]
+   ],
+   "kanji": [
+    "毎",
+    "月"
+   ],
+   "pos": [
+    "adv",
+    "n"
+   ],
+   "gloss_en": [
+    "every month; each month; monthly"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "1257660",
+    "ja": "毎月どのくらい本を読みますか。",
+    "ruby": [
+     [
+      "毎",
+      "まい"
+     ],
+     [
+      "月",
+      "つき"
+     ],
+     [
+      "どの",
+      null
+     ],
+     [
+      "くらい",
+      null
+     ],
+     [
+      "本",
+      "ほん"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "読",
+      "よ"
+     ],
+     [
+      "み",
+      null
+     ],
+     [
+      "ます",
+      null
+     ],
+     [
+      "か",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+# old app (contains personal study records) - never publish
+_legacy/
+
+# raw downloaded dictionaries and the Python venv (rebuild with pipeline/build_decks.py)
+pipeline/raw/
+pipeline/.venv/
+__pycache__/
+
+# app build output
+app/node_modules/
+app/dist/
+
+.claude/settings.local.json

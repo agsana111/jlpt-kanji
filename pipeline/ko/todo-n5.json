@@ -1,0 +1,2889 @@
+{
+ "cards": [
+  {
+   "id": "j1160790",
+   "word": "一",
+   "reading": "いち",
+   "gloss_en": [
+    "one; 1",
+    "best",
+    "first; foremost"
+   ]
+  },
+  {
+   "id": "j1592250",
+   "word": "国",
+   "reading": "くに",
+   "gloss_en": [
+    "country; state",
+    "region",
+    "national government; central government"
+   ]
+  },
+  {
+   "id": "j1468060",
+   "word": "年",
+   "reading": "とし",
+   "gloss_en": [
+    "year",
+    "age; years",
+    "past one's prime; old age"
+   ]
+  },
+  {
+   "id": "j1579840",
+   "word": "十",
+   "reading": "じゅう",
+   "gloss_en": [
+    "ten; 10",
+    "ten years of age"
+   ]
+  },
+  {
+   "id": "j1522150",
+   "word": "本",
+   "reading": "ほん",
+   "gloss_en": [
+    "book; volume; script",
+    "this; present; current; ... in question",
+    "main; head; principal"
+   ]
+  },
+  {
+   "id": "j1423310",
+   "word": "中",
+   "reading": "なか",
+   "gloss_en": [
+    "inside; interior",
+    "among; within",
+    "middle; center; centre"
+   ]
+  },
+  {
+   "id": "j1429750",
+   "word": "長い",
+   "reading": "ながい",
+   "gloss_en": [
+    "long (distance, length)",
+    "long (time); protracted; prolonged"
+   ]
+  },
+  {
+   "id": "j1338180",
+   "word": "出す",
+   "reading": "だす",
+   "gloss_en": [
+    "to take out; to get out",
+    "to put out; to reveal; to show",
+    "to submit (e.g. thesis); to turn in"
+   ]
+  },
+  {
+   "id": "j1579350",
+   "word": "三",
+   "reading": "さん",
+   "gloss_en": [
+    "three; 3"
+   ]
+  },
+  {
+   "id": "j1578850",
+   "word": "行く",
+   "reading": "いく",
+   "gloss_en": [
+    "to go; to move (towards); to head (towards); to leave (for)",
+    "to move through; to travel across; to walk along (e.g. a road)",
+    "to go (well, badly, etc.); to proceed; to turn out; to get along"
+   ]
+  },
+  {
+   "id": "j1259290",
+   "word": "見る",
+   "reading": "みる",
+   "gloss_en": [
+    "to see; to look; to watch; to view",
+    "to examine; to look over; to assess; to check",
+    "to look after; to attend to; to take care of; to keep an eye on"
+   ]
+  },
+  {
+   "id": "j1269320",
+   "word": "後",
+   "reading": "あと",
+   "gloss_en": [
+    "behind; rear",
+    "after; later",
+    "remainder; the rest"
+   ]
+  },
+  {
+   "id": "j1392580",
+   "word": "前",
+   "reading": "まえ",
+   "gloss_en": [
+    "in front (of); before (e.g. a building)",
+    "before; earlier; previously; prior",
+    "(the) front; frontal part; fore; head (e.g. of a line)"
+   ]
+  },
+  {
+   "id": "j1268060",
+   "word": "五",
+   "reading": "ご",
+   "gloss_en": [
+    "five; 5"
+   ]
+  },
+  {
+   "id": "j1315920",
+   "word": "時間",
+   "reading": "じかん",
+   "gloss_en": [
+    "time",
+    "hour",
+    "period; class; lesson"
+   ]
+  },
+  {
+   "id": "j1352130",
+   "word": "上",
+   "reading": "うえ",
+   "gloss_en": [
+    "above; over; up",
+    "top; summit; upper part; head (e.g. of a staircase)",
+    "surface; on (top of)"
+   ]
+  },
+  {
+   "id": "j1447440",
+   "word": "東",
+   "reading": "ひがし",
+   "gloss_en": [
+    "east"
+   ]
+  },
+  {
+   "id": "j1579470",
+   "word": "四",
+   "reading": "し",
+   "gloss_en": [
+    "four; 4"
+   ]
+  },
+  {
+   "id": "j1579110",
+   "word": "今日",
+   "reading": "きょう",
+   "gloss_en": [
+    "today; this day",
+    "these days; recently; nowadays"
+   ]
+  },
+  {
+   "id": "j1001820",
+   "word": "お金",
+   "reading": "おかね",
+   "gloss_en": [
+    "money"
+   ]
+  },
+  {
+   "id": "j1578150",
+   "word": "九",
+   "reading": "きゅう",
+   "gloss_en": [
+    "nine; 9"
+   ]
+  },
+  {
+   "id": "j1465590",
+   "word": "入る",
+   "reading": "はいる",
+   "gloss_en": [
+    "to enter; to come in; to go in; to get in",
+    "to join (a club, company, etc.); to enter (a university, the army, etc.); to enroll (in); to go into (e.g. politics)",
+    "to be contained (in); to be included (in); to be inside (e.g. a box); to come under (a heading)"
+   ]
+  },
+  {
+   "id": "j1413240",
+   "word": "大学",
+   "reading": "だいがく",
+   "gloss_en": [
+    "university; college",
+    "former imperial university of Japan (established under the ritsuryō system for the training of government administrators)",
+    "the Great Learning (one of the Four Books)"
+   ]
+  },
+  {
+   "id": "j1283190",
+   "word": "高い",
+   "reading": "たかい",
+   "gloss_en": [
+    "high; tall",
+    "expensive; high-priced",
+    "high (level); above average (in degree, quality, etc.)"
+   ]
+  },
+  {
+   "id": "j1175570",
+   "word": "円",
+   "reading": "えん",
+   "gloss_en": [
+    "yen (currency of Japan)",
+    "circle"
+   ]
+  },
+  {
+   "id": "j1583090",
+   "word": "八",
+   "reading": "はち",
+   "gloss_en": [
+    "eight; 8"
+   ]
+  },
+  {
+   "id": "j1585310",
+   "word": "六",
+   "reading": "ろく",
+   "gloss_en": [
+    "six; 6"
+   ]
+  },
+  {
+   "id": "j1184140",
+   "word": "下",
+   "reading": "した",
+   "gloss_en": [
+    "below; down; under; younger (e.g. daughter)",
+    "bottom",
+    "beneath; underneath"
+   ]
+  },
+  {
+   "id": "j1547900",
+   "word": "来月",
+   "reading": "らいげつ",
+   "gloss_en": [
+    "next month"
+   ]
+  },
+  {
+   "id": "j2136180",
+   "word": "小さな",
+   "reading": "ちいさな",
+   "gloss_en": [
+    "small; little; tiny"
+   ]
+  },
+  {
+   "id": "j1319210",
+   "word": "七",
+   "reading": "しち",
+   "gloss_en": [
+    "seven"
+   ]
+  },
+  {
+   "id": "j1302680",
+   "word": "山",
+   "reading": "やま",
+   "gloss_en": [
+    "mountain; hill",
+    "mine",
+    "(mountain) forest"
+   ]
+  },
+  {
+   "id": "j1600900",
+   "word": "話",
+   "reading": "はなし",
+   "gloss_en": [
+    "talk; speech; chat; conversation",
+    "topic; subject",
+    "discussions; negotiation; argument"
+   ]
+  },
+  {
+   "id": "j1344970",
+   "word": "女の子",
+   "reading": "おんなのこ",
+   "gloss_en": [
+    "girl; daughter; baby girl",
+    "young woman"
+   ]
+  },
+  {
+   "id": "j1520670",
+   "word": "北",
+   "reading": "きた",
+   "gloss_en": [
+    "north",
+    "the North; northern territories",
+    "North Korea"
+   ]
+  },
+  {
+   "id": "j1488000",
+   "word": "百",
+   "reading": "ひゃく",
+   "gloss_en": [
+    "hundred; 100"
+   ]
+  },
+  {
+   "id": "j1343950",
+   "word": "書く",
+   "reading": "かく",
+   "gloss_en": [
+    "to write; to compose; to pen",
+    "to draw; to paint"
+   ]
+  },
+  {
+   "id": "j1387990",
+   "word": "先生",
+   "reading": "せんせい",
+   "gloss_en": [
+    "teacher; instructor; master",
+    "sensei; title or form of address for a teacher, master, doctor, lawyer, etc.",
+    "intimate or teasing form of address"
+   ]
+  },
+  {
+   "id": "j1390020",
+   "word": "川",
+   "reading": "かわ",
+   "gloss_en": [
+    "river; stream",
+    "River; the ... river"
+   ]
+  },
+  {
+   "id": "j1388740",
+   "word": "千",
+   "reading": "せん",
+   "gloss_en": [
+    "thousand; 1,000"
+   ]
+  },
+  {
+   "id": "j1371260",
+   "word": "水",
+   "reading": "みず",
+   "gloss_en": [
+    "water (esp. cool or cold)",
+    "fluid (esp. in an animal tissue); liquid",
+    "flood; floodwaters"
+   ]
+  },
+  {
+   "id": "j1478750",
+   "word": "半",
+   "reading": "はん",
+   "gloss_en": [
+    "half; semi-; partial",
+    "half-past",
+    "odd number"
+   ]
+  },
+  {
+   "id": "j1419990",
+   "word": "男",
+   "reading": "おとこ",
+   "gloss_en": [
+    "man; male",
+    "fellow; guy; chap; bloke",
+    "male lover; boyfriend; man"
+   ]
+  },
+  {
+   "id": "j1380840",
+   "word": "西",
+   "reading": "にし",
+   "gloss_en": [
+    "west"
+   ]
+  },
+  {
+   "id": "j1270910",
+   "word": "語",
+   "reading": "ご",
+   "gloss_en": [
+    "word; term",
+    "language",
+    "speech"
+   ]
+  },
+  {
+   "id": "j1445270",
+   "word": "土",
+   "reading": "つち",
+   "gloss_en": [
+    "earth; soil; dirt; clay",
+    "the earth (historically, esp. as opposed to the heavens); the ground; the land",
+    "low-quality torinoko-gami (containing mud)"
+   ]
+  },
+  {
+   "id": "j1534520",
+   "word": "木",
+   "reading": "き",
+   "gloss_en": [
+    "tree; shrub; bush",
+    "wood; timber",
+    "wooden clappers (signalling the beginning or end of a performance)"
+   ]
+  },
+  {
+   "id": "j1591110",
+   "word": "聞く",
+   "reading": "きく",
+   "gloss_en": [
+    "to hear",
+    "to listen (e.g. to music)",
+    "to ask; to enquire; to query"
+   ]
+  },
+  {
+   "id": "j1358280",
+   "word": "食べる",
+   "reading": "たべる",
+   "gloss_en": [
+    "to eat",
+    "to live on (e.g. a salary); to live off; to subsist on"
+   ]
+  },
+  {
+   "id": "j1577100",
+   "word": "何",
+   "reading": "なに",
+   "gloss_en": [
+    "what",
+    "you-know-what; that thing",
+    "whatsit; whachamacallit; what's-his-name; what's-her-name"
+   ]
+  },
+  {
+   "id": "j1459870",
+   "word": "南",
+   "reading": "みなみ",
+   "gloss_en": [
+    "south"
+   ]
+  },
+  {
+   "id": "j1584460",
+   "word": "万",
+   "reading": "まん",
+   "gloss_en": [
+    "10,000; ten thousand",
+    "myriad",
+    "everything; all"
+   ]
+  },
+  {
+   "id": "j1474900",
+   "word": "白",
+   "reading": "しろ",
+   "gloss_en": [
+    "white",
+    "innocence; innocent person",
+    "blank space"
+   ]
+  },
+  {
+   "id": "j1438690",
+   "word": "天気",
+   "reading": "てんき",
+   "gloss_en": [
+    "weather",
+    "fair weather; fine weather"
+   ]
+  },
+  {
+   "id": "j1002650",
+   "word": "お母さん",
+   "reading": "おかあさん",
+   "gloss_en": [
+    "mother; mom; mum; ma",
+    "wife",
+    "you (of an elderly person older than the speaker); she; her"
+   ]
+  },
+  {
+   "id": "j1193610",
+   "word": "火",
+   "reading": "ひ",
+   "gloss_en": [
+    "fire; flame; blaze"
+   ]
+  },
+  {
+   "id": "j1171010",
+   "word": "右",
+   "reading": "みぎ",
+   "gloss_en": [
+    "right; right-hand side",
+    "right hand",
+    "the above (in a piece of vertical writing); above-mentioned"
+   ]
+  },
+  {
+   "id": "j1456360",
+   "word": "読む",
+   "reading": "よむ",
+   "gloss_en": [
+    "to read",
+    "to recite (e.g. a sutra); to chant",
+    "to predict; to guess; to forecast; to read (someone's thoughts)"
+   ]
+  },
+  {
+   "id": "j1539980",
+   "word": "友",
+   "reading": "とも",
+   "gloss_en": [
+    "friend; companion; comrade; pal",
+    "accompaniment; companion (e.g. book); complement; accessory"
+   ]
+  },
+  {
+   "id": "j1290800",
+   "word": "左",
+   "reading": "ひだり",
+   "gloss_en": [
+    "left; left-hand side",
+    "left hand",
+    "the left (wing); leftist"
+   ]
+  },
+  {
+   "id": "j1227500",
+   "word": "休み",
+   "reading": "やすみ",
+   "gloss_en": [
+    "rest; recess; respite",
+    "vacation; holiday; absence; suspension",
+    "dormancy (of a silkworm prior to moulting)"
+   ]
+  },
+  {
+   "id": "j1002590",
+   "word": "お父さん",
+   "reading": "おとうさん",
+   "gloss_en": [
+    "father; dad; papa; pa",
+    "husband",
+    "you (of an elderly person older than the speaker); he; him"
+   ]
+  },
+  {
+   "id": "j1171900",
+   "word": "雨",
+   "reading": "あめ",
+   "gloss_en": [
+    "rain",
+    "rainy day; rainy weather",
+    "the November suit (in hanafuda)"
+   ]
+  },
+  {
+   "id": "j1576150",
+   "word": "一人",
+   "reading": "ひとり",
+   "gloss_en": [
+    "one person",
+    "being alone; being by oneself",
+    "being single; being unmarried"
+   ]
+  },
+  {
+   "id": "j1580640",
+   "word": "人",
+   "reading": "ひと",
+   "gloss_en": [
+    "person; someone; somebody",
+    "human beings; mankind; man; people",
+    "human (Homo sapiens)"
+   ]
+  },
+  {
+   "id": "j1412890",
+   "word": "大きな",
+   "reading": "おおきな",
+   "gloss_en": [
+    "big; large; great"
+   ]
+  },
+  {
+   "id": "j1335000",
+   "word": "十日",
+   "reading": "とおか",
+   "gloss_en": [
+    "10th day of the month",
+    "ten days"
+   ]
+  },
+  {
+   "id": "j1582710",
+   "word": "日本",
+   "reading": "にほん",
+   "gloss_en": [
+    "Japan"
+   ]
+  },
+  {
+   "id": "j1464250",
+   "word": "日中",
+   "reading": "にっちゅう",
+   "gloss_en": [
+    "daytime; during the day",
+    "Japan and China; Japanese-Chinese; Sino-Japanese"
+   ]
+  },
+  {
+   "id": "j1338240",
+   "word": "出る",
+   "reading": "でる",
+   "gloss_en": [
+    "to leave; to exit; to go out; to come out",
+    "to leave (on a journey); to depart; to start out; to set out",
+    "to move forward"
+   ]
+  },
+  {
+   "id": "j1301330",
+   "word": "三日",
+   "reading": "みっか",
+   "gloss_en": [
+    "3rd day of the month",
+    "three days"
+   ]
+  },
+  {
+   "id": "j1598680",
+   "word": "時々",
+   "reading": "ときどき",
+   "gloss_en": [
+    "sometimes; occasionally; at times; from time to time",
+    "seasonal; of the season; appropriate (for the season or occasion)"
+   ]
+  },
+  {
+   "id": "j1589060",
+   "word": "行う",
+   "reading": "おこなう",
+   "gloss_en": [
+    "to perform; to do; to conduct oneself; to carry out"
+   ]
+  },
+  {
+   "id": "j1259210",
+   "word": "見せる",
+   "reading": "みせる",
+   "gloss_en": [
+    "to show; to display",
+    "to make (something or someone) look ...; to present an appearance of ...",
+    "to make (something) worth watching; to be entertaining"
+   ]
+  },
+  {
+   "id": "j1268070",
+   "word": "五つ",
+   "reading": "いつつ",
+   "gloss_en": [
+    "five",
+    "five years of age",
+    "eight o'clock (old time system)"
+   ]
+  },
+  {
+   "id": "j1215230",
+   "word": "間",
+   "reading": "あいだ",
+   "gloss_en": [
+    "space (between); gap; interval; distance",
+    "period of time (during, while); duration; interval",
+    "between (two parties or things)"
+   ]
+  },
+  {
+   "id": "j1352320",
+   "word": "上げる",
+   "reading": "あげる",
+   "gloss_en": [
+    "to raise; to elevate",
+    "to move something (to a higher place); to put onto (e.g. a shelf)",
+    "to increase (price, quality, status, etc.); to raise (a wage)"
+   ]
+  },
+  {
+   "id": "j1307040",
+   "word": "四つ",
+   "reading": "よっつ",
+   "gloss_en": [
+    "four; 4",
+    "four years of age",
+    "ten o'clock (in the old time system)"
+   ]
+  },
+  {
+   "id": "j1579130",
+   "word": "今年",
+   "reading": "ことし",
+   "gloss_en": [
+    "this year"
+   ]
+  },
+  {
+   "id": "j1243600",
+   "word": "九つ",
+   "reading": "ここのつ",
+   "gloss_en": [
+    "nine",
+    "nine years of age",
+    "twelve o'clock (old time system)"
+   ]
+  },
+  {
+   "id": "j1465610",
+   "word": "入れる",
+   "reading": "いれる",
+   "gloss_en": [
+    "to put in; to let in; to take in; to bring in",
+    "to admit; to accept; to employ; to hire",
+    "to accept; to comply; to grant; to adopt (a policy, etc.)"
+   ]
+  },
+  {
+   "id": "j1206900",
+   "word": "学生",
+   "reading": "がくせい",
+   "gloss_en": [
+    "student (esp. a university student)"
+   ]
+  },
+  {
+   "id": "j1307770",
+   "word": "子",
+   "reading": "こ",
+   "gloss_en": [
+    "child; kid; teenager; youngster",
+    "(one's) child; offspring",
+    "young woman"
+   ]
+  },
+  {
+   "id": "j1203620",
+   "word": "外国",
+   "reading": "がいこく",
+   "gloss_en": [
+    "foreign country"
+   ]
+  },
+  {
+   "id": "j1203250",
+   "word": "外",
+   "reading": "そと",
+   "gloss_en": [
+    "outside; exterior",
+    "the open (air)",
+    "other place; somewhere else; outside one's group (family, company, etc.)"
+   ]
+  },
+  {
+   "id": "j1583095",
+   "word": "八つ",
+   "reading": "やっつ",
+   "gloss_en": [
+    "eight",
+    "eight years of age",
+    "two o'clock (old time system)"
+   ]
+  },
+  {
+   "id": "j1561470",
+   "word": "六日",
+   "reading": "むいか",
+   "gloss_en": [
+    "6th day of the month",
+    "six days"
+   ]
+  },
+  {
+   "id": "j1184160",
+   "word": "下がる",
+   "reading": "さがる",
+   "gloss_en": [
+    "to come down; to go down; to fall; to drop",
+    "to hang; to dangle",
+    "to move back; to step back; to withdraw; to retire"
+   ]
+  },
+  {
+   "id": "j1221520",
+   "word": "気",
+   "reading": "き",
+   "gloss_en": [
+    "spirit; mind; heart",
+    "nature; disposition",
+    "intention; mind; will; motivation"
+   ]
+  },
+  {
+   "id": "j1347750",
+   "word": "小さい",
+   "reading": "ちいさい",
+   "gloss_en": [
+    "small; little; tiny",
+    "slight; below average (in degree, amount, etc.); minor; small",
+    "low (e.g. sound); soft (e.g. voice)"
+   ]
+  },
+  {
+   "id": "j1579630",
+   "word": "七日",
+   "reading": "なのか",
+   "gloss_en": [
+    "7th day of the month",
+    "seven days"
+   ]
+  },
+  {
+   "id": "j1344930",
+   "word": "女",
+   "reading": "おんな",
+   "gloss_en": [
+    "woman; female",
+    "female lover; girlfriend; mistress; (someone's) woman"
+   ]
+  },
+  {
+   "id": "j1268990",
+   "word": "午後",
+   "reading": "ごご",
+   "gloss_en": [
+    "afternoon; p.m."
+   ]
+  },
+  {
+   "id": "j1387500",
+   "word": "先月",
+   "reading": "せんげつ",
+   "gloss_en": [
+    "last month"
+   ]
+  },
+  {
+   "id": "j1531710",
+   "word": "名前",
+   "reading": "なまえ",
+   "gloss_en": [
+    "name",
+    "given name; first name"
+   ]
+  },
+  {
+   "id": "j1420010",
+   "word": "男の子",
+   "reading": "おとこのこ",
+   "gloss_en": [
+    "boy; son; baby boy",
+    "young man"
+   ]
+  },
+  {
+   "id": "j1443840",
+   "word": "電話",
+   "reading": "でんわ",
+   "gloss_en": [
+    "telephone call; phone call",
+    "telephone (device); phone"
+   ]
+  },
+  {
+   "id": "j1279590",
+   "word": "校長",
+   "reading": "こうちょう",
+   "gloss_en": [
+    "principal; head teacher; headmaster; headmistress"
+   ]
+  },
+  {
+   "id": "j1283500",
+   "word": "高校",
+   "reading": "こうこう",
+   "gloss_en": [
+    "senior high school; high school"
+   ]
+  },
+  {
+   "id": "j1591150",
+   "word": "聞こえる",
+   "reading": "きこえる",
+   "gloss_en": [
+    "to be heard; to be audible; to reach one's ears",
+    "to sound (like); to come across (as)",
+    "to be well known; to be famous"
+   ]
+  },
+  {
+   "id": "j1443530",
+   "word": "電車",
+   "reading": "でんしゃ",
+   "gloss_en": [
+    "train; electric train"
+   ]
+  },
+  {
+   "id": "j1323080",
+   "word": "車",
+   "reading": "くるま",
+   "gloss_en": [
+    "car; automobile; vehicle",
+    "wheel; castor; caster"
+   ]
+  },
+  {
+   "id": "j2846738",
+   "word": "何",
+   "reading": "なん",
+   "gloss_en": [
+    "what",
+    "how many",
+    "many; a lot of"
+   ]
+  },
+  {
+   "id": "j1524720",
+   "word": "毎日",
+   "reading": "まいにち",
+   "gloss_en": [
+    "every day; daily"
+   ]
+  },
+  {
+   "id": "j1584360",
+   "word": "毎年",
+   "reading": "まいとし",
+   "gloss_en": [
+    "every year; yearly; annually"
+   ]
+  },
+  {
+   "id": "j1474910",
+   "word": "白い",
+   "reading": "しろい",
+   "gloss_en": [
+    "white",
+    "blank (e.g. paper); uncolored; unmarked; spotless",
+    "innocent; not guilty; pure"
+   ]
+  },
+  {
+   "id": "j1540150",
+   "word": "友人",
+   "reading": "ゆうじん",
+   "gloss_en": [
+    "friend"
+   ]
+  },
+  {
+   "id": "j1227560",
+   "word": "休む",
+   "reading": "やすむ",
+   "gloss_en": [
+    "to be absent; to take a day off",
+    "to rest; to have a break",
+    "to go to bed; to (lie down to) sleep; to turn in; to retire"
+   ]
+  },
+  {
+   "id": "j1463770",
+   "word": "日",
+   "reading": "ひ",
+   "gloss_en": [
+    "day; days",
+    "sun; sunshine; sunlight",
+    "(the) day; daytime; daylight"
+   ]
+  },
+  {
+   "id": "j1160820",
+   "word": "一つ",
+   "reading": "ひとつ",
+   "gloss_en": [
+    "one",
+    "for one thing",
+    "only"
+   ]
+  },
+  {
+   "id": "j1414170",
+   "word": "大人",
+   "reading": "おとな",
+   "gloss_en": [
+    "adult; grown-up"
+   ]
+  },
+  {
+   "id": "j1582670",
+   "word": "二人",
+   "reading": "ふたり",
+   "gloss_en": [
+    "two persons; two people; pair; couple"
+   ]
+  },
+  {
+   "id": "j1600850",
+   "word": "二十日",
+   "reading": "はつか",
+   "gloss_en": [
+    "20th day of the month",
+    "20 days"
+   ]
+  },
+  {
+   "id": "j1461140",
+   "word": "二",
+   "reading": "に",
+   "gloss_en": [
+    "two; 2"
+   ]
+  },
+  {
+   "id": "j1255430",
+   "word": "月",
+   "reading": "つき",
+   "gloss_en": [
+    "Moon",
+    "month",
+    "moonlight"
+   ]
+  },
+  {
+   "id": "j1269410",
+   "word": "後ろ",
+   "reading": "うしろ",
+   "gloss_en": [
+    "back; behind; rear"
+   ]
+  },
+  {
+   "id": "j1576200",
+   "word": "一生",
+   "reading": "いっしょう",
+   "gloss_en": [
+    "whole life; a lifetime; all through life",
+    "(the only, the greatest, etc.) of one's life"
+   ]
+  },
+  {
+   "id": "j1366770",
+   "word": "人間",
+   "reading": "にんげん",
+   "gloss_en": [
+    "human being; human; person; man",
+    "character (of a person)"
+   ]
+  },
+  {
+   "id": "j1352570",
+   "word": "上る",
+   "reading": "のぼる",
+   "gloss_en": [
+    "to ascend; to go up; to climb",
+    "to ascend (as a natural process, e.g. the Sun); to rise",
+    "to go to (the capital)"
+   ]
+  },
+  {
+   "id": "j1288850",
+   "word": "今",
+   "reading": "いま",
+   "gloss_en": [
+    "now; the present time; just now; soon",
+    "another; more"
+   ]
+  },
+  {
+   "id": "j1465850",
+   "word": "入学",
+   "reading": "にゅうがく",
+   "gloss_en": [
+    "admission (to a school or university); entrance; enrolment; enrollment"
+   ]
+  },
+  {
+   "id": "j1476920",
+   "word": "八日",
+   "reading": "ようか",
+   "gloss_en": [
+    "8th day of the month",
+    "eight days"
+   ]
+  },
+  {
+   "id": "j1585315",
+   "word": "六つ",
+   "reading": "むっつ",
+   "gloss_en": [
+    "six",
+    "six years of age",
+    "six o'clock (old time system)"
+   ]
+  },
+  {
+   "id": "j1548220",
+   "word": "来年",
+   "reading": "らいねん",
+   "gloss_en": [
+    "next year"
+   ]
+  },
+  {
+   "id": "j1547720",
+   "word": "来る",
+   "reading": "くる",
+   "gloss_en": [
+    "to come (spatially or temporally); to approach; to arrive",
+    "to come back; to do ... and come back",
+    "to come to be; to become; to get; to grow"
+   ]
+  },
+  {
+   "id": "j1319220",
+   "word": "七つ",
+   "reading": "ななつ",
+   "gloss_en": [
+    "seven",
+    "seven years of age",
+    "four o'clock (old time system)"
+   ]
+  },
+  {
+   "id": "j1562350",
+   "word": "話す",
+   "reading": "はなす",
+   "gloss_en": [
+    "to talk; to speak; to converse; to chat",
+    "to tell; to explain; to narrate; to mention",
+    "to speak (a language)"
+   ]
+  },
+  {
+   "id": "j1269060",
+   "word": "午前",
+   "reading": "ごぜん",
+   "gloss_en": [
+    "morning; a.m."
+   ]
+  },
+  {
+   "id": "j1387210",
+   "word": "先",
+   "reading": "さき",
+   "gloss_en": [
+    "point; tip; end; nozzle",
+    "head (of a line); front",
+    "first; before; ahead (of)"
+   ]
+  },
+  {
+   "id": "j1347870",
+   "word": "小学校",
+   "reading": "しょうがっこう",
+   "gloss_en": [
+    "primary school; elementary school; grade school"
+   ]
+  },
+  {
+   "id": "j1576260",
+   "word": "一日",
+   "reading": "いちにち",
+   "gloss_en": [
+    "one day",
+    "all day (long); the whole day; from morning till night",
+    "first day of the month"
+   ]
+  },
+  {
+   "id": "j2225040",
+   "word": "一日",
+   "reading": "ついたち",
+   "gloss_en": [
+    "first day of the month; the first of the month"
+   ]
+  },
+  {
+   "id": "j1588880",
+   "word": "大きい",
+   "reading": "おおきい",
+   "gloss_en": [
+    "big; large; great",
+    "loud",
+    "extensive; spacious"
+   ]
+  },
+  {
+   "id": "j1461160",
+   "word": "二つ",
+   "reading": "ふたつ",
+   "gloss_en": [
+    "two"
+   ]
+  },
+  {
+   "id": "j1462900",
+   "word": "二日",
+   "reading": "ふつか",
+   "gloss_en": [
+    "2nd day of the month",
+    "two days"
+   ]
+  },
+  {
+   "id": "j1598550",
+   "word": "出かける",
+   "reading": "でかける",
+   "gloss_en": [
+    "to go out (e.g. on an excursion or outing); to leave; to depart; to start",
+    "to be about to leave; to be just going out"
+   ]
+  },
+  {
+   "id": "j1299740",
+   "word": "三つ",
+   "reading": "みっつ",
+   "gloss_en": [
+    "three",
+    "three years of age"
+   ]
+  },
+  {
+   "id": "j1162130",
+   "word": "一月",
+   "reading": "ひとつき",
+   "gloss_en": [
+    "one month"
+   ]
+  },
+  {
+   "id": "j1378690",
+   "word": "生まれる",
+   "reading": "うまれる",
+   "gloss_en": [
+    "to be born"
+   ]
+  },
+  {
+   "id": "j1268570",
+   "word": "五日",
+   "reading": "いつか",
+   "gloss_en": [
+    "5th day of the month",
+    "five days"
+   ]
+  },
+  {
+   "id": "j1307320",
+   "word": "四日",
+   "reading": "よっか",
+   "gloss_en": [
+    "4th day of the month",
+    "four days"
+   ]
+  },
+  {
+   "id": "j1289100",
+   "word": "今月",
+   "reading": "こんげつ",
+   "gloss_en": [
+    "this month"
+   ]
+  },
+  {
+   "id": "j1243850",
+   "word": "九日",
+   "reading": "ここのか",
+   "gloss_en": [
+    "9th day of the month",
+    "nine days"
+   ]
+  },
+  {
+   "id": "j1203650",
+   "word": "外国人",
+   "reading": "がいこくじん",
+   "gloss_en": [
+    "foreigner; foreign citizen; foreign national; alien"
+   ]
+  },
+  {
+   "id": "j1443000",
+   "word": "電気",
+   "reading": "でんき",
+   "gloss_en": [
+    "electricity",
+    "(electric) light"
+   ]
+  },
+  {
+   "id": "j1206730",
+   "word": "学校",
+   "reading": "がっこう",
+   "gloss_en": [
+    "school"
+   ]
+  },
+  {
+   "id": "j1584350",
+   "word": "毎月",
+   "reading": "まいつき",
+   "gloss_en": [
+    "every month; each month; monthly"
+   ]
+  }
+ ],
+ "kanji": [
+  {
+   "k": "一",
+   "eum": [
+    "일"
+   ],
+   "meaning_en": [
+    "one",
+    "one radical (no.1)"
+   ]
+  },
+  {
+   "k": "七",
+   "eum": [
+    "칠"
+   ],
+   "meaning_en": [
+    "seven"
+   ]
+  },
+  {
+   "k": "万",
+   "eum": [
+    "만"
+   ],
+   "meaning_en": [
+    "ten thousand",
+    "10,000"
+   ]
+  },
+  {
+   "k": "三",
+   "eum": [
+    "삼"
+   ],
+   "meaning_en": [
+    "three"
+   ]
+  },
+  {
+   "k": "上",
+   "eum": [
+    "상"
+   ],
+   "meaning_en": [
+    "above",
+    "up"
+   ]
+  },
+  {
+   "k": "下",
+   "eum": [
+    "하"
+   ],
+   "meaning_en": [
+    "below",
+    "down",
+    "descend",
+    "give"
+   ]
+  },
+  {
+   "k": "中",
+   "eum": [
+    "중"
+   ],
+   "meaning_en": [
+    "in",
+    "inside",
+    "middle",
+    "mean"
+   ]
+  },
+  {
+   "k": "九",
+   "eum": [
+    "구"
+   ],
+   "meaning_en": [
+    "nine"
+   ]
+  },
+  {
+   "k": "二",
+   "eum": [
+    "이"
+   ],
+   "meaning_en": [
+    "two",
+    "two radical (no. 7)"
+   ]
+  },
+  {
+   "k": "五",
+   "eum": [
+    "오"
+   ],
+   "meaning_en": [
+    "five"
+   ]
+  },
+  {
+   "k": "人",
+   "eum": [
+    "인"
+   ],
+   "meaning_en": [
+    "person"
+   ]
+  },
+  {
+   "k": "今",
+   "eum": [
+    "금"
+   ],
+   "meaning_en": [
+    "now"
+   ]
+  },
+  {
+   "k": "休",
+   "eum": [
+    "휴"
+   ],
+   "meaning_en": [
+    "rest",
+    "day off",
+    "retire",
+    "sleep"
+   ]
+  },
+  {
+   "k": "何",
+   "eum": [
+    "하"
+   ],
+   "meaning_en": [
+    "what"
+   ]
+  },
+  {
+   "k": "先",
+   "eum": [
+    "선"
+   ],
+   "meaning_en": [
+    "before",
+    "ahead",
+    "previous",
+    "future"
+   ]
+  },
+  {
+   "k": "入",
+   "eum": [
+    "입"
+   ],
+   "meaning_en": [
+    "enter",
+    "insert"
+   ]
+  },
+  {
+   "k": "八",
+   "eum": [
+    "팔"
+   ],
+   "meaning_en": [
+    "eight",
+    "eight radical (no. 12)"
+   ]
+  },
+  {
+   "k": "六",
+   "eum": [
+    "륙",
+    "육"
+   ],
+   "meaning_en": [
+    "six"
+   ]
+  },
+  {
+   "k": "円",
+   "eum": [
+    "엔"
+   ],
+   "meaning_en": [
+    "circle",
+    "yen",
+    "round"
+   ]
+  },
+  {
+   "k": "出",
+   "eum": [
+    "출"
+   ],
+   "meaning_en": [
+    "exit",
+    "leave",
+    "go out",
+    "come out"
+   ]
+  },
+  {
+   "k": "前",
+   "eum": [
+    "전"
+   ],
+   "meaning_en": [
+    "in front",
+    "before"
+   ]
+  },
+  {
+   "k": "北",
+   "eum": [
+    "배",
+    "북"
+   ],
+   "meaning_en": [
+    "north"
+   ]
+  },
+  {
+   "k": "十",
+   "eum": [
+    "십"
+   ],
+   "meaning_en": [
+    "ten"
+   ]
+  },
+  {
+   "k": "千",
+   "eum": [
+    "천"
+   ],
+   "meaning_en": [
+    "thousand"
+   ]
+  },
+  {
+   "k": "午",
+   "eum": [
+    "오"
+   ],
+   "meaning_en": [
+    "noon",
+    "sign of the horse",
+    "11AM-1PM",
+    "seventh sign of Chinese zodiac"
+   ]
+  },
+  {
+   "k": "半",
+   "eum": [
+    "반"
+   ],
+   "meaning_en": [
+    "half",
+    "middle",
+    "odd number",
+    "semi-"
+   ]
+  },
+  {
+   "k": "南",
+   "eum": [
+    "남"
+   ],
+   "meaning_en": [
+    "south"
+   ]
+  },
+  {
+   "k": "友",
+   "eum": [
+    "우"
+   ],
+   "meaning_en": [
+    "friend"
+   ]
+  },
+  {
+   "k": "右",
+   "eum": [
+    "우"
+   ],
+   "meaning_en": [
+    "right"
+   ]
+  },
+  {
+   "k": "名",
+   "eum": [
+    "명"
+   ],
+   "meaning_en": [
+    "name",
+    "noted",
+    "distinguished",
+    "reputation"
+   ]
+  },
+  {
+   "k": "四",
+   "eum": [
+    "사"
+   ],
+   "meaning_en": [
+    "four"
+   ]
+  },
+  {
+   "k": "国",
+   "eum": [
+    "국"
+   ],
+   "meaning_en": [
+    "country"
+   ]
+  },
+  {
+   "k": "土",
+   "eum": [
+    "토"
+   ],
+   "meaning_en": [
+    "soil",
+    "earth",
+    "ground",
+    "Turkey"
+   ]
+  },
+  {
+   "k": "外",
+   "eum": [
+    "외"
+   ],
+   "meaning_en": [
+    "outside"
+   ]
+  },
+  {
+   "k": "大",
+   "eum": [
+    "대"
+   ],
+   "meaning_en": [
+    "large",
+    "big"
+   ]
+  },
+  {
+   "k": "天",
+   "eum": [
+    "천"
+   ],
+   "meaning_en": [
+    "heavens",
+    "sky",
+    "imperial"
+   ]
+  },
+  {
+   "k": "女",
+   "eum": [
+    "녀",
+    "여"
+   ],
+   "meaning_en": [
+    "woman",
+    "female"
+   ]
+  },
+  {
+   "k": "子",
+   "eum": [
+    "자"
+   ],
+   "meaning_en": [
+    "child",
+    "sign of the rat",
+    "11PM-1AM",
+    "first sign of Chinese zodiac"
+   ]
+  },
+  {
+   "k": "学",
+   "eum": [
+    "학"
+   ],
+   "meaning_en": [
+    "study",
+    "learning",
+    "science"
+   ]
+  },
+  {
+   "k": "小",
+   "eum": [
+    "소"
+   ],
+   "meaning_en": [
+    "little",
+    "small"
+   ]
+  },
+  {
+   "k": "山",
+   "eum": [
+    "산"
+   ],
+   "meaning_en": [
+    "mountain"
+   ]
+  },
+  {
+   "k": "川",
+   "eum": [
+    "천"
+   ],
+   "meaning_en": [
+    "stream",
+    "river",
+    "river or three-stroke river radical (no. 47)"
+   ]
+  },
+  {
+   "k": "左",
+   "eum": [
+    "좌"
+   ],
+   "meaning_en": [
+    "left"
+   ]
+  },
+  {
+   "k": "年",
+   "eum": [
+    "년",
+    "연"
+   ],
+   "meaning_en": [
+    "year",
+    "counter for years"
+   ]
+  },
+  {
+   "k": "後",
+   "eum": [
+    "후"
+   ],
+   "meaning_en": [
+    "behind",
+    "back",
+    "later"
+   ]
+  },
+  {
+   "k": "日",
+   "eum": [
+    "일"
+   ],
+   "meaning_en": [
+    "day",
+    "sun",
+    "Japan",
+    "counter for days"
+   ]
+  },
+  {
+   "k": "時",
+   "eum": [
+    "시"
+   ],
+   "meaning_en": [
+    "time",
+    "hour"
+   ]
+  },
+  {
+   "k": "書",
+   "eum": [
+    "서"
+   ],
+   "meaning_en": [
+    "write"
+   ]
+  },
+  {
+   "k": "月",
+   "eum": [
+    "월"
+   ],
+   "meaning_en": [
+    "month",
+    "moon"
+   ]
+  },
+  {
+   "k": "木",
+   "eum": [
+    "목"
+   ],
+   "meaning_en": [
+    "tree",
+    "wood"
+   ]
+  },
+  {
+   "k": "本",
+   "eum": [
+    "본"
+   ],
+   "meaning_en": [
+    "book",
+    "present",
+    "main",
+    "origin"
+   ]
+  },
+  {
+   "k": "来",
+   "eum": [
+    "래"
+   ],
+   "meaning_en": [
+    "come",
+    "due",
+    "next",
+    "cause"
+   ]
+  },
+  {
+   "k": "東",
+   "eum": [
+    "동"
+   ],
+   "meaning_en": [
+    "east"
+   ]
+  },
+  {
+   "k": "校",
+   "eum": [
+    "교"
+   ],
+   "meaning_en": [
+    "exam",
+    "school",
+    "printing",
+    "proof"
+   ]
+  },
+  {
+   "k": "母",
+   "eum": [
+    "모"
+   ],
+   "meaning_en": [
+    "mother"
+   ]
+  },
+  {
+   "k": "毎",
+   "eum": [
+    "매"
+   ],
+   "meaning_en": [
+    "every"
+   ]
+  },
+  {
+   "k": "気",
+   "eum": [
+    "기"
+   ],
+   "meaning_en": [
+    "spirit",
+    "mind",
+    "air",
+    "atmosphere"
+   ]
+  },
+  {
+   "k": "水",
+   "eum": [
+    "수"
+   ],
+   "meaning_en": [
+    "water"
+   ]
+  },
+  {
+   "k": "火",
+   "eum": [
+    "화"
+   ],
+   "meaning_en": [
+    "fire"
+   ]
+  },
+  {
+   "k": "父",
+   "eum": [
+    "부"
+   ],
+   "meaning_en": [
+    "father"
+   ]
+  },
+  {
+   "k": "生",
+   "eum": [
+    "생"
+   ],
+   "meaning_en": [
+    "life",
+    "genuine",
+    "birth"
+   ]
+  },
+  {
+   "k": "男",
+   "eum": [
+    "남"
+   ],
+   "meaning_en": [
+    "male"
+   ]
+  },
+  {
+   "k": "白",
+   "eum": [
+    "백"
+   ],
+   "meaning_en": [
+    "white"
+   ]
+  },
+  {
+   "k": "百",
+   "eum": [
+    "백"
+   ],
+   "meaning_en": [
+    "hundred"
+   ]
+  },
+  {
+   "k": "聞",
+   "eum": [
+    "문"
+   ],
+   "meaning_en": [
+    "hear",
+    "ask",
+    "listen"
+   ]
+  },
+  {
+   "k": "行",
+   "eum": [
+    "항",
+    "행"
+   ],
+   "meaning_en": [
+    "going",
+    "journey",
+    "carry out",
+    "conduct"
+   ]
+  },
+  {
+   "k": "西",
+   "eum": [
+    "서"
+   ],
+   "meaning_en": [
+    "west",
+    "Spain"
+   ]
+  },
+  {
+   "k": "見",
+   "eum": [
+    "견",
+    "현"
+   ],
+   "meaning_en": [
+    "see",
+    "hopes",
+    "chances",
+    "idea"
+   ]
+  },
+  {
+   "k": "話",
+   "eum": [
+    "화"
+   ],
+   "meaning_en": [
+    "tale",
+    "talk"
+   ]
+  },
+  {
+   "k": "語",
+   "eum": [
+    "어"
+   ],
+   "meaning_en": [
+    "word",
+    "speech",
+    "language"
+   ]
+  },
+  {
+   "k": "読",
+   "eum": [
+    "독",
+    "두"
+   ],
+   "meaning_en": [
+    "read"
+   ]
+  },
+  {
+   "k": "車",
+   "eum": [
+    "거",
+    "차"
+   ],
+   "meaning_en": [
+    "car"
+   ]
+  },
+  {
+   "k": "金",
+   "eum": [
+    "금",
+    "김"
+   ],
+   "meaning_en": [
+    "gold"
+   ]
+  },
+  {
+   "k": "長",
+   "eum": [
+    "장"
+   ],
+   "meaning_en": [
+    "long",
+    "leader",
+    "superior",
+    "senior"
+   ]
+  },
+  {
+   "k": "間",
+   "eum": [
+    "간"
+   ],
+   "meaning_en": [
+    "interval",
+    "space"
+   ]
+  },
+  {
+   "k": "雨",
+   "eum": [
+    "우"
+   ],
+   "meaning_en": [
+    "rain"
+   ]
+  },
+  {
+   "k": "電",
+   "eum": [
+    "전"
+   ],
+   "meaning_en": [
+    "electricity"
+   ]
+  },
+  {
+   "k": "食",
+   "eum": [
+    "식"
+   ],
+   "meaning_en": [
+    "eat",
+    "food"
+   ]
+  },
+  {
+   "k": "高",
+   "eum": [
+    "고"
+   ],
+   "meaning_en": [
+    "tall",
+    "high",
+    "expensive"
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "id": "j1160790",
+   "ja": "一、二、三、四、五。",
+   "en": null,
+   "ko_tatoeba": "하나, 둘, 셋, 넷, 다섯."
+  },
+  {
+   "id": "j1592250",
+   "ja": "どこの国で生まれたんですか？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1468060",
+   "ja": "お年をお聞きしてよろしいでしょうか。",
+   "en": "Might I ask your age?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1579840",
+   "ja": "日本に来てから十年になります。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1522150",
+   "ja": "本、見つけることができた？",
+   "en": null,
+   "ko_tatoeba": "책, 찾을 수 있었어?"
+  },
+  {
+   "id": "j1423310",
+   "ja": "中にいるの？",
+   "en": null,
+   "ko_tatoeba": "안에 있어?"
+  },
+  {
+   "id": "j1429750",
+   "ja": "ビルには長い間あっていない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1338180",
+   "ja": "おじは気前よく金を出す。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1579350",
+   "ja": "この国には、三年前に来たんだ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1578850",
+   "ja": "アメリカへ行く時間がない。",
+   "en": null,
+   "ko_tatoeba": "나는 미국에 갈 시간이 없다."
+  },
+  {
+   "id": "j1259290",
+   "ja": "テレビを見るのやめましょう。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1269320",
+   "ja": "すごいね！後で見てみよっと。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1392580",
+   "ja": "まっすぐ前を見てください。",
+   "en": "Look forward, please.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1268060",
+   "ja": "五ヶ国語話します。",
+   "en": null,
+   "ko_tatoeba": "저는 다섯 개의 언어를 합니다."
+  },
+  {
+   "id": "j1315920",
+   "ja": "いつだって読書の時間は見つけられる。",
+   "en": "We can always find time for reading.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1352130",
+   "ja": "マントルピースの上にあるよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1447440",
+   "ja": "日本は東アジアにあります。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1579110",
+   "ja": "今日は何をしたいですか。",
+   "en": "What would you like to do today?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1001820",
+   "ja": "いくらお金をもっていますか。",
+   "en": null,
+   "ko_tatoeba": "돈을 얼마나 가지고 계세요?"
+  },
+  {
+   "id": "j1578150",
+   "ja": "十中八九ジェーンは来るだろう。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1465590",
+   "ja": "このジョッキは１パイント入る。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1413240",
+   "ja": "みんな、この大学の学生です。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1283190",
+   "ja": "このテレビ、大きいし高いよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1175570",
+   "ja": "５０００円ばかりもっている。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1583090",
+   "ja": "八時にお前んとこに行くから。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1585310",
+   "ja": "六時きっかりにここへ来なさい。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1184140",
+   "ja": "キーはマットの下にあります。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1547900",
+   "ja": "来月一人で日本に行きます。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2136180",
+   "ja": "「どうかしたの？」と小さな白いウサギが聞きました。",
+   "en": null,
+   "ko_tatoeba": "작고 흰 토끼는 \"무슨 일 있니?\" 라고 물어봤습니다."
+  },
+  {
+   "id": "j1319210",
+   "ja": "「今日って、何日？」「七月七日よ」",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1302680",
+   "ja": "やるべきことは山ほどあるぞ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1600900",
+   "ja": "話を聞かせてくれ。",
+   "en": "I want a full report though.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1344970",
+   "ja": "トムさんはビキニの女の子を見ていた。",
+   "en": null,
+   "ko_tatoeba": "톰 씨는 비키니를 입은 여자 아이를 보고 있었다."
+  },
+  {
+   "id": "j1520670",
+   "ja": "北って、どっち？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1488000",
+   "ja": "百セントは一ドルになります。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1343950",
+   "ja": "読むことも書くこともできない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1387990",
+   "ja": "先生、こんにちは。",
+   "en": null,
+   "ko_tatoeba": "선생님, 안녕하세요."
+  },
+  {
+   "id": "j1390020",
+   "ja": "トムは、いかだで川を下った。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1388740",
+   "ja": "千人もの人がそこにいた。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1371260",
+   "ja": "水を出しっぱなしにしないで。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1478750",
+   "ja": "それは３年半前のことでした。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1419990",
+   "ja": "ほんとうに男らしくないよね。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1380840",
+   "ja": "フランスは西ヨーロッパにある。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1270910",
+   "ja": "メキシコではなに語を話すのですか。",
+   "en": "What is the language spoken in Mexico?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1445270",
+   "ja": "かれは土に水をやった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1534520",
+   "ja": "車がどしんと木にぶつかった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1591110",
+   "ja": "トムはこれについて聞くべきだ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1358280",
+   "ja": "ケイトは毎日パンを食べる。",
+   "en": null,
+   "ko_tatoeba": "케이트는 매일 빵을 먹는다."
+  },
+  {
+   "id": "j1459870",
+   "ja": "南ターミナルはどこですか。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1584460",
+   "ja": "それは１万円ぐらいするだろう。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1438690",
+   "ja": "今日が天気ならいいのに。",
+   "en": "I wish it were fine today.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1193610",
+   "ja": "このライターは火がつかない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1171010",
+   "ja": "日本車は、右ハンドルです。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1456360",
+   "ja": "読みたくないんなら、読むな。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1539980",
+   "ja": "本は友になぞらえることが出来る。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1290800",
+   "ja": "左のタオルが、あなたのよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1227500",
+   "ja": "もし半年休みがあったら何する？",
+   "en": null,
+   "ko_tatoeba": "만약 반년동안 휴일이 있다면 뭐할래?"
+  },
+  {
+   "id": "j1171900",
+   "ja": "「雨やんだかな？」「やんでるといいね」",
+   "en": null,
+   "ko_tatoeba": "\"비가 그친 걸까?\" \"그치면 좋겠네.\""
+  },
+  {
+   "id": "j1576150",
+   "ja": "それはあなたが一人になりたくないからです。",
+   "en": null,
+   "ko_tatoeba": "왜냐하면 당신은 혼자가 되고 싶지 않기 때문이에요."
+  },
+  {
+   "id": "j1580640",
+   "ja": "あの人たちはロシア人です。",
+   "en": null,
+   "ko_tatoeba": "저 사람들은 러시아 사람입니다."
+  },
+  {
+   "id": "j1412890",
+   "ja": "なんて大きなかぼちゃなんだ！",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1338240",
+   "ja": "いつになったら出るんだろう。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1301330",
+   "ja": "二、三日のうちに電話するよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1598680",
+   "ja": "時々トムとともにそれをする。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1215230",
+   "ja": "二人の間がしっくり行かない。",
+   "en": "They don't get along together.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1352320",
+   "ja": "トムはしょっちゅう話をでっ上げるからな。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1579130",
+   "ja": "これが今年のカタログです。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1465610",
+   "ja": "コーヒーにクリームを入れる？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1206900",
+   "ja": "まだ学生なの？",
+   "en": null,
+   "ko_tatoeba": "아직 학생이야?"
+  },
+  {
+   "id": "j1307770",
+   "ja": "トムっていい子なんだよ。",
+   "en": null,
+   "ko_tatoeba": "톰은 좋은 아이야."
+  },
+  {
+   "id": "j1203620",
+   "ja": "いつか外国へ行きたいものだ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1203250",
+   "ja": "外には出たくない。",
+   "en": null,
+   "ko_tatoeba": "밖으로는 나가고 싶지 않아."
+  },
+  {
+   "id": "j1221520",
+   "ja": "その話聞いたことある気がする。",
+   "en": null,
+   "ko_tatoeba": "그 이야기 들어본 적이 있는 것 같아."
+  },
+  {
+   "id": "j1347750",
+   "ja": "この本は何と小さいのだろう。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1344930",
+   "ja": "人は男か女のどちらかである。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1268990",
+   "ja": "今日の午後は時間がないんだ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1387500",
+   "ja": "先月インフルエンザにかかった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1531710",
+   "ja": "あなたの名前はリストからはずされた。",
+   "en": "Your name was dropped from the list.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1420010",
+   "ja": "あのハンサムな男の子を見て。",
+   "en": "Look at that good-looking boy.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1443840",
+   "ja": "だれも電話に出ませんでした。",
+   "en": null,
+   "ko_tatoeba": "아무도 전화를 받지 않았습니다."
+  },
+  {
+   "id": "j1279590",
+   "ja": "校長が先生の後ろから入ってきた。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1283500",
+   "ja": "高校って、マンモス校だった？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1591150",
+   "ja": "「聞こえる？」「うん。聞こえる」",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1443530",
+   "ja": "電車で来たんです。",
+   "en": null,
+   "ko_tatoeba": "기차를 타고 왔어요."
+  },
+  {
+   "id": "j1323080",
+   "ja": "この車は、だれのですか？",
+   "en": null,
+   "ko_tatoeba": "이 자동차는 누구의 것입니까?"
+  },
+  {
+   "id": "j2846738",
+   "ja": "学校の前に何本か木が見えます。",
+   "en": "You see some trees in front of the school.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1524720",
+   "ja": "ケイトは毎日パンを食べる。",
+   "en": null,
+   "ko_tatoeba": "케이트는 매일 빵을 먹는다."
+  },
+  {
+   "id": "j1584360",
+   "ja": "トムって、毎年ボストンに行ってるんだよ。",
+   "en": null,
+   "ko_tatoeba": "톰은 매년 보스턴에 가요."
+  },
+  {
+   "id": "j1474910",
+   "ja": "「どうかしたの？」と小さな白いウサギが聞きました。",
+   "en": null,
+   "ko_tatoeba": "작고 흰 토끼는 \"무슨 일 있니?\" 라고 물어봤습니다."
+  },
+  {
+   "id": "j1540150",
+   "ja": "アンには友人がたくさんいる。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1227560",
+   "ja": "トムはよく学校を休む。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1463770",
+   "ja": "今日は学校に行かない日だ。",
+   "en": null,
+   "ko_tatoeba": "오늘은 학교에 가지 않는 날이다."
+  },
+  {
+   "id": "j1160820",
+   "ja": "一つをキャンセルしました。",
+   "en": null,
+   "ko_tatoeba": "하나를 취소했습니다"
+  },
+  {
+   "id": "j1414170",
+   "ja": "大人げないことしなきゃいいのに。",
+   "en": null,
+   "ko_tatoeba": "유치한 짓 하지 않으면 좋을 텐데."
+  },
+  {
+   "id": "j1582670",
+   "ja": "二人ともこんなところで何してるの？",
+   "en": null,
+   "ko_tatoeba": "너희 둘 다 이런 곳에서 뭐하는 거야?"
+  },
+  {
+   "id": "j1461140",
+   "ja": "二時半までそれをしたくない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1255430",
+   "ja": "天に月がある。",
+   "en": null,
+   "ko_tatoeba": "하늘에 달이 있다."
+  },
+  {
+   "id": "j1269410",
+   "ja": "後ろのドアにへこみができた。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1576200",
+   "ja": "もう一生こんなことはしません。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1366770",
+   "ja": "しかし、人間はちがっている。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1352570",
+   "ja": "月は東から上る。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1288850",
+   "ja": "今のアナウンスは何だったのですか。",
+   "en": "What did the announcement just say?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1476920",
+   "ja": "日本では、八月八日はヒゲの日です。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1548220",
+   "ja": "来年もまたここに来たいな。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1547720",
+   "ja": "ここよく来るの？",
+   "en": null,
+   "ko_tatoeba": "여기 자주 와?"
+  },
+  {
+   "id": "j1562350",
+   "ja": "お前なんかに話すことはない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1269060",
+   "ja": "午前中はずっと本を読んでました。",
+   "en": null,
+   "ko_tatoeba": "오전 중에는 쭉 책을 읽고 있었습니다."
+  },
+  {
+   "id": "j1387210",
+   "ja": "それから先の話を聞きたい。",
+   "en": "I'd like to know the rest of the story.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1347870",
+   "ja": "ここにもとは小学校があった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1576260",
+   "ja": "一日何時間テレビを見ますか？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2225040",
+   "ja": "ローマは一日にしてならず。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1588880",
+   "ja": "このテレビ、大きいし高いよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1461160",
+   "ja": "二つしか見つけられなかった。",
+   "en": null,
+   "ko_tatoeba": "두 개 밖에 못 찾았어."
+  },
+  {
+   "id": "j1598550",
+   "ja": "いつパーティーに出かけるの？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1299740",
+   "ja": "コーヒー三つおねがいします。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1378690",
+   "ja": "どんぐりからオークが生まれる。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1268570",
+   "ja": "三日から五日で。",
+   "en": "Maybe three to five days.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1289100",
+   "ja": "今月いっぱいここにいます。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1443000",
+   "ja": "このエアコンは電気を食うな。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1206730",
+   "ja": "どうして学校に行かなかったの？",
+   "en": null,
+   "ko_tatoeba": "왜 학교에 가지 않았어?"
+  },
+  {
+   "id": "j1584350",
+   "ja": "毎月どのくらい本を読みますか。",
+   "en": null,
+   "ko_tatoeba": null
+  }
+ ]
+}

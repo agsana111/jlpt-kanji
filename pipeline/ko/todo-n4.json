@@ -1,0 +1,7049 @@
+{
+ "cards": [
+  {
+   "id": "j1451750",
+   "word": "同じ",
+   "reading": "おなじ",
+   "gloss_en": [
+    "same; identical; equal; alike",
+    "anyway; in any case; if one must ...; if one has to ..."
+   ]
+  },
+  {
+   "id": "j1198550",
+   "word": "会社",
+   "reading": "かいしゃ",
+   "gloss_en": [
+    "company; corporation; firm",
+    "one's workplace"
+   ]
+  },
+  {
+   "id": "j1340000",
+   "word": "出発",
+   "reading": "しゅっぱつ",
+   "gloss_en": [
+    "departure; leaving; setting off"
+   ]
+  },
+  {
+   "id": "j1516925",
+   "word": "方",
+   "reading": "かた",
+   "gloss_en": [
+    "direction; way",
+    "person; lady; gentleman",
+    "method of; manner of; way of"
+   ]
+  },
+  {
+   "id": "j1361490",
+   "word": "新しい",
+   "reading": "あたらしい",
+   "gloss_en": [
+    "new; novel; fresh; recent"
+   ]
+  },
+  {
+   "id": "j1597040",
+   "word": "立つ",
+   "reading": "たつ",
+   "gloss_en": [
+    "to stand (up); to rise; to get to one's feet; to stand on end (e.g. of hairs)",
+    "to stand (in a position; of a person, tree, building, etc.); to be situated (in, on)",
+    "to be (in difficulties, the lead, etc.); to put oneself (in a position or situation); to take up (a position, post, etc.); to position oneself"
+   ]
+  },
+  {
+   "id": "j1202440",
+   "word": "開く",
+   "reading": "ひらく",
+   "gloss_en": [
+    "to open; to undo; to unseal; to unpack",
+    "to bloom; to unfold; to spread out",
+    "to open (for business, e.g. in the morning)"
+   ]
+  },
+  {
+   "id": "j1327190",
+   "word": "手",
+   "reading": "て",
+   "gloss_en": [
+    "hand; arm",
+    "forepaw; foreleg",
+    "handle"
+   ]
+  },
+  {
+   "id": "j1554820",
+   "word": "力",
+   "reading": "ちから",
+   "gloss_en": [
+    "force; strength; might; vigour",
+    "capability; ability; proficiency; capacity",
+    "efficacy; effect"
+   ]
+  },
+  {
+   "id": "j1316300",
+   "word": "時代",
+   "reading": "じだい",
+   "gloss_en": [
+    "period; epoch; era; age",
+    "the times; those days",
+    "oldness; ancientness; antiquity"
+   ]
+  },
+  {
+   "id": "j1584660",
+   "word": "明日",
+   "reading": "あした",
+   "gloss_en": [
+    "tomorrow",
+    "near future"
+   ]
+  },
+  {
+   "id": "j1352980",
+   "word": "上京",
+   "reading": "じょうきょう",
+   "gloss_en": [
+    "going (up) to the capital; going to Tokyo"
+   ]
+  },
+  {
+   "id": "j1604890",
+   "word": "目",
+   "reading": "め",
+   "gloss_en": [
+    "eye; eyeball",
+    "eyesight; sight; vision",
+    "look; stare; gaze; glance"
+   ]
+  },
+  {
+   "id": "j1433030",
+   "word": "通る",
+   "reading": "とおる",
+   "gloss_en": [
+    "to go by; to go past; to go along; to travel along",
+    "to run (between; of a rail service, bus route, etc.); to operate (between); to connect",
+    "to go indoors; to go into a room; to be admitted; to be shown in"
+   ]
+  },
+  {
+   "id": "j1587040",
+   "word": "言う",
+   "reading": "いう",
+   "gloss_en": [
+    "to say; to utter; to declare",
+    "to name; to call",
+    "to go (e.g. \"the alarm went ping\"); to make a noise"
+   ]
+  },
+  {
+   "id": "j1409140",
+   "word": "体",
+   "reading": "からだ",
+   "gloss_en": [
+    "body",
+    "torso; trunk",
+    "build; physique; frame; figure"
+   ]
+  },
+  {
+   "id": "j1442730",
+   "word": "田",
+   "reading": "た",
+   "gloss_en": [
+    "rice field"
+   ]
+  },
+  {
+   "id": "j1270390",
+   "word": "ご主人",
+   "reading": "ごしゅじん",
+   "gloss_en": [
+    "your husband; her husband"
+   ]
+  },
+  {
+   "id": "j1536010",
+   "word": "問題",
+   "reading": "もんだい",
+   "gloss_en": [
+    "question (e.g. on a test); problem",
+    "problem (e.g. societal, political); question; issue; subject (e.g. of research)",
+    "question (i.e. doubt)"
+   ]
+  },
+  {
+   "id": "j1922780",
+   "word": "不",
+   "reading": "ふ",
+   "gloss_en": [
+    "un-; non-"
+   ]
+  },
+  {
+   "id": "j1546200",
+   "word": "用",
+   "reading": "よう",
+   "gloss_en": [
+    "business; task; errand; engagement",
+    "use; purpose",
+    "for the use of ...; used for ...; made for ..."
+   ]
+  },
+  {
+   "id": "j1576250",
+   "word": "一度",
+   "reading": "いちど",
+   "gloss_en": [
+    "once; one time; on one occasion",
+    "temporarily; for a moment",
+    "one degree; one tone; one musical interval"
+   ]
+  },
+  {
+   "id": "j1273370",
+   "word": "公開",
+   "reading": "こうかい",
+   "gloss_en": [
+    "opening to the public; making available to the public; exhibiting; unveiling"
+   ]
+  },
+  {
+   "id": "j1591430",
+   "word": "気持ち",
+   "reading": "きもち",
+   "gloss_en": [
+    "feeling; sensation; mood; state of mind",
+    "preparedness; readiness; attitude",
+    "thought; sentiment; consideration; solicitude"
+   ]
+  },
+  {
+   "id": "j1537250",
+   "word": "野",
+   "reading": "の",
+   "gloss_en": [
+    "field; plain",
+    "hidden interior part (of a structure or object)",
+    "wild (of an animal or plant)"
+   ]
+  },
+  {
+   "id": "j1155120",
+   "word": "以上",
+   "reading": "いじょう",
+   "gloss_en": [
+    "not less than ...; ... and over; ... and above; ... and upwards",
+    "beyond (e.g. one's expectations); above; more than; further than",
+    "the above; the above-mentioned; the aforementioned; the foregoing"
+   ]
+  },
+  {
+   "id": "j1589350",
+   "word": "思う",
+   "reading": "おもう",
+   "gloss_en": [
+    "to think; to consider; to believe; to reckon",
+    "to think (of doing); to plan (to do)",
+    "to judge; to assess; to regard"
+   ]
+  },
+  {
+   "id": "j1191730",
+   "word": "家",
+   "reading": "いえ",
+   "gloss_en": [
+    "house; residence; dwelling; home",
+    "family; household",
+    "lineage; family name"
+   ]
+  },
+  {
+   "id": "j1407460",
+   "word": "多い",
+   "reading": "おおい",
+   "gloss_en": [
+    "many; numerous; a lot",
+    "large amount of; large quantity of; a lot; much",
+    "frequent; common"
+   ]
+  },
+  {
+   "id": "j1376600",
+   "word": "正しい",
+   "reading": "ただしい",
+   "gloss_en": [
+    "right; correct",
+    "proper; righteous; just; honest"
+   ]
+  },
+  {
+   "id": "j1153670",
+   "word": "安い",
+   "reading": "やすい",
+   "gloss_en": [
+    "cheap; inexpensive",
+    "calm; peaceful; quiet"
+   ]
+  },
+  {
+   "id": "j1373860",
+   "word": "世界",
+   "reading": "せかい",
+   "gloss_en": [
+    "the world; society; the universe",
+    "sphere; circle; world",
+    "world-renowned; world-famous"
+   ]
+  },
+  {
+   "id": "j1237030",
+   "word": "教会",
+   "reading": "きょうかい",
+   "gloss_en": [
+    "church; congregation"
+   ]
+  },
+  {
+   "id": "j1260720",
+   "word": "元気",
+   "reading": "げんき",
+   "gloss_en": [
+    "lively; full of spirit; energetic; vigorous",
+    "healthy; well; fit; in good health"
+   ]
+  },
+  {
+   "id": "j1335750",
+   "word": "重い",
+   "reading": "おもい",
+   "gloss_en": [
+    "heavy; weighty",
+    "heavy (feeling); depressed; gloomy; blue",
+    "slow; sluggish; lumbering; ponderous"
+   ]
+  },
+  {
+   "id": "j1242160",
+   "word": "近く",
+   "reading": "ちかく",
+   "gloss_en": [
+    "near; neighbourhood; neighborhood; vicinity",
+    "nearly (e.g. \"it took nearly one year\"); close to",
+    "shortly; soon"
+   ]
+  },
+  {
+   "id": "j1281020",
+   "word": "考える",
+   "reading": "かんがえる",
+   "gloss_en": [
+    "to think (about, of); to think over; to ponder; to contemplate",
+    "to consider; to bear in mind; to allow for; to take into consideration",
+    "to think (that); to believe; to hold (a view); to judge"
+   ]
+  },
+  {
+   "id": "j1201190",
+   "word": "海",
+   "reading": "うみ",
+   "gloss_en": [
+    "sea; ocean; waters"
+   ]
+  },
+  {
+   "id": "j1473950",
+   "word": "売る",
+   "reading": "うる",
+   "gloss_en": [
+    "to sell",
+    "to betray; to sell out (one's friend, country, etc.)",
+    "to make (oneself) known; to establish (a reputation) for oneself"
+   ]
+  },
+  {
+   "id": "j1420470",
+   "word": "知る",
+   "reading": "しる",
+   "gloss_en": [
+    "to know; to be aware (of); to be conscious (of); to learn (of)",
+    "to sense; to feel; to notice; to realize",
+    "to understand; to comprehend; to grasp; to appreciate"
+   ]
+  },
+  {
+   "id": "j1454080",
+   "word": "道",
+   "reading": "みち",
+   "gloss_en": [
+    "road; path; street; lane",
+    "route; way",
+    "distance; journey"
+   ]
+  },
+  {
+   "id": "j1333560",
+   "word": "集める",
+   "reading": "あつめる",
+   "gloss_en": [
+    "to gather; to collect; to assemble; to get (things, people, etc.) together",
+    "to raise (money); to gather (e.g. funds)",
+    "to garner (e.g. popularity); to draw (attention); to attract (e.g. an audience)"
+   ]
+  },
+  {
+   "id": "j1509430",
+   "word": "別",
+   "reading": "べつ",
+   "gloss_en": [
+    "distinction; difference; discrimination",
+    "separate; different; another; extra",
+    "exception; exclusion"
+   ]
+  },
+  {
+   "id": "j1305990",
+   "word": "使う",
+   "reading": "つかう",
+   "gloss_en": [
+    "to use (a tool, method, etc.); to make use of; to put to use",
+    "to use (a person, animal, puppet, etc.); to employ; to handle; to manage",
+    "to use (time, money, etc.); to spend; to consume"
+   ]
+  },
+  {
+   "id": "j1490670",
+   "word": "品物",
+   "reading": "しなもの",
+   "gloss_en": [
+    "article; item; thing; goods"
+   ]
+  },
+  {
+   "id": "j1252090",
+   "word": "計画",
+   "reading": "けいかく",
+   "gloss_en": [
+    "plan; project; schedule; scheme"
+   ]
+  },
+  {
+   "id": "j1310730",
+   "word": "死ぬ",
+   "reading": "しぬ",
+   "gloss_en": [
+    "to die; to pass away",
+    "to lose spirit; to lose vigor; to look dead",
+    "to cease; to stop"
+   ]
+  },
+  {
+   "id": "j1311110",
+   "word": "私",
+   "reading": "わたし",
+   "gloss_en": [
+    "I; me"
+   ]
+  },
+  {
+   "id": "j1428280",
+   "word": "朝",
+   "reading": "あさ",
+   "gloss_en": [
+    "morning",
+    "breakfast"
+   ]
+  },
+  {
+   "id": "j1589590",
+   "word": "終わり",
+   "reading": "おわり",
+   "gloss_en": [
+    "end; ending; close; conclusion",
+    "end of (one's) life; death"
+   ]
+  },
+  {
+   "id": "j1278410",
+   "word": "広い",
+   "reading": "ひろい",
+   "gloss_en": [
+    "spacious; vast; wide"
+   ]
+  },
+  {
+   "id": "j1334040",
+   "word": "住む",
+   "reading": "すむ",
+   "gloss_en": [
+    "to live (of humans); to reside; to inhabit; to dwell"
+   ]
+  },
+  {
+   "id": "j1541620",
+   "word": "有名",
+   "reading": "ゆうめい",
+   "gloss_en": [
+    "famous; well-known"
+   ]
+  },
+  {
+   "id": "j1275640",
+   "word": "口",
+   "reading": "くち",
+   "gloss_en": [
+    "mouth",
+    "opening; hole; gap; orifice",
+    "mouth (of a bottle); spout; nozzle; mouthpiece"
+   ]
+  },
+  {
+   "id": "j1603990",
+   "word": "町",
+   "reading": "まち",
+   "gloss_en": [
+    "town; block; neighbourhood; neighborhood",
+    "street; road"
+   ]
+  },
+  {
+   "id": "j1554310",
+   "word": "料理",
+   "reading": "りょうり",
+   "gloss_en": [
+    "cooking; cookery; cuisine; food",
+    "dealing with (skillfully); handling (well); managing"
+   ]
+  },
+  {
+   "id": "j1278040",
+   "word": "工業",
+   "reading": "こうぎょう",
+   "gloss_en": [
+    "(manufacturing) industry"
+   ]
+  },
+  {
+   "id": "j1578700",
+   "word": "工場",
+   "reading": "こうじょう",
+   "gloss_en": [
+    "factory; plant; mill; workshop"
+   ]
+  },
+  {
+   "id": "j1257540",
+   "word": "建物",
+   "reading": "たてもの",
+   "gloss_en": [
+    "building"
+   ]
+  },
+  {
+   "id": "j1245290",
+   "word": "空",
+   "reading": "そら",
+   "gloss_en": [
+    "sky; the air; the heavens",
+    "weather",
+    "far-off place; distant place"
+   ]
+  },
+  {
+   "id": "j1310670",
+   "word": "止める",
+   "reading": "とめる",
+   "gloss_en": [
+    "to stop; to turn off",
+    "to park",
+    "to prevent; to suppress (a cough); to hold back (tears); to hold (one's breath)"
+   ]
+  },
+  {
+   "id": "j1402730",
+   "word": "送る",
+   "reading": "おくる",
+   "gloss_en": [
+    "to send; to dispatch; to forward; to transmit",
+    "to see (someone) off; to escort; to accompany; to take",
+    "to bid farewell to (the departed); to say goodbye to; to bury"
+   ]
+  },
+  {
+   "id": "j1318290",
+   "word": "自転車",
+   "reading": "じてんしゃ",
+   "gloss_en": [
+    "bicycle; bike"
+   ]
+  },
+  {
+   "id": "j1172830",
+   "word": "運転",
+   "reading": "うんてん",
+   "gloss_en": [
+    "operation (of a machine); running; working",
+    "driving (a vehicle)",
+    "use (of capital, funds, etc.); management; investment"
+   ]
+  },
+  {
+   "id": "j1258520",
+   "word": "研究",
+   "reading": "けんきゅう",
+   "gloss_en": [
+    "research; study; investigation"
+   ]
+  },
+  {
+   "id": "j1223640",
+   "word": "起きる",
+   "reading": "おきる",
+   "gloss_en": [
+    "to get up; to rise; to blaze up (fire)",
+    "to wake up; to be awake; to stay awake",
+    "to occur (usu. of unfavourable incidents); to happen; to take place"
+   ]
+  },
+  {
+   "id": "j1422970",
+   "word": "着く",
+   "reading": "つく",
+   "gloss_en": [
+    "to arrive at; to reach",
+    "to sit on; to sit at (e.g. the table)"
+   ]
+  },
+  {
+   "id": "j1440670",
+   "word": "店員",
+   "reading": "てんいん",
+   "gloss_en": [
+    "employee (of a store); shop assistant; clerk; salesperson"
+   ]
+  },
+  {
+   "id": "j1490220",
+   "word": "病院",
+   "reading": "びょういん",
+   "gloss_en": [
+    "hospital; clinic; doctor's office; doctor's surgery"
+   ]
+  },
+  {
+   "id": "j1410590",
+   "word": "待つ",
+   "reading": "まつ",
+   "gloss_en": [
+    "to wait",
+    "to await; to look forward to; to anticipate",
+    "to depend on; to need"
+   ]
+  },
+  {
+   "id": "j1243490",
+   "word": "銀行",
+   "reading": "ぎんこう",
+   "gloss_en": [
+    "bank; banking institution"
+   ]
+  },
+  {
+   "id": "j1404975",
+   "word": "早い",
+   "reading": "はやい",
+   "gloss_en": [
+    "fast; quick; rapid; swift",
+    "early; soon; earlier than usual",
+    "premature; too soon; too early"
+   ]
+  },
+  {
+   "id": "j1365250",
+   "word": "親切",
+   "reading": "しんせつ",
+   "gloss_en": [
+    "kind; gentle; considerate; generous"
+   ]
+  },
+  {
+   "id": "j1312350",
+   "word": "試験",
+   "reading": "しけん",
+   "gloss_en": [
+    "examination; exam; test",
+    "trial; experiment; test"
+   ]
+  },
+  {
+   "id": "j1174420",
+   "word": "英語",
+   "reading": "えいご",
+   "gloss_en": [
+    "English (language)"
+   ]
+  },
+  {
+   "id": "j1159980",
+   "word": "医者",
+   "reading": "いしゃ",
+   "gloss_en": [
+    "doctor; physician"
+   ]
+  },
+  {
+   "id": "j1304970",
+   "word": "仕事",
+   "reading": "しごと",
+   "gloss_en": [
+    "work; job; labor; labour",
+    "work"
+   ]
+  },
+  {
+   "id": "j1231690",
+   "word": "去年",
+   "reading": "きょねん",
+   "gloss_en": [
+    "last year"
+   ]
+  },
+  {
+   "id": "j1526960",
+   "word": "味",
+   "reading": "あじ",
+   "gloss_en": [
+    "flavor; flavour; taste",
+    "charm; appeal; uniqueness; attractiveness",
+    "experience; taste (e.g. of victory)"
+   ]
+  },
+  {
+   "id": "j1321900",
+   "word": "写真",
+   "reading": "しゃしん",
+   "gloss_en": [
+    "photograph; photo; picture; photography"
+   ]
+  },
+  {
+   "id": "j1315130",
+   "word": "字",
+   "reading": "じ",
+   "gloss_en": [
+    "character (esp. kanji); letter; written text",
+    "handwriting; penmanship",
+    "the ... word (e.g. \"the L word\" = \"love\")"
+   ]
+  },
+  {
+   "id": "j1449530",
+   "word": "答え",
+   "reading": "こたえ",
+   "gloss_en": [
+    "answer; reply; response",
+    "answer; solution; result"
+   ]
+  },
+  {
+   "id": "j1536350",
+   "word": "夜",
+   "reading": "よる",
+   "gloss_en": [
+    "night; evening",
+    "dinner"
+   ]
+  },
+  {
+   "id": "j1183720",
+   "word": "音楽",
+   "reading": "おんがく",
+   "gloss_en": [
+    "music"
+   ]
+  },
+  {
+   "id": "j1426530",
+   "word": "注意",
+   "reading": "ちゅうい",
+   "gloss_en": [
+    "attention; notice; heed",
+    "care; caution; precaution; looking out (for)",
+    "advice; warning; caution; reminder"
+   ]
+  },
+  {
+   "id": "j1221250",
+   "word": "帰り",
+   "reading": "かえり",
+   "gloss_en": [
+    "return; coming back"
+   ]
+  },
+  {
+   "id": "j1265070",
+   "word": "古い",
+   "reading": "ふるい",
+   "gloss_en": [
+    "old; aged; ancient; antiquated",
+    "long; since long ago; time-honored",
+    "of the distant past; long-ago"
+   ]
+  },
+  {
+   "id": "j1193180",
+   "word": "歌",
+   "reading": "うた",
+   "gloss_en": [
+    "song; singing",
+    "classical Japanese poem (esp. tanka)",
+    "modern poetry"
+   ]
+  },
+  {
+   "id": "j1473740",
+   "word": "買う",
+   "reading": "かう",
+   "gloss_en": [
+    "to buy; to purchase",
+    "to value (highly); to think highly of; to have a high opinion of; to appreciate",
+    "to incur (someone's anger, displeasure, etc.); to elicit (e.g. sneers); to invite (e.g. scorn); to evoke"
+   ]
+  },
+  {
+   "id": "j1151260",
+   "word": "悪い",
+   "reading": "わるい",
+   "gloss_en": [
+    "bad; poor; undesirable",
+    "poor (quality); inferior; insufficient",
+    "evil; sinful"
+   ]
+  },
+  {
+   "id": "j1421290",
+   "word": "地図",
+   "reading": "ちず",
+   "gloss_en": [
+    "map; atlas; chart; plan"
+   ]
+  },
+  {
+   "id": "j1548010",
+   "word": "来週",
+   "reading": "らいしゅう",
+   "gloss_en": [
+    "next week"
+   ]
+  },
+  {
+   "id": "j1514320",
+   "word": "歩く",
+   "reading": "あるく",
+   "gloss_en": [
+    "to walk"
+   ]
+  },
+  {
+   "id": "j1596780",
+   "word": "台風",
+   "reading": "たいふう",
+   "gloss_en": [
+    "typhoon; hurricane"
+   ]
+  },
+  {
+   "id": "j1287410",
+   "word": "黒",
+   "reading": "くろ",
+   "gloss_en": [
+    "black",
+    "black stone",
+    "guilt; guilty person"
+   ]
+  },
+  {
+   "id": "j1194500",
+   "word": "花",
+   "reading": "はな",
+   "gloss_en": [
+    "flower; blossom; bloom; petal",
+    "cherry blossom",
+    "beauty"
+   ]
+  },
+  {
+   "id": "j1341000",
+   "word": "春",
+   "reading": "はる",
+   "gloss_en": [
+    "spring; springtime",
+    "New Year",
+    "prime (of life); height (of one's prosperity); heyday"
+   ]
+  },
+  {
+   "id": "j1381380",
+   "word": "青",
+   "reading": "あお",
+   "gloss_en": [
+    "blue; azure",
+    "green",
+    "green light (traffic)"
+   ]
+  },
+  {
+   "id": "j1182710",
+   "word": "屋上",
+   "reading": "おくじょう",
+   "gloss_en": [
+    "rooftop"
+   ]
+  },
+  {
+   "id": "j1357600",
+   "word": "色",
+   "reading": "いろ",
+   "gloss_en": [
+    "colour; color; hue; tint",
+    "complexion; skin colour; skin color",
+    "look (on one's face); expression"
+   ]
+  },
+  {
+   "id": "j1402540",
+   "word": "走る",
+   "reading": "はしる",
+   "gloss_en": [
+    "to run",
+    "to run (of a vehicle); to drive; to travel; to move",
+    "to rush (to); to dash; to race"
+   ]
+  },
+  {
+   "id": "j1332650",
+   "word": "秋",
+   "reading": "あき",
+   "gloss_en": [
+    "autumn; fall"
+   ]
+  },
+  {
+   "id": "j1191320",
+   "word": "夏",
+   "reading": "なつ",
+   "gloss_en": [
+    "summer"
+   ]
+  },
+  {
+   "id": "j1333070",
+   "word": "習う",
+   "reading": "ならう",
+   "gloss_en": [
+    "to take lessons in; to be taught; to learn (from a teacher); to study (under a teacher)"
+   ]
+  },
+  {
+   "id": "j1175140",
+   "word": "駅",
+   "reading": "えき",
+   "gloss_en": [
+    "railway station; train station",
+    "staging post on a highway (in pre-modern Japan)",
+    "counter for railway stations and bus stations"
+   ]
+  },
+  {
+   "id": "j1553170",
+   "word": "旅行",
+   "reading": "りょこう",
+   "gloss_en": [
+    "travel; trip; journey; excursion"
+   ]
+  },
+  {
+   "id": "j1546020",
+   "word": "洋服",
+   "reading": "ようふく",
+   "gloss_en": [
+    "Western-style clothes (cf. traditional Japanese clothes)"
+   ]
+  },
+  {
+   "id": "j1323560",
+   "word": "借りる",
+   "reading": "かりる",
+   "gloss_en": [
+    "to borrow",
+    "to rent; to hire",
+    "to make use of (another's help, wisdom, etc.); to obtain; to receive"
+   ]
+  },
+  {
+   "id": "j1464900",
+   "word": "日曜日",
+   "reading": "にちようび",
+   "gloss_en": [
+    "Sunday"
+   ]
+  },
+  {
+   "id": "j1169870",
+   "word": "飲む",
+   "reading": "のむ",
+   "gloss_en": [
+    "to drink; to swallow; to take (medicine)",
+    "to smoke (tobacco)",
+    "to swallow up; to engulf"
+   ]
+  },
+  {
+   "id": "j1463520",
+   "word": "肉",
+   "reading": "にく",
+   "gloss_en": [
+    "flesh",
+    "meat",
+    "flesh (of a fruit); pulp"
+   ]
+  },
+  {
+   "id": "j1411160",
+   "word": "貸す",
+   "reading": "かす",
+   "gloss_en": [
+    "to lend; to loan",
+    "to rent out; to hire out",
+    "to hand (over); to give"
+   ]
+  },
+  {
+   "id": "j1358550",
+   "word": "食堂",
+   "reading": "しょくどう",
+   "gloss_en": [
+    "dining room; dining hall; cafeteria; canteen",
+    "restaurant; eatery; snack bar; diner"
+   ]
+  },
+  {
+   "id": "j1430250",
+   "word": "鳥",
+   "reading": "とり",
+   "gloss_en": [
+    "bird",
+    "bird meat (esp. chicken meat); fowl; poultry"
+   ]
+  },
+  {
+   "id": "j1446070",
+   "word": "冬",
+   "reading": "ふゆ",
+   "gloss_en": [
+    "winter"
+   ]
+  },
+  {
+   "id": "j1426250",
+   "word": "昼",
+   "reading": "ひる",
+   "gloss_en": [
+    "noon; midday",
+    "daytime",
+    "lunch"
+   ]
+  },
+  {
+   "id": "j1581930",
+   "word": "弟",
+   "reading": "おとうと",
+   "gloss_en": [
+    "younger brother; little brother; kid brother",
+    "brother-in-law (spouse's younger brother or younger sister's husband)"
+   ]
+  },
+  {
+   "id": "j1578010",
+   "word": "魚",
+   "reading": "さかな",
+   "gloss_en": [
+    "fish"
+   ]
+  },
+  {
+   "id": "j1258330",
+   "word": "犬",
+   "reading": "いぬ",
+   "gloss_en": [
+    "dog (Canis (lupus) familiaris); canine",
+    "counterfeit; inferior; useless; wasteful"
+   ]
+  },
+  {
+   "id": "j1524590",
+   "word": "妹",
+   "reading": "いもうと",
+   "gloss_en": [
+    "younger sister"
+   ]
+  },
+  {
+   "id": "j1198180",
+   "word": "会う",
+   "reading": "あう",
+   "gloss_en": [
+    "to meet; to encounter; to see; to come across",
+    "to have (e.g. an accident); to suffer (e.g. an unpleasant fate); to encounter; to face"
+   ]
+  },
+  {
+   "id": "j1452500",
+   "word": "同時",
+   "reading": "どうじ",
+   "gloss_en": [
+    "same time",
+    "simultaneous; concurrent; synchronous"
+   ]
+  },
+  {
+   "id": "j1358490",
+   "word": "食事",
+   "reading": "しょくじ",
+   "gloss_en": [
+    "meal (e.g. lunch, dinner)",
+    "diet"
+   ]
+  },
+  {
+   "id": "j1322700",
+   "word": "社会",
+   "reading": "しゃかい",
+   "gloss_en": [
+    "society; public; community; the world",
+    "social studies"
+   ]
+  },
+  {
+   "id": "j1322990",
+   "word": "者",
+   "reading": "もの",
+   "gloss_en": [
+    "person"
+   ]
+  },
+  {
+   "id": "j1420730",
+   "word": "地",
+   "reading": "ち",
+   "gloss_en": [
+    "earth; ground; land; soil",
+    "place",
+    "territory"
+   ]
+  },
+  {
+   "id": "j1516930",
+   "word": "方",
+   "reading": "ほう",
+   "gloss_en": [
+    "direction; way; side; area (in a particular direction)",
+    "side (of an argument, etc.); one's part",
+    "type; category"
+   ]
+  },
+  {
+   "id": "j1362360",
+   "word": "新聞",
+   "reading": "しんぶん",
+   "gloss_en": [
+    "newspaper"
+   ]
+  },
+  {
+   "id": "j1355790",
+   "word": "場",
+   "reading": "ば",
+   "gloss_en": [
+    "place; spot; space",
+    "field; discipline; sphere; realm",
+    "occasion; situation"
+   ]
+  },
+  {
+   "id": "j1198230",
+   "word": "会員",
+   "reading": "かいいん",
+   "gloss_en": [
+    "member; the membership"
+   ]
+  },
+  {
+   "id": "j1551530",
+   "word": "立てる",
+   "reading": "たてる",
+   "gloss_en": [
+    "to stand (something) up; to put upright; to set up; to erect",
+    "to thrust into; to bury into; to dig into",
+    "to make (a noise); to let out; to produce (a sound)"
+   ]
+  },
+  {
+   "id": "j1586270",
+   "word": "開く",
+   "reading": "あく",
+   "gloss_en": [
+    "to open (e.g. doors)",
+    "to open (e.g. business, etc.)",
+    "to be empty"
+   ]
+  },
+  {
+   "id": "j1590770",
+   "word": "代わり",
+   "reading": "かわり",
+   "gloss_en": [
+    "substitute; replacement; substituting; replacing",
+    "stand-in; proxy; alternate; deputy",
+    "compensation; exchange; return"
+   ]
+  },
+  {
+   "id": "j1532350",
+   "word": "明るい",
+   "reading": "あかるい",
+   "gloss_en": [
+    "light; bright; well-lit; well-lighted",
+    "bright (colour)",
+    "cheerful; bright; spirited; sunny (e.g. disposition)"
+   ]
+  },
+  {
+   "id": "j1318400",
+   "word": "自動車",
+   "reading": "じどうしゃ",
+   "gloss_en": [
+    "car; automobile; motorcar; motor vehicle"
+   ]
+  },
+  {
+   "id": "j1432920",
+   "word": "通り",
+   "reading": "とおり",
+   "gloss_en": [
+    "street; road; avenue; thoroughfare",
+    "traffic; coming and going",
+    "flow (of water, air, etc.); passage; running"
+   ]
+  },
+  {
+   "id": "j1264420",
+   "word": "言語",
+   "reading": "げんご",
+   "gloss_en": [
+    "language"
+   ]
+  },
+  {
+   "id": "j1421540",
+   "word": "地理",
+   "reading": "ちり",
+   "gloss_en": [
+    "geography"
+   ]
+  },
+  {
+   "id": "j1164510",
+   "word": "一体",
+   "reading": "いったい",
+   "gloss_en": [
+    "(what) the heck; (why) in the world; (who) on earth; (where) the hell",
+    "one object; one body; one unit; one group",
+    "one form; one style; one format; one fashion"
+   ]
+  },
+  {
+   "id": "j1324990",
+   "word": "主に",
+   "reading": "おもに",
+   "gloss_en": [
+    "mainly; primarily; mostly; largely"
+   ]
+  },
+  {
+   "id": "j1415470",
+   "word": "題",
+   "reading": "だい",
+   "gloss_en": [
+    "title; subject; theme; topic",
+    "problem (on a test); question",
+    "counter for questions (on a test)"
+   ]
+  },
+  {
+   "id": "j1156530",
+   "word": "意見",
+   "reading": "いけん",
+   "gloss_en": [
+    "opinion; view; comment",
+    "scolding; reprimand; rebuke; admonition"
+   ]
+  },
+  {
+   "id": "j1297540",
+   "word": "作業",
+   "reading": "さぎょう",
+   "gloss_en": [
+    "work; operation; task"
+   ]
+  },
+  {
+   "id": "j1597890",
+   "word": "作る",
+   "reading": "つくる",
+   "gloss_en": [
+    "to make; to produce; to manufacture; to build",
+    "to prepare (food); to brew (alcohol)",
+    "to raise; to grow; to cultivate; to train"
+   ]
+  },
+  {
+   "id": "j1546220",
+   "word": "用意",
+   "reading": "ようい",
+   "gloss_en": [
+    "preparation; arrangements; provision; getting ready"
+   ]
+  },
+  {
+   "id": "j1289370",
+   "word": "今度",
+   "reading": "こんど",
+   "gloss_en": [
+    "this time; now",
+    "next time; another time; shortly; soon",
+    "recently; lately; the other day"
+   ]
+  },
+  {
+   "id": "j1236600",
+   "word": "強力",
+   "reading": "きょうりょく",
+   "gloss_en": [
+    "powerful; strong"
+   ]
+  },
+  {
+   "id": "j1242970",
+   "word": "金持ち",
+   "reading": "かねもち",
+   "gloss_en": [
+    "rich person; wealthy person"
+   ]
+  },
+  {
+   "id": "j1155090",
+   "word": "以外",
+   "reading": "いがい",
+   "gloss_en": [
+    "excluding; except (for); apart from; other than",
+    "outside (a boundary, scope, etc.)"
+   ]
+  },
+  {
+   "id": "j1309260",
+   "word": "思い出す",
+   "reading": "おもいだす",
+   "gloss_en": [
+    "to recall; to remember; to recollect"
+   ]
+  },
+  {
+   "id": "j1374300",
+   "word": "世話",
+   "reading": "せわ",
+   "gloss_en": [
+    "care; looking after; help; assistance",
+    "trouble; bother",
+    "good offices; recommendation; introduction"
+   ]
+  },
+  {
+   "id": "j1376590",
+   "word": "正",
+   "reading": "せい",
+   "gloss_en": [
+    "(logical) true; regular",
+    "10^40; ten duodecillion",
+    "original"
+   ]
+  },
+  {
+   "id": "j1465720",
+   "word": "入院",
+   "reading": "にゅういん",
+   "gloss_en": [
+    "hospitalization; hospitalisation"
+   ]
+  },
+  {
+   "id": "j1153890",
+   "word": "安心",
+   "reading": "あんしん",
+   "gloss_en": [
+    "peace of mind; relief; (sense of) security; safety"
+   ]
+  },
+  {
+   "id": "j1360480",
+   "word": "心",
+   "reading": "こころ",
+   "gloss_en": [
+    "mind; heart; spirit",
+    "the meaning of a phrase (riddle, etc.)"
+   ]
+  },
+  {
+   "id": "j1505190",
+   "word": "文学",
+   "reading": "ぶんがく",
+   "gloss_en": [
+    "literature"
+   ]
+  },
+  {
+   "id": "j1260670",
+   "word": "元",
+   "reading": "もと",
+   "gloss_en": [
+    "origin; source; beginning",
+    "basis; base; foundation; root",
+    "cause"
+   ]
+  },
+  {
+   "id": "j1336500",
+   "word": "重大",
+   "reading": "じゅうだい",
+   "gloss_en": [
+    "serious; important; significant; grave"
+   ]
+  },
+  {
+   "id": "j1242130",
+   "word": "近い",
+   "reading": "ちかい",
+   "gloss_en": [
+    "near; close; short (distance)",
+    "close (in time); soon",
+    "close (relationship); friendly; intimate"
+   ]
+  },
+  {
+   "id": "j1281000",
+   "word": "考え",
+   "reading": "かんがえ",
+   "gloss_en": [
+    "thinking; thought; view; opinion",
+    "idea; notion; imagination",
+    "intention; plan; design"
+   ]
+  },
+  {
+   "id": "j1201260",
+   "word": "海外",
+   "reading": "かいがい",
+   "gloss_en": [
+    "foreign; abroad; overseas"
+   ]
+  },
+  {
+   "id": "j1588550",
+   "word": "売り場",
+   "reading": "うりば",
+   "gloss_en": [
+    "selling area; counter; section; department",
+    "favorable time to sell; good time to sell"
+   ]
+  },
+  {
+   "id": "j1420400",
+   "word": "知らせ",
+   "reading": "しらせ",
+   "gloss_en": [
+    "news; word; tidings; notice",
+    "omen; foreboding; premonition"
+   ]
+  },
+  {
+   "id": "j1371920",
+   "word": "水道",
+   "reading": "すいどう",
+   "gloss_en": [
+    "water supply; water service; waterworks; tap water",
+    "channel; strait",
+    "water course; waterway"
+   ]
+  },
+  {
+   "id": "j1333550",
+   "word": "集まる",
+   "reading": "あつまる",
+   "gloss_en": [
+    "to gather; to collect; to assemble"
+   ]
+  },
+  {
+   "id": "j1451470",
+   "word": "動物",
+   "reading": "どうぶつ",
+   "gloss_en": [
+    "animal"
+   ]
+  },
+  {
+   "id": "j1502390",
+   "word": "物",
+   "reading": "もの",
+   "gloss_en": [
+    "thing; object; article; stuff",
+    "one's things; possessions; property; belongings",
+    "things; something; anything; everything"
+   ]
+  },
+  {
+   "id": "j1583470",
+   "word": "品",
+   "reading": "しな",
+   "gloss_en": [
+    "article; item; thing; goods",
+    "quality",
+    "flirtatiousness; coquetry"
+   ]
+  },
+  {
+   "id": "j1252050",
+   "word": "計",
+   "reading": "けい",
+   "gloss_en": [
+    "plan",
+    "meter; measuring device",
+    "(in) total; total (of)"
+   ]
+  },
+  {
+   "id": "j1455280",
+   "word": "特別",
+   "reading": "とくべつ",
+   "gloss_en": [
+    "special; particular; extraordinary; exceptional"
+   ]
+  },
+  {
+   "id": "j1454670",
+   "word": "特に",
+   "reading": "とくに",
+   "gloss_en": [
+    "particularly; especially; in particular; expressly"
+   ]
+  },
+  {
+   "id": "j2842390",
+   "word": "私",
+   "reading": "わたくし",
+   "gloss_en": [
+    "I; me",
+    "personal (affairs, etc.); private",
+    "selfishness; partiality"
+   ]
+  },
+  {
+   "id": "j1342540",
+   "word": "始め",
+   "reading": "はじめ",
+   "gloss_en": [
+    "beginning; start; outset; opening",
+    "first (in line, etc.)",
+    "origin"
+   ]
+  },
+  {
+   "id": "j1579100",
+   "word": "今朝",
+   "reading": "けさ",
+   "gloss_en": [
+    "this morning"
+   ]
+  },
+  {
+   "id": "j1172910",
+   "word": "運動",
+   "reading": "うんどう",
+   "gloss_en": [
+    "exercise; physical training; workout; sports",
+    "appeal; campaign; drive; crusade",
+    "motion; movement"
+   ]
+  },
+  {
+   "id": "j1589600",
+   "word": "終わる",
+   "reading": "おわる",
+   "gloss_en": [
+    "to end; to come to an end; to finish; to close",
+    "to finish; to complete; to conclude",
+    "to finish doing"
+   ]
+  },
+  {
+   "id": "j1412560",
+   "word": "台",
+   "reading": "だい",
+   "gloss_en": [
+    "stand; rest; base; pedestal",
+    "setting (of a gem); mounting",
+    "stock (in grafting)"
+   ]
+  },
+  {
+   "id": "j1602360",
+   "word": "広がる",
+   "reading": "ひろがる",
+   "gloss_en": [
+    "to spread (out); to extend; to stretch; to reach to"
+   ]
+  },
+  {
+   "id": "j1604350",
+   "word": "真ん中",
+   "reading": "まんなか",
+   "gloss_en": [
+    "middle; centre; center; midpoint"
+   ]
+  },
+  {
+   "id": "j1367300",
+   "word": "人口",
+   "reading": "じんこう",
+   "gloss_en": [
+    "population",
+    "common talk"
+   ]
+  },
+  {
+   "id": "j1407810",
+   "word": "多少",
+   "reading": "たしょう",
+   "gloss_en": [
+    "a little; some; somewhat; slightly",
+    "amount; quantity; number"
+   ]
+  },
+  {
+   "id": "j1348870",
+   "word": "少し",
+   "reading": "すこし",
+   "gloss_en": [
+    "a little; a bit; a small amount; a few",
+    "a little while; a short time; a moment; a minute",
+    "a little way; a short distance"
+   ]
+  },
+  {
+   "id": "j1358680",
+   "word": "食料品",
+   "reading": "しょくりょうひん",
+   "gloss_en": [
+    "foodstuff; groceries"
+   ]
+  },
+  {
+   "id": "j1257330",
+   "word": "建てる",
+   "reading": "たてる",
+   "gloss_en": [
+    "to build; to construct"
+   ]
+  },
+  {
+   "id": "j1245470",
+   "word": "空気",
+   "reading": "くうき",
+   "gloss_en": [
+    "air; atmosphere",
+    "mood; situation",
+    "someone with no presence; someone who doesn't stand out at all"
+   ]
+  },
+  {
+   "id": "j1228560",
+   "word": "急",
+   "reading": "きゅう",
+   "gloss_en": [
+    "sudden; abrupt; unexpected",
+    "urgent; pressing",
+    "steep; sharp; precipitous"
+   ]
+  },
+  {
+   "id": "j1310620",
+   "word": "止まる",
+   "reading": "とまる",
+   "gloss_en": [
+    "to stop (moving); to come to a stop",
+    "to stop (doing, working, being supplied); to come to a halt; to cease; to be stopped",
+    "to alight; to perch on"
+   ]
+  },
+  {
+   "id": "j1259820",
+   "word": "見送り",
+   "reading": "みおくり",
+   "gloss_en": [
+    "seeing (someone) off; send-off",
+    "deferment; postponement; shelving",
+    "letting a pitch go by"
+   ]
+  },
+  {
+   "id": "j1414340",
+   "word": "大切",
+   "reading": "たいせつ",
+   "gloss_en": [
+    "important; significant; serious; crucial",
+    "precious; valuable; dear; cherished",
+    "careful"
+   ]
+  },
+  {
+   "id": "j1493700",
+   "word": "不足",
+   "reading": "ふそく",
+   "gloss_en": [
+    "insufficiency; deficiency; shortage; lack",
+    "dissatisfaction; discontent; complaint"
+   ]
+  },
+  {
+   "id": "j1404630",
+   "word": "足",
+   "reading": "あし",
+   "gloss_en": [
+    "foot; paw; arm (of an octopus, squid, etc.)",
+    "leg",
+    "gait"
+   ]
+  },
+  {
+   "id": "j1207250",
+   "word": "楽しみ",
+   "reading": "たのしみ",
+   "gloss_en": [
+    "enjoyment; pleasure; amusement; delight",
+    "anticipation; looking forward to; something to look forward to"
+   ]
+  },
+  {
+   "id": "j1223660",
+   "word": "起こす",
+   "reading": "おこす",
+   "gloss_en": [
+    "to raise; to raise up; to set up; to pick up",
+    "to wake; to wake up; to waken; to awaken",
+    "to cause; to bring about; to lead to; to trigger"
+   ]
+  },
+  {
+   "id": "j1580340",
+   "word": "上着",
+   "reading": "うわぎ",
+   "gloss_en": [
+    "coat; jacket; outerwear",
+    "top; upper-body garment"
+   ]
+  },
+  {
+   "id": "j1582120",
+   "word": "店",
+   "reading": "みせ",
+   "gloss_en": [
+    "store; shop; establishment; restaurant"
+   ]
+  },
+  {
+   "id": "j1490230",
+   "word": "病気",
+   "reading": "びょうき",
+   "gloss_en": [
+    "illness (usu. excluding minor ailments, e.g. common cold); disease; sickness",
+    "bad habit; bad behaviour; weakness; failing",
+    "crazy; insane; disturbed; sick in the head"
+   ]
+  },
+  {
+   "id": "j1320760",
+   "word": "質問",
+   "reading": "しつもん",
+   "gloss_en": [
+    "question; inquiry; enquiry"
+   ]
+  },
+  {
+   "id": "j1320640",
+   "word": "質",
+   "reading": "しつ",
+   "gloss_en": [
+    "quality; value",
+    "nature; inherent quality; character",
+    "logical quality"
+   ]
+  },
+  {
+   "id": "j1312250",
+   "word": "試し",
+   "reading": "ためし",
+   "gloss_en": [
+    "trial; test; try"
+   ]
+  },
+  {
+   "id": "j1192150",
+   "word": "家族",
+   "reading": "かぞく",
+   "gloss_en": [
+    "family"
+   ]
+  },
+  {
+   "id": "j1595090",
+   "word": "銀",
+   "reading": "ぎん",
+   "gloss_en": [
+    "silver (Ag)",
+    "silver (color)",
+    "silver (medal, prize, etc.)"
+   ]
+  },
+  {
+   "id": "j1173720",
+   "word": "映画",
+   "reading": "えいが",
+   "gloss_en": [
+    "movie; film; motion picture"
+   ]
+  },
+  {
+   "id": "j1365040",
+   "word": "親",
+   "reading": "おや",
+   "gloss_en": [
+    "parent; parents; mother and father",
+    "dealer; banker",
+    "founder; inventor"
+   ]
+  },
+  {
+   "id": "j1159810",
+   "word": "医学",
+   "reading": "いがく",
+   "gloss_en": [
+    "medicine; medical science"
+   ]
+  },
+  {
+   "id": "j1594110",
+   "word": "仕方",
+   "reading": "しかた",
+   "gloss_en": [
+    "way; method; means; resource"
+   ]
+  },
+  {
+   "id": "j1231650",
+   "word": "去る",
+   "reading": "さる",
+   "gloss_en": [
+    "to leave; to go away",
+    "to pass; to elapse",
+    "to be distant"
+   ]
+  },
+  {
+   "id": "j1156800",
+   "word": "意味",
+   "reading": "いみ",
+   "gloss_en": [
+    "meaning; significance; sense"
+   ]
+  },
+  {
+   "id": "j1588320",
+   "word": "写す",
+   "reading": "うつす",
+   "gloss_en": [
+    "to copy; to duplicate; to reproduce; to trace",
+    "to describe; to depict; to portray; to express",
+    "to imitate; to model after"
+   ]
+  },
+  {
+   "id": "j1449540",
+   "word": "答える",
+   "reading": "こたえる",
+   "gloss_en": [
+    "to answer; to reply"
+   ]
+  },
+  {
+   "id": "j1289520",
+   "word": "今夜",
+   "reading": "こんや",
+   "gloss_en": [
+    "this evening; tonight"
+   ]
+  },
+  {
+   "id": "j1477170",
+   "word": "発音",
+   "reading": "はつおん",
+   "gloss_en": [
+    "pronunciation",
+    "production of sound"
+   ]
+  },
+  {
+   "id": "j1426670",
+   "word": "注目",
+   "reading": "ちゅうもく",
+   "gloss_en": [
+    "notice; attention; observation"
+   ]
+  },
+  {
+   "id": "j1221270",
+   "word": "帰る",
+   "reading": "かえる",
+   "gloss_en": [
+    "to return; to come home; to go home; to go back",
+    "to leave (of a guest, customer, etc.)",
+    "to get home; to get to home plate"
+   ]
+  },
+  {
+   "id": "j1424150",
+   "word": "中古",
+   "reading": "ちゅうこ",
+   "gloss_en": [
+    "used; second-hand; old",
+    "Middle Ages (in Japan esp. Heian period)"
+   ]
+  },
+  {
+   "id": "j1588120",
+   "word": "歌う",
+   "reading": "うたう",
+   "gloss_en": [
+    "to sing",
+    "to sing of (love, beauty, etc.) in a poem; to express in the form of a poem; to recite (a poem)"
+   ]
+  },
+  {
+   "id": "j1589730",
+   "word": "買い物",
+   "reading": "かいもの",
+   "gloss_en": [
+    "shopping; purchased goods"
+   ]
+  },
+  {
+   "id": "j1575730",
+   "word": "悪口",
+   "reading": "わるぐち",
+   "gloss_en": [
+    "(verbal) abuse; speaking ill of people; bad-mouthing; name-calling"
+   ]
+  },
+  {
+   "id": "j1387870",
+   "word": "先週",
+   "reading": "せんしゅう",
+   "gloss_en": [
+    "last week; the week before"
+   ]
+  },
+  {
+   "id": "j1237150",
+   "word": "教室",
+   "reading": "きょうしつ",
+   "gloss_en": [
+    "classroom; lecture room",
+    "department (in a university)",
+    "class; lessons; course"
+   ]
+  },
+  {
+   "id": "j1258570",
+   "word": "研究室",
+   "reading": "けんきゅうしつ",
+   "gloss_en": [
+    "laboratory",
+    "seminar room",
+    "professor's office"
+   ]
+  },
+  {
+   "id": "j1514420",
+   "word": "歩道",
+   "reading": "ほどう",
+   "gloss_en": [
+    "footpath; walkway; sidewalk; pavement"
+   ]
+  },
+  {
+   "id": "j1499720",
+   "word": "風",
+   "reading": "かぜ",
+   "gloss_en": [
+    "wind; breeze; draught; draft",
+    "manner; behaviour; behavior",
+    "cold; influenza"
+   ]
+  },
+  {
+   "id": "j1327720",
+   "word": "手紙",
+   "reading": "てがみ",
+   "gloss_en": [
+    "letter; note"
+   ]
+  },
+  {
+   "id": "j1311530",
+   "word": "紙",
+   "reading": "かみ",
+   "gloss_en": [
+    "paper"
+   ]
+  },
+  {
+   "id": "j1287420",
+   "word": "黒い",
+   "reading": "くろい",
+   "gloss_en": [
+    "black",
+    "dark; blackish; sun-tanned (skin)",
+    "suspicious; criminal; illicit"
+   ]
+  },
+  {
+   "id": "j1194660",
+   "word": "花見",
+   "reading": "はなみ",
+   "gloss_en": [
+    "cherry blossom viewing; flower viewing"
+   ]
+  },
+  {
+   "id": "j2013900",
+   "word": "赤",
+   "reading": "あか",
+   "gloss_en": [
+    "red; crimson; scarlet",
+    "red-containing colour (e.g. brown, pink, orange)",
+    "Red (i.e. communist)"
+   ]
+  },
+  {
+   "id": "j1381390",
+   "word": "青い",
+   "reading": "あおい",
+   "gloss_en": [
+    "blue; azure",
+    "green",
+    "pale (facial color); gray; grey"
+   ]
+  },
+  {
+   "id": "j1413890",
+   "word": "大使館",
+   "reading": "たいしかん",
+   "gloss_en": [
+    "embassy"
+   ]
+  },
+  {
+   "id": "j1173750",
+   "word": "映画館",
+   "reading": "えいがかん",
+   "gloss_en": [
+    "movie theatre; movie theater; cinema"
+   ]
+  },
+  {
+   "id": "j1370420",
+   "word": "図書館",
+   "reading": "としょかん",
+   "gloss_en": [
+    "library"
+   ]
+  },
+  {
+   "id": "j1476960",
+   "word": "八百屋",
+   "reading": "やおや",
+   "gloss_en": [
+    "greengrocer; fruit and vegetable shop",
+    "jack of all trades"
+   ]
+  },
+  {
+   "id": "j1191420",
+   "word": "夏休み",
+   "reading": "なつやすみ",
+   "gloss_en": [
+    "summer vacation; summer holiday"
+   ]
+  },
+  {
+   "id": "j1206820",
+   "word": "学習",
+   "reading": "がくしゅう",
+   "gloss_en": [
+    "learning; study"
+   ]
+  },
+  {
+   "id": "j1381100",
+   "word": "西洋",
+   "reading": "せいよう",
+   "gloss_en": [
+    "the West; the Occident; Western countries"
+   ]
+  },
+  {
+   "id": "j1553120",
+   "word": "旅",
+   "reading": "たび",
+   "gloss_en": [
+    "travel; trip; journey"
+   ]
+  },
+  {
+   "id": "j1500940",
+   "word": "服",
+   "reading": "ふく",
+   "gloss_en": [
+    "clothes (esp. Western clothes); clothing; dress; costume",
+    "counter for doses of medicine, gulps of tea, puffs of a cigarette, etc."
+   ]
+  },
+  {
+   "id": "j1323940",
+   "word": "借金",
+   "reading": "しゃっきん",
+   "gloss_en": [
+    "debt; loan; liabilities; borrowing money",
+    "number of games under the .500 mark"
+   ]
+  },
+  {
+   "id": "j1255890",
+   "word": "月曜日",
+   "reading": "げつようび",
+   "gloss_en": [
+    "Monday"
+   ]
+  },
+  {
+   "id": "j1600430",
+   "word": "飲み物",
+   "reading": "のみもの",
+   "gloss_en": [
+    "drink; beverage"
+   ]
+  },
+  {
+   "id": "j1411110",
+   "word": "貸し",
+   "reading": "かし",
+   "gloss_en": [
+    "loan; lending; hire; rental",
+    "favor; favour; debt; obligation",
+    "creditor; method of lending; credit side"
+   ]
+  },
+  {
+   "id": "j1348530",
+   "word": "小鳥",
+   "reading": "ことり",
+   "gloss_en": [
+    "small bird; little bird"
+   ]
+  },
+  {
+   "id": "j1584910",
+   "word": "夕飯",
+   "reading": "ゆうはん",
+   "gloss_en": [
+    "evening meal; dinner; supper"
+   ]
+  },
+  {
+   "id": "j1270590",
+   "word": "ご飯",
+   "reading": "ごはん",
+   "gloss_en": [
+    "cooked rice",
+    "meal"
+   ]
+  },
+  {
+   "id": "j1512670",
+   "word": "勉強",
+   "reading": "べんきょう",
+   "gloss_en": [
+    "study",
+    "diligence; working hard",
+    "experience; knowledge; lesson (for the future)"
+   ]
+  },
+  {
+   "id": "j1602340",
+   "word": "昼ご飯",
+   "reading": "ひるごはん",
+   "gloss_en": [
+    "lunch; midday meal"
+   ]
+  },
+  {
+   "id": "j1422720",
+   "word": "茶色",
+   "reading": "ちゃいろ",
+   "gloss_en": [
+    "brown; light brown; tawny"
+   ]
+  },
+  {
+   "id": "j1002430",
+   "word": "お茶",
+   "reading": "おちゃ",
+   "gloss_en": [
+    "tea (esp. green or barley)",
+    "tea break; teatime",
+    "tea ceremony"
+   ]
+  },
+  {
+   "id": "j1231580",
+   "word": "牛肉",
+   "reading": "ぎゅうにく",
+   "gloss_en": [
+    "beef"
+   ]
+  },
+  {
+   "id": "j1231490",
+   "word": "牛",
+   "reading": "うし",
+   "gloss_en": [
+    "cattle (Bos taurus); cow; bull; ox",
+    "beef",
+    "Chinese \"Ox\" constellation (one of the 28 mansions)"
+   ]
+  },
+  {
+   "id": "j1249960",
+   "word": "兄弟",
+   "reading": "きょうだい",
+   "gloss_en": [
+    "brothers and sisters; siblings",
+    "half-siblings; step-siblings; siblings by marriage or adoption",
+    "mate; friend"
+   ]
+  },
+  {
+   "id": "j1249900",
+   "word": "兄",
+   "reading": "あに",
+   "gloss_en": [
+    "older brother; elder brother",
+    "brother-in-law (spouse's older brother or older sister's husband)"
+   ]
+  },
+  {
+   "id": "j1579490",
+   "word": "姉妹",
+   "reading": "しまい",
+   "gloss_en": [
+    "sisters"
+   ]
+  },
+  {
+   "id": "j1307630",
+   "word": "姉",
+   "reading": "あね",
+   "gloss_en": [
+    "older sister; elder sister"
+   ]
+  },
+  {
+   "id": "j1213170",
+   "word": "漢字",
+   "reading": "かんじ",
+   "gloss_en": [
+    "kanji; Chinese character"
+   ]
+  },
+  {
+   "id": "j1477310",
+   "word": "発見",
+   "reading": "はっけん",
+   "gloss_en": [
+    "discovery; detection; finding"
+   ]
+  },
+  {
+   "id": "j1379330",
+   "word": "生地",
+   "reading": "きじ",
+   "gloss_en": [
+    "cloth; fabric; material; texture",
+    "dough; batter",
+    "inherent quality; one's true character; one's true colours"
+   ]
+  },
+  {
+   "id": "j1361510",
+   "word": "新た",
+   "reading": "あらた",
+   "gloss_en": [
+    "new; fresh; novel"
+   ]
+  },
+  {
+   "id": "j1551710",
+   "word": "立場",
+   "reading": "たちば",
+   "gloss_en": [
+    "position; situation",
+    "viewpoint; standpoint; point of view"
+   ]
+  },
+  {
+   "id": "j1353320",
+   "word": "上手",
+   "reading": "じょうず",
+   "gloss_en": [
+    "skillful; skilled; proficient; good (at)",
+    "flattery"
+   ]
+  },
+  {
+   "id": "j1535930",
+   "word": "問い",
+   "reading": "とい",
+   "gloss_en": [
+    "question; query"
+   ]
+  },
+  {
+   "id": "j1584640",
+   "word": "明後日",
+   "reading": "あさって",
+   "gloss_en": [
+    "day after tomorrow",
+    "wrong (e.g. direction)"
+   ]
+  },
+  {
+   "id": "j1451210",
+   "word": "動く",
+   "reading": "うごく",
+   "gloss_en": [
+    "to move; to stir; to shift; to shake",
+    "to operate; to run; to go; to work",
+    "to make a move; to take action; to act; to go into action"
+   ]
+  },
+  {
+   "id": "j1432850",
+   "word": "通う",
+   "reading": "かよう",
+   "gloss_en": [
+    "to go to and from (a place); to go back and forth between; to run between (e.g. bus, train, etc.); to ply between",
+    "to go to (school, work, etc.); to attend; to commute; to frequent",
+    "to circulate (e.g. blood, electricity); to be communicated (e.g. thought)"
+   ]
+  },
+  {
+   "id": "j1575990",
+   "word": "一言",
+   "reading": "ひとこと",
+   "gloss_en": [
+    "single word; a few words; brief comment"
+   ]
+  },
+  {
+   "id": "j1546210",
+   "word": "用いる",
+   "reading": "もちいる",
+   "gloss_en": [
+    "to use; to make use of; to utilize; to utilise"
+   ]
+  },
+  {
+   "id": "j1445150",
+   "word": "度",
+   "reading": "たび",
+   "gloss_en": [
+    "time (three times, each time, etc.); times"
+   ]
+  },
+  {
+   "id": "j1236070",
+   "word": "強い",
+   "reading": "つよい",
+   "gloss_en": [
+    "strong; potent; competent; domineering",
+    "strong; brawny; powerful; healthy",
+    "good (at); skilled; knowledgeable"
+   ]
+  },
+  {
+   "id": "j1156610",
+   "word": "意思",
+   "reading": "いし",
+   "gloss_en": [
+    "intention; wish; purpose; mind (to do)"
+   ]
+  },
+  {
+   "id": "j1413140",
+   "word": "大家",
+   "reading": "おおや",
+   "gloss_en": [
+    "landlord; landlady"
+   ]
+  },
+  {
+   "id": "j1373850",
+   "word": "世の中",
+   "reading": "よのなか",
+   "gloss_en": [
+    "society; the world; the times"
+   ]
+  },
+  {
+   "id": "j1377080",
+   "word": "正午",
+   "reading": "しょうご",
+   "gloss_en": [
+    "noon; midday"
+   ]
+  },
+  {
+   "id": "j1546310",
+   "word": "用心",
+   "reading": "ようじん",
+   "gloss_en": [
+    "care; precaution; guarding; caution"
+   ]
+  },
+  {
+   "id": "j1236900",
+   "word": "教える",
+   "reading": "おしえる",
+   "gloss_en": [
+    "to teach; to instruct",
+    "to tell; to inform; to show",
+    "to preach"
+   ]
+  },
+  {
+   "id": "j1297960",
+   "word": "作文",
+   "reading": "さくぶん",
+   "gloss_en": [
+    "writing (an essay, prose, etc.); composition",
+    "formal writing with little real meaning"
+   ]
+  },
+  {
+   "id": "j1242420",
+   "word": "近代",
+   "reading": "きんだい",
+   "gloss_en": [
+    "present day; modern times; recent times",
+    "early modern period (in Japan, usu. from the Meiji Restoration until the end of World War II)"
+   ]
+  },
+  {
+   "id": "j1420580",
+   "word": "知事",
+   "reading": "ちじ",
+   "gloss_en": [
+    "prefectural governor"
+   ]
+  },
+  {
+   "id": "j1333750",
+   "word": "集中",
+   "reading": "しゅうちゅう",
+   "gloss_en": [
+    "concentration (on a task); focusing one's attention",
+    "concentration (of population, buildings, power, etc.); centralization; convergence; focus (of a debate, questions, etc.)",
+    "within a collection of works"
+   ]
+  },
+  {
+   "id": "j1606590",
+   "word": "別れる",
+   "reading": "わかれる",
+   "gloss_en": [
+    "to part (usu. of people); to part from; to part with; to be apart from",
+    "to separate (of a couple); to break up; to divorce",
+    "to lose (e.g. one's mother); to be bereaved"
+   ]
+  },
+  {
+   "id": "j1358620",
+   "word": "食物",
+   "reading": "しょくもつ",
+   "gloss_en": [
+    "food; foodstuff"
+   ]
+  },
+  {
+   "id": "j2648780",
+   "word": "品",
+   "reading": "ひん",
+   "gloss_en": [
+    "elegance; grace; refinement; class",
+    "article; item",
+    "counter for items (of food, etc.); counter for dishes or courses (at a restaurant)"
+   ]
+  },
+  {
+   "id": "j1600650",
+   "word": "計る",
+   "reading": "はかる",
+   "gloss_en": [
+    "to measure; to weigh; to survey; to time (sound, gauge, estimate)",
+    "to conjecture; to infer; to surmise"
+   ]
+  },
+  {
+   "id": "j1202760",
+   "word": "開始",
+   "reading": "かいし",
+   "gloss_en": [
+    "start; commencement; beginning; initiation"
+   ]
+  },
+  {
+   "id": "j1172660",
+   "word": "運ぶ",
+   "reading": "はこぶ",
+   "gloss_en": [
+    "to carry; to transport; to move; to convey",
+    "to come; to go",
+    "to use (a brush, chopsticks, etc.); to move"
+   ]
+  },
+  {
+   "id": "j1338850",
+   "word": "出口",
+   "reading": "でぐち",
+   "gloss_en": [
+    "exit; way out",
+    "outlet; vent"
+   ]
+  },
+  {
+   "id": "j1348910",
+   "word": "少ない",
+   "reading": "すくない",
+   "gloss_en": [
+    "few; little; small (amount); low"
+   ]
+  },
+  {
+   "id": "j1245280",
+   "word": "空",
+   "reading": "から",
+   "gloss_en": [
+    "emptiness; being empty",
+    "not carrying anything; unburdened; empty-handed",
+    "dishonoured (bill, promise, etc.); false; no-show (reservation); put-on (cheeriness, courage, etc.)"
+   ]
+  },
+  {
+   "id": "j1454750",
+   "word": "特急",
+   "reading": "とっきゅう",
+   "gloss_en": [
+    "limited express (train for which a limited-express ticket is required)",
+    "limited express (train making a limited no. of stops)",
+    "great hurry"
+   ]
+  },
+  {
+   "id": "j1228650",
+   "word": "急ぐ",
+   "reading": "いそぐ",
+   "gloss_en": [
+    "to hurry; to rush; to hasten; to make something happen sooner"
+   ]
+  },
+  {
+   "id": "j1310640",
+   "word": "止む",
+   "reading": "やむ",
+   "gloss_en": [
+    "to cease; to stop; to be over"
+   ]
+  },
+  {
+   "id": "j1385070",
+   "word": "切手",
+   "reading": "きって",
+   "gloss_en": [
+    "stamp (postage)",
+    "merchandise certificate"
+   ]
+  },
+  {
+   "id": "j1582130",
+   "word": "転ぶ",
+   "reading": "ころぶ",
+   "gloss_en": [
+    "to fall down; to fall over",
+    "to turn out; to play out",
+    "to abandon Christianity (and convert to Buddhism); to apostatize"
+   ]
+  },
+  {
+   "id": "j1404700",
+   "word": "足す",
+   "reading": "たす",
+   "gloss_en": [
+    "to add (numbers)",
+    "to add (something); to top up (with something)",
+    "to take care of (e.g. one's business)"
+   ]
+  },
+  {
+   "id": "j1207230",
+   "word": "楽",
+   "reading": "らく",
+   "gloss_en": [
+    "comfort; ease; relief; (at) peace",
+    "easy; simple; without trouble; without hardships",
+    "(economically) comfortable"
+   ]
+  },
+  {
+   "id": "j1423000",
+   "word": "着る",
+   "reading": "きる",
+   "gloss_en": [
+    "to wear (from the shoulders down); to put on",
+    "to take (the blame, responsibility); to bear"
+   ]
+  },
+  {
+   "id": "j1365050",
+   "word": "親しい",
+   "reading": "したしい",
+   "gloss_en": [
+    "close (e.g. friend); familiar; friendly; intimate",
+    "familiar (e.g. story); well-known (to one)",
+    "close (relatives); closely related"
+   ]
+  },
+  {
+   "id": "j1536930",
+   "word": "夜中",
+   "reading": "よなか",
+   "gloss_en": [
+    "middle of the night; dead of night"
+   ]
+  },
+  {
+   "id": "j1576900",
+   "word": "音",
+   "reading": "おと",
+   "gloss_en": [
+    "sound; noise",
+    "(musical) note",
+    "fame"
+   ]
+  },
+  {
+   "id": "j1426650",
+   "word": "注文",
+   "reading": "ちゅうもん",
+   "gloss_en": [
+    "order (for an item)",
+    "request; demand; condition"
+   ]
+  },
+  {
+   "id": "j1193290",
+   "word": "歌手",
+   "reading": "かしゅ",
+   "gloss_en": [
+    "singer"
+   ]
+  },
+  {
+   "id": "j1363250",
+   "word": "真っ赤",
+   "reading": "まっか",
+   "gloss_en": [
+    "bright red; deep red; flushed (of face)",
+    "downright (e.g. lie); complete; utter"
+   ]
+  },
+  {
+   "id": "j1381750",
+   "word": "青年",
+   "reading": "せいねん",
+   "gloss_en": [
+    "youth; young man"
+   ]
+  },
+  {
+   "id": "j1347830",
+   "word": "小屋",
+   "reading": "こや",
+   "gloss_en": [
+    "hut; cabin; shed; (animal) pen",
+    "small theatre (theater); temporary playhouse; circus tent; booth",
+    "one's own house"
+   ]
+  },
+  {
+   "id": "j1542790",
+   "word": "夕方",
+   "reading": "ゆうがた",
+   "gloss_en": [
+    "early evening (usu. from 3pm to 6pm); dusk"
+   ]
+  },
+  {
+   "id": "j1482010",
+   "word": "飯",
+   "reading": "めし",
+   "gloss_en": [
+    "cooked rice",
+    "meal; food",
+    "one's living; livelihood"
+   ]
+  },
+  {
+   "id": "j1602330",
+   "word": "昼食",
+   "reading": "ちゅうしょく",
+   "gloss_en": [
+    "lunch; midday meal"
+   ]
+  },
+  {
+   "id": "j1001830",
+   "word": "お兄さん",
+   "reading": "おにいさん",
+   "gloss_en": [
+    "older brother; elder brother",
+    "young man; buddy; fella; laddie"
+   ]
+  },
+  {
+   "id": "j1001990",
+   "word": "お姉さん",
+   "reading": "おねえさん",
+   "gloss_en": [
+    "older sister; elder sister",
+    "young lady",
+    "miss"
+   ]
+  },
+  {
+   "id": "j1198880",
+   "word": "会話",
+   "reading": "かいわ",
+   "gloss_en": [
+    "conversation; talk; chat"
+   ]
+  },
+  {
+   "id": "j1193950",
+   "word": "火事",
+   "reading": "かじ",
+   "gloss_en": [
+    "fire; conflagration"
+   ]
+  },
+  {
+   "id": "j1413940",
+   "word": "大事",
+   "reading": "だいじ",
+   "gloss_en": [
+    "important; serious; crucial",
+    "valuable; precious",
+    "serious matter; major incident; matter of grave concern; crisis"
+   ]
+  },
+  {
+   "id": "j1322920",
+   "word": "社長",
+   "reading": "しゃちょう",
+   "gloss_en": [
+    "company president; manager; director"
+   ]
+  },
+  {
+   "id": "j1362400",
+   "word": "新聞社",
+   "reading": "しんぶんしゃ",
+   "gloss_en": [
+    "newspaper company"
+   ]
+  },
+  {
+   "id": "j1198660",
+   "word": "会場",
+   "reading": "かいじょう",
+   "gloss_en": [
+    "assembly hall; meeting place; venue; site"
+   ]
+  },
+  {
+   "id": "j1546300",
+   "word": "用事",
+   "reading": "ようじ",
+   "gloss_en": [
+    "business; things to do; engagement; errand"
+   ]
+  },
+  {
+   "id": "j2429350",
+   "word": "お金持ち",
+   "reading": "おかねもち",
+   "gloss_en": [
+    "rich person; wealthy person"
+   ]
+  },
+  {
+   "id": "j1155060",
+   "word": "以下",
+   "reading": "いか",
+   "gloss_en": [
+    "not exceeding ...; not more than ...; ... and under; ... and below",
+    "below (a standard, level, etc.); under; beneath; less than",
+    "the following; the below-mentioned; the rest; followed by ..."
+   ]
+  },
+  {
+   "id": "j1420410",
+   "word": "知らせる",
+   "reading": "しらせる",
+   "gloss_en": [
+    "to notify; to advise; to inform"
+   ]
+  },
+  {
+   "id": "j1260000",
+   "word": "見物",
+   "reading": "けんぶつ",
+   "gloss_en": [
+    "sightseeing; watching; viewing",
+    "sightseer; spectator; viewer; onlooker"
+   ]
+  },
+  {
+   "id": "j1307550",
+   "word": "始める",
+   "reading": "はじめる",
+   "gloss_en": [
+    "to start; to begin; to commence; to initiate",
+    "to start up (a business, society, etc.); to open (e.g. a store); to establish",
+    "to start ...; to begin to ..."
+   ]
+  },
+  {
+   "id": "j1586265",
+   "word": "空く",
+   "reading": "すく",
+   "gloss_en": [
+    "to become less crowded; to thin out; to get empty",
+    "to be hungry"
+   ]
+  },
+  {
+   "id": "j1228690",
+   "word": "急行",
+   "reading": "きゅうこう",
+   "gloss_en": [
+    "hurrying (to somewhere); rushing; hastening",
+    "express (train)"
+   ]
+  },
+  {
+   "id": "j1172870",
+   "word": "運転手",
+   "reading": "うんてんしゅ",
+   "gloss_en": [
+    "driver; chauffeur"
+   ]
+  },
+  {
+   "id": "j1404740",
+   "word": "足りる",
+   "reading": "たりる",
+   "gloss_en": [
+    "to be sufficient; to be enough",
+    "to be worth doing; to be worthy of; to deserve",
+    "to do (the job); to serve; to answer"
+   ]
+  },
+  {
+   "id": "j1207270",
+   "word": "楽しむ",
+   "reading": "たのしむ",
+   "gloss_en": [
+    "to enjoy; to take pleasure in; to have a good time; to have fun"
+   ]
+  },
+  {
+   "id": "j1423240",
+   "word": "着物",
+   "reading": "きもの",
+   "gloss_en": [
+    "kimono; Japanese traditional clothing (esp. full-length)",
+    "clothing; clothes"
+   ]
+  },
+  {
+   "id": "j1185930",
+   "word": "下着",
+   "reading": "したぎ",
+   "gloss_en": [
+    "underwear; undergarment; underclothes; lingerie"
+   ]
+  },
+  {
+   "id": "j1383260",
+   "word": "赤ちゃん",
+   "reading": "あかちゃん",
+   "gloss_en": [
+    "baby; infant"
+   ]
+  },
+  {
+   "id": "j1553130",
+   "word": "旅館",
+   "reading": "りょかん",
+   "gloss_en": [
+    "ryokan; traditional Japanese inn"
+   ]
+  },
+  {
+   "id": "j1581710",
+   "word": "昼間",
+   "reading": "ひるま",
+   "gloss_en": [
+    "daytime; during the day; time from sunrise until sunset; diurnal period"
+   ]
+  },
+  {
+   "id": "j1426290",
+   "word": "昼休み",
+   "reading": "ひるやすみ",
+   "gloss_en": [
+    "lunch break; noon recess; noon rest period"
+   ]
+  }
+ ],
+ "kanji": [
+  {
+   "k": "一",
+   "eum": [
+    "일"
+   ],
+   "meaning_en": [
+    "one",
+    "one radical (no.1)"
+   ]
+  },
+  {
+   "k": "上",
+   "eum": [
+    "상"
+   ],
+   "meaning_en": [
+    "above",
+    "up"
+   ]
+  },
+  {
+   "k": "下",
+   "eum": [
+    "하"
+   ],
+   "meaning_en": [
+    "below",
+    "down",
+    "descend",
+    "give"
+   ]
+  },
+  {
+   "k": "不",
+   "eum": [
+    "부",
+    "불"
+   ],
+   "meaning_en": [
+    "negative",
+    "non-",
+    "bad",
+    "ugly"
+   ]
+  },
+  {
+   "k": "世",
+   "eum": [
+    "세"
+   ],
+   "meaning_en": [
+    "generation",
+    "world",
+    "society",
+    "public"
+   ]
+  },
+  {
+   "k": "中",
+   "eum": [
+    "중"
+   ],
+   "meaning_en": [
+    "in",
+    "inside",
+    "middle",
+    "mean"
+   ]
+  },
+  {
+   "k": "主",
+   "eum": [
+    "주"
+   ],
+   "meaning_en": [
+    "lord",
+    "chief",
+    "master",
+    "main thing"
+   ]
+  },
+  {
+   "k": "事",
+   "eum": [
+    "사"
+   ],
+   "meaning_en": [
+    "matter",
+    "thing",
+    "fact",
+    "business"
+   ]
+  },
+  {
+   "k": "京",
+   "eum": [
+    "경"
+   ],
+   "meaning_en": [
+    "capital",
+    "10**16"
+   ]
+  },
+  {
+   "k": "人",
+   "eum": [
+    "인"
+   ],
+   "meaning_en": [
+    "person"
+   ]
+  },
+  {
+   "k": "今",
+   "eum": [
+    "금"
+   ],
+   "meaning_en": [
+    "now"
+   ]
+  },
+  {
+   "k": "仕",
+   "eum": [
+    "사"
+   ],
+   "meaning_en": [
+    "attend",
+    "doing",
+    "official",
+    "serve"
+   ]
+  },
+  {
+   "k": "代",
+   "eum": [
+    "대"
+   ],
+   "meaning_en": [
+    "substitute",
+    "change",
+    "convert",
+    "replace"
+   ]
+  },
+  {
+   "k": "以",
+   "eum": [
+    "이"
+   ],
+   "meaning_en": [
+    "by means of",
+    "because",
+    "in view of",
+    "compared with"
+   ]
+  },
+  {
+   "k": "休",
+   "eum": [
+    "휴"
+   ],
+   "meaning_en": [
+    "rest",
+    "day off",
+    "retire",
+    "sleep"
+   ]
+  },
+  {
+   "k": "会",
+   "eum": [
+    "회"
+   ],
+   "meaning_en": [
+    "meeting",
+    "meet",
+    "party",
+    "association"
+   ]
+  },
+  {
+   "k": "住",
+   "eum": [
+    "주"
+   ],
+   "meaning_en": [
+    "dwell",
+    "reside",
+    "live",
+    "inhabit"
+   ]
+  },
+  {
+   "k": "体",
+   "eum": [
+    "분"
+   ],
+   "meaning_en": [
+    "body",
+    "substance",
+    "object",
+    "reality"
+   ]
+  },
+  {
+   "k": "作",
+   "eum": [
+    "작"
+   ],
+   "meaning_en": [
+    "make",
+    "production",
+    "prepare",
+    "build"
+   ]
+  },
+  {
+   "k": "使",
+   "eum": [
+    "사"
+   ],
+   "meaning_en": [
+    "use",
+    "send on a mission",
+    "order",
+    "messenger"
+   ]
+  },
+  {
+   "k": "借",
+   "eum": [
+    "차"
+   ],
+   "meaning_en": [
+    "borrow",
+    "rent"
+   ]
+  },
+  {
+   "k": "元",
+   "eum": [
+    "원"
+   ],
+   "meaning_en": [
+    "beginning",
+    "former time",
+    "origin"
+   ]
+  },
+  {
+   "k": "兄",
+   "eum": [
+    "형"
+   ],
+   "meaning_en": [
+    "elder brother",
+    "big brother"
+   ]
+  },
+  {
+   "k": "先",
+   "eum": [
+    "선"
+   ],
+   "meaning_en": [
+    "before",
+    "ahead",
+    "previous",
+    "future"
+   ]
+  },
+  {
+   "k": "入",
+   "eum": [
+    "입"
+   ],
+   "meaning_en": [
+    "enter",
+    "insert"
+   ]
+  },
+  {
+   "k": "八",
+   "eum": [
+    "팔"
+   ],
+   "meaning_en": [
+    "eight",
+    "eight radical (no. 12)"
+   ]
+  },
+  {
+   "k": "公",
+   "eum": [
+    "공"
+   ],
+   "meaning_en": [
+    "public",
+    "prince",
+    "official",
+    "governmental"
+   ]
+  },
+  {
+   "k": "写",
+   "eum": [
+    "사"
+   ],
+   "meaning_en": [
+    "copy",
+    "be photographed",
+    "describe"
+   ]
+  },
+  {
+   "k": "冬",
+   "eum": [
+    "동"
+   ],
+   "meaning_en": [
+    "winter"
+   ]
+  },
+  {
+   "k": "出",
+   "eum": [
+    "출"
+   ],
+   "meaning_en": [
+    "exit",
+    "leave",
+    "go out",
+    "come out"
+   ]
+  },
+  {
+   "k": "切",
+   "eum": [
+    "절",
+    "체"
+   ],
+   "meaning_en": [
+    "cut",
+    "cutoff",
+    "be sharp"
+   ]
+  },
+  {
+   "k": "別",
+   "eum": [
+    "별"
+   ],
+   "meaning_en": [
+    "separate",
+    "branch off",
+    "diverge",
+    "fork"
+   ]
+  },
+  {
+   "k": "力",
+   "eum": [
+    "력",
+    "역"
+   ],
+   "meaning_en": [
+    "power",
+    "strength",
+    "strong",
+    "strain"
+   ]
+  },
+  {
+   "k": "勉",
+   "eum": [
+    "면"
+   ],
+   "meaning_en": [
+    "exertion",
+    "endeavour",
+    "encourage",
+    "strive"
+   ]
+  },
+  {
+   "k": "動",
+   "eum": [
+    "동"
+   ],
+   "meaning_en": [
+    "move",
+    "motion",
+    "change",
+    "confusion"
+   ]
+  },
+  {
+   "k": "医",
+   "eum": [
+    "예",
+    "의"
+   ],
+   "meaning_en": [
+    "doctor",
+    "medicine"
+   ]
+  },
+  {
+   "k": "午",
+   "eum": [
+    "오"
+   ],
+   "meaning_en": [
+    "noon",
+    "sign of the horse",
+    "11AM-1PM",
+    "seventh sign of Chinese zodiac"
+   ]
+  },
+  {
+   "k": "去",
+   "eum": [
+    "거"
+   ],
+   "meaning_en": [
+    "gone",
+    "past",
+    "quit",
+    "leave"
+   ]
+  },
+  {
+   "k": "口",
+   "eum": [
+    "구"
+   ],
+   "meaning_en": [
+    "mouth"
+   ]
+  },
+  {
+   "k": "古",
+   "eum": [
+    "고"
+   ],
+   "meaning_en": [
+    "old"
+   ]
+  },
+  {
+   "k": "台",
+   "eum": [
+    "태"
+   ],
+   "meaning_en": [
+    "pedestal",
+    "a stand",
+    "counter for machines and vehicles"
+   ]
+  },
+  {
+   "k": "同",
+   "eum": [
+    "동"
+   ],
+   "meaning_en": [
+    "same",
+    "agree",
+    "equal"
+   ]
+  },
+  {
+   "k": "名",
+   "eum": [
+    "명"
+   ],
+   "meaning_en": [
+    "name",
+    "noted",
+    "distinguished",
+    "reputation"
+   ]
+  },
+  {
+   "k": "味",
+   "eum": [
+    "미"
+   ],
+   "meaning_en": [
+    "flavor",
+    "taste"
+   ]
+  },
+  {
+   "k": "品",
+   "eum": [
+    "품"
+   ],
+   "meaning_en": [
+    "goods",
+    "refinement",
+    "dignity",
+    "article"
+   ]
+  },
+  {
+   "k": "員",
+   "eum": [
+    "운",
+    "원"
+   ],
+   "meaning_en": [
+    "employee",
+    "member",
+    "number",
+    "the one in charge"
+   ]
+  },
+  {
+   "k": "問",
+   "eum": [
+    "문"
+   ],
+   "meaning_en": [
+    "question",
+    "ask",
+    "problem"
+   ]
+  },
+  {
+   "k": "図",
+   "eum": [
+    "도"
+   ],
+   "meaning_en": [
+    "map",
+    "drawing",
+    "plan",
+    "extraordinary"
+   ]
+  },
+  {
+   "k": "地",
+   "eum": [
+    "지"
+   ],
+   "meaning_en": [
+    "ground",
+    "earth"
+   ]
+  },
+  {
+   "k": "堂",
+   "eum": [
+    "당"
+   ],
+   "meaning_en": [
+    "public chamber",
+    "hall"
+   ]
+  },
+  {
+   "k": "場",
+   "eum": [
+    "장"
+   ],
+   "meaning_en": [
+    "location",
+    "place"
+   ]
+  },
+  {
+   "k": "売",
+   "eum": [
+    "매"
+   ],
+   "meaning_en": [
+    "sell"
+   ]
+  },
+  {
+   "k": "夏",
+   "eum": [
+    "하"
+   ],
+   "meaning_en": [
+    "summer"
+   ]
+  },
+  {
+   "k": "夕",
+   "eum": [
+    "석"
+   ],
+   "meaning_en": [
+    "evening"
+   ]
+  },
+  {
+   "k": "外",
+   "eum": [
+    "외"
+   ],
+   "meaning_en": [
+    "outside"
+   ]
+  },
+  {
+   "k": "多",
+   "eum": [
+    "다"
+   ],
+   "meaning_en": [
+    "many",
+    "frequent",
+    "much"
+   ]
+  },
+  {
+   "k": "夜",
+   "eum": [
+    "야"
+   ],
+   "meaning_en": [
+    "night",
+    "evening"
+   ]
+  },
+  {
+   "k": "大",
+   "eum": [
+    "대"
+   ],
+   "meaning_en": [
+    "large",
+    "big"
+   ]
+  },
+  {
+   "k": "妹",
+   "eum": [
+    "매"
+   ],
+   "meaning_en": [
+    "younger sister"
+   ]
+  },
+  {
+   "k": "姉",
+   "eum": [
+    "자"
+   ],
+   "meaning_en": [
+    "elder sister"
+   ]
+  },
+  {
+   "k": "始",
+   "eum": [
+    "시"
+   ],
+   "meaning_en": [
+    "commence",
+    "begin"
+   ]
+  },
+  {
+   "k": "字",
+   "eum": [
+    "자"
+   ],
+   "meaning_en": [
+    "character",
+    "letter",
+    "word",
+    "section of village"
+   ]
+  },
+  {
+   "k": "学",
+   "eum": [
+    "학"
+   ],
+   "meaning_en": [
+    "study",
+    "learning",
+    "science"
+   ]
+  },
+  {
+   "k": "安",
+   "eum": [
+    "안"
+   ],
+   "meaning_en": [
+    "relax",
+    "cheap",
+    "low",
+    "quiet"
+   ]
+  },
+  {
+   "k": "室",
+   "eum": [
+    "실"
+   ],
+   "meaning_en": [
+    "room",
+    "apartment",
+    "chamber",
+    "greenhouse"
+   ]
+  },
+  {
+   "k": "家",
+   "eum": [
+    "가"
+   ],
+   "meaning_en": [
+    "house",
+    "home",
+    "family",
+    "professional"
+   ]
+  },
+  {
+   "k": "小",
+   "eum": [
+    "소"
+   ],
+   "meaning_en": [
+    "little",
+    "small"
+   ]
+  },
+  {
+   "k": "少",
+   "eum": [
+    "소"
+   ],
+   "meaning_en": [
+    "few",
+    "little"
+   ]
+  },
+  {
+   "k": "屋",
+   "eum": [
+    "옥"
+   ],
+   "meaning_en": [
+    "roof",
+    "house",
+    "shop",
+    "dealer"
+   ]
+  },
+  {
+   "k": "工",
+   "eum": [
+    "공"
+   ],
+   "meaning_en": [
+    "craft",
+    "construction",
+    "katakana e radical (no. 48)"
+   ]
+  },
+  {
+   "k": "帰",
+   "eum": [
+    "귀",
+    "궤"
+   ],
+   "meaning_en": [
+    "homecoming",
+    "arrive at",
+    "lead to",
+    "result in"
+   ]
+  },
+  {
+   "k": "年",
+   "eum": [
+    "년",
+    "연"
+   ],
+   "meaning_en": [
+    "year",
+    "counter for years"
+   ]
+  },
+  {
+   "k": "広",
+   "eum": [
+    "광"
+   ],
+   "meaning_en": [
+    "wide",
+    "broad",
+    "spacious"
+   ]
+  },
+  {
+   "k": "店",
+   "eum": [
+    "점"
+   ],
+   "meaning_en": [
+    "store",
+    "shop"
+   ]
+  },
+  {
+   "k": "度",
+   "eum": [
+    "도",
+    "탁"
+   ],
+   "meaning_en": [
+    "degrees",
+    "occurrence",
+    "time",
+    "counter for occurrences"
+   ]
+  },
+  {
+   "k": "建",
+   "eum": [
+    "건"
+   ],
+   "meaning_en": [
+    "build"
+   ]
+  },
+  {
+   "k": "弟",
+   "eum": [
+    "제"
+   ],
+   "meaning_en": [
+    "younger brother",
+    "faithful service to elders"
+   ]
+  },
+  {
+   "k": "強",
+   "eum": [
+    "강"
+   ],
+   "meaning_en": [
+    "strong"
+   ]
+  },
+  {
+   "k": "待",
+   "eum": [
+    "대"
+   ],
+   "meaning_en": [
+    "wait",
+    "depend on"
+   ]
+  },
+  {
+   "k": "後",
+   "eum": [
+    "후"
+   ],
+   "meaning_en": [
+    "behind",
+    "back",
+    "later"
+   ]
+  },
+  {
+   "k": "心",
+   "eum": [
+    "심"
+   ],
+   "meaning_en": [
+    "heart",
+    "mind",
+    "spirit",
+    "heart radical (no. 61)"
+   ]
+  },
+  {
+   "k": "思",
+   "eum": [
+    "사"
+   ],
+   "meaning_en": [
+    "think"
+   ]
+  },
+  {
+   "k": "急",
+   "eum": [
+    "급"
+   ],
+   "meaning_en": [
+    "hurry",
+    "emergency",
+    "sudden",
+    "steep"
+   ]
+  },
+  {
+   "k": "悪",
+   "eum": [
+    "악",
+    "오"
+   ],
+   "meaning_en": [
+    "bad",
+    "vice",
+    "rascal",
+    "false"
+   ]
+  },
+  {
+   "k": "意",
+   "eum": [
+    "의"
+   ],
+   "meaning_en": [
+    "idea",
+    "mind",
+    "heart",
+    "taste"
+   ]
+  },
+  {
+   "k": "手",
+   "eum": [
+    "수"
+   ],
+   "meaning_en": [
+    "hand"
+   ]
+  },
+  {
+   "k": "持",
+   "eum": [
+    "지"
+   ],
+   "meaning_en": [
+    "hold",
+    "have"
+   ]
+  },
+  {
+   "k": "教",
+   "eum": [
+    "교"
+   ],
+   "meaning_en": [
+    "teach",
+    "faith",
+    "doctrine"
+   ]
+  },
+  {
+   "k": "文",
+   "eum": [
+    "문"
+   ],
+   "meaning_en": [
+    "sentence",
+    "literature",
+    "style",
+    "art"
+   ]
+  },
+  {
+   "k": "料",
+   "eum": [
+    "료",
+    "요"
+   ],
+   "meaning_en": [
+    "fee",
+    "materials"
+   ]
+  },
+  {
+   "k": "新",
+   "eum": [
+    "신"
+   ],
+   "meaning_en": [
+    "new"
+   ]
+  },
+  {
+   "k": "方",
+   "eum": [
+    "방"
+   ],
+   "meaning_en": [
+    "direction",
+    "person",
+    "alternative"
+   ]
+  },
+  {
+   "k": "旅",
+   "eum": [
+    "려",
+    "여"
+   ],
+   "meaning_en": [
+    "trip",
+    "travel"
+   ]
+  },
+  {
+   "k": "族",
+   "eum": [
+    "족"
+   ],
+   "meaning_en": [
+    "tribe",
+    "family"
+   ]
+  },
+  {
+   "k": "日",
+   "eum": [
+    "일"
+   ],
+   "meaning_en": [
+    "day",
+    "sun",
+    "Japan",
+    "counter for days"
+   ]
+  },
+  {
+   "k": "早",
+   "eum": [
+    "조"
+   ],
+   "meaning_en": [
+    "early",
+    "fast"
+   ]
+  },
+  {
+   "k": "明",
+   "eum": [
+    "명"
+   ],
+   "meaning_en": [
+    "bright",
+    "light"
+   ]
+  },
+  {
+   "k": "映",
+   "eum": [
+    "영"
+   ],
+   "meaning_en": [
+    "reflect",
+    "reflection",
+    "projection"
+   ]
+  },
+  {
+   "k": "春",
+   "eum": [
+    "춘"
+   ],
+   "meaning_en": [
+    "springtime",
+    "spring (season)"
+   ]
+  },
+  {
+   "k": "昼",
+   "eum": [
+    "주"
+   ],
+   "meaning_en": [
+    "daytime",
+    "noon"
+   ]
+  },
+  {
+   "k": "時",
+   "eum": [
+    "시"
+   ],
+   "meaning_en": [
+    "time",
+    "hour"
+   ]
+  },
+  {
+   "k": "曜",
+   "eum": [
+    "요"
+   ],
+   "meaning_en": [
+    "weekday"
+   ]
+  },
+  {
+   "k": "書",
+   "eum": [
+    "서"
+   ],
+   "meaning_en": [
+    "write"
+   ]
+  },
+  {
+   "k": "月",
+   "eum": [
+    "월"
+   ],
+   "meaning_en": [
+    "month",
+    "moon"
+   ]
+  },
+  {
+   "k": "有",
+   "eum": [
+    "유"
+   ],
+   "meaning_en": [
+    "possess",
+    "have",
+    "exist",
+    "happen"
+   ]
+  },
+  {
+   "k": "服",
+   "eum": [
+    "복"
+   ],
+   "meaning_en": [
+    "clothing",
+    "admit",
+    "obey",
+    "discharge"
+   ]
+  },
+  {
+   "k": "朝",
+   "eum": [
+    "조"
+   ],
+   "meaning_en": [
+    "morning",
+    "dynasty",
+    "regime",
+    "epoch"
+   ]
+  },
+  {
+   "k": "来",
+   "eum": [
+    "래"
+   ],
+   "meaning_en": [
+    "come",
+    "due",
+    "next",
+    "cause"
+   ]
+  },
+  {
+   "k": "業",
+   "eum": [
+    "업"
+   ],
+   "meaning_en": [
+    "business",
+    "vocation",
+    "arts",
+    "performance"
+   ]
+  },
+  {
+   "k": "楽",
+   "eum": [
+    "악"
+   ],
+   "meaning_en": [
+    "music",
+    "comfort",
+    "ease"
+   ]
+  },
+  {
+   "k": "歌",
+   "eum": [
+    "가"
+   ],
+   "meaning_en": [
+    "song",
+    "sing"
+   ]
+  },
+  {
+   "k": "止",
+   "eum": [
+    "지"
+   ],
+   "meaning_en": [
+    "stop",
+    "halt"
+   ]
+  },
+  {
+   "k": "正",
+   "eum": [
+    "정"
+   ],
+   "meaning_en": [
+    "correct",
+    "justice",
+    "righteous",
+    "10**40"
+   ]
+  },
+  {
+   "k": "歩",
+   "eum": [
+    "보"
+   ],
+   "meaning_en": [
+    "walk",
+    "counter for steps"
+   ]
+  },
+  {
+   "k": "死",
+   "eum": [
+    "사"
+   ],
+   "meaning_en": [
+    "death",
+    "die"
+   ]
+  },
+  {
+   "k": "気",
+   "eum": [
+    "기"
+   ],
+   "meaning_en": [
+    "spirit",
+    "mind",
+    "air",
+    "atmosphere"
+   ]
+  },
+  {
+   "k": "水",
+   "eum": [
+    "수"
+   ],
+   "meaning_en": [
+    "water"
+   ]
+  },
+  {
+   "k": "注",
+   "eum": [
+    "주"
+   ],
+   "meaning_en": [
+    "pour",
+    "irrigate",
+    "shed (tears)",
+    "flow into"
+   ]
+  },
+  {
+   "k": "洋",
+   "eum": [
+    "양"
+   ],
+   "meaning_en": [
+    "ocean",
+    "sea",
+    "foreign",
+    "Western style"
+   ]
+  },
+  {
+   "k": "海",
+   "eum": [
+    "해"
+   ],
+   "meaning_en": [
+    "sea",
+    "ocean"
+   ]
+  },
+  {
+   "k": "漢",
+   "eum": [
+    "한"
+   ],
+   "meaning_en": [
+    "Sino-",
+    "China"
+   ]
+  },
+  {
+   "k": "火",
+   "eum": [
+    "화"
+   ],
+   "meaning_en": [
+    "fire"
+   ]
+  },
+  {
+   "k": "牛",
+   "eum": [
+    "우"
+   ],
+   "meaning_en": [
+    "cow"
+   ]
+  },
+  {
+   "k": "物",
+   "eum": [
+    "물"
+   ],
+   "meaning_en": [
+    "thing",
+    "object",
+    "matter"
+   ]
+  },
+  {
+   "k": "特",
+   "eum": [
+    "특"
+   ],
+   "meaning_en": [
+    "special"
+   ]
+  },
+  {
+   "k": "犬",
+   "eum": [
+    "견"
+   ],
+   "meaning_en": [
+    "dog"
+   ]
+  },
+  {
+   "k": "理",
+   "eum": [
+    "리",
+    "이"
+   ],
+   "meaning_en": [
+    "logic",
+    "arrangement",
+    "reason",
+    "justice"
+   ]
+  },
+  {
+   "k": "生",
+   "eum": [
+    "생"
+   ],
+   "meaning_en": [
+    "life",
+    "genuine",
+    "birth"
+   ]
+  },
+  {
+   "k": "用",
+   "eum": [
+    "용"
+   ],
+   "meaning_en": [
+    "utilize",
+    "business",
+    "service",
+    "use"
+   ]
+  },
+  {
+   "k": "田",
+   "eum": [
+    "전"
+   ],
+   "meaning_en": [
+    "rice field",
+    "rice paddy"
+   ]
+  },
+  {
+   "k": "町",
+   "eum": [
+    "정"
+   ],
+   "meaning_en": [
+    "town",
+    "village",
+    "block",
+    "street"
+   ]
+  },
+  {
+   "k": "画",
+   "eum": [
+    "획"
+   ],
+   "meaning_en": [
+    "brush-stroke",
+    "picture"
+   ]
+  },
+  {
+   "k": "界",
+   "eum": [
+    "계"
+   ],
+   "meaning_en": [
+    "world",
+    "boundary"
+   ]
+  },
+  {
+   "k": "病",
+   "eum": [
+    "병"
+   ],
+   "meaning_en": [
+    "ill",
+    "sick"
+   ]
+  },
+  {
+   "k": "発",
+   "eum": [
+    "발"
+   ],
+   "meaning_en": [
+    "departure",
+    "discharge",
+    "publish",
+    "emit"
+   ]
+  },
+  {
+   "k": "百",
+   "eum": [
+    "백"
+   ],
+   "meaning_en": [
+    "hundred"
+   ]
+  },
+  {
+   "k": "目",
+   "eum": [
+    "목"
+   ],
+   "meaning_en": [
+    "eye",
+    "class",
+    "look",
+    "insight"
+   ]
+  },
+  {
+   "k": "真",
+   "eum": [
+    "진"
+   ],
+   "meaning_en": [
+    "true",
+    "reality",
+    "Buddhist sect"
+   ]
+  },
+  {
+   "k": "着",
+   "eum": [
+    "착"
+   ],
+   "meaning_en": [
+    "don",
+    "arrive",
+    "wear",
+    "counter for suits of clothing"
+   ]
+  },
+  {
+   "k": "知",
+   "eum": [
+    "지"
+   ],
+   "meaning_en": [
+    "know",
+    "wisdom"
+   ]
+  },
+  {
+   "k": "研",
+   "eum": [
+    "연"
+   ],
+   "meaning_en": [
+    "polish",
+    "study of",
+    "sharpen"
+   ]
+  },
+  {
+   "k": "社",
+   "eum": [
+    "사"
+   ],
+   "meaning_en": [
+    "company",
+    "firm",
+    "office",
+    "association"
+   ]
+  },
+  {
+   "k": "私",
+   "eum": [
+    "사"
+   ],
+   "meaning_en": [
+    "private",
+    "I",
+    "me"
+   ]
+  },
+  {
+   "k": "秋",
+   "eum": [
+    "추"
+   ],
+   "meaning_en": [
+    "autumn"
+   ]
+  },
+  {
+   "k": "究",
+   "eum": [
+    "구"
+   ],
+   "meaning_en": [
+    "research",
+    "study"
+   ]
+  },
+  {
+   "k": "空",
+   "eum": [
+    "공"
+   ],
+   "meaning_en": [
+    "empty",
+    "sky",
+    "void",
+    "vacant"
+   ]
+  },
+  {
+   "k": "立",
+   "eum": [
+    "립",
+    "입"
+   ],
+   "meaning_en": [
+    "stand up",
+    "rise",
+    "set up",
+    "erect"
+   ]
+  },
+  {
+   "k": "答",
+   "eum": [
+    "답"
+   ],
+   "meaning_en": [
+    "solution",
+    "answer"
+   ]
+  },
+  {
+   "k": "紙",
+   "eum": [
+    "지"
+   ],
+   "meaning_en": [
+    "paper"
+   ]
+  },
+  {
+   "k": "終",
+   "eum": [
+    "종"
+   ],
+   "meaning_en": [
+    "end",
+    "finish"
+   ]
+  },
+  {
+   "k": "習",
+   "eum": [
+    "습"
+   ],
+   "meaning_en": [
+    "learn"
+   ]
+  },
+  {
+   "k": "考",
+   "eum": [
+    "고"
+   ],
+   "meaning_en": [
+    "consider",
+    "think over"
+   ]
+  },
+  {
+   "k": "者",
+   "eum": [
+    "자"
+   ],
+   "meaning_en": [
+    "someone",
+    "person"
+   ]
+  },
+  {
+   "k": "聞",
+   "eum": [
+    "문"
+   ],
+   "meaning_en": [
+    "hear",
+    "ask",
+    "listen"
+   ]
+  },
+  {
+   "k": "肉",
+   "eum": [
+    "육"
+   ],
+   "meaning_en": [
+    "meat"
+   ]
+  },
+  {
+   "k": "自",
+   "eum": [
+    "자"
+   ],
+   "meaning_en": [
+    "oneself"
+   ]
+  },
+  {
+   "k": "色",
+   "eum": [
+    "색"
+   ],
+   "meaning_en": [
+    "color"
+   ]
+  },
+  {
+   "k": "花",
+   "eum": [
+    "화"
+   ],
+   "meaning_en": [
+    "flower"
+   ]
+  },
+  {
+   "k": "英",
+   "eum": [
+    "영"
+   ],
+   "meaning_en": [
+    "England",
+    "English",
+    "hero",
+    "outstanding"
+   ]
+  },
+  {
+   "k": "茶",
+   "eum": [
+    "다",
+    "차"
+   ],
+   "meaning_en": [
+    "tea"
+   ]
+  },
+  {
+   "k": "行",
+   "eum": [
+    "항",
+    "행"
+   ],
+   "meaning_en": [
+    "going",
+    "journey",
+    "carry out",
+    "conduct"
+   ]
+  },
+  {
+   "k": "西",
+   "eum": [
+    "서"
+   ],
+   "meaning_en": [
+    "west",
+    "Spain"
+   ]
+  },
+  {
+   "k": "見",
+   "eum": [
+    "견",
+    "현"
+   ],
+   "meaning_en": [
+    "see",
+    "hopes",
+    "chances",
+    "idea"
+   ]
+  },
+  {
+   "k": "親",
+   "eum": [
+    "친"
+   ],
+   "meaning_en": [
+    "parent",
+    "intimacy",
+    "relative",
+    "familiarity"
+   ]
+  },
+  {
+   "k": "言",
+   "eum": [
+    "언"
+   ],
+   "meaning_en": [
+    "say",
+    "word"
+   ]
+  },
+  {
+   "k": "計",
+   "eum": [
+    "계"
+   ],
+   "meaning_en": [
+    "plot",
+    "plan",
+    "scheme",
+    "measure"
+   ]
+  },
+  {
+   "k": "試",
+   "eum": [
+    "시"
+   ],
+   "meaning_en": [
+    "test",
+    "try",
+    "attempt",
+    "experiment"
+   ]
+  },
+  {
+   "k": "話",
+   "eum": [
+    "화"
+   ],
+   "meaning_en": [
+    "tale",
+    "talk"
+   ]
+  },
+  {
+   "k": "語",
+   "eum": [
+    "어"
+   ],
+   "meaning_en": [
+    "word",
+    "speech",
+    "language"
+   ]
+  },
+  {
+   "k": "買",
+   "eum": [
+    "매"
+   ],
+   "meaning_en": [
+    "buy"
+   ]
+  },
+  {
+   "k": "貸",
+   "eum": [
+    "대"
+   ],
+   "meaning_en": [
+    "lend"
+   ]
+  },
+  {
+   "k": "質",
+   "eum": [
+    "질"
+   ],
+   "meaning_en": [
+    "substance",
+    "quality",
+    "matter",
+    "temperament"
+   ]
+  },
+  {
+   "k": "赤",
+   "eum": [
+    "적"
+   ],
+   "meaning_en": [
+    "red"
+   ]
+  },
+  {
+   "k": "走",
+   "eum": [
+    "주"
+   ],
+   "meaning_en": [
+    "run"
+   ]
+  },
+  {
+   "k": "起",
+   "eum": [
+    "기"
+   ],
+   "meaning_en": [
+    "rouse",
+    "wake up",
+    "get up"
+   ]
+  },
+  {
+   "k": "足",
+   "eum": [
+    "족"
+   ],
+   "meaning_en": [
+    "leg",
+    "foot",
+    "be sufficient",
+    "counter for pairs of footwear"
+   ]
+  },
+  {
+   "k": "車",
+   "eum": [
+    "거",
+    "차"
+   ],
+   "meaning_en": [
+    "car"
+   ]
+  },
+  {
+   "k": "転",
+   "eum": [
+    "전"
+   ],
+   "meaning_en": [
+    "revolve",
+    "turn around",
+    "change"
+   ]
+  },
+  {
+   "k": "近",
+   "eum": [
+    "근"
+   ],
+   "meaning_en": [
+    "near",
+    "early",
+    "akin",
+    "tantamount"
+   ]
+  },
+  {
+   "k": "送",
+   "eum": [
+    "송"
+   ],
+   "meaning_en": [
+    "escort",
+    "send"
+   ]
+  },
+  {
+   "k": "通",
+   "eum": [
+    "통"
+   ],
+   "meaning_en": [
+    "traffic",
+    "pass through",
+    "avenue",
+    "commute"
+   ]
+  },
+  {
+   "k": "週",
+   "eum": [
+    "주"
+   ],
+   "meaning_en": [
+    "week"
+   ]
+  },
+  {
+   "k": "運",
+   "eum": [
+    "운"
+   ],
+   "meaning_en": [
+    "carry",
+    "luck",
+    "destiny",
+    "fate"
+   ]
+  },
+  {
+   "k": "道",
+   "eum": [
+    "도"
+   ],
+   "meaning_en": [
+    "road-way",
+    "street",
+    "district",
+    "journey"
+   ]
+  },
+  {
+   "k": "重",
+   "eum": [
+    "중"
+   ],
+   "meaning_en": [
+    "heavy",
+    "important",
+    "esteem",
+    "respect"
+   ]
+  },
+  {
+   "k": "野",
+   "eum": [
+    "야"
+   ],
+   "meaning_en": [
+    "plains",
+    "field",
+    "rustic",
+    "civilian life"
+   ]
+  },
+  {
+   "k": "金",
+   "eum": [
+    "금",
+    "김"
+   ],
+   "meaning_en": [
+    "gold"
+   ]
+  },
+  {
+   "k": "銀",
+   "eum": [
+    "은"
+   ],
+   "meaning_en": [
+    "silver"
+   ]
+  },
+  {
+   "k": "長",
+   "eum": [
+    "장"
+   ],
+   "meaning_en": [
+    "long",
+    "leader",
+    "superior",
+    "senior"
+   ]
+  },
+  {
+   "k": "開",
+   "eum": [
+    "개"
+   ],
+   "meaning_en": [
+    "open",
+    "unfold",
+    "unseal"
+   ]
+  },
+  {
+   "k": "間",
+   "eum": [
+    "간"
+   ],
+   "meaning_en": [
+    "interval",
+    "space"
+   ]
+  },
+  {
+   "k": "院",
+   "eum": [
+    "원"
+   ],
+   "meaning_en": [
+    "Inst.",
+    "institution",
+    "temple",
+    "mansion"
+   ]
+  },
+  {
+   "k": "集",
+   "eum": [
+    "집"
+   ],
+   "meaning_en": [
+    "gather",
+    "meet",
+    "congregate",
+    "swarm"
+   ]
+  },
+  {
+   "k": "青",
+   "eum": [
+    "청"
+   ],
+   "meaning_en": [
+    "blue",
+    "green"
+   ]
+  },
+  {
+   "k": "音",
+   "eum": [
+    "음"
+   ],
+   "meaning_en": [
+    "sound",
+    "noise"
+   ]
+  },
+  {
+   "k": "題",
+   "eum": [
+    "제"
+   ],
+   "meaning_en": [
+    "topic",
+    "subject"
+   ]
+  },
+  {
+   "k": "風",
+   "eum": [
+    "풍"
+   ],
+   "meaning_en": [
+    "wind",
+    "air",
+    "style",
+    "manner"
+   ]
+  },
+  {
+   "k": "食",
+   "eum": [
+    "식"
+   ],
+   "meaning_en": [
+    "eat",
+    "food"
+   ]
+  },
+  {
+   "k": "飯",
+   "eum": [
+    "반"
+   ],
+   "meaning_en": [
+    "meal",
+    "boiled rice"
+   ]
+  },
+  {
+   "k": "飲",
+   "eum": [
+    "음"
+   ],
+   "meaning_en": [
+    "drink",
+    "smoke",
+    "take"
+   ]
+  },
+  {
+   "k": "館",
+   "eum": [
+    "관"
+   ],
+   "meaning_en": [
+    "building",
+    "mansion",
+    "large building",
+    "palace"
+   ]
+  },
+  {
+   "k": "駅",
+   "eum": [
+    "역"
+   ],
+   "meaning_en": [
+    "station"
+   ]
+  },
+  {
+   "k": "験",
+   "eum": [
+    "험"
+   ],
+   "meaning_en": [
+    "verification",
+    "effect",
+    "testing"
+   ]
+  },
+  {
+   "k": "魚",
+   "eum": [
+    "어"
+   ],
+   "meaning_en": [
+    "fish"
+   ]
+  },
+  {
+   "k": "鳥",
+   "eum": [
+    "조"
+   ],
+   "meaning_en": [
+    "bird",
+    "chicken"
+   ]
+  },
+  {
+   "k": "黒",
+   "eum": [
+    "흑"
+   ],
+   "meaning_en": [
+    "black"
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "id": "j1451750",
+   "ja": "私も同じこと考えてたとこよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1198550",
+   "ja": "会社員です。",
+   "en": null,
+   "ko_tatoeba": "회사원입니다."
+  },
+  {
+   "id": "j1340000",
+   "ja": "すぐに出発した方がいいですよ。",
+   "en": "You had better depart at once.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1516925",
+   "ja": "やり方なら私は知っている。",
+   "en": null,
+   "ko_tatoeba": "하는 법이라면 나는 알고 있어."
+  },
+  {
+   "id": "j1361490",
+   "ja": "毎日新しい何かを学ぶものだ。",
+   "en": null,
+   "ko_tatoeba": "매일 새로운 무언가를 배우는 법이다."
+  },
+  {
+   "id": "j1597040",
+   "ja": "先生は私に、立つように言った。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1202440",
+   "ja": "私は店が開くのを待っている。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1327190",
+   "ja": "ここに手のないナベがある。",
+   "en": "Here is a pan without handles.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1554820",
+   "ja": "たくさんの人の力になりたい。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1316300",
+   "ja": "今の時代、何でもありだからね。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1352980",
+   "ja": "とにかく、きみは上京すべきだ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1604890",
+   "ja": "今日はラマダンの５日目です。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1433030",
+   "ja": "私は毎日その教会の前を通る。",
+   "en": "I go by that church every day.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1587040",
+   "ja": "医者の言うことは聞いた方がよい。",
+   "en": null,
+   "ko_tatoeba": "의사가 하는 말은 듣는 게 좋아."
+  },
+  {
+   "id": "j1409140",
+   "ja": "とりわけ体に気をつけなさい。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1270390",
+   "ja": "あなたのご主人は食事にうるさいのかな？",
+   "en": "Is your husband a picky eater?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1536010",
+   "ja": "それで、なにか問題でも？",
+   "en": null,
+   "ko_tatoeba": "그래서, 뭔가 문제라도?"
+  },
+  {
+   "id": "j1922780",
+   "ja": "私はあの人は不親切だと思う。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1546200",
+   "ja": "何の用でここに来たのですか。",
+   "en": "What has brought you here?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1576250",
+   "ja": "もう一度チャンスをくれ。",
+   "en": null,
+   "ko_tatoeba": "한 번 더 기회를 줘."
+  },
+  {
+   "id": "j1273370",
+   "ja": "その映画はまもなく公開される。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1591430",
+   "ja": "気持ち悪くならないといいね。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1537250",
+   "ja": "ここに野の花がたくさんある。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1155120",
+   "ja": "以上ですか？",
+   "en": "Is that all?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1589350",
+   "ja": "何でこれをおかしいと思うの？",
+   "en": null,
+   "ko_tatoeba": "왜 이게 이상하다고 생각해?"
+  },
+  {
+   "id": "j1191730",
+   "ja": "木立の間に家が見える。",
+   "en": "I see a house among the trees.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1407460",
+   "ja": "学校新聞の仕事が多いんです。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1376600",
+   "ja": "トムが正しいとは思わないな。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1153670",
+   "ja": "このカメラは安いです。",
+   "en": null,
+   "ko_tatoeba": "이 카메라는 쌉니다."
+  },
+  {
+   "id": "j1373860",
+   "ja": "ナイル川より長い川は世界中にない。",
+   "en": null,
+   "ko_tatoeba": "나일강만큼 긴 강은 세상에 없다."
+  },
+  {
+   "id": "j1237030",
+   "ja": "その教会は１１７３年までさかのぼる。",
+   "en": "The church dates back to 1173.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1260720",
+   "ja": "こんにちは、ロジャー。とっても元気よ。",
+   "en": "Hi, Roger. I'm pretty good!",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1335750",
+   "ja": "ゾウはカバより重いですよね？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1242160",
+   "ja": "７時近くだ。学校へ行かなくては。",
+   "en": "It is close to seven o'clock. We have to go to school.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1281020",
+   "ja": "あなたは家族の事を考えるべきです。",
+   "en": "You must think of your family.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1201190",
+   "ja": "何としても海をひと目みたいものだ。",
+   "en": "I ache for a sight of the sea.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1473950",
+   "ja": "もう売る気ないでしょこれ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1420470",
+   "ja": "すべてを知ることはできない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1454080",
+   "ja": "道には人だかりができていた。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1333560",
+   "ja": "はがきを集める。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1509430",
+   "ja": "また別のときにチェスをしましょう。",
+   "en": "Let's play chess another time.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1305990",
+   "ja": "何に使うの？",
+   "en": null,
+   "ko_tatoeba": "뭐에 쓰려고?"
+  },
+  {
+   "id": "j1490670",
+   "ja": "これらの品物は見計らい品です。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1252090",
+   "ja": "私の計画は車を買うことです。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1310730",
+   "ja": "この仕事、死ぬほどしんどい。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1428280",
+   "ja": "朝から何も食べてないんだ。",
+   "en": null,
+   "ko_tatoeba": "아침부터 아무 것도 먹지 않았어."
+  },
+  {
+   "id": "j1589590",
+   "ja": "これで終わりです。",
+   "en": null,
+   "ko_tatoeba": "이것으로 끝입니다."
+  },
+  {
+   "id": "j1278410",
+   "ja": "広い意味では、人間も動物だ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1334040",
+   "ja": "その男には住むべき家がない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1541620",
+   "ja": "みんなあなたに会いたがってる。あなたは有名なのよ！",
+   "en": null,
+   "ko_tatoeba": "모두가 너를 만나고 싶어해, 너 유명하네!"
+  },
+  {
+   "id": "j1275640",
+   "ja": "あの仕事の口はまだあるよ。",
+   "en": "The job offer still stands.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1603990",
+   "ja": "町で用があるんだ。",
+   "en": null,
+   "ko_tatoeba": "동네에 볼일이 있다."
+  },
+  {
+   "id": "j1554310",
+   "ja": "これらのりんごは料理用にもってこいだ。",
+   "en": "These apples are good cookers.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1278040",
+   "ja": "日本は工業国だ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1578700",
+   "ja": "ボストンに工場があるんです。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1257540",
+   "ja": "この建物は古くて、有名です。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1245290",
+   "ja": "うっすらと空が明るんできた。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1310670",
+   "ja": "どこで車を止めるかが問題だ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1402730",
+   "ja": "家に帰ったら、リンク送るね。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1318290",
+   "ja": "自転車はどこで借りれますか？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1172830",
+   "ja": "キャロルはレンタカーを運転しています。",
+   "en": "Carol is driving a rent-a-car.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1258520",
+   "ja": "ホーキングは研究にもどった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1223640",
+   "ja": "日曜日は何時に起きるの？",
+   "en": null,
+   "ko_tatoeba": "일요일은 몇 시에 일어나?"
+  },
+  {
+   "id": "j1422970",
+   "ja": "今出たら、6時前には着くよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1440670",
+   "ja": "ヤニーはセブンイレブンの店員だった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1490220",
+   "ja": "この近くに病院はありますか。",
+   "en": "Is there a hospital near here?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1410590",
+   "ja": "待つしかない。",
+   "en": null,
+   "ko_tatoeba": "기다릴 수 밖에 없다."
+  },
+  {
+   "id": "j1243490",
+   "ja": "駅の近くに銀行はありますか？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1404975",
+   "ja": "早い話、クビになっちゃった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1365250",
+   "ja": "あなたの家族はきっと親切でしょう。",
+   "en": "Your family must be very nice.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1312350",
+   "ja": "とにかく、試験が終わってほっとしたよ。",
+   "en": "Anyhow, I'm relieved the test is over.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1174420",
+   "ja": "アメリカでは英語を話します。",
+   "en": "They speak English in America.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1159980",
+   "ja": "医者の言うことは聞いた方がよい。",
+   "en": null,
+   "ko_tatoeba": "의사가 하는 말은 듣는 게 좋아."
+  },
+  {
+   "id": "j1304970",
+   "ja": "仕事でこっちに来てるんです。",
+   "en": null,
+   "ko_tatoeba": "일 때문에 왔어요."
+  },
+  {
+   "id": "j1231690",
+   "ja": "ビルは去年の秋に私に会いに来た。",
+   "en": "Bill came to see me last autumn.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1526960",
+   "ja": "このチーズはピリッとした味がする。",
+   "en": "This cheese has a sharp taste.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1321900",
+   "ja": "写真は見た？",
+   "en": null,
+   "ko_tatoeba": "사진은 봤어?"
+  },
+  {
+   "id": "j1315130",
+   "ja": "この字は何と読むのでしょう？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1449530",
+   "ja": "トムは答えた。",
+   "en": null,
+   "ko_tatoeba": "톰은 대답했다."
+  },
+  {
+   "id": "j1536350",
+   "ja": "夜はまだまだ長いぜ、だろ？",
+   "en": null,
+   "ko_tatoeba": "밤은 아직 길어, 그치?"
+  },
+  {
+   "id": "j1183720",
+   "ja": "私たちは、音楽を勉強します。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1426530",
+   "ja": "われわれはよく注意していた。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1221250",
+   "ja": "出来れば明日までに帰ります。",
+   "en": null,
+   "ko_tatoeba": "가능하면 내일까지 돌아갑니다."
+  },
+  {
+   "id": "j1265070",
+   "ja": "私は古い自転車を持っている。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1193180",
+   "ja": "この歌を聞くと私はいつも、学生時代を思い出す。",
+   "en": "Whenever I hear this song, I am reminded of my school days.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1473740",
+   "ja": "エプロン買うほど料理しない。",
+   "en": null,
+   "ko_tatoeba": "앞치마를 살 정도로 요리를 하진 않아."
+  },
+  {
+   "id": "j1151260",
+   "ja": "私のステレオはあなたのより音質が悪い。",
+   "en": "My stereo set is inferior to yours in sound quality.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1421290",
+   "ja": "どこへ行けばヨーロッパの地図が手に入りますか。",
+   "en": "Where can I obtain a map of Europe?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1548010",
+   "ja": "来週ヨーロッパへ行くつもりなんです。",
+   "en": "I'm going to Europe next week.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1514320",
+   "ja": "車があるのにどうして歩くの？",
+   "en": null,
+   "ko_tatoeba": "차가 있는데 왜 걸어야 돼?"
+  },
+  {
+   "id": "j1596780",
+   "ja": "東京に台風は来るでしょうか。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1287410",
+   "ja": "このシャツの黒はありますか？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1194500",
+   "ja": "わたしは父に花をあげました。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1341000",
+   "ja": "冬が終わって、春が来ました。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1381380",
+   "ja": "トムは青のジーンズをはいていた。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1182710",
+   "ja": "デパートの屋上にアドバルーンが上がっている。",
+   "en": "There is an advertising balloon flying above the department store.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1357600",
+   "ja": "この色はとてもきれいです。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1402540",
+   "ja": "私は毎朝走ることにしている。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1332650",
+   "ja": "秋の終わりに月でも見ようか？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1191320",
+   "ja": "夏は、水でシャワーしてます。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1333070",
+   "ja": "なんでフランス語を習うのやめたの？",
+   "en": null,
+   "ko_tatoeba": "왜 프랑스어를 배우는 걸 그만 뒀어?"
+  },
+  {
+   "id": "j1175140",
+   "ja": "グランド・セントラル駅までやってください。",
+   "en": "Grand Central Station, please.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1553170",
+   "ja": "いつ旅行においでになりますか。",
+   "en": "When will you go on a journey?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1546020",
+   "ja": "お前に新しい洋服を作ってあげよう。",
+   "en": "I will make a new suit for you.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1323560",
+   "ja": "この本を借りる事はできません。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1169870",
+   "ja": "一日にどれぐらい水を飲むの？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1463520",
+   "ja": "きょうこの店は肉が安いです。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1411160",
+   "ja": "私はその家を貸すつもりはない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1358550",
+   "ja": "食堂はセルフサービスでした。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1430250",
+   "ja": "キーウィって、フルーツそれとも鳥？",
+   "en": null,
+   "ko_tatoeba": "키위는 과일 아니면 새?"
+  },
+  {
+   "id": "j1446070",
+   "ja": "まもなく冬だ。",
+   "en": "It will be winter before long.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1426250",
+   "ja": "ケンは昼まで家にいるでしょう。",
+   "en": "Ken will be at home until noon.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1581930",
+   "ja": "弟がいるなんて聞いてないよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1578010",
+   "ja": "こうして私はいつも魚を料理する。",
+   "en": "This is how I usually cook fish.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1258330",
+   "ja": "私の犬は大きいです。",
+   "en": null,
+   "ko_tatoeba": "내 개는 큽니다."
+  },
+  {
+   "id": "j1524590",
+   "ja": "あのかわいい少女は私の妹です。",
+   "en": "That pretty girl is my sister.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1198180",
+   "ja": "来週の日曜、会うの楽しみだな。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1452500",
+   "ja": "生まれると同時に死は始まる。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1358490",
+   "ja": "食事中の読書はいけませんよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1322700",
+   "ja": "社会はぜんぜん気にしない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1322990",
+   "ja": "いない者がいつも悪者になる。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1420730",
+   "ja": "社長は地に足のついた人物だ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1516930",
+   "ja": "医者の言うことは聞いた方がよい。",
+   "en": null,
+   "ko_tatoeba": "의사가 하는 말은 듣는 게 좋아."
+  },
+  {
+   "id": "j1362360",
+   "ja": "ジョンのことが新聞に出ていた。",
+   "en": "John was mentioned in the paper.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1355790",
+   "ja": "場が白けた。",
+   "en": "The party grew chilly.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1198230",
+   "ja": "トムは読書クラブの会員です。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1551530",
+   "ja": "スープを飲む時は音を立てるな。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1590770",
+   "ja": "トムはパンのお代わりをした。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1532350",
+   "ja": "朝の5時だというのに明るい。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1318400",
+   "ja": "自動車を借りてもいいですか。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1432920",
+   "ja": "電車は時間通りに来ますか？",
+   "en": null,
+   "ko_tatoeba": "전차는 시간 대로 옵니까?"
+  },
+  {
+   "id": "j1264420",
+   "ja": "ドイツ語はやさしい言語ではありません。",
+   "en": "German is not an easy language.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1421540",
+   "ja": "私はこの町の地理をよく知っている。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1164510",
+   "ja": "あれは、一体どこのどいつだ？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1324990",
+   "ja": "今日は主にホームレスの問題をとりあげます。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1156530",
+   "ja": "ここではどんどん意見をおっしゃってかまいません。",
+   "en": "You can speak out freely here.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1297540",
+   "ja": "私たちは昼から作業を開始した。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1597890",
+   "ja": "新しい会社を作るそうですね。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1546220",
+   "ja": "明日までにご用意いたします。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1289370",
+   "ja": "今度の土曜日、テニスをしませんか。",
+   "en": "How about playing tennis next Saturday?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1242970",
+   "ja": "トムは金持ちではなかった。",
+   "en": null,
+   "ko_tatoeba": "톰은 부자가 아니었다."
+  },
+  {
+   "id": "j1155090",
+   "ja": "その仕事以外ならなんでもやる。",
+   "en": "I'll do anything but that job.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1309260",
+   "ja": "おりがあるとすぐに思い出す。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1374300",
+   "ja": "お世話になりました。",
+   "en": null,
+   "ko_tatoeba": "신세 많이 졌습니다."
+  },
+  {
+   "id": "j1465720",
+   "ja": "トムって、入院してるそうよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1153890",
+   "ja": "それ聞いて安心したよ。",
+   "en": null,
+   "ko_tatoeba": "그걸 듣고 안심했어."
+  },
+  {
+   "id": "j1360480",
+   "ja": "大学生の時に心を開きました。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1505190",
+   "ja": "トムは日本文学の研究者だ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1260670",
+   "ja": "元も子もなくしてしまった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1336500",
+   "ja": "そのニュースはとても重大だ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1242130",
+   "ja": "近いうちにパリに会いに来てよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1281000",
+   "ja": "あなたの考えを言ってください。",
+   "en": "Please tell me what you think.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1201260",
+   "ja": "いつか海外に行ってみたいな。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1588550",
+   "ja": "スナック売り場は、どこですか。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1420400",
+   "ja": "私にもそれを知らせて下さい。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1371920",
+   "ja": "水道水は飲まないほうがいいよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1333550",
+   "ja": "私たちは６時に集まることになっています。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1451470",
+   "ja": "私はその動物の名前を知っている。",
+   "en": "I know the name of this animal.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1502390",
+   "ja": "赤子の手をひねるような物だ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1583470",
+   "ja": "その品は品切れになりました。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1455280",
+   "ja": "私にとって、特別な日でした。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1454670",
+   "ja": "私たちは特に何もしなかった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2842390",
+   "ja": "私はハンサムだと思いますか。",
+   "en": null,
+   "ko_tatoeba": "제가 멋지다고 생각하나요?"
+  },
+  {
+   "id": "j1342540",
+   "ja": "会うは別れの始め。",
+   "en": "To meet is to part.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1579100",
+   "ja": "ここには今朝８時に着いたよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1172910",
+   "ja": "もっと運動したの方がいいね。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1589600",
+   "ja": "明日になればもう終わるから。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1412560",
+   "ja": "１台の車が入り口に止まった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1602360",
+   "ja": "この病気はどのようにして広がるのだろうか。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1604350",
+   "ja": "私は三人兄弟の真ん中です。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1367300",
+   "ja": "フランスの人口は何人ですか？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1407810",
+   "ja": "料理も多少なり知ってるよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1348870",
+   "ja": "少しテレビを見てもいいですか。",
+   "en": "Do you mind if I watch TV for a while?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1358680",
+   "ja": "食料品の買い出しに行かなくちゃ。",
+   "en": null,
+   "ko_tatoeba": "식료품을 사러 가야 해."
+  },
+  {
+   "id": "j1257330",
+   "ja": "それを建てるのに何年もかかった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1245470",
+   "ja": "空気がないと、死んじゃうよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1228560",
+   "ja": "急に天気が悪くなってきた。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1310620",
+   "ja": "車が家の前に止まる音が聞こえた。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1259820",
+   "ja": "私は兄を見送りに駅にいった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1414340",
+   "ja": "家族は大切だ。",
+   "en": null,
+   "ko_tatoeba": "가족은 소중하다."
+  },
+  {
+   "id": "j1493700",
+   "ja": "水不足のため、花がしおれた。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1404630",
+   "ja": "また足がしびれた。",
+   "en": "My foot's asleep again!",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1207250",
+   "ja": "新作のRPGが今週発売されるので楽しみにしている。",
+   "en": null,
+   "ko_tatoeba": "신작 RPG가 이번 주에 발매되어 기대하고 있다."
+  },
+  {
+   "id": "j1223660",
+   "ja": "どう考えても今は新事業を起こすべきではない。",
+   "en": "This is hardly the time to start a new enterprise.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1580340",
+   "ja": "その上着の仕立ては長すぎた。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1582120",
+   "ja": "毎週日曜日午後は、店へ行きます。",
+   "en": null,
+   "ko_tatoeba": "매주 일요일 오후에는 가게로 갑니다."
+  },
+  {
+   "id": "j1490230",
+   "ja": "私は病気のため行かなかった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1320760",
+   "ja": "あなたは私に何の質問がしたいのですか。",
+   "en": null,
+   "ko_tatoeba": "당신은 나에게 어떤 질문이 하고 싶습니까?"
+  },
+  {
+   "id": "j1320640",
+   "ja": "お茶の質は下がりつつある。",
+   "en": "The quality of tea is going down.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1312250",
+   "ja": "後でもう一度お試しください。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1192150",
+   "ja": "あなたの家族はきっと親切でしょう。",
+   "en": "Your family must be very nice.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1595090",
+   "ja": "これは本物の銀ですか？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1173720",
+   "ja": "その映画をもう一度見たいな。",
+   "en": "I want to see the movie again.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1365040",
+   "ja": "親って、ありがたいですね。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1159810",
+   "ja": "二人の医者が医学の話をしていた。",
+   "en": "Two doctors were talking shop.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1594110",
+   "ja": "あなたはチェスの仕方を知っていますか。",
+   "en": "Do you know how to play chess?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1231650",
+   "ja": "夏は来たがやがて去る。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1156800",
+   "ja": "その語にはいくつかの意味がある。",
+   "en": "The word has several meanings.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1449540",
+   "ja": "お金はすべてのものに答える。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1289520",
+   "ja": "今夜、パーティーを開きます。",
+   "en": "We're giving a party tonight.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1477170",
+   "ja": "あなたのお名前はどのように発音するのですか。",
+   "en": "How do you pronounce your name?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1426670",
+   "ja": "ご注目下さい。",
+   "en": "Please give me your attention.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1221270",
+   "ja": "うちには、タクシーで帰るよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1424150",
+   "ja": "トムはトラックを中古で買った。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1588120",
+   "ja": "この歌を歌うのはやめてくれ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1589730",
+   "ja": "１日おきに買い物に行く。",
+   "en": "I go shopping every other day.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1575730",
+   "ja": "この前は悪口言ってごめんね。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1387870",
+   "ja": "先週土曜日に、いや、日曜日に行きました。",
+   "en": null,
+   "ko_tatoeba": "지난 주 토요일에, 아니, 일요일에 갔어요."
+  },
+  {
+   "id": "j1237150",
+   "ja": "ＬＬ教室を使ってもよいですか。",
+   "en": "May we use the language lab?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1258570",
+   "ja": "後で、私の研究室まで来なさい。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1514420",
+   "ja": "歩道の上には日よけがあった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1499720",
+   "ja": "カーテンが風になびいた。",
+   "en": "The curtains blew in the wind.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1327720",
+   "ja": "ここにあなたあての手紙が何通かあります。",
+   "en": "Here are some letters for you.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1311530",
+   "ja": "紙は木から作られる。",
+   "en": "Paper is made from wood.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1287420",
+   "ja": "ナンシーはヘレンよりもほんのすこし色が黒い。",
+   "en": "Nancy is a shade darker than Helen.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1194660",
+   "ja": "お花見に行きませんか？",
+   "en": "Why don't we go and see the cherry blossoms?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2013900",
+   "ja": "赤インクで書いてはいけない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1381390",
+   "ja": "なぜ空が青いか知っているか。",
+   "en": "Do you know why the sky is blue?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1413890",
+   "ja": "オランダ大使館はどこですか？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1173750",
+   "ja": "その映画館は人々でいっぱいだった。",
+   "en": "The cinema was filled with people.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1370420",
+   "ja": "日曜日には図書館に行きます。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1476960",
+   "ja": "私は時々この八百屋で買い物をします。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1191420",
+   "ja": "この夏休みはどこかへ行くのですか。",
+   "en": "Are you going away this summer?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1206820",
+   "ja": "校外学習に行ったの？どうだった？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1381100",
+   "ja": "西洋人と話すときには気をつけなければいけない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1553120",
+   "ja": "以前は、人々は歩いて旅をしたものだった。",
+   "en": "People used to travel on foot.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1500940",
+   "ja": "ダンスに着ていく服はあるの？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1323940",
+   "ja": "友人から借金しないほうがよい。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1600430",
+   "ja": "何か飲み物をいただけますか。",
+   "en": "May I have something to drink?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1411110",
+   "ja": "でも、これで１つ貸しだね。",
+   "en": "But you're going to owe me one.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1348530",
+   "ja": "小鳥たちはたのしそうにさえずっています。",
+   "en": "The birds are singing merrily.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1584910",
+   "ja": "トム、よかったら夕飯食べていっていいよ。",
+   "en": null,
+   "ko_tatoeba": "톰, 괜찮으면 저녁밥 먹고 가도 돼."
+  },
+  {
+   "id": "j1270590",
+   "ja": "ご飯とパンどちらがいいですか。",
+   "en": "Which do you prefer, rice or bread?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1512670",
+   "ja": "あなたは勉強していますか。",
+   "en": null,
+   "ko_tatoeba": "공부하고 계십니까?"
+  },
+  {
+   "id": "j1602340",
+   "ja": "昼ご飯を食べに外に出ませんか。",
+   "en": "How about going out for lunch?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1422720",
+   "ja": "その犬は茶色で小さくて、やせています。",
+   "en": "The dog is brown, small and thin.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1002430",
+   "ja": "３時はお茶にしよう。",
+   "en": "Let's have tea at 3:00.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1231580",
+   "ja": "トムは牛肉を食べないんだ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1231490",
+   "ja": "あれは牛ですか水牛ですか。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1249960",
+   "ja": "あなたは何人兄弟がいますか。",
+   "en": "How many siblings do you have?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1249900",
+   "ja": "兄は、ヘブライ語の先生です。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1579490",
+   "ja": "その姉妹の２人ともきれいだ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1307630",
+   "ja": "姉は私のズボンにアイロンをかけてくれる。",
+   "en": "My sister presses my trousers.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1213170",
+   "ja": "私は漢字を勉強しています。",
+   "en": null,
+   "ko_tatoeba": "저는 한자를 공부하고 있습니다."
+  },
+  {
+   "id": "j1477310",
+   "ja": "先日父が書いた本を発見した。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1379330",
+   "ja": "この生地はしみになりやすい。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1361510",
+   "ja": "明日はまた新たな日がやってくる。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1551710",
+   "ja": "お答えできる立場にありません。",
+   "en": "I'm not in a position to answer.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1353320",
+   "ja": "あなたは上手にバスケットボールができますか。",
+   "en": "Do you play basketball well?",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1535930",
+   "ja": "どの問いも答えは1つだけです。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1451210",
+   "ja": "まだ動くうちに売ってしまわなきゃ。",
+   "en": "I should sell it while it still runs.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1432850",
+   "ja": "小学生は６年間学校に通う。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1575990",
+   "ja": "ベティは一言も言わなかった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1445150",
+   "ja": "夏になる度に、ここに来ます。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1236070",
+   "ja": "あの小学校はサッカーが強い。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1156610",
+   "ja": "何も意思がない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1413140",
+   "ja": "あの人は物理学の大家です。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1373850",
+   "ja": "世の中を動かしてみたいんだ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1377080",
+   "ja": "正午までにはそこに着くはずだ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1546310",
+   "ja": "火には、用心しなさい。",
+   "en": "Be on your guard against fire.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1236900",
+   "ja": "あいつは教えるのが下手だよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1297960",
+   "ja": "先生は私の作文を見てくれた。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1333750",
+   "ja": "私は読書に集中していた。",
+   "en": "I was concentrating on reading.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1606590",
+   "ja": "私は主人と別れる事にしました。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1358620",
+   "ja": "私はたくさんの食物を持って帰ろう。",
+   "en": "I will bring back a lot of food.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2648780",
+   "ja": "食料品の買い出しに行かなくちゃ。",
+   "en": null,
+   "ko_tatoeba": "식료품을 사러 가야 해."
+  },
+  {
+   "id": "j1202760",
+   "ja": "私たちは昼から作業を開始した。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1172660",
+   "ja": "一人で運ぶには大きすぎる。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1338850",
+   "ja": "B2出口から地上に出てください。",
+   "en": "Go up to ground level at exit B2.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1348910",
+   "ja": "今日はやけにチラシ少ないな。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1454750",
+   "ja": "時計がおくれていたので、私は特急にのりそこねた。",
+   "en": "As my watch was slow, I missed the special express.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1228650",
+   "ja": "ほら、みんな、急ぐよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1310640",
+   "ja": "雨が止むまで、車にいましょう。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1385070",
+   "ja": "切手はどこで売っていますか。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1404700",
+   "ja": "６と４を足すと１０になる。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1207230",
+   "ja": "その仕事は楽にできるだろう。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1423000",
+   "ja": "「あの赤い服を着るのはよしなさい」「なぜいけないの」",
+   "en": "\"You had better not wear the red dress.\" \"Why not?\"",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1365050",
+   "ja": "ジョンは私の親しい友人です。",
+   "en": "John is a good friend of mine.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1536930",
+   "ja": "真夜中に電話してきたのよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1576900",
+   "ja": "ここから海の音が聞こえる。",
+   "en": "We can hear the ocean from here.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1426650",
+   "ja": "あなたのためにデザートを注文した。",
+   "en": "I've ordered you some dessert.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1193290",
+   "ja": "トムのお母さんは歌手だった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1363250",
+   "ja": "そいつは真っ赤なうそだ。",
+   "en": "That's a blessed lie.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1381750",
+   "ja": "青年時代に親友をつくり、よい本を読みなさい。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1347830",
+   "ja": "うちん家、ウサギ小屋だからね。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1542790",
+   "ja": "ひょっとすると夕方前に雨になるかもしれない。",
+   "en": "It might rain before evening.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1602330",
+   "ja": "今日は昼食をとる時間がない。",
+   "en": "I don't have enough time to eat lunch today.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1198880",
+   "ja": "私はこの会話を思い出さない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1193950",
+   "ja": "私の家の近くで火事が起きた。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1413940",
+   "ja": "これは、大事になりかねない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1322920",
+   "ja": "社長は地に足のついた人物だ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1362400",
+   "ja": "新聞社の人たちがどやどやとやってきました。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1198660",
+   "ja": "音楽会場では物音１つ聞こえなかった。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1546300",
+   "ja": "悪いけどほかに用事があるの。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2429350",
+   "ja": "私はお金持ちになりたいです。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1155060",
+   "ja": "以下の通り注文いたします。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1420410",
+   "ja": "私は前もってあなたに知らせる。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1260000",
+   "ja": "今日、町を見物するつもりだ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1307550",
+   "ja": "いつ始めるつもりですか？",
+   "en": null,
+   "ko_tatoeba": "언제 시작할 생각이에요?"
+  },
+  {
+   "id": "j1228690",
+   "ja": "急行はありますか？",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1172870",
+   "ja": "運転手は車のスピードを上げた。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1404740",
+   "ja": "朝食用のパンはぎりぎり足りる。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1207270",
+   "ja": "パーティーは楽しむものです。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1423240",
+   "ja": "何とすばらしい着物でしょう。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1185930",
+   "ja": "私は新しい下着が気に入っている。",
+   "en": "I'm pleased with my new underwear.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1383260",
+   "ja": "赤ちゃんは話せないんだ。",
+   "en": null,
+   "ko_tatoeba": "아기는 말할 수 없어."
+  },
+  {
+   "id": "j1553130",
+   "ja": "私は、それを旅館に持って帰った。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1581710",
+   "ja": "昼間、友人が私に会いに来た。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1426290",
+   "ja": "お昼休みは、１時間です。",
+   "en": null,
+   "ko_tatoeba": null
+  }
+ ]
+}
