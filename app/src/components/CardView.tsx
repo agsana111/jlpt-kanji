@@ -60,9 +60,10 @@ interface BackProps {
   deck: DeckData;
   progress: Map<string, Progress>;
   onOpenCard?: (id: string) => void;
+  onOpenKanji?: (k: string) => void;
 }
 
-export function CardBack({ card, deck, progress, onOpenCard }: BackProps) {
+export function CardBack({ card, deck, progress, onOpenCard, onOpenKanji }: BackProps) {
   const uniq = [...new Set(card.k)];
   return (
     <div className="card-back">
@@ -91,7 +92,9 @@ export function CardBack({ card, deck, progress, onOpenCard }: BackProps) {
           const others = deck.cards.filter((c) => c.id !== card.id && c.k.includes(k)).slice(0, 4);
           return (
             <div className="kanji-row" key={k}>
-              <div className="kanji-char">{k}</div>
+              <button className="kanji-char" aria-label={`${k} 한자 자세히`} onClick={() => onOpenKanji?.(k)}>
+                {k}
+              </button>
               <div className="kanji-info">
                 <div className="kanji-hun">
                   {info?.hun ?? info?.en.join(", ")}

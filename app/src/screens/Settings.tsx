@@ -1,18 +1,22 @@
 import { useRef, useState } from "react";
 import type { AppData } from "../App";
-import type { DeckState, Settings } from "../types";
+import { dayKey } from "../srs";
+import type { BreakPlan, DeckState, Settings } from "../types";
 
 interface Props {
   data: AppData;
   onSave: (s: Settings, d: Record<string, DeckState>) => void;
+  onSaveBreak: (p: BreakPlan | null) => void;
   onExport: () => void;
   onImport: (f: File) => void;
   onBack: () => void;
 }
 
-export function SettingsView({ data, onSave, onExport, onImport, onBack }: Props) {
+export function SettingsView({ data, onSave, onSaveBreak, onExport, onImport, onBack }: Props) {
   const [s, setS] = useState<Settings>(data.settings);
   const [decks, setDecks] = useState<Record<string, DeckState>>(data.deckStates);
+  const [brkStart, setBrkStart] = useState(data.breakPlan?.start ?? "");
+  const [brkEnd, setBrkEnd] = useState(data.breakPlan?.end ?? "");
   const fileRef = useRef<HTMLInputElement>(null);
 
   const num = (k: keyof Settings, min: number, max: number) => (
@@ -66,9 +70,67 @@ export function SettingsView({ data, onSave, onExport, onImport, onBack }: Props
         ))}
       </section>
 
+      <section className="panel">
+        <h2>덱 졸업</h2>
+        <p className="muted small">졸업한 덱은 복습 알고리즘이 멈추고, 사전과 자유 테스트에서만 보여요. 기록은 그대로 남아요.</p>
+        {data.index
+          .filter((d) => data.decks[d.id])
+          .map((d) => (
+            <label key={d.id}>
+              {d.name} {decks[d.id].graduatedAt ? `(졸업 ${decks[d.id].graduatedAt})` : ""}
+              <input
+                type="checkbox"
+                className="check"
+                checked={!!decks[d.id].graduatedAt}
+                onChange={(e) =>
+                  setDecks({ ...decks, [d.id]: { ...decks[d.id], graduatedAt: e.target.checked ? dayKey() : null } })
+                }
+              />
+            </label>
+          ))}
+      </section>
+
       <button className="primary wide" onClick={() => onSave(s, decks)}>
         저장
       </button>
+
+      <section className="panel">
+        <h2>쉬는 기간 예고</h2>
+        <p className="muted small">
+          시험기간처럼 못 들어올 날을 미리 정해 두면, 쉬기 3일 전부터 쉬는 동안 돌아올 카드를 미리 복습하고 신규는 멈춰요. 쉬고 돌아오면
+          쉬기 직전에 배운 카드부터 복습해요. 진도 계산에서도 쉬는 날은 빼요.
+        </p>
+        <label>
+          시작
+          <input type="date" value={brkStart} onChange={(e) => setBrkStart(e.target.value)} />
+        </label>
+        <label>
+          끝 (마지막으로 쉬는 날)
+          <input type="date" value={brkEnd} onChange={(e) => setBrkEnd(e.target.value)} />
+        </label>
+        <div className="stack">
+          <button
+            onClick={() => {
+              if (!brkStart || !brkEnd || brkEnd < brkStart) return alert("시작일과 끝나는 날을 확인해 주세요.");
+              onSaveBreak({ start: brkStart, end: brkEnd });
+            }}
+          >
+            쉬는 기간 저장
+          </button>
+          {data.breakPlan && (
+            <button
+              className="text-btn"
+              onClick={() => {
+                setBrkStart("");
+                setBrkEnd("");
+                onSaveBreak(null);
+              }}
+            >
+              쉬는 기간 지우기 ({data.breakPlan.start} ~ {data.breakPlan.end})
+            </button>
+          )}
+        </div>
+      </section>
 
       <section className="panel">
         <h2>백업</h2>

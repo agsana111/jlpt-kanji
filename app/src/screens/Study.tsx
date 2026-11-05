@@ -4,6 +4,7 @@ import { CardBack, CardFront } from "../components/CardView";
 import { previewIntervals } from "../srs";
 import type { Grade3, Session } from "../types";
 import { newCards, dueCards } from "../session";
+import { extraLoad, forecast } from "../insights";
 
 const PHASE_LABEL: Record<string, string> = {
   preview: "① 미리 보기",
@@ -25,6 +26,7 @@ interface Props {
   onQuit: () => void;
   onToggleLeech: (id: string) => void;
   onOpenCard: (id: string) => void;
+  onOpenKanji: (k: string) => void;
 }
 
 function days(n: number) {
@@ -49,6 +51,10 @@ export function Study(p: Props) {
     const moreNew = newCards(deck, data.progress, seenSet).length;
     const moreDue = dueCards(deck, data.progress, seenSet).length;
     const wrongFirst = s.seen.filter((id) => (s.log[id] ?? [])[0] < 3).length;
+    const active = new Set(data.index.filter((d) => data.deckStates[d.id]?.startedAt).map((d) => d.id));
+    const fc = forecast(data.progress, active);
+    const nextNew = Math.min(data.settings.newPerBatch, moreNew);
+    const load = extraLoad(fc, nextNew);
     return (
       <div className="screen">
         <header className="top">
@@ -63,6 +69,12 @@ export function Study(p: Props) {
           <p>
             남은 신규 {moreNew}장 · 남은 복습 {moreDue}장
           </p>
+          {moreNew > 0 && (
+            <p className="muted small">
+              다음 묶음에서 신규 {nextNew}장을 더 하면 → 내일 복습 +{load.tomorrow}장, 이후 일주일 하루 평균 +{load.weekAvg}장
+              {fc.existing[1] ? ` (내일 이미 ${fc.existing[1]}장 예정)` : ""}
+            </p>
+          )}
           {s.notice && <p className="warn">{s.notice}</p>}
           <div className="stack">
             <button className="primary" onClick={p.onFinal}>
@@ -109,7 +121,11 @@ export function Study(p: Props) {
       {s.notice && s.pos === 0 && <div className="banner small">{s.notice}</div>}
 
       <div className="card-area" onClick={!showBack ? p.onReveal : undefined}>
-        {showBack ? <CardBack card={card} deck={deck} progress={data.progress} onOpenCard={p.onOpenCard} /> : <CardFront card={card} />}
+        {showBack ? (
+          <CardBack card={card} deck={deck} progress={data.progress} onOpenCard={p.onOpenCard} onOpenKanji={p.onOpenKanji} />
+        ) : (
+          <CardFront card={card} />
+        )}
       </div>
 
       <div className="actions">

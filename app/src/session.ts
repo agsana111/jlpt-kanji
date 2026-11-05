@@ -1,5 +1,6 @@
+import { breakEndDate, daysBetween, learnedJustBefore, type BreakState } from "./insights";
 import { cardStatus, dayKey, isDue, isOverdue, retrievability } from "./srs";
-import type { DeckData, Progress, Session, Settings, Status } from "./types";
+import type { BreakPlan, DeckData, Progress, Session, Settings, Status } from "./types";
 
 export function shuffle<T>(a: T[]): T[] {
   const b = [...a];
@@ -19,13 +20,22 @@ export function reviewsDoneToday(progress: Map<string, Progress>, day = dayKey()
   return n;
 }
 
-export function dueCards(deck: DeckData, progress: Map<string, Progress>, exclude: Set<string> = new Set()) {
+export function dueCards(
+  deck: DeckData,
+  progress: Map<string, Progress>,
+  exclude: Set<string> = new Set(),
+  brk: BreakState = { phase: "none", plan: null },
+) {
   const now = new Date();
   const day = dayKey(now);
+  // before a break, everything that would fall due during the break is reviewed early
+  const horizon = brk.phase === "pre" && brk.plan ? breakEndDate(brk.plan) : null;
+  const due = (p: Progress) => (horizon ? p.fsrs.due.getTime() < horizon.getTime() : isDue(p, now));
+  const fragileFirst = brk.phase === "after" && brk.plan ? (p: Progress) => (learnedJustBefore(p, brk.plan!) ? 0 : 1) : () => 0;
   return deck.cards
     .map((c) => progress.get(c.id))
-    .filter((p): p is Progress => !!p && !exclude.has(p.id) && isDue(p, now) && !p.history.some((h) => h.d === day))
-    .sort((a, b) => retrievability(a, now) - retrievability(b, now));
+    .filter((p): p is Progress => !!p && !exclude.has(p.id) && due(p) && !p.history.some((h) => h.d === day))
+    .sort((a, b) => fragileFirst(a) - fragileFirst(b) || retrievability(a, now) - retrievability(b, now));
 }
 
 export function newCards(deck: DeckData, progress: Map<string, Progress>, exclude: Set<string> = new Set()) {
@@ -44,9 +54,10 @@ export function buildBatch(
   settings: Settings,
   mode: "full" | "quick",
   seen: string[],
+  brk: BreakState = { phase: "none", plan: null },
 ): Batch {
   const exclude = new Set(seen);
-  const due = dueCards(deck, progress, exclude);
+  const due = dueCards(deck, progress, exclude, brk);
   const capLeft = Math.max(0, settings.reviewCap - reviewsDoneToday(progress));
   let notice: string | null = null;
   if (mode === "quick") {
@@ -56,7 +67,9 @@ export function buildBatch(
   if (capLeft === 0 && due.length) notice = `오늘 복습 상한(${settings.reviewCap}장)에 닿아서 남은 복습은 내일로 넘겼어요.`;
   const overdue = due.filter((p) => isOverdue(p)).length;
   let newIds: string[] = [];
-  if (overdue > settings.backlogStop) {
+  if (brk.phase === "pre") {
+    notice = "쉬는 기간 직전이라 신규는 쉬고, 쉬는 동안 돌아올 카드를 미리 복습해요.";
+  } else if (overdue > settings.backlogStop) {
     notice = `밀린 복습이 ${overdue}장이라 신규는 잠시 멈췄어요. 복습부터 줄여요.`;
   } else {
     newIds = newCards(deck, progress, exclude).slice(0, settings.newPerBatch).map((c) => c.id);
@@ -95,11 +108,24 @@ export interface Pace {
   overdueTarget: boolean;
 }
 
-export function pace(deck: DeckData, progress: Map<string, Progress>, target: string, startedAt: string | null): Pace {
+export function pace(
+  deck: DeckData,
+  progress: Map<string, Progress>,
+  target: string,
+  startedAt: string | null,
+  plan: BreakPlan | null = null,
+): Pace {
   const today = dayKey();
   const remaining = deck.cards.filter((c) => !progress.has(c.id)).length;
   const msLeft = new Date(target + "T23:59:59").getTime() - new Date(today + "T00:00:00").getTime();
-  const weeksLeft = Math.max(0, msLeft / (7 * 86400_000));
+  // planned days off between today and the target don't count as study time
+  let offDays = 0;
+  if (plan && plan.end >= today && plan.start <= target) {
+    const s = plan.start > today ? plan.start : today;
+    const e = plan.end < target ? plan.end : target;
+    offDays = Math.max(0, daysBetween(s, e) + 1);
+  }
+  const weeksLeft = Math.max(0, (msLeft / 86400_000 - offDays) / 7);
   const perWeek = weeksLeft > 0 ? Math.ceil(remaining / weeksLeft) : remaining;
   const wk = weekStartKey();
   let thisWeek = 0;

@@ -100,4 +100,9 @@ export interface DayReport {
   entries: Record<string, { deck: string; grades: number[] }>;
 }
 
-export type Status = "new" | "learning" | "shaky" | "mastered" | "leech";
+export interface BreakPlan {
+  start: string; // YYYY-MM-DD, first day off
+  end: string; // YYYY-MM-DD, last day off
+}
+
+export type Status ="new" | "learning" | "shaky" | "mastered" | "leech";

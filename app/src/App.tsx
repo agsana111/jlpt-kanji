@@ -8,9 +8,17 @@ import { Study } from "./screens/Study";
 import { ReportView } from "./screens/Report";
 import { SettingsView } from "./screens/Settings";
 import { CardModal } from "./screens/CardModal";
+import { KanjiModal } from "./screens/KanjiModal";
+import { Search } from "./screens/Search";
+import { KanjiTable } from "./screens/KanjiTable";
+import { FreeTest } from "./screens/FreeTest";
+import { Leech } from "./screens/Leech";
+import { Practice, type PracticeSpec } from "./screens/Practice";
 import { UpdateBanner } from "./components/UpdateBanner";
+import { breakState } from "./insights";
+import type { BreakPlan } from "./types";
 
-export type Screen = "home" | "study" | "report" | "settings";
+export type Screen = "home" | "study" | "report" | "settings" | "search" | "freetest" | "leech" | "kanji" | "practice";
 
 export interface AppData {
   index: DeckIndexEntry[];
@@ -19,7 +27,11 @@ export interface AppData {
   deckStates: Record<string, DeckState>;
   settings: Settings;
   lastBackup: string | null;
+  memos: Record<string, string>;
+  breakPlan: BreakPlan | null;
 }
+
+type Modal = { type: "card"; id: string } | { type: "kanji"; k: string };
 
 export default function App() {
   const [data, setData] = useState<AppData | null>(null);
@@ -27,8 +39,15 @@ export default function App() {
   const [session, setSession] = useState<Session | null>(null);
   const [screen, setScreen] = useState<Screen>("home");
   const [reportDay, setReportDay] = useState<string>(dayKey());
-  const [modalCard, setModalCard] = useState<string | null>(null);
+  const [modals, setModals] = useState<Modal[]>([]);
+  const [practice, setPractice] = useState<PracticeSpec | null>(null);
+  const [practiceFrom, setPracticeFrom] = useState<Screen>("home");
   const [toast, setToast] = useState<string | null>(null);
+
+  // modals stack, so card -> kanji -> card can be walked back with ✕
+  const openCard = useCallback((id: string) => setModals((m) => [...m, { type: "card" as const, id }].slice(-6)), []);
+  const openKanji = useCallback((k: string) => setModals((m) => [...m, { type: "kanji" as const, k }].slice(-6)), []);
+  const closeModal = useCallback(() => setModals((m) => m.slice(0, -1)), []);
 
   // ------------------------------------------------------------ load
   useEffect(() => {
@@ -44,7 +63,9 @@ export default function App() {
         const deckStates = await db.getDeckStates(index.map((d) => d.id));
         const settings = await db.getSettings();
         const lastBackup = (await db.getMeta<string>("lastBackup")) ?? null;
-        setData({ index, decks, progress, deckStates, settings, lastBackup });
+        const memos = (await db.getMeta<Record<string, string>>("memos")) ?? {};
+        const breakPlan = (await db.getMeta<BreakPlan | null>("breakPlan")) ?? null;
+        setData({ index, decks, progress, deckStates, settings, lastBackup, memos, breakPlan });
         const s = await db.getSession();
         if (s && s.day === dayKey() && s.phase !== "report") {
           sessionRef.current = s;
@@ -106,7 +127,7 @@ export default function App() {
         return;
       }
       const deck = data.decks[deckId];
-      const b = buildBatch(deck, data.progress, data.settings, mode, []);
+      const b = buildBatch(deck, data.progress, data.settings, mode, [], breakState(data.breakPlan));
       if (!b.newIds.length && !b.reviewIds.length) {
         setToast(b.notice ?? (mode === "quick" ? "지금 급한 복습이 없어요." : "오늘 이 덱에서 할 카드가 없어요."));
         return;
@@ -194,7 +215,7 @@ export default function App() {
     const data = dataRef.current;
     if (!session || !data) return;
     const deck = data.decks[session.deck];
-    const b = buildBatch(deck, data.progress, data.settings, "full", session.seen);
+    const b = buildBatch(deck, data.progress, data.settings, "full", session.seen, breakState(data.breakPlan));
     if (!b.newIds.length && !b.reviewIds.length) {
       setToast(b.notice ?? "이 덱에서 오늘 더 할 카드가 없어요. 마무리 테스트로 가요.");
       return;
@@ -224,16 +245,57 @@ export default function App() {
     setScreen("report");
   }, [persistSession]);
 
+  const setLeech = useCallback(
+    async (id: string, on: boolean) => {
+      const d = dataRef.current;
+      if (!d) return;
+      const deckId = Object.keys(d.decks).find((x) => d.decks[x].cards.some((c) => c.id === id))!;
+      const card = d.decks[deckId].cards.find((c) => c.id === id)!;
+      const p = d.progress.get(id) ?? newProgress(card, deckId);
+      await updateProgress({ ...p, leechManual: on });
+    },
+    [updateProgress],
+  );
+
   const toggleLeech = useCallback(
     async (id: string) => {
-      if (!data) return;
-      const deckId = Object.keys(data.decks).find((d) => data.decks[d].cards.some((c) => c.id === id))!;
-      const card = data.decks[deckId].cards.find((c) => c.id === id)!;
-      const p = data.progress.get(id) ?? newProgress(card, deckId);
-      await updateProgress({ ...p, leechManual: !p.leechManual });
-      setToast(!p.leechManual ? "안 외워짐 목록에 넣었어요. 직접 풀기 전까지 유지돼요." : "안 외워짐 지정을 풀었어요.");
+      const on = !dataRef.current?.progress.get(id)?.leechManual;
+      await setLeech(id, on);
+      setToast(on ? "안 외워짐 목록에 넣었어요. 직접 풀기 전까지 유지돼요." : "안 외워짐 지정을 풀었어요.");
     },
-    [data, updateProgress],
+    [setLeech],
+  );
+
+  const addLeech = useCallback(
+    async (ids: string[]) => {
+      for (const id of ids) await setLeech(id, true);
+      setToast(`${ids.length}장을 집중공략에 넣었어요.`);
+    },
+    [setLeech],
+  );
+
+  const saveMemo = useCallback(async (k: string, memo: string) => {
+    const memos = { ...(dataRef.current?.memos ?? {}), [k]: memo.trim() };
+    if (!memo.trim()) delete memos[k];
+    await db.setMeta("memos", memos);
+    setData((d) => (d ? { ...d, memos } : d));
+    setToast("메모를 저장했어요.");
+  }, []);
+
+  const saveBreak = useCallback(async (breakPlan: BreakPlan | null) => {
+    await db.setMeta("breakPlan", breakPlan);
+    setData((d) => (d ? { ...d, breakPlan } : d));
+    setToast(breakPlan ? "쉬는 기간을 저장했어요." : "쉬는 기간을 지웠어요.");
+  }, []);
+
+  const startPractice = useCallback(
+    (spec: PracticeSpec) => {
+      setPracticeFrom(screen === "practice" ? "home" : screen);
+      setModals([]);
+      setPractice(spec);
+      setScreen("practice");
+    },
+    [screen],
   );
 
   // ------------------------------------------------------------ settings / backup
@@ -266,14 +328,15 @@ export default function App() {
     }
   }, []);
 
-  const modal = useMemo(() => {
-    if (!modalCard || !data) return null;
+  const top = modals[modals.length - 1] ?? null;
+  const modalCard = useMemo(() => {
+    if (!top || top.type !== "card" || !data) return null;
     for (const d of Object.values(data.decks)) {
-      const c = d.cards.find((x) => x.id === modalCard);
+      const c = d.cards.find((x) => x.id === top.id);
       if (c) return { card: c, deck: d };
     }
     return null;
-  }, [modalCard, data]);
+  }, [top, data]);
 
   if (error) return <div className="center-msg">불러오기 실패: {error}</div>;
   if (!data) return <div className="center-msg">불러오는 중…</div>;
@@ -286,12 +349,31 @@ export default function App() {
           data={data}
           session={session}
           onStart={start}
-          onReport={() => {
-            setReportDay(dayKey());
-            setScreen("report");
+          onNav={(s) => {
+            if (s === "report") setReportDay(dayKey());
+            setScreen(s);
           }}
-          onSettings={() => setScreen("settings")}
           onBackup={doExport}
+        />
+      )}
+      {screen === "search" && <Search data={data} onBack={() => setScreen("home")} onOpenCard={openCard} onOpenKanji={openKanji} />}
+      {screen === "kanji" && <KanjiTable data={data} onBack={() => setScreen("home")} onOpenKanji={openKanji} />}
+      {screen === "freetest" && <FreeTest data={data} onBack={() => setScreen("home")} onStart={startPractice} />}
+      {screen === "leech" && (
+        <Leech data={data} onBack={() => setScreen("home")} onOpenCard={openCard} onOpenKanji={openKanji} onDrill={startPractice} />
+      )}
+      {screen === "practice" && practice && (
+        <Practice
+          key={practice.title + practice.ids.length}
+          data={data}
+          spec={practice}
+          onExit={() => {
+            setPractice(null);
+            setScreen(practiceFrom);
+          }}
+          onAddLeech={addLeech}
+          onOpenCard={openCard}
+          onOpenKanji={openKanji}
         />
       )}
       {screen === "study" && session && (
@@ -307,23 +389,43 @@ export default function App() {
           onClose={closeSession}
           onQuit={() => setScreen("home")}
           onToggleLeech={toggleLeech}
-          onOpenCard={setModalCard}
+          onOpenCard={openCard}
+          onOpenKanji={openKanji}
         />
       )}
       {screen === "report" && (
-        <ReportView data={data} day={reportDay} onDay={setReportDay} onBack={() => setScreen("home")} onOpenCard={setModalCard} />
+        <ReportView data={data} day={reportDay} onDay={setReportDay} onBack={() => setScreen("home")} onOpenCard={openCard} />
       )}
       {screen === "settings" && (
-        <SettingsView data={data} onSave={saveSettings} onExport={doExport} onImport={doImport} onBack={() => setScreen("home")} />
-      )}
-      {modal && (
-        <CardModal
-          card={modal.card}
-          deck={modal.deck}
+        <SettingsView
           data={data}
-          onClose={() => setModalCard(null)}
+          onSave={saveSettings}
+          onSaveBreak={saveBreak}
+          onExport={doExport}
+          onImport={doImport}
+          onBack={() => setScreen("home")}
+        />
+      )}
+      {modalCard && (
+        <CardModal
+          card={modalCard.card}
+          deck={modalCard.deck}
+          data={data}
+          onClose={closeModal}
           onToggleLeech={toggleLeech}
-          onOpenCard={setModalCard}
+          onOpenCard={openCard}
+          onOpenKanji={openKanji}
+        />
+      )}
+      {top?.type === "kanji" && (
+        <KanjiModal
+          k={top.k}
+          data={data}
+          onClose={closeModal}
+          onOpenCard={openCard}
+          onOpenKanji={openKanji}
+          onSaveMemo={saveMemo}
+          onDrill={(ids, title) => startPractice({ ids, title, mode: "drill" })}
         />
       )}
       {toast && <div className="toast">{toast}</div>}
