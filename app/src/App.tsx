@@ -401,6 +401,7 @@ export default function App() {
           data={data}
           onSave={saveSettings}
           onSaveBreak={saveBreak}
+          onToast={setToast}
           onExport={doExport}
           onImport={doImport}
           onBack={() => setScreen("home")}

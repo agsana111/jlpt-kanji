@@ -11,5 +11,6 @@
     "isolatedModules": true,
     "types": ["vite-plugin-pwa/react", "vite/client"]
   },
-  "include": ["src"]
+  "include": ["src"],
+  "exclude": ["src/sw.ts"]
 }

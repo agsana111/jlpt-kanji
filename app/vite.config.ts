@@ -8,8 +8,15 @@ export default defineConfig({
   plugins: [
     react(),
     VitePWA({
+      // custom service worker (src/sw.ts): offline cache + daily reminder push
+      strategies: "injectManifest",
+      srcDir: "src",
+      filename: "sw.ts",
       registerType: "prompt",
       includeAssets: ["icon-192.png", "icon-512.png", "data/*.json"],
+      injectManifest: {
+        globPatterns: ["**/*.{js,css,html,png,json}"],
+      },
       manifest: {
         name: "JLPT 한자",
         short_name: "JLPT 한자",
@@ -25,10 +32,6 @@ export default defineConfig({
           { src: "icon-512.png", sizes: "512x512", type: "image/png" },
           { src: "icon-512.png", sizes: "512x512", type: "image/png", purpose: "maskable" },
         ],
-      },
-      workbox: {
-        globPatterns: ["**/*.{js,css,html,png,json}"],
-        navigateFallback: "index.html",
       },
     }),
   ],

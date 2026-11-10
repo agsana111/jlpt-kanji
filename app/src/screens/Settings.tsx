@@ -1,18 +1,20 @@
 import { useRef, useState } from "react";
 import type { AppData } from "../App";
 import { dayKey } from "../srs";
+import { NotifyPanel } from "../components/NotifyPanel";
 import type { BreakPlan, DeckState, Settings } from "../types";
 
 interface Props {
   data: AppData;
   onSave: (s: Settings, d: Record<string, DeckState>) => void;
   onSaveBreak: (p: BreakPlan | null) => void;
+  onToast: (m: string) => void;
   onExport: () => void;
   onImport: (f: File) => void;
   onBack: () => void;
 }
 
-export function SettingsView({ data, onSave, onSaveBreak, onExport, onImport, onBack }: Props) {
+export function SettingsView({ data, onSave, onSaveBreak, onToast, onExport, onImport, onBack }: Props) {
   const [s, setS] = useState<Settings>(data.settings);
   const [decks, setDecks] = useState<Record<string, DeckState>>(data.deckStates);
   const [brkStart, setBrkStart] = useState(data.breakPlan?.start ?? "");
@@ -93,6 +95,8 @@ export function SettingsView({ data, onSave, onSaveBreak, onExport, onImport, on
       <button className="primary wide" onClick={() => onSave(s, decks)}>
         저장
       </button>
+
+      <NotifyPanel onToast={onToast} />
 
       <section className="panel">
         <h2>쉬는 기간 예고</h2>

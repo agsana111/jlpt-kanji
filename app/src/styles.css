@@ -249,3 +249,4 @@ select { background: var(--surface); border: 1px solid var(--border); border-rad
 .panel input.check { width: 22px; height: 22px; }
 .progress-line.practice > div { background: var(--st-shaky); }
 .memo-save { margin-top: 6px; padding: 6px 14px; font-size: 14px; }
+.code-label { flex-direction: column; align-items: stretch !important; } .memo.code { font-family: ui-monospace, monospace; font-size: 11px; width: 100%; }
