@@ -1,27 +1,66 @@
 name: Daily study reminder
 
+# GitHub can delay or even drop scheduled runs under load, so we try several
+# times each morning (off the top of the hour) and only the first run that gets
+# through sends. A cache entry keyed by the KST date marks "already sent today".
 on:
   schedule:
-    # 23:50 UTC = 08:50 KST, so it usually lands around 9:00 even with GitHub's schedule delay
-    - cron: "50 23 * * *"
-  workflow_dispatch:
+    - cron: "37 23 * * *" # 08:37 KST
+    - cron: "52 23 * * *" # 08:52 KST
+    - cron: "13 0 * * *" # 09:13 KST
+    - cron: "41 0 * * *" # 09:41 KST
+  workflow_dispatch: # manual runs always send and don't mark the day as sent
 
 permissions:
   contents: read
+  actions: write
 
 jobs:
   send:
     runs-on: ubuntu-latest
     steps:
+      - name: Today's date in KST
+        id: day
+        run: echo "kst=$(TZ=Asia/Seoul date +%F)" >> "$GITHUB_OUTPUT"
+
+      - name: Already sent today?
+        id: sent
+        if: github.event_name == 'schedule'
+        uses: actions/cache/restore@v4
+        with:
+          path: .reminder-sent
+          key: reminder-sent-${{ steps.day.outputs.kst }}
+          lookup-only: true
+
+      - name: Skip
+        if: steps.sent.outputs.cache-hit == 'true'
+        run: echo "Reminder for ${{ steps.day.outputs.kst }} already sent by an earlier run."
+
       - uses: actions/checkout@v4
+        if: steps.sent.outputs.cache-hit != 'true'
+
       - uses: actions/setup-node@v4
+        if: steps.sent.outputs.cache-hit != 'true'
         with:
           node-version: 22
-      - run: npm install --no-save --no-package-lock web-push@3.6.7
+
+      - name: Send
+        if: steps.sent.outputs.cache-hit != 'true'
         working-directory: notify
-      - run: node send.mjs
-        working-directory: notify
+        run: |
+          npm install --no-save --no-package-lock web-push@3.6.7
+          node send.mjs
         env:
           VAPID_PUBLIC_KEY: ${{ secrets.VAPID_PUBLIC_KEY }}
           VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
           PUSH_SUBSCRIPTIONS: ${{ secrets.PUSH_SUBSCRIPTIONS }}
+
+      - name: Mark today as sent
+        if: steps.sent.outputs.cache-hit != 'true' && github.event_name == 'schedule'
+        run: mkdir -p .reminder-sent && date > .reminder-sent/at
+
+      - uses: actions/cache/save@v4
+        if: steps.sent.outputs.cache-hit != 'true' && github.event_name == 'schedule'
+        with:
+          path: .reminder-sent
+          key: reminder-sent-${{ steps.day.outputs.kst }}
