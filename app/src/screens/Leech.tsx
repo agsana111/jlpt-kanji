@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import type { AppData } from "../App";
-import { cardIndex, cardsWithKanji, kanjiTable, kanjiWrongTotal } from "../insights";
+import { cardIndex, cardsWithKanji, kanjiRecentWrong, kanjiRecovered, kanjiTable, RECENT_DAYS } from "../insights";
 import type { PracticeSpec } from "./Practice";
 
 interface Props {
@@ -11,7 +11,8 @@ interface Props {
   onDrill: (spec: PracticeSpec) => void;
 }
 
-const KANJI_WRONG = 6;
+// You press 모름 only for real blanks, so a few recent ones already mean a hole.
+const KANJI_WRONG = 4;
 
 export function Leech({ data, onBack, onOpenCard, onOpenKanji, onDrill }: Props) {
   const [tab, setTab] = useState<"cards" | "kanji">("cards");
@@ -28,7 +29,8 @@ export function Leech({ data, onBack, onOpenCard, onOpenKanji, onDrill }: Props)
   );
   const shown = cards.filter((p) => filter === "all" || (filter === "manual" ? p.leechManual : !p.leechManual));
 
-  // kanji that are the real hole: a leech word, or many misses across its words
+  // kanji that are the real hole: a leech word, or several recent misses across its words.
+  // Old misses age out after 30 days, and a kanji whose words are all back on a 앎 streak drops out.
   const kanji = useMemo(() => {
     const out: { k: string; wrong: number; leechWords: number }[] = [];
     for (const k of table.keys()) {
@@ -37,8 +39,10 @@ export function Leech({ data, onBack, onOpenCard, onOpenKanji, onDrill }: Props)
         const p = data.progress.get(r.card.id);
         return p && (p.leechManual || p.leechAuto);
       }).length;
-      const wrong = kanjiWrongTotal(k, data.decks, data.progress);
-      if (leechWords > 0 || wrong >= KANJI_WRONG) out.push({ k, wrong, leechWords });
+      const wrong = kanjiRecentWrong(k, data.decks, data.progress);
+      if (leechWords > 0 || (wrong >= KANJI_WRONG && !kanjiRecovered(k, data.decks, data.progress))) {
+        out.push({ k, wrong, leechWords });
+      }
     }
     return out.sort((a, b) => b.leechWords - a.leechWords || b.wrong - a.wrong);
   }, [table, data.decks, data.progress]);
@@ -102,8 +106,8 @@ export function Leech({ data, onBack, onOpenCard, onOpenKanji, onDrill }: Props)
       ) : (
         <>
           <p className="muted">
-            안 외워지는 단어가 있거나, 여러 단어에서 합쳐 {KANJI_WRONG}번 이상 틀린 한자예요. 단어가 아니라 한자 자체가 구멍이라는 뜻이라
-            부품 분해, 비슷한 한자 비교, 연상 메모로 공략해요.
+            안 외워지는 단어가 있거나, 최근 {RECENT_DAYS}일 동안 그 한자가 들어간 단어들에서 합쳐 {KANJI_WRONG}번 이상 「모름」이 나온
+            한자예요. 오래된 오답은 30일이 지나면 빠지고, 그 한자 단어들을 연속으로 맞히면 목록에서 사라져요.
           </p>
           {!kanji.length ? (
             <div className="center-msg">구멍 난 한자가 아직 없어요.</div>
@@ -115,7 +119,7 @@ export function Leech({ data, onBack, onOpenCard, onOpenKanji, onDrill }: Props)
                   <span className="kh-info">
                     <b>{table.get(k)?.hun}</b>
                     <span className="muted">
-                      오답 {wrong}회{leechWords ? ` · 안 외워지는 단어 ${leechWords}` : ""}
+                      최근 모름 {wrong}회{leechWords ? ` · 안 외워지는 단어 ${leechWords}` : ""}
                       {data.memos[k] ? " · 메모 있음" : ""}
                     </span>
                   </span>

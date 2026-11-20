@@ -52,8 +52,15 @@ const MASTER_DAYS = 21;
 
 /** Apply the day's first evaluation: this is the only thing that moves the long-term schedule. */
 export function applyFirstEval(p: Progress, g: Grade3, now = new Date()): Progress {
-  const next = scheduler.next(p.fsrs, now, RATING[g]).card;
-  const goodStreak = g === 3 ? p.goodStreak + 1 : 0;
+  let next = scheduler.next(p.fsrs, now, RATING[g]).card;
+  // A brand-new card is tested minutes after its preview, so that answer is short-term memory.
+  // It always comes back the next day, and it doesn't count toward the 앎 streak (mastery/leech exit).
+  const firstEver = p.history.length === 0;
+  if (firstEver) {
+    const tomorrow = endOfDay(now);
+    if (next.due.getTime() > tomorrow.getTime()) next = { ...next, due: tomorrow, scheduled_days: 1 };
+  }
+  const goodStreak = firstEver ? 0 : g === 3 ? p.goodStreak + 1 : 0;
   const wrongTotal = p.wrongTotal + (g === 1 ? 1 : 0);
   let leechAuto = p.leechAuto;
   if (g === 1 && wrongTotal >= LEECH_WRONG) leechAuto = true;
@@ -100,8 +107,9 @@ export function cardStatus(p: Progress | undefined): Status {
 
 /** Next interval preview for the three buttons, in days. */
 export function previewIntervals(p: Progress | undefined, card: CardData, deck: string, now = new Date()) {
-  const base = p ?? newProgress(card, deck);
   const out = {} as Record<Grade3, number>;
+  if (!p || p.history.length === 0) return { 1: 1, 2: 1, 3: 1 } as Record<Grade3, number>; // new cards: always tomorrow
+  const base = p ?? newProgress(card, deck);
   for (const g of [1, 2, 3] as Grade3[]) {
     out[g] = scheduler.next(base.fsrs, now, RATING[g]).card.scheduled_days;
   }

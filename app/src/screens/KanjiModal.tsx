@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import type { AppData } from "../App";
 import { StatusDot } from "../components/CardView";
-import { cardsWithKanji, kanjiStatus, kanjiTable, kanjiWrongTotal, similarKanji } from "../insights";
+import { cardsWithKanji, kanjiRecentWrong, kanjiStatus, kanjiTable, kanjiWrongTotal, similarKanji } from "../insights";
 import { STATUS_LABEL } from "../srs";
 
 interface Props {
@@ -31,6 +31,7 @@ export function KanjiModal({ k, data, onClose, onOpenCard, onOpenKanji, onSaveMe
   const similar = useMemo(() => similarKanji(k, table), [k, table]);
   const st = kanjiStatus(k, data.decks, data.progress);
   const wrong = kanjiWrongTotal(k, data.decks, data.progress);
+  const recent = kanjiRecentWrong(k, data.decks, data.progress);
   const [memo, setMemo] = useState(data.memos[k] ?? "");
   useEffect(() => setMemo(data.memos[k] ?? ""), [k, data.memos]);
 
@@ -39,7 +40,11 @@ export function KanjiModal({ k, data, onClose, onOpenCard, onOpenKanji, onSaveMe
       <div className="modal" onClick={(e) => e.stopPropagation()}>
         <div className="modal-head">
           <span className={`badge st-${st}`}>{STATUS_LABEL[st]}</span>
-          {info && <span className="muted">N{info.lv} · {info.st}획 · 오답 합계 {wrong}회</span>}
+          {info && (
+            <span className="muted">
+              N{info.lv} · {info.st}획 · 최근 30일 모름 {recent}회 (누적 {wrong}회)
+            </span>
+          )}
           <button className="icon-btn" aria-label="닫기" onClick={onClose}>
             ✕
           </button>

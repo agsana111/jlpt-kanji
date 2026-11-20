@@ -46,9 +46,29 @@ export function kanjiStatus(k: string, decks: Record<string, DeckData>, progress
   return "learning";
 }
 
-/** Kanji that keep tripping you up: total wrong answers across its words. */
+/** Kanji that keep tripping you up: total wrong answers across its words (all time). */
 export function kanjiWrongTotal(k: string, decks: Record<string, DeckData>, progress: Map<string, Progress>): number {
   return cardsWithKanji(decks, k).reduce((n, r) => n + (progress.get(r.card.id)?.wrongTotal ?? 0), 0);
+}
+
+export const RECENT_DAYS = 30;
+
+/** 모름 answers (day's first evaluation) across the kanji's words in the last 30 days. */
+export function kanjiRecentWrong(k: string, decks: Record<string, DeckData>, progress: Map<string, Progress>): number {
+  const since = new Date(Date.now() - RECENT_DAYS * 86400_000).toISOString().slice(0, 10);
+  let n = 0;
+  for (const r of cardsWithKanji(decks, k)) {
+    for (const h of progress.get(r.card.id)?.history ?? []) if (h.g === 1 && h.d >= since) n++;
+  }
+  return n;
+}
+
+/** Every studied word with this kanji is currently on a 앎 streak (≥2) -> the hole is closed. */
+export function kanjiRecovered(k: string, decks: Record<string, DeckData>, progress: Map<string, Progress>): boolean {
+  const ps = cardsWithKanji(decks, k)
+    .map((r) => progress.get(r.card.id))
+    .filter((p): p is Progress => !!p);
+  return ps.length > 0 && ps.every((p) => p.goodStreak >= 2 && !p.leechManual && !p.leechAuto);
 }
 
 // ---------------------------------------------------------------- look-alike kanji
@@ -85,6 +105,7 @@ const NEW_CARD_LOAD: number[] = (() => {
   let card = createEmptyCard(new Date(2026, 0, 1, 12));
   let t = new Date(2026, 0, 1, 12);
   card = sim.next(card, t, Rating.Good).card;
+  card = { ...card, due: new Date(2026, 0, 2, 12), scheduled_days: 1 }; // new cards always return the next day
   for (let i = 0; i < 6; i++) {
     const offset = Math.round((card.due.getTime() - new Date(2026, 0, 1, 12).getTime()) / 86400_000);
     if (offset >= days) break;
@@ -92,7 +113,8 @@ const NEW_CARD_LOAD: number[] = (() => {
     t = card.due;
     card = sim.next(card, t, Rating.Good).card;
   }
-  load[1] += FAIL_RATE; // forgotten cards come back tomorrow
+  load[1] += FAIL_RATE; // day-1 review happens either way
+  load[2] += FAIL_RATE; // forgotten on day 1 -> back on day 2
   return load;
 })();
 
