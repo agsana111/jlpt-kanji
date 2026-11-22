@@ -32,6 +32,7 @@ EXCLUDE = {
     "1376590",  # 正 せい (logical true)
     "1430580",  # 直 なお (ordinary; doing nothing)
     "1207600",  # 掛け かけ (credit; money owed)
+    "2839962",  # 零 ゼロ (katakana reading; 零 れい is kept)
 }
 
 
@@ -46,15 +47,21 @@ def kanji_of(text: str):
 # ---------------------------------------------------------------- load sources
 print("loading kanji levels")
 kdata = json.load(open(RAW / "kanji-data.json", encoding="utf-8"))
-LEVEL = {k: v["jlpt_new"] for k, v in kdata.items() if v.get("jlpt_new") in (3, 4, 5)}
+LEVEL = {k: v["jlpt_new"] for k, v in kdata.items() if v.get("jlpt_new") in (2, 3, 4, 5)}
 KFREQ = {k: (v.get("freq") or 9999) for k, v in kdata.items()}
 
 print("loading waller vocab lists")
-WALLER = {}  # seq -> vocab level
+WALLER = {}  # seq -> vocab level (N5-N3 lists; unchanged so the N5-N3 decks stay identical)
 for n in (5, 4, 3):
     with open(RAW / f"waller-n{n}.csv", encoding="utf-8") as f:
         for row in csv.DictReader(f):
             WALLER.setdefault(row["jmdict_seq"], n)
+# N2 list is only used for words that belong to the N2 deck
+with open(RAW / "waller-n2.csv", encoding="utf-8") as f:
+    WALLER_N2 = {row["jmdict_seq"] for row in csv.DictReader(f)}
+
+# which decks to (re)write; default all. e.g.  build_decks.py 2
+LEVELS = tuple(int(a) for a in sys.argv[1:]) or (5, 4, 3, 2)
 
 print("loading kanjidic2 / kradfile / unihan")
 kd = json.load(open(RAW / "kanjidic2-en-3.6.2.json", encoding="utf-8"))
@@ -117,6 +124,8 @@ for e in jm["words"]:
     seq = e["id"]
     if seq in EXCLUDE:
         continue
+    listed = seq in WALLER or seq in WALLER_N2
+    via_n2 = seq not in WALLER and seq in WALLER_N2  # only allowed into the N2 deck
     forms = [
         k for k in e["kanji"]
         if kanji_of(k["text"]) and not (set(k["tags"]) & BAD_FORM_TAGS)
@@ -125,7 +134,7 @@ for e in jm["words"]:
     if not forms:
         continue
     form = next((k for k in forms if k["common"]), None)
-    if form is None and seq in WALLER:
+    if form is None and listed:
         form = forms[0]
     if form is None:
         continue
@@ -143,7 +152,7 @@ for e in jm["words"]:
     if not kana:
         continue
     kana.sort(key=lambda k: not k["common"])
-    if not kana[0]["common"] and seq not in WALLER:
+    if not kana[0]["common"] and not listed:
         continue
     reading = kana[0]["text"]
     senses = [
@@ -160,7 +169,7 @@ for e in jm["words"]:
     if "uk" in senses[0]["misc"]:
         continue
     # single-kanji words only when they are on a JLPT vocab list
-    if len(text) == 1 and seq not in WALLER:
+    if len(text) == 1 and not listed:
         continue
     gloss = ["; ".join(g["text"] for g in s["gloss"][:4]) for s in senses[:3]]
     examples = []
@@ -171,10 +180,16 @@ for e in jm["words"]:
             if ja:
                 examples.append({"tid": ex["source"]["value"], "ja": ja, "en": en})
     furi = FURI.get((text, reading)) or [[text, reading]]
+    level = min(LEVEL[c] for c in ks)
+    if via_n2 and level != 2:
+        continue
+    waller = WALLER.get(seq)
+    if waller is None and level == 2 and seq in WALLER_N2:
+        waller = 2
     CANDS.append({
         "seq": seq, "text": text, "reading": reading, "kanji": ks,
-        "level": min(LEVEL[c] for c in ks) if False else min(LEVEL[c] for c in ks),
-        "waller": WALLER.get(seq), "common": form["common"],
+        "level": level,
+        "waller": waller, "common": form["common"],
         "pos": pos, "gloss": gloss, "examples": examples, "furigana": furi,
     })
 print(" candidates:", len(CANDS))
@@ -300,7 +315,7 @@ for c in CANDS:
     c["freq"] = freq_of(c["text"])
 
 report = {}
-for level in (5, 4, 3):
+for level in LEVELS:
     deck_kanji = sorted([k for k, v in LEVEL.items() if v == level], key=lambda k: KFREQ.get(k, 9999))
     pool = [c for c in CANDS if c["level"] == level]
     for c in pool:

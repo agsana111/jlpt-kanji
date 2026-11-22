@@ -17,7 +17,7 @@ KANJI_RE = re.compile(r"[一-鿿]")
 HIRA_RE = re.compile(r"^[ぁ-ゟァ-ヺー]+$")  # kana (loanword parts like ジェット)
 
 # Unihan gives a reading that is not the usual Korean one for these shinjitai forms
-EUM_EXCEPTIONS = {"円": "원", "体": "체", "楽": "락", "画": "화", "台": "대", "欠": "결", "予": "예"}
+EUM_EXCEPTIONS = {"円": "원", "体": "체", "楽": "락", "画": "화", "台": "대", "欠": "결", "予": "예", "灯": "등", "缶": "관", "担": "담"}
 # hun-eum is shared across decks (an N5 kanji used in an N4 word keeps its N5 hun-eum)
 ALL_HUN = {}
 for _p in sorted(ROOT.glob("ko/n[0-9].json")):
@@ -45,7 +45,7 @@ def parse_ruby(s: str):
 errors = []
 decks_index = []
 
-for level in (5, 4, 3):
+for level in (5, 4, 3, 2):
     ko_path = ROOT / "ko" / f"n{level}.json"
     if not ko_path.exists():
         decks_index.append({"id": f"n{level}", "name": f"N{level}", "ready": False})
