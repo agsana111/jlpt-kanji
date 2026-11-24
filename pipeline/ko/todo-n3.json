@@ -6976,6 +6976,161 @@
     "to make a living; to earn a livelihood",
     "to do daily; to do all day long; to continue doing"
    ]
+  },
+  {
+   "id": "j1535560",
+   "word": "目的",
+   "reading": "もくてき",
+   "gloss_en": [
+    "purpose; goal; aim; objective"
+   ]
+  },
+  {
+   "id": "j1956960",
+   "word": "無",
+   "reading": "む",
+   "gloss_en": [
+    "nothing; naught; nought; nil",
+    "un-; non-"
+   ]
+  },
+  {
+   "id": "j1190710",
+   "word": "可",
+   "reading": "か",
+   "gloss_en": [
+    "acceptable; satisfactory; allowed; permitted",
+    "approval; being in favour; (a) vote in favour; aye",
+    "Pass (grade); Fair; C; D"
+   ]
+  },
+  {
+   "id": "j1365520",
+   "word": "身",
+   "reading": "み",
+   "gloss_en": [
+    "one's body; one's person",
+    "oneself; one's appearance",
+    "one's place (in society, etc.); one's position"
+   ]
+  },
+  {
+   "id": "j1530970",
+   "word": "無理",
+   "reading": "むり",
+   "gloss_en": [
+    "unreasonable; unnatural; unjustifiable",
+    "impossible",
+    "forcible; forced; compulsory"
+   ]
+  },
+  {
+   "id": "j1191060",
+   "word": "可能",
+   "reading": "かのう",
+   "gloss_en": [
+    "possible; potential; practicable; feasible"
+   ]
+  },
+  {
+   "id": "j1339260",
+   "word": "出身",
+   "reading": "しゅっしん",
+   "gloss_en": [
+    "one's origin (e.g. city, country, parentage, school)"
+   ]
+  },
+  {
+   "id": "j1544520",
+   "word": "余分",
+   "reading": "よぶん",
+   "gloss_en": [
+    "extra; excess; surplus"
+   ]
+  },
+  {
+   "id": "j1232880",
+   "word": "許可",
+   "reading": "きょか",
+   "gloss_en": [
+    "permission; approval; authorization; license"
+   ]
+  },
+  {
+   "id": "j1530030",
+   "word": "無事",
+   "reading": "ぶじ",
+   "gloss_en": [
+    "safety; security; peace; quiet",
+    "safely; without incident; successfully",
+    "good health"
+   ]
+  },
+  {
+   "id": "j1190740",
+   "word": "可愛らしい",
+   "reading": "かわいらしい",
+   "gloss_en": [
+    "lovely; sweet; pretty; cute"
+   ]
+  },
+  {
+   "id": "j1499490",
+   "word": "部分",
+   "reading": "ぶぶん",
+   "gloss_en": [
+    "portion; section; part"
+   ]
+  },
+  {
+   "id": "j1414850",
+   "word": "大部分",
+   "reading": "だいぶぶん",
+   "gloss_en": [
+    "most part; greater part; majority"
+   ]
+  },
+  {
+   "id": "j1531040",
+   "word": "無料",
+   "reading": "むりょう",
+   "gloss_en": [
+    "free (of charge); gratuitous"
+   ]
+  },
+  {
+   "id": "j1491370",
+   "word": "不可",
+   "reading": "ふか",
+   "gloss_en": [
+    "wrong; bad; improper; unjustifiable",
+    "not allowed; not possible",
+    "failing grade"
+   ]
+  },
+  {
+   "id": "j1318000",
+   "word": "自身",
+   "reading": "じしん",
+   "gloss_en": [
+    "(one's) self; oneself; yourself; himself"
+   ]
+  },
+  {
+   "id": "j2830705",
+   "word": "身体",
+   "reading": "しんたい",
+   "gloss_en": [
+    "body; physical system; (the) person"
+   ]
+  },
+  {
+   "id": "j1365770",
+   "word": "身長",
+   "reading": "しんちょう",
+   "gloss_en": [
+    "height (of a person); stature"
+   ]
   }
  ],
  "kanji": [
@@ -7642,6 +7797,18 @@
    ]
   },
   {
+   "k": "分",
+   "eum": [
+    "분"
+   ],
+   "meaning_en": [
+    "part",
+    "minute of time",
+    "segment",
+    "share"
+   ]
+  },
+  {
    "k": "切",
    "eum": [
     "절",
@@ -8024,6 +8191,17 @@
    ],
    "meaning_en": [
     "mouth"
+   ]
+  },
+  {
+   "k": "可",
+   "eum": [
+    "가"
+   ],
+   "meaning_en": [
+    "can",
+    "passable",
+    "approval"
    ]
   },
   {
@@ -10447,6 +10625,18 @@
    ]
   },
   {
+   "k": "無",
+   "eum": [
+    "무"
+   ],
+   "meaning_en": [
+    "nothingness",
+    "none",
+    "ain't",
+    "nothing"
+   ]
+  },
+  {
    "k": "然",
    "eum": [
     "연"
@@ -10741,6 +10931,18 @@
    ],
    "meaning_en": [
     "white"
+   ]
+  },
+  {
+   "k": "的",
+   "eum": [
+    "적"
+   ],
+   "meaning_en": [
+    "bull's eye",
+    "mark",
+    "target",
+    "object"
    ]
   },
   {
@@ -11879,6 +12081,17 @@
     "route",
     "road",
     "distance"
+   ]
+  },
+  {
+   "k": "身",
+   "eum": [
+    "신"
+   ],
+   "meaning_en": [
+    "somebody",
+    "person",
+    "one's station in life"
    ]
   },
   {
@@ -17205,6 +17418,114 @@
    "id": "j1514940",
    "ja": "この町で暮らすのは大変だ。",
    "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1535560",
+   "ja": "彼の目的はそのテストに合格することです。",
+   "en": "His object is to pass the test.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1956960",
+   "ja": "無から有は生じない。",
+   "en": "Nothing comes from nothing.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1190710",
+   "ja": "この試験は辞書持ち込み可です。",
+   "en": "You can use a dictionary for this exam.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1365520",
+   "ja": "彼は政治家として身を立てた。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1530970",
+   "ja": "それは無理な注文だ。",
+   "en": "Your demands are unreasonable.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1191060",
+   "ja": "男の子へのしつけは可能である。",
+   "en": "Boys can be trained to behave.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1339260",
+   "ja": "私は東京出身です。",
+   "en": "I'm from Tokyo.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1544520",
+   "ja": "私たちは余分に１０ドル必要だ。",
+   "en": "We'll need an extra ten dollars.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1232880",
+   "ja": "彼は大学に入学を許可された。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1530030",
+   "ja": "子供たちが無事だといいけど。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1190740",
+   "ja": "あの可愛らしい女の子を見て。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1499490",
+   "ja": "彼の本は大部分役にたたない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1414850",
+   "ja": "彼の本は大部分役にたたない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1531040",
+   "ja": "こちらのパンフレットは無料です。",
+   "en": "This pamphlet is free of charge.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1491370",
+   "ja": "それは可でもなく不可でもなしというところだ。",
+   "en": "It is neither good nor bad.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1318000",
+   "ja": "ジェーン自身がこの手紙を書いた。",
+   "en": "Jane wrote the letter herself.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2830705",
+   "ja": "彼は身体が持ち上げられるのを感じた。",
+   "en": null,
+   "ko_tatoeba": "그는 몸이 들어올려지는 것을 느꼈다."
+  },
+  {
+   "id": "j1365770",
+   "ja": "息子はもう私と同じ身長だ。",
+   "en": "My son is now as tall as I am.",
    "ko_tatoeba": null
   }
  ]

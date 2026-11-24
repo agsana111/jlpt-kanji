@@ -2957,6 +2957,33 @@
    "gloss_en": [
     "lunch break; noon recess; noon rest period"
    ]
+  },
+  {
+   "id": "j1504330",
+   "word": "分野",
+   "reading": "ぶんや",
+   "gloss_en": [
+    "field; sphere; realm; division"
+   ]
+  },
+  {
+   "id": "j1318610",
+   "word": "自分",
+   "reading": "じぶん",
+   "gloss_en": [
+    "myself; yourself; oneself; himself",
+    "I; me",
+    "you"
+   ]
+  },
+  {
+   "id": "j1407980",
+   "word": "多分",
+   "reading": "たぶん",
+   "gloss_en": [
+    "probably; likely; perhaps; maybe",
+    "a lot of; much; many; considerable"
+   ]
   }
  ],
  "kanji": [
@@ -3294,6 +3321,18 @@
     "leave",
     "go out",
     "come out"
+   ]
+  },
+  {
+   "k": "分",
+   "eum": [
+    "분"
+   ],
+   "meaning_en": [
+    "part",
+    "minute of time",
+    "segment",
+    "share"
    ]
   },
   {
@@ -7039,6 +7078,24 @@
    "ja": "お昼休みは、１時間です。",
    "en": null,
    "ko_tatoeba": null
+  },
+  {
+   "id": "j1504330",
+   "ja": "この分野について私は何も知らない。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1318610",
+   "ja": "あなたは自分のお母さんを大事にしてますか？",
+   "en": null,
+   "ko_tatoeba": "당신은 어머니를 사랑합니까?"
+  },
+  {
+   "id": "j1407980",
+   "ja": "多分そうだよ。",
+   "en": null,
+   "ko_tatoeba": "아마도 그럴 것이야."
   }
  ]
 }

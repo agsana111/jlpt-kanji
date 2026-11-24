@@ -256,6 +256,7 @@
   "腕",
   "兆",
   "床",
+  "畑",
   "毛",
   "緑",
   "尊",
@@ -364,6 +365,7 @@
   "肯",
   "燥",
   "畜",
+  "坊",
   "挟",
   "曇",
   "滴",
@@ -1907,6 +1909,35 @@
     "｜",
     "山",
     "凵"
+   ]
+  },
+  "分": {
+   "level": 5,
+   "on": [
+    "ぶん",
+    "ふん",
+    "ぶ"
+   ],
+   "kun": [
+    "わ.ける",
+    "わ.け",
+    "わ.かれる",
+    "わ.かる",
+    "わ.かつ"
+   ],
+   "meaning_en": [
+    "part",
+    "minute of time",
+    "segment",
+    "share"
+   ],
+   "eum": [
+    "분"
+   ],
+   "strokes": 4,
+   "parts": [
+    "刀",
+    "ハ"
    ]
   },
   "切": {
@@ -3550,6 +3581,27 @@
     "冫",
     "勹",
     "二"
+   ]
+  },
+  "坊": {
+   "level": 2,
+   "on": [
+    "ぼう",
+    "ぼっ"
+   ],
+   "kun": [],
+   "meaning_en": [
+    "boy",
+    "priest's residence",
+    "priest"
+   ],
+   "eum": [
+    "방"
+   ],
+   "strokes": 7,
+   "parts": [
+    "土",
+    "方"
    ]
   },
   "型": {
@@ -9613,6 +9665,29 @@
     "儿"
    ]
   },
+  "畑": {
+   "level": 2,
+   "on": [],
+   "kun": [
+    "はた",
+    "はたけ",
+    "-ばたけ"
+   ],
+   "meaning_en": [
+    "farm",
+    "field",
+    "garden",
+    "one's specialty"
+   ],
+   "eum": [
+    "전"
+   ],
+   "strokes": 9,
+   "parts": [
+    "火",
+    "田"
+   ]
+  },
   "畜": {
    "level": 2,
    "on": [
@@ -9741,6 +9816,30 @@
     "二",
     "儿",
     "癶"
+   ]
+  },
+  "的": {
+   "level": 3,
+   "on": [
+    "てき"
+   ],
+   "kun": [
+    "まと"
+   ],
+   "meaning_en": [
+    "bull's eye",
+    "mark",
+    "target",
+    "object"
+   ],
+   "eum": [
+    "적"
+   ],
+   "strokes": 8,
+   "parts": [
+    "白",
+    "丶",
+    "勹"
    ]
   },
   "皮": {
@@ -10319,6 +10418,37 @@
     "口",
     "并",
     "儿"
+   ]
+  },
+  "積": {
+   "level": 3,
+   "on": [
+    "せき"
+   ],
+   "kun": [
+    "つ.む",
+    "-づ.み",
+    "つ.もる",
+    "つ.もり"
+   ],
+   "meaning_en": [
+    "volume",
+    "product (x*y)",
+    "acreage",
+    "contents"
+   ],
+   "eum": [
+    "적"
+   ],
+   "strokes": 16,
+   "parts": [
+    "禾",
+    "貝",
+    "目",
+    "ハ",
+    "土",
+    "亠",
+    "二"
    ]
   },
   "空": {
@@ -13228,6 +13358,30 @@
     "并"
    ]
   },
+  "赤": {
+   "level": 4,
+   "on": [
+    "せき",
+    "しゃく"
+   ],
+   "kun": [
+    "あか",
+    "あか-",
+    "あか.い",
+    "あか.らむ",
+    "あか.らめる"
+   ],
+   "meaning_en": [
+    "red"
+   ],
+   "eum": [
+    "적"
+   ],
+   "strokes": 7,
+   "parts": [
+    "土"
+   ]
+  },
   "起": {
    "level": 4,
    "on": [
@@ -13385,6 +13539,25 @@
     "マ",
     "止"
    ]
+  },
+  "身": {
+   "level": 3,
+   "on": [
+    "しん"
+   ],
+   "kun": [
+    "み"
+   ],
+   "meaning_en": [
+    "somebody",
+    "person",
+    "one's station in life"
+   ],
+   "eum": [
+    "신"
+   ],
+   "strokes": 7,
+   "parts": []
   },
   "車": {
    "level": 5,
@@ -69723,6 +69896,961 @@
      ],
      [
       "！",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1476520",
+   "word": "畑",
+   "reading": "はたけ",
+   "furigana": [
+    [
+     "畑",
+     "はたけ"
+    ]
+   ],
+   "kanji": [
+    "畑"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "field (for growing wheat, fruit, vegetables, etc.); cultivated land; vegetable plot; kitchen garden",
+    "field (of specialization); sphere; area; line",
+    "womb; birth; birthplace"
+   ],
+   "waller": 3,
+   "example": {
+    "tid": "147634",
+    "ja": "春になると畑をほりかえして種をまきます。",
+    "ruby": [
+     [
+      "春",
+      "はる"
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "なる",
+      null
+     ],
+     [
+      "と",
+      null
+     ],
+     [
+      "畑",
+      "はたけ"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "ほりかえし",
+      null
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "種",
+      "しゅ"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "まき",
+      null
+     ],
+     [
+      "ます",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "When spring comes, they dig up the fields and plant seeds.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1383310",
+   "word": "赤ん坊",
+   "reading": "あかんぼう",
+   "furigana": [
+    [
+     "赤",
+     "あか"
+    ],
+    [
+     "ん",
+     null
+    ],
+    [
+     "坊",
+     "ぼう"
+    ]
+   ],
+   "kanji": [
+    "赤",
+    "坊"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "baby; infant"
+   ],
+   "waller": 4,
+   "example": {
+    "tid": "228187",
+    "ja": "うちの赤ん坊は口をきくようになってきました。",
+    "ruby": [
+     [
+      "うち",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "赤",
+      "あか"
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "坊",
+      "ぼう"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "口",
+      "くち"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "きく",
+      null
+     ],
+     [
+      "よう",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "なっ",
+      null
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "き",
+      null
+     ],
+     [
+      "まし",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "Our baby is learning to speak.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1360320",
+   "word": "寝坊",
+   "reading": "ねぼう",
+   "furigana": [
+    [
+     "寝",
+     "ね"
+    ],
+    [
+     "坊",
+     "ぼう"
+    ]
+   ],
+   "kanji": [
+    "寝",
+    "坊"
+   ],
+   "pos": [
+    "n",
+    "vs",
+    "vi",
+    "adj-na",
+    "adj-no"
+   ],
+   "gloss_en": [
+    "sleeping in late; oversleeping",
+    "late riser; sleepyhead"
+   ],
+   "waller": 4,
+   "example": {
+    "tid": "111682",
+    "ja": "彼はときどき寝坊する。",
+    "ruby": [
+     [
+      "彼",
+      "かれ"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "ときどき",
+      null
+     ],
+     [
+      "寝",
+      "ね"
+     ],
+     [
+      "坊",
+      "ぼう"
+     ],
+     [
+      "する",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "He sometimes sleeps in.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1603720",
+   "word": "坊ちゃん",
+   "reading": "ぼっちゃん",
+   "furigana": [
+    [
+     "坊",
+     "ぼっ"
+    ],
+    [
+     "ちゃん",
+     null
+    ]
+   ],
+   "kanji": [
+    "坊"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "(another's) son; boy; young master",
+    "green young man from a well-to-do family; young man innocent of the ways of the world"
+   ],
+   "waller": 2,
+   "example": null
+  },
+  {
+   "id": "j1244230",
+   "word": "区分",
+   "reading": "くぶん",
+   "furigana": [
+    [
+     "区",
+     "く"
+    ],
+    [
+     "分",
+     "ぶん"
+    ]
+   ],
+   "kanji": [
+    "区",
+    "分"
+   ],
+   "pos": [
+    "n",
+    "vs",
+    "vt"
+   ],
+   "gloss_en": [
+    "division; section; demarcation; partition",
+    "classification; sorting; grouping; segmentation",
+    "division"
+   ],
+   "waller": 2,
+   "example": {
+    "tid": "3232021",
+    "ja": "土地は８つに区分された。",
+    "ruby": [
+     [
+      "土地",
+      "とち"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "８",
+      null
+     ],
+     [
+      "つ",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "区",
+      "く"
+     ],
+     [
+      "分",
+      "ぶん"
+     ],
+     [
+      "さ",
+      null
+     ],
+     [
+      "れ",
+      null
+     ],
+     [
+      "た",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "The land was divided into 8 lots.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1383030",
+   "word": "積極的",
+   "reading": "せっきょくてき",
+   "furigana": [
+    [
+     "積",
+     "せっ"
+    ],
+    [
+     "極",
+     "きょく"
+    ],
+    [
+     "的",
+     "てき"
+    ]
+   ],
+   "kanji": [
+    "積",
+    "極",
+    "的"
+   ],
+   "pos": [
+    "adj-na"
+   ],
+   "gloss_en": [
+    "positive; assertive; active; proactive"
+   ],
+   "waller": 3,
+   "example": {
+    "tid": "10682564",
+    "ja": "あの生徒はとても積極的です。",
+    "ruby": [
+     [
+      "あの",
+      null
+     ],
+     [
+      "生徒",
+      "せいと"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "とても",
+      null
+     ],
+     [
+      "積",
+      "せっ"
+     ],
+     [
+      "極",
+      "きょく"
+     ],
+     [
+      "的",
+      "てき"
+     ],
+     [
+      "です",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1350220",
+   "word": "消極的",
+   "reading": "しょうきょくてき",
+   "furigana": [
+    [
+     "消",
+     "しょう"
+    ],
+    [
+     "極",
+     "きょく"
+    ],
+    [
+     "的",
+     "てき"
+    ]
+   ],
+   "kanji": [
+    "消",
+    "極",
+    "的"
+   ],
+   "pos": [
+    "adj-na"
+   ],
+   "gloss_en": [
+    "negative; passive; half-hearted; unmotivated"
+   ],
+   "waller": 2,
+   "example": {
+    "tid": "109374",
+    "ja": "彼は何をするにも消極的だ。",
+    "ruby": [
+     [
+      "彼",
+      "かれ"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "何",
+      "なん"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "する",
+      null
+     ],
+     [
+      "に",
+      null
+     ],
+     [
+      "も",
+      null
+     ],
+     [
+      "消",
+      "しょう"
+     ],
+     [
+      "極",
+      "きょく"
+     ],
+     [
+      "的",
+      "てき"
+     ],
+     [
+      "だ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1504430",
+   "word": "分量",
+   "reading": "ぶんりょう",
+   "furigana": [
+    [
+     "分",
+     "ぶん"
+    ],
+    [
+     "量",
+     "りょう"
+    ]
+   ],
+   "kanji": [
+    "分",
+    "量"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "amount; quantity",
+    "measuring; weighing"
+   ],
+   "waller": 2,
+   "example": {
+    "tid": "210527",
+    "ja": "その作り方の分量は六人分です。",
+    "ruby": [
+     [
+      "その",
+      null
+     ],
+     [
+      "作",
+      "つく"
+     ],
+     [
+      "り",
+      null
+     ],
+     [
+      "方",
+      "かた"
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "分",
+      "ぶん"
+     ],
+     [
+      "量",
+      "りょう"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "六",
+      "ろく"
+     ],
+     [
+      "人",
+      "にん"
+     ],
+     [
+      "分",
+      "ぶん"
+     ],
+     [
+      "です",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "The recipe serves six people.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1504160",
+   "word": "分布",
+   "reading": "ぶんぷ",
+   "furigana": [
+    [
+     "分",
+     "ぶん"
+    ],
+    [
+     "布",
+     "ぷ"
+    ]
+   ],
+   "kanji": [
+    "分",
+    "布"
+   ],
+   "pos": [
+    "n",
+    "vs",
+    "vi"
+   ],
+   "gloss_en": [
+    "distribution"
+   ],
+   "waller": 2,
+   "example": {
+    "tid": "224068",
+    "ja": "この２つの子音は相補分布をなしていそうである。",
+    "ruby": [
+     [
+      "この",
+      null
+     ],
+     [
+      "２",
+      null
+     ],
+     [
+      "つ",
+      null
+     ],
+     [
+      "の",
+      null
+     ],
+     [
+      "子音",
+      "しいん"
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "相補",
+      "そうほ"
+     ],
+     [
+      "分",
+      "ぶん"
+     ],
+     [
+      "布",
+      "ぷ"
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "なし",
+      null
+     ],
+     [
+      "て",
+      null
+     ],
+     [
+      "い",
+      null
+     ],
+     [
+      "そう",
+      null
+     ],
+     [
+      "で",
+      null
+     ],
+     [
+      "ある",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1306570",
+   "word": "刺身",
+   "reading": "さしみ",
+   "furigana": [
+    [
+     "刺",
+     "さし"
+    ],
+    [
+     "身",
+     "み"
+    ]
+   ],
+   "kanji": [
+    "刺",
+    "身"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "sashimi (raw sliced fish, shellfish or crustaceans)"
+   ],
+   "waller": 2,
+   "example": {
+    "tid": "8831741",
+    "ja": "私、刺身が好きなんだよな。",
+    "ruby": [
+     [
+      "私",
+      "わたし"
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "刺",
+      "さし"
+     ],
+     [
+      "身",
+      "み"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "好",
+      "す"
+     ],
+     [
+      "き",
+      null
+     ],
+     [
+      "な",
+      null
+     ],
+     [
+      "ん",
+      null
+     ],
+     [
+      "だ",
+      null
+     ],
+     [
+      "よ",
+      null
+     ],
+     [
+      "な",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1519050",
+   "word": "坊さん",
+   "reading": "ぼうさん",
+   "furigana": [
+    [
+     "坊",
+     "ぼう"
+    ],
+    [
+     "さん",
+     null
+    ]
+   ],
+   "kanji": [
+    "坊"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "Buddhist priest; monk",
+    "boy"
+   ],
+   "waller": 2,
+   "example": {
+    "tid": "231217",
+    "ja": "あの偉い坊さんを見ろよ。",
+    "ruby": [
+     [
+      "あの",
+      null
+     ],
+     [
+      "偉",
+      "えら"
+     ],
+     [
+      "い",
+      null
+     ],
+     [
+      "坊",
+      "ぼう"
+     ],
+     [
+      "さん",
+      null
+     ],
+     [
+      "を",
+      null
+     ],
+     [
+      "見",
+      "み"
+     ],
+     [
+      "ろ",
+      null
+     ],
+     [
+      "よ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "Look at the big shot.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1519060",
+   "word": "坊や",
+   "reading": "ぼうや",
+   "furigana": [
+    [
+     "坊",
+     "ぼう"
+    ],
+    [
+     "や",
+     null
+    ]
+   ],
+   "kanji": [
+    "坊"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "boy; son; child"
+   ],
+   "waller": 2,
+   "example": {
+    "tid": "82605",
+    "ja": "坊や、おかあさんは何処だい？",
+    "ruby": [
+     [
+      "坊",
+      "ぼう"
+     ],
+     [
+      "や",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "お",
+      null
+     ],
+     [
+      "かあ",
+      null
+     ],
+     [
+      "さん",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "何処",
+      "どこ"
+     ],
+     [
+      "だ",
+      null
+     ],
+     [
+      "い",
+      null
+     ],
+     [
+      "？",
       null
      ]
     ],

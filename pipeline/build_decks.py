@@ -33,6 +33,8 @@ EXCLUDE = {
     "1430580",  # 直 なお (ordinary; doing nothing)
     "1207600",  # 掛け かけ (credit; money owed)
     "2839962",  # 零 ゼロ (katakana reading; 零 れい is kept)
+    "1502850",  # 分 ぶ (one-tenth; 3 mm) - 分 ぶん/ふん are kept
+    "2423740",  # 無 ぶ (prefix) - 無 む is kept
 }
 
 
@@ -48,6 +50,11 @@ def kanji_of(text: str):
 print("loading kanji levels")
 kdata = json.load(open(RAW / "kanji-data.json", encoding="utf-8"))
 LEVEL = {k: v["jlpt_new"] for k, v in kdata.items() if v.get("jlpt_new") in (2, 3, 4, 5)}
+# kanji-data leaves these without a new-JLPT level although they are basic (old 4級 / 2級);
+# without this they and every word using them were missing from the decks (found 2026-11-24)
+LEVEL_FIX = {"分": 5, "身": 3, "的": 3, "無": 3, "可": 3, "畑": 2, "坊": 2}
+for _k, _v in LEVEL_FIX.items():
+    LEVEL.setdefault(_k, _v)
 KFREQ = {k: (v.get("freq") or 9999) for k, v in kdata.items()}
 
 print("loading waller vocab lists")
@@ -314,6 +321,22 @@ print("computing frequencies")
 for c in CANDS:
     c["freq"] = freq_of(c["text"])
 
+# cards already in the app stay exactly where they are (study records point at them)
+KEEP = {}
+for _n in (5, 4, 3, 2):
+    _p = ROOT.parent / "app" / "public" / "data" / f"n{_n}.json"
+    if _p.exists():
+        KEEP_ORDER = [c["id"][1:] for c in json.load(open(_p, encoding="utf-8"))["cards"]]
+        KEEP[_n] = set(KEEP_ORDER)
+        KEEP.setdefault("order", {})[_n] = KEEP_ORDER
+# their example sentences stay too: the Korean translations in ko/ are keyed to them
+PREV_EX = {}
+for _n in (5, 4, 3, 2):
+    _p = OUT / f"deck-n{_n}.json"
+    if _p.exists():
+        for _c in json.load(open(_p, encoding="utf-8"))["cards"]:
+            PREV_EX[_c["id"]] = _c["example"]
+
 report = {}
 for level in LEVELS:
     deck_kanji = sorted([k for k, v in LEVEL.items() if v == level], key=lambda k: KFREQ.get(k, 9999))
@@ -321,7 +344,10 @@ for level in LEVELS:
     for c in pool:
         c["_score"] = score(c, level)
     pool.sort(key=lambda c: -c["_score"])
-    chosen = {}
+    chosen = {c["seq"]: c for c in pool if c["seq"] in KEEP.get(level, set())}
+    lost = KEEP.get(level, set()) - set(chosen)
+    if lost:
+        print(f"N{level}: {len(lost)} existing cards are no longer candidates:", sorted(lost)[:10])
     for k in deck_kanji:
         mine = [c for c in pool if k in c["kanji"]]
         already = [c for c in chosen.values() if k in c["kanji"]]
@@ -349,6 +375,14 @@ for level in LEVELS:
                 picks.append(c)
                 chosen[c["seq"]] = c
                 readings.add(r)
+    # words with a kanji that was missing before (分 身 的 ...): every JLPT-listed one, at any list level,
+    # so 自分, 気分, 十分 are not skipped just because their kanji's picks were already full
+    for c in pool:
+        if c["seq"] not in chosen and c["waller"] is not None and any(k in LEVEL_FIX for k in c["kanji"]):
+            if ("お" + c["text"]) in {p["text"] for p in chosen.values()}:
+                continue
+            c["_round"] = 3
+            chosen[c["seq"]] = c
     # core vocab: every same-level JLPT vocab word written with this deck's kanji
     for c in pool:
         if c["waller"] == level and c["seq"] not in chosen:
@@ -365,8 +399,17 @@ for level in LEVELS:
         idx = max(deck_kanji.index(k) for k in c["kanji"] if k in deck_kanji)
         return (min(c.get("_round", 3), 3), idx)
 
-    for c in sorted(chosen.values(), key=order_key):
-        ex = pick_example(c, level)
+    # cards already in the app keep their order (it decides which new card comes next); new ones go after them
+    old_order = {seq: i for i, seq in enumerate(KEEP.get("order", {}).get(level, []))}
+    ordered = sorted((c for c in chosen.values() if c["seq"] in old_order), key=lambda c: old_order[c["seq"]])
+    ordered += sorted((c for c in chosen.values() if c["seq"] not in old_order), key=order_key)
+    for c in ordered:
+        cid = "j" + c["seq"]
+        if cid in PREV_EX and c["seq"] in KEEP.get(level, set()):
+            prev = PREV_EX[cid]
+            ex = None if prev is None else {"tid": prev["tid"], "ja": prev["ja"], "en": prev["en"], "_ruby": prev["ruby"]}
+        else:
+            ex = pick_example(c, level)
         cards.append({
             "id": "j" + c["seq"],
             "word": c["text"],
@@ -377,7 +420,7 @@ for level in LEVELS:
             "gloss_en": c["gloss"],
             "waller": c["waller"],
             "example": None if ex is None else {
-                "tid": ex["tid"], "ja": ex["ja"], "ruby": sentence_ruby(ex["ja"], c),
+                "tid": ex["tid"], "ja": ex["ja"], "ruby": ex.get("_ruby") or sentence_ruby(ex["ja"], c),
                 "en": ex["en"], "ko_tatoeba": J2K.get(ex["tid"]),
             },
         })

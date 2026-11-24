@@ -18,6 +18,7 @@
   "行",
   "見",
   "月",
+  "分",
   "後",
   "前",
   "生",
@@ -572,6 +573,35 @@
     "｜",
     "山",
     "凵"
+   ]
+  },
+  "分": {
+   "level": 5,
+   "on": [
+    "ぶん",
+    "ふん",
+    "ぶ"
+   ],
+   "kun": [
+    "わ.ける",
+    "わ.け",
+    "わ.かれる",
+    "わ.かる",
+    "わ.かつ"
+   ],
+   "meaning_en": [
+    "part",
+    "minute of time",
+    "segment",
+    "share"
+   ],
+   "eum": [
+    "분"
+   ],
+   "strokes": 4,
+   "parts": [
+    "刀",
+    "ハ"
    ]
   },
   "前": {
@@ -11343,6 +11373,328 @@
      ]
     ],
     "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1502860",
+   "word": "分",
+   "reading": "ぶん",
+   "furigana": [
+    [
+     "分",
+     "ぶん"
+    ]
+   ],
+   "kanji": [
+    "分"
+   ],
+   "pos": [
+    "n",
+    "n-suf"
+   ],
+   "gloss_en": [
+    "part; portion; share",
+    "amount; worth (as in \"two days' worth\"); enough (for)",
+    "one's means; one's place; one's lot; one's social position"
+   ],
+   "waller": 3,
+   "example": {
+    "tid": "223288",
+    "ja": "このビールはアルコール分が５％だ。",
+    "ruby": [
+     [
+      "この",
+      null
+     ],
+     [
+      "ビール",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "アルコール",
+      null
+     ],
+     [
+      "分",
+      "ぶん"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "５",
+      null
+     ],
+     [
+      "％",
+      null
+     ],
+     [
+      "だ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "This beer contains 5% alcohol.",
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1479890",
+   "word": "半分",
+   "reading": "はんぶん",
+   "furigana": [
+    [
+     "半",
+     "はん"
+    ],
+    [
+     "分",
+     "ぶん"
+    ]
+   ],
+   "kanji": [
+    "半",
+    "分"
+   ],
+   "pos": [
+    "adv",
+    "n"
+   ],
+   "gloss_en": [
+    "half"
+   ],
+   "waller": 5,
+   "example": {
+    "tid": "197730",
+    "ja": "パン半分でもないよりはまし。",
+    "ruby": [
+     [
+      "パン",
+      null
+     ],
+     [
+      "半",
+      "はん"
+     ],
+     [
+      "分",
+      "ぶん"
+     ],
+     [
+      "で",
+      null
+     ],
+     [
+      "も",
+      null
+     ],
+     [
+      "ない",
+      null
+     ],
+     [
+      "より",
+      null
+     ],
+     [
+      "は",
+      null
+     ],
+     [
+      "まし",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1335080",
+   "word": "十分",
+   "reading": "じゅうぶん",
+   "furigana": [
+    [
+     "十",
+     "じゅう"
+    ],
+    [
+     "分",
+     "ぶん"
+    ]
+   ],
+   "kanji": [
+    "十",
+    "分"
+   ],
+   "pos": [
+    "adj-na"
+   ],
+   "gloss_en": [
+    "enough; sufficient; plenty; adequate",
+    "sufficiently; fully; thoroughly; well",
+    "division into ten"
+   ],
+   "waller": 4,
+   "example": {
+    "tid": "9336911",
+    "ja": "いや、いいよ。もう十分だよ。",
+    "ruby": [
+     [
+      "いや",
+      null
+     ],
+     [
+      "、",
+      null
+     ],
+     [
+      "いい",
+      null
+     ],
+     [
+      "よ",
+      null
+     ],
+     [
+      "。",
+      null
+     ],
+     [
+      "もう",
+      null
+     ],
+     [
+      "十",
+      "じゅう"
+     ],
+     [
+      "分",
+      "ぶん"
+     ],
+     [
+      "だ",
+      null
+     ],
+     [
+      "よ",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": null,
+    "ko_tatoeba": null
+   }
+  },
+  {
+   "id": "j1503000",
+   "word": "分ける",
+   "reading": "わける",
+   "furigana": [
+    [
+     "分",
+     "わ"
+    ],
+    [
+     "ける",
+     null
+    ]
+   ],
+   "kanji": [
+    "分"
+   ],
+   "pos": [
+    "v1",
+    "vt"
+   ],
+   "gloss_en": [
+    "to divide (into); to split (into); to part; to separate",
+    "to share; to distribute; to deal out; to dish out",
+    "to distinguish; to discriminate; to differentiate (between)"
+   ],
+   "waller": 3,
+   "example": null
+  },
+  {
+   "id": "j1222590",
+   "word": "気分",
+   "reading": "きぶん",
+   "furigana": [
+    [
+     "気",
+     "き"
+    ],
+    [
+     "分",
+     "ぶん"
+    ]
+   ],
+   "kanji": [
+    "気",
+    "分"
+   ],
+   "pos": [
+    "n"
+   ],
+   "gloss_en": [
+    "feeling; mood"
+   ],
+   "waller": 4,
+   "example": {
+    "tid": "200604",
+    "ja": "とても気分がリフレッシュされる。",
+    "ruby": [
+     [
+      "とても",
+      null
+     ],
+     [
+      "気",
+      "き"
+     ],
+     [
+      "分",
+      "ぶん"
+     ],
+     [
+      "が",
+      null
+     ],
+     [
+      "リフレッシュ",
+      null
+     ],
+     [
+      "さ",
+      null
+     ],
+     [
+      "れる",
+      null
+     ],
+     [
+      "。",
+      null
+     ]
+    ],
+    "en": "I feel like a brand new person.",
     "ko_tatoeba": null
    }
   }

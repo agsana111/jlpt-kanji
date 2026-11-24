@@ -1344,6 +1344,52 @@
    "gloss_en": [
     "every month; each month; monthly"
    ]
+  },
+  {
+   "id": "j1502860",
+   "word": "分",
+   "reading": "ぶん",
+   "gloss_en": [
+    "part; portion; share",
+    "amount; worth (as in \"two days' worth\"); enough (for)",
+    "one's means; one's place; one's lot; one's social position"
+   ]
+  },
+  {
+   "id": "j1479890",
+   "word": "半分",
+   "reading": "はんぶん",
+   "gloss_en": [
+    "half"
+   ]
+  },
+  {
+   "id": "j1335080",
+   "word": "十分",
+   "reading": "じゅうぶん",
+   "gloss_en": [
+    "enough; sufficient; plenty; adequate",
+    "sufficiently; fully; thoroughly; well",
+    "division into ten"
+   ]
+  },
+  {
+   "id": "j1503000",
+   "word": "分ける",
+   "reading": "わける",
+   "gloss_en": [
+    "to divide (into); to split (into); to part; to separate",
+    "to share; to distribute; to deal out; to dish out",
+    "to distinguish; to discriminate; to differentiate (between)"
+   ]
+  },
+  {
+   "id": "j1222590",
+   "word": "気分",
+   "reading": "きぶん",
+   "gloss_en": [
+    "feeling; mood"
+   ]
   }
  ],
  "kanji": [
@@ -1549,6 +1595,18 @@
     "leave",
     "go out",
     "come out"
+   ]
+  },
+  {
+   "k": "分",
+   "eum": [
+    "분"
+   ],
+   "meaning_en": [
+    "part",
+    "minute of time",
+    "segment",
+    "share"
    ]
   },
   {
@@ -2883,6 +2941,30 @@
    "id": "j1584350",
    "ja": "毎月どのくらい本を読みますか。",
    "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1502860",
+   "ja": "このビールはアルコール分が５％だ。",
+   "en": "This beer contains 5% alcohol.",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1479890",
+   "ja": "パン半分でもないよりはまし。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1335080",
+   "ja": "いや、いいよ。もう十分だよ。",
+   "en": null,
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1222590",
+   "ja": "とても気分がリフレッシュされる。",
+   "en": "I feel like a brand new person.",
    "ko_tatoeba": null
   }
  ]
