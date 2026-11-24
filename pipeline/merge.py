@@ -42,6 +42,9 @@ def parse_ruby(s: str):
     if buf:
         segs.append([buf, None])
     return segs
+# meaning part + sound part and look-alike family per kanji (pipeline/build_structure.py)
+_sp = ROOT / "out" / "structure.json"
+STRUCTURE = json.load(open(_sp, encoding="utf-8")) if _sp.exists() else {}
 errors = []
 decks_index = []
 
@@ -109,6 +112,9 @@ for level in (5, 4, 3, 2):
             "lv": v["level"], "on": v["on"], "kun": v["kun"], "hun": hun,
             "en": v["meaning_en"], "st": v["strokes"], "parts": v["parts"],
         }
+        sx = STRUCTURE.get(k)
+        if sx and (sx["p"] or sx["f"]):
+            kanji[k]["sx"] = sx
 
     out = {"id": f"n{level}", "name": tag, "kanjiList": deck["kanji_list"], "kanji": kanji, "cards": cards}
     path = APP_DATA / f"n{level}.json"

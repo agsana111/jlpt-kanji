@@ -146,7 +146,7 @@ export function Practice({ data, spec, onExit, onAddLeech, onOpenCard, onOpenKan
       </div>
       <div className="card-area" onClick={!revealed ? () => setRevealed(true) : undefined}>
         {revealed ? (
-          <CardBack card={ref.card} deck={ref.deck} progress={data.progress} onOpenCard={onOpenCard} onOpenKanji={onOpenKanji} />
+          <CardBack card={ref.card} deck={ref.deck} progress={data.progress} decks={data.decks} onOpenCard={onOpenCard} onOpenKanji={onOpenKanji} />
         ) : (
           <CardFront card={ref.card} />
         )}

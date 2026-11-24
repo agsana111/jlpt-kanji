@@ -122,7 +122,7 @@ export function Study(p: Props) {
 
       <div className="card-area" onClick={!showBack ? p.onReveal : undefined}>
         {showBack ? (
-          <CardBack card={card} deck={deck} progress={data.progress} onOpenCard={p.onOpenCard} onOpenKanji={p.onOpenKanji} />
+          <CardBack card={card} deck={deck} progress={data.progress} decks={data.decks} onOpenCard={p.onOpenCard} onOpenKanji={p.onOpenKanji} />
         ) : (
           <CardFront card={card} />
         )}

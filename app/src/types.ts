@@ -10,6 +10,17 @@ export interface KanjiInfo {
   en: string[];
   st: number | null;
   parts: string[];
+  /** meaning part + sound part, and look-alike family (pipeline/build_structure.py) */
+  sx?: KanjiStructure;
+}
+
+/** role: m = meaning part, s = sound part, o = other chunk; label = Korean meaning or the reading it gives */
+export type StructPart = [string, "m" | "s" | "o", string];
+
+export interface KanjiStructure {
+  p: StructPart[];
+  /** t: s = same sound part (note = reading, x = 1 when the reading does not follow), p = same chunk (note = inner part) */
+  f: { by: string; t: "s" | "p"; k: [string, string, number][] } | null;
 }
 
 export interface Example {

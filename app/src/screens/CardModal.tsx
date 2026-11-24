@@ -30,7 +30,7 @@ export function CardModal({ card, deck, data, onClose, onToggleLeech, onOpenCard
             ✕
           </button>
         </div>
-        <CardBack card={card} deck={deck} progress={data.progress} onOpenCard={onOpenCard} onOpenKanji={onOpenKanji} />
+        <CardBack card={card} deck={deck} progress={data.progress} decks={data.decks} onOpenCard={onOpenCard} onOpenKanji={onOpenKanji} />
         <button className={`wide ${p?.leechManual ? "on" : ""}`} onClick={() => onToggleLeech(card.id)}>
           {p?.leechManual ? "🎯 안 외워짐 지정 풀기" : "🎯 안 외워짐으로 지정"}
         </button>

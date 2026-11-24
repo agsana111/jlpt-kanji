@@ -1,5 +1,6 @@
-import type { CardData, DeckData, Progress, Seg } from "../types";
+import type { CardData, DeckData, KanjiStructure, Progress, Seg } from "../types";
 import { cardStatus, STATUS_LABEL } from "../srs";
+import { kanjiStatus } from "../insights";
 
 export function speak(text: string) {
   try {
@@ -59,11 +60,69 @@ interface BackProps {
   card: CardData;
   deck: DeckData;
   progress: Map<string, Progress>;
+  /** all decks, so look-alike kanji from other decks show their status */
+  decks?: Record<string, DeckData>;
   onOpenCard?: (id: string) => void;
   onOpenKanji?: (k: string) => void;
 }
 
-export function CardBack({ card, deck, progress, onOpenCard, onOpenKanji }: BackProps) {
+const ENCLOSE = new Set("門囗广疒尸厂辶气行勹匚冂");
+
+/** Meaning part + sound part, then up to 4 look-alikes (ones already studied first). */
+function KanjiStruct({ sx, decks, progress, onOpenKanji }: {
+  sx: KanjiStructure;
+  decks: Record<string, DeckData>;
+  progress: Map<string, Progress>;
+  onOpenKanji?: (k: string) => void;
+}) {
+  const fam = sx.f
+    ? sx.f.k
+        .map((item) => ({ item, st: kanjiStatus(item[0], decks, progress) }))
+        .sort((a, b) => Number(a.st === "new") - Number(b.st === "new"))
+        .slice(0, 4)
+    : [];
+  const famLabel = !sx.f
+    ? ""
+    : sx.f.t === "s"
+      ? `${sx.f.by} 소리 가족`
+      : ENCLOSE.has(sx.f.by)
+        ? `${sx.f.by} 틀이 같은 한자 · 안쪽으로 구분`
+        : `${sx.f.by}이(가) 들어간 한자`;
+  return (
+    <div className="kx">
+      {sx.p.length > 0 && (
+        <div className="kx-parts">
+          {sx.p.map(([ch, role, label], i) => (
+            <span key={i} style={{ display: "contents" }}>
+              {i > 0 && <span className="kx-plus">+</span>}
+              <span className={`kx-part ${role}`}>
+                <b>{ch}</b>
+                {role === "m" ? `뜻 · ${label}` : role === "s" ? `소리 · ${label}` : label}
+              </span>
+            </span>
+          ))}
+        </div>
+      )}
+      {fam.length > 0 && (
+        <>
+          <div className="kx-fam-label">{famLabel}</div>
+          <div className="kx-fam">
+            {fam.map(({ item: [k, note, exc], st }) => (
+              <button key={k} className={`chip-btn ${st === "new" ? "unseen" : ""}`} onClick={() => onOpenKanji?.(k)}>
+                <span className={`dot st-${st}`} title={STATUS_LABEL[st]} />
+                {k}
+                {note && <span className="kx-note">{note}</span>}
+                {exc === 1 && <span className="kx-exc">예외</span>}
+              </button>
+            ))}
+          </div>
+        </>
+      )}
+    </div>
+  );
+}
+
+export function CardBack({ card, deck, progress, decks, onOpenCard, onOpenKanji }: BackProps) {
   const uniq = [...new Set(card.k)];
   return (
     <div className="card-back">
@@ -106,7 +165,7 @@ export function CardBack({ card, deck, progress, onOpenCard, onOpenKanji }: Back
                     {info.kun.length > 0 && <span>훈 {kunList(info.kun).join("・")}</span>}
                   </div>
                 )}
-                {info && info.parts.length > 0 && <div className="kanji-parts">부품 {info.parts.join(" ")}</div>}
+                {info && !info.sx?.p.length && info.parts.length > 0 && <div className="kanji-parts">부품 {info.parts.join(" ")}</div>}
                 {others.length > 0 && (
                   <div className="kanji-others">
                     {others.map((o) => (
@@ -116,6 +175,9 @@ export function CardBack({ card, deck, progress, onOpenCard, onOpenKanji }: Back
                       </button>
                     ))}
                   </div>
+                )}
+                {info?.sx && (
+                  <KanjiStruct sx={info.sx} decks={decks ?? { [deck.id]: deck }} progress={progress} onOpenKanji={onOpenKanji} />
                 )}
               </div>
             </div>
