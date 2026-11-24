@@ -36,6 +36,11 @@ export function cardsWithKanji(decks: Record<string, DeckData>, k: string): Card
 // ---------------------------------------------------------------- kanji status
 
 /** A kanji's status is derived from every word card that contains it. */
+/** Level badge of a kanji: N5-N2, or 실전 for kanji only the practical deck teaches (lv 0/1). */
+export function lvLabel(lv: number): string {
+  return lv >= 2 ? `N${lv}` : "실전";
+}
+
 export function kanjiStatus(k: string, decks: Record<string, DeckData>, progress: Map<string, Progress>): Status {
   const sts = cardsWithKanji(decks, k).map((r) => cardStatus(progress.get(r.card.id)));
   if (!sts.length) return "new";

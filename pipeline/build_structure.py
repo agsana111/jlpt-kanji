@@ -88,6 +88,19 @@ for n in (5, 4, 3, 2):
         UNIVERSE.append(k)
         LEVEL[k] = n
 USET = set(UNIVERSE)
+JLPT = list(UNIVERSE)
+# practical-deck kanji outside N5-N2 (level 1 here): they get a structure too, and their families may
+# use any deck kanji, but the JLPT kanji's families stay within N5-N2 (no unstudied practical kanji there)
+_lp = ROOT / "out" / "deck-life.json"
+LIFE = json.load(open(_lp, encoding="utf-8"))["kanji_list"] if _lp.exists() else []
+for k in LIFE:
+    UNIVERSE.append(k)
+    LEVEL[k] = 1
+LIFE = set(LIFE)
+
+
+def pool_for(k):
+    return UNIVERSE if k in LIFE else JLPT
 
 
 def on_readings(k):
@@ -249,7 +262,7 @@ STRUCT = {k: structure(k) for k in UNIVERSE}
 def sound_members(part, me):
     """Deck kanji built on `part` as a sound part: same sound group and the part is inside them."""
     out = []
-    for o in UNIVERSE:
+    for o in pool_for(me):
         if o in (me, part):
             continue
         if STRUCT[o][1] == part or (contains(o, part) and strokes(part) < strokes(o) and PHON.get(o, set()) & PHON.get(part, set())):
@@ -293,9 +306,9 @@ def family(k):
         if role == "m" and p in WEAK_FAMILY:
             continue
         if role == "m" and strokes(p) < 6:
-            mem = [o for o in UNIVERSE if o not in (k, p) and radical_of(o) == rad and any(q == p for q, _ in STRUCT[o][0])]
+            mem = [o for o in pool_for(k) if o not in (k, p) and radical_of(o) == rad and any(q == p for q, _ in STRUCT[o][0])]
         else:
-            mem = [o for o in UNIVERSE if o not in (k, p) and (p in KRAD.get(o, []) or any(q == p for q, _ in STRUCT[o][0]))]
+            mem = [o for o in pool_for(k) if o not in (k, p) and (p in KRAD.get(o, []) or any(q == p for q, _ in STRUCT[o][0]))]
         if 2 <= len(mem) <= (8 if p in ENCLOSE else 6):
             key = (role != "m", strokes(p), -len(mem))
             if best is None or key > best[0]:
@@ -313,7 +326,9 @@ def family(k):
 
 # Korean hun-eum of deck kanji ("절 사" -> meaning "절"), for labelling parts that are kanji themselves
 HUN = {}
-for _p in sorted((ROOT / "ko").glob("n[0-9].json")):
+for _p in sorted((ROOT / "ko").glob("n[0-9].json")) + [ROOT / "ko" / "life.json"]:
+    if not _p.exists():
+        continue
     HUN.update(json.load(open(_p, encoding="utf-8")).get("kanji", {}))
 SHAPE_RAD = {}
 for num, shape in RADICAL_SHAPE.items():

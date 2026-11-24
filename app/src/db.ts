@@ -29,6 +29,7 @@ export const DEFAULT_TARGETS: Record<string, string> = {
   n4: "2027-01-31",
   n3: "2027-05-31",
   n2: "2027-10-31", // N2 exam in December 2027 (after N3 in July)
+  life: "2028-03-31", // practical deck: after N2, no exam
 };
 
 export async function allProgress(): Promise<Progress[]> {

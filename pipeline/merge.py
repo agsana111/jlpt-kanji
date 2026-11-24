@@ -17,10 +17,12 @@ KANJI_RE = re.compile(r"[一-鿿]")
 HIRA_RE = re.compile(r"^[ぁ-ゟァ-ヺー]+$")  # kana (loanword parts like ジェット)
 
 # Unihan gives a reading that is not the usual Korean one for these shinjitai forms
-EUM_EXCEPTIONS = {"円": "원", "体": "체", "楽": "락", "画": "화", "台": "대", "欠": "결", "予": "예", "灯": "등", "缶": "관", "担": "담"}
+EUM_EXCEPTIONS = {"円": "원", "体": "체", "楽": "락", "画": "화", "台": "대", "欠": "결", "予": "예", "灯": "등", "缶": "관", "担": "담", "証": "증"}
 # hun-eum is shared across decks (an N5 kanji used in an N4 word keeps its N5 hun-eum)
 ALL_HUN = {}
-for _p in sorted(ROOT.glob("ko/n[0-9].json")):
+for _p in sorted(ROOT.glob("ko/n[0-9].json")) + [ROOT / "ko" / "life.json"]:
+    if not _p.exists():
+        continue
     ALL_HUN.update(json.load(open(_p, encoding="utf-8")).get("kanji", {}))
 BASE_CH = re.compile(r"[一-鿿々ヶ]")
 
@@ -48,15 +50,19 @@ STRUCTURE = json.load(open(_sp, encoding="utf-8")) if _sp.exists() else {}
 errors = []
 decks_index = []
 
-for level in (5, 4, 3, 2):
-    ko_path = ROOT / "ko" / f"n{level}.json"
+# JLPT decks by level; "life" = the practical deck (pipeline/build_practical.py), level 0:
+# its own kanji are the ones no JLPT deck teaches, and its words may use any JLPT kanji
+for level in (5, 4, 3, 2, 0):
+    did = f"n{level}" if level else "life"
+    tag = f"N{level}" if level else "실전"
+    ko_path = ROOT / "ko" / f"{did}.json"
     if not ko_path.exists():
-        decks_index.append({"id": f"n{level}", "name": f"N{level}", "ready": False})
+        decks_index.append({"id": did, "name": tag, "ready": False})
         continue
-    deck = json.load(open(ROOT / "out" / f"deck-n{level}.json", encoding="utf-8"))
+    deck = json.load(open(ROOT / "out" / f"deck-{did}.json", encoding="utf-8"))
     ko = json.load(open(ko_path, encoding="utf-8"))
     levels = {k: v["level"] for k, v in deck["kanji"].items()}
-    tag = f"N{level}"
+    own = set(deck["kanji_list"])
 
     cards = []
     for c in deck["cards"]:
@@ -71,7 +77,7 @@ for level in (5, 4, 3, 2):
         if not HIRA_RE.match(c["reading"]):
             errors.append(f"{tag} {cid}: reading not hiragana: {c['reading']}")
         # deck assignment: highest-level kanji decides
-        if min(levels[k] for k in c["kanji"]) != level:
+        if level and min(levels[k] for k in c["kanji"]) != level:
             errors.append(f"{tag} {cid} {c['word']}: belongs to another deck")
         ex = c["example"]
         out_ex = None
@@ -102,7 +108,7 @@ for level in (5, 4, 3, 2):
     kanji = {}
     for k, v in deck["kanji"].items():
         hun = ko["kanji"].get(k) or ALL_HUN.get(k)
-        if not hun and v["level"] == level:
+        if not hun and (k in own if not level else v["level"] == level):
             errors.append(f"{tag} kanji {k}: no Korean hun-eum")
         # the eum (last syllable) must match Unihan's Korean reading.
         # 円 is listed as 엔 (Japanese-style); the Korean reading is 원 (圓).
@@ -116,10 +122,10 @@ for level in (5, 4, 3, 2):
         if sx and (sx["p"] or sx["f"]):
             kanji[k]["sx"] = sx
 
-    out = {"id": f"n{level}", "name": tag, "kanjiList": deck["kanji_list"], "kanji": kanji, "cards": cards}
-    path = APP_DATA / f"n{level}.json"
+    out = {"id": did, "name": tag, "kanjiList": deck["kanji_list"], "kanji": kanji, "cards": cards}
+    path = APP_DATA / f"{did}.json"
     path.write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    decks_index.append({"id": f"n{level}", "name": tag, "ready": True, "cards": len(cards), "kanji": len(deck["kanji_list"])})
+    decks_index.append({"id": did, "name": tag, "ready": True, "cards": len(cards), "kanji": len(deck["kanji_list"])})
     print(f"{tag}: {len(cards)} cards, {sum(1 for c in cards if c['ex'])} with examples -> {path.name}")
 
 (APP_DATA / "decks.json").write_text(json.dumps(decks_index, ensure_ascii=False), encoding="utf-8")

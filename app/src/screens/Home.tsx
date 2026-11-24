@@ -114,7 +114,7 @@ export function Home({ data, session, onStart, onNav, onBackup }: Props) {
               <span className={`badge ${st.startedAt ? "on" : ""}`}>{graduated ? "졸업" : st.startedAt ? "진행 중" : "미시작"}</span>
             </div>
             <div className="deck-sub">
-              한자 {deck.kanjiList.length}자 · 카드 {total}장{st.startedAt ? ` · ${st.startedAt.slice(5).replace("-", "/")} 시작` : ""}
+              {entry.id === "life" ? "새 한자" : "한자"} {deck.kanjiList.length}자 · 카드 {total}장{st.startedAt ? ` · ${st.startedAt.slice(5).replace("-", "/")} 시작` : ""}
             </div>
 
             <div className="bar" aria-hidden="true">

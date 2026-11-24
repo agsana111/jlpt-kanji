@@ -1,0 +1,7032 @@
+{
+ "cards": [
+  {
+   "id": "j1204900",
+   "word": "各駅停車",
+   "reading": "かくえきていしゃ",
+   "ko": "각 역 정차(완행)",
+   "en": [
+    "train that stops at every station; local train"
+   ]
+  },
+  {
+   "id": "j1200080",
+   "word": "快速",
+   "reading": "かいそく",
+   "ko": "쾌속(일부 역 통과)",
+   "en": [
+    "high speed; rapidity"
+   ]
+  },
+  {
+   "id": "j1332960",
+   "word": "終電",
+   "reading": "しゅうでん",
+   "ko": "막차(전철)",
+   "en": [
+    "last train (of the day)"
+   ]
+  },
+  {
+   "id": "j1172730",
+   "word": "運休",
+   "reading": "うんきゅう",
+   "ko": "운행 중지",
+   "en": [
+    "suspension (of a transportation service); cancellation; stoppage"
+   ]
+  },
+  {
+   "id": "j1422030",
+   "word": "遅延",
+   "reading": "ちえん",
+   "ko": "지연",
+   "en": [
+    "delay; latency"
+   ]
+  },
+  {
+   "id": "j2823630",
+   "word": "運転見合わせ",
+   "reading": "うんてんみあわせ",
+   "ko": "운행 보류",
+   "en": [
+    "temporary suspension public transport service"
+   ]
+  },
+  {
+   "id": "j1379930",
+   "word": "精算",
+   "reading": "せいさん",
+   "ko": "정산",
+   "en": [
+    "exact calculation; squaring of accounts; adjustment"
+   ]
+  },
+  {
+   "id": "j1482330",
+   "word": "番線",
+   "reading": "ばんせん",
+   "ko": "(몇 번) 승강장",
+   "en": [
+    "track number; platform number"
+   ]
+  },
+  {
+   "id": "j1600520",
+   "word": "乗り場",
+   "reading": "のりば",
+   "ko": "타는 곳",
+   "en": [
+    "place for boarding vehicles; bus stop; bus terminal"
+   ]
+  },
+  {
+   "id": "j1582820",
+   "word": "入口",
+   "reading": "いりぐち",
+   "ko": "입구",
+   "en": [
+    "entrance; entry; gate"
+   ]
+  },
+  {
+   "id": "j1200850",
+   "word": "改札口",
+   "reading": "かいさつぐち",
+   "ko": "개찰구",
+   "en": [
+    "ticket barrier; ticket gate; wicket"
+   ]
+  },
+  {
+   "id": "j1692060",
+   "word": "駐車禁止",
+   "reading": "ちゅうしゃきんし",
+   "ko": "주차 금지",
+   "en": [
+    "No Parking; Parking Prohibited"
+   ]
+  },
+  {
+   "id": "j1433190",
+   "word": "通行止め",
+   "reading": "つうこうどめ",
+   "ko": "통행금지",
+   "en": [
+    "closure (of a road); suspension of traffic"
+   ]
+  },
+  {
+   "id": "j1651100",
+   "word": "一時停止",
+   "reading": "いちじていし",
+   "ko": "일시 정지",
+   "en": [
+    "suspension; pause; temporary halt"
+   ]
+  },
+  {
+   "id": "j1918560",
+   "word": "止まれ",
+   "reading": "とまれ",
+   "ko": "멈춤(표지)",
+   "en": [
+    "Stop"
+   ]
+  },
+  {
+   "id": "j1173470",
+   "word": "営業中",
+   "reading": "えいぎょうちゅう",
+   "ko": "영업 중",
+   "en": [
+    "open (for business)"
+   ]
+  },
+  {
+   "id": "j1341750",
+   "word": "準備中",
+   "reading": "じゅんびちゅう",
+   "ko": "준비 중(영업 안 함)",
+   "en": [
+    "in preparation; (shop) not yet open for business"
+   ]
+  },
+  {
+   "id": "j1435540",
+   "word": "定休日",
+   "reading": "ていきゅうび",
+   "ko": "정기 휴일",
+   "en": [
+    "regular holiday; fixed day off; regular closing day"
+   ]
+  },
+  {
+   "id": "j1173450",
+   "word": "営業時間",
+   "reading": "えいぎょうじかん",
+   "ko": "영업시간",
+   "en": [
+    "business hours; opening hours; office hours"
+   ]
+  },
+  {
+   "id": "j2850262",
+   "word": "本日休業",
+   "reading": "ほんじつきゅうぎょう",
+   "ko": "오늘 휴업",
+   "en": [
+    "Closed Today"
+   ]
+  },
+  {
+   "id": "j1596250",
+   "word": "税込",
+   "reading": "ぜいこみ",
+   "ko": "세금 포함",
+   "en": [
+    "including tax (of a price); pretax (income or profits); before tax"
+   ]
+  },
+  {
+   "id": "j2105350",
+   "word": "税抜",
+   "reading": "ぜいぬき",
+   "ko": "세금 별도",
+   "en": [
+    "tax excluded; excluding tax"
+   ]
+  },
+  {
+   "id": "j1541690",
+   "word": "有料",
+   "reading": "ゆうりょう",
+   "ko": "유료",
+   "en": [
+    "fee-charging; paid; not free"
+   ]
+  },
+  {
+   "id": "j1187020",
+   "word": "化粧室",
+   "reading": "けしょうしつ",
+   "ko": "화장실",
+   "en": [
+    "toilet; lavatory; powder room"
+   ]
+  },
+  {
+   "id": "j1351980",
+   "word": "賞味期限",
+   "reading": "しょうみきげん",
+   "ko": "맛있게 먹을 수 있는 기한",
+   "en": [
+    "best-before date (on food); use-by date; expiry date"
+   ]
+  },
+  {
+   "id": "j2233960",
+   "word": "消費期限",
+   "reading": "しょうひきげん",
+   "ko": "소비기한(지나면 먹으면 안 됨)",
+   "en": [
+    "expiry date (esp. on food); expiration date; use-by date"
+   ]
+  },
+  {
+   "id": "j2805680",
+   "word": "要冷蔵",
+   "reading": "ようれいぞう",
+   "ko": "냉장 보관",
+   "en": [
+    "requiring refrigeration"
+   ]
+  },
+  {
+   "id": "p898151b751cd",
+   "word": "要冷凍",
+   "reading": "ようれいとう",
+   "ko": "냉동 보관",
+   "en": []
+  },
+  {
+   "id": "j1261430",
+   "word": "原材料",
+   "reading": "げんざいりょう",
+   "ko": "원재료",
+   "en": [
+    "raw materials; ingredients"
+   ]
+  },
+  {
+   "id": "j1464980",
+   "word": "乳",
+   "reading": "ちち",
+   "ko": "우유 성분(알레르기 표시)",
+   "en": [
+    "milk"
+   ]
+  },
+  {
+   "id": "j1775610",
+   "word": "落花生",
+   "reading": "らっかせい",
+   "ko": "땅콩(알레르기 표시)",
+   "en": [
+    "peanut (Arachis hypogaea); groundnut"
+   ]
+  },
+  {
+   "id": "j1457830",
+   "word": "内科",
+   "reading": "ないか",
+   "ko": "내과",
+   "en": [
+    "internal medicine"
+   ]
+  },
+  {
+   "id": "j1365460",
+   "word": "診察",
+   "reading": "しんさつ",
+   "ko": "진찰",
+   "en": [
+    "medical examination; checkup; consultation"
+   ]
+  },
+  {
+   "id": "j1513490",
+   "word": "保険証",
+   "reading": "ほけんしょう",
+   "ko": "건강보험증",
+   "en": [
+    "insurance card"
+   ]
+  },
+  {
+   "id": "j1655680",
+   "word": "処方箋",
+   "reading": "しょほうせん",
+   "ko": "처방전",
+   "en": [
+    "prescription"
+   ]
+  },
+  {
+   "id": "j1538200",
+   "word": "薬局",
+   "reading": "やっきょく",
+   "ko": "약국",
+   "en": [
+    "pharmacy; drugstore; chemist's (shop)"
+   ]
+  },
+  {
+   "id": "j1500400",
+   "word": "副作用",
+   "reading": "ふくさよう",
+   "ko": "부작용",
+   "en": [
+    "side effect; adverse reaction"
+   ]
+  },
+  {
+   "id": "j1358520",
+   "word": "食前",
+   "reading": "しょくぜん",
+   "ko": "식전",
+   "en": [
+    "before meals"
+   ]
+  },
+  {
+   "id": "j1358450",
+   "word": "食後",
+   "reading": "しょくご",
+   "ko": "식후",
+   "en": [
+    "after a meal"
+   ]
+  },
+  {
+   "id": "j1546430",
+   "word": "用量",
+   "reading": "ようりょう",
+   "ko": "용량",
+   "en": [
+    "dose"
+   ]
+  },
+  {
+   "id": "j1477790",
+   "word": "発熱",
+   "reading": "はつねつ",
+   "ko": "발열",
+   "en": [
+    "generation of heat"
+   ]
+  },
+  {
+   "id": "j1200220",
+   "word": "怪我",
+   "reading": "けが",
+   "ko": "부상, 다침",
+   "en": [
+    "injury; wound"
+   ]
+  },
+  {
+   "id": "j1229100",
+   "word": "救急車",
+   "reading": "きゅうきゅうしゃ",
+   "ko": "구급차",
+   "en": [
+    "ambulance"
+   ]
+  },
+  {
+   "id": "j1229080",
+   "word": "救急",
+   "reading": "きゅうきゅう",
+   "ko": "응급",
+   "en": [
+    "first-aid; emergency (aid)"
+   ]
+  },
+  {
+   "id": "j1241850",
+   "word": "緊急",
+   "reading": "きんきゅう",
+   "ko": "긴급",
+   "en": [
+    "urgency; emergency"
+   ]
+  },
+  {
+   "id": "j1192270",
+   "word": "家賃",
+   "reading": "やちん",
+   "ko": "집세, 월세",
+   "en": [
+    "rent"
+   ]
+  },
+  {
+   "id": "j1497040",
+   "word": "敷金",
+   "reading": "しききん",
+   "ko": "보증금(시키킨)",
+   "en": [
+    "(security) deposit; caution money"
+   ]
+  },
+  {
+   "id": "j1557500",
+   "word": "礼金",
+   "reading": "れいきん",
+   "ko": "사례금(레이킨)",
+   "en": [
+    "money (given as thanks); reward money; fee"
+   ]
+  },
+  {
+   "id": "j1250190",
+   "word": "契約",
+   "reading": "けいやく",
+   "ko": "계약",
+   "en": [
+    "contract; compact; agreement"
+   ]
+  },
+  {
+   "id": "j1250210",
+   "word": "契約書",
+   "reading": "けいやくしょ",
+   "ko": "계약서",
+   "en": [
+    "(written) contract; agreement"
+   ]
+  },
+  {
+   "id": "j1199300",
+   "word": "解約",
+   "reading": "かいやく",
+   "ko": "해약",
+   "en": [
+    "cancellation of a contract"
+   ]
+  },
+  {
+   "id": "j1260490",
+   "word": "鍵",
+   "reading": "かぎ",
+   "ko": "열쇠",
+   "en": [
+    "key"
+   ]
+  },
+  {
+   "id": "j1554280",
+   "word": "料金",
+   "reading": "りょうきん",
+   "ko": "요금",
+   "en": [
+    "fee; charge; fare"
+   ]
+  },
+  {
+   "id": "j1381330",
+   "word": "請求書",
+   "reading": "せいきゅうしょ",
+   "ko": "청구서",
+   "en": [
+    "bill; account; invoice"
+   ]
+  },
+  {
+   "id": "j1419660",
+   "word": "断水",
+   "reading": "だんすい",
+   "ko": "단수",
+   "en": [
+    "suspension of water supply; water outage"
+   ]
+  },
+  {
+   "id": "j1267180",
+   "word": "故障",
+   "reading": "こしょう",
+   "ko": "고장",
+   "en": [
+    "fault; trouble; breakdown"
+   ]
+  },
+  {
+   "id": "j2842183",
+   "word": "燃えるゴミ",
+   "reading": "もえるゴミ",
+   "ko": "타는 쓰레기",
+   "en": [
+    "burnable garbage; burnable waste"
+   ]
+  },
+  {
+   "id": "j2842184",
+   "word": "燃えないゴミ",
+   "reading": "もえないゴミ",
+   "ko": "안 타는 쓰레기",
+   "en": [
+    "nonburnable garbage; nonflammables"
+   ]
+  },
+  {
+   "id": "j2112630",
+   "word": "資源ゴミ",
+   "reading": "しげんゴミ",
+   "ko": "재활용 쓰레기",
+   "en": [
+    "recyclable garbage; recyclable waste"
+   ]
+  },
+  {
+   "id": "j1397030",
+   "word": "粗大ゴミ",
+   "reading": "そだいゴミ",
+   "ko": "대형 쓰레기",
+   "en": [
+    "large-size refuse (e.g. furniture, electrical goods); oversized garbage; bulky rubbish"
+   ]
+  },
+  {
+   "id": "j2770250",
+   "word": "可燃ゴミ",
+   "reading": "かねんゴミ",
+   "ko": "가연성 쓰레기",
+   "en": [
+    "combustible waste; burnable rubbish"
+   ]
+  },
+  {
+   "id": "j2845440",
+   "word": "不燃ゴミ",
+   "reading": "ふねんゴミ",
+   "ko": "불연성 쓰레기",
+   "en": [
+    "non-combustible waste; non-burnable rubbish"
+   ]
+  },
+  {
+   "id": "j1504190",
+   "word": "分別",
+   "reading": "ふんべつ",
+   "ko": "분리배출",
+   "en": [
+    "discretion; prudence; good sense"
+   ]
+  },
+  {
+   "id": "j2645110",
+   "word": "収集日",
+   "reading": "しゅうしゅうび",
+   "ko": "수거일",
+   "en": [
+    "collection day (for rubbish)"
+   ]
+  },
+  {
+   "id": "j1276150",
+   "word": "口座",
+   "reading": "こうざ",
+   "ko": "계좌",
+   "en": [
+    "account (e.g. bank)"
+   ]
+  },
+  {
+   "id": "j1154610",
+   "word": "暗証番号",
+   "reading": "あんしょうばんごう",
+   "ko": "비밀번호(PIN)",
+   "en": [
+    "personal identification number; PIN; password number"
+   ]
+  },
+  {
+   "id": "j1304590",
+   "word": "残高",
+   "reading": "ざんだか",
+   "ko": "잔액",
+   "en": [
+    "(bank) balance; remainder"
+   ]
+  },
+  {
+   "id": "j1602960",
+   "word": "振込",
+   "reading": "ふりこみ",
+   "ko": "계좌이체, 송금",
+   "en": [
+    "payment made via bank deposit transfer"
+   ]
+  },
+  {
+   "id": "j1327980",
+   "word": "手数料",
+   "reading": "てすうりょう",
+   "ko": "수수료",
+   "en": [
+    "(handling) fee; charge (e.g. for a cancellation); commission"
+   ]
+  },
+  {
+   "id": "j1401420",
+   "word": "窓口",
+   "reading": "まどぐち",
+   "ko": "창구",
+   "en": [
+    "counter; window; teller window"
+   ]
+  },
+  {
+   "id": "j2828131",
+   "word": "本人確認",
+   "reading": "ほんにんかくにん",
+   "ko": "본인 확인",
+   "en": [
+    "identity verification"
+   ]
+  },
+  {
+   "id": "j1365820",
+   "word": "身分証明書",
+   "reading": "みぶんしょうめいしょ",
+   "ko": "신분증",
+   "en": [
+    "identification papers; piece of identification; identity document"
+   ]
+  },
+  {
+   "id": "j1168120",
+   "word": "印鑑",
+   "reading": "いんかん",
+   "ko": "도장",
+   "en": [
+    "stamp; seal"
+   ]
+  },
+  {
+   "id": "j2863879",
+   "word": "不在票",
+   "reading": "ふざいひょう",
+   "ko": "부재중 배달 안내표",
+   "en": [
+    "missed delivery notice"
+   ]
+  },
+  {
+   "id": "j2143700",
+   "word": "再配達",
+   "reading": "さいはいたつ",
+   "ko": "재배달",
+   "en": [
+    "redelivery"
+   ]
+  },
+  {
+   "id": "j2737510",
+   "word": "在留カード",
+   "reading": "ざいりゅうカード",
+   "ko": "재류카드",
+   "en": [
+    "residence card; resident card"
+   ]
+  },
+  {
+   "id": "j1334240",
+   "word": "住民票",
+   "reading": "じゅうみんひょう",
+   "ko": "주민표(주민등록 등본)",
+   "en": [
+    "certificate of residence"
+   ]
+  },
+  {
+   "id": "j1441310",
+   "word": "転入届",
+   "reading": "てんにゅうとどけ",
+   "ko": "전입 신고",
+   "en": [
+    "notification of moving in"
+   ]
+  },
+  {
+   "id": "j2210920",
+   "word": "転出届",
+   "reading": "てんしゅつとどけ",
+   "ko": "전출 신고",
+   "en": [
+    "notification of moving out"
+   ]
+  },
+  {
+   "id": "j1308760",
+   "word": "市役所",
+   "reading": "しやくしょ",
+   "ko": "시청",
+   "en": [
+    "municipal office; council; city hall"
+   ]
+  },
+  {
+   "id": "j1244270",
+   "word": "区役所",
+   "reading": "くやくしょ",
+   "ko": "구청",
+   "en": [
+    "ward office; council (regional)"
+   ]
+  },
+  {
+   "id": "j1363130",
+   "word": "申請",
+   "reading": "しんせい",
+   "ko": "신청",
+   "en": [
+    "application; request; petition"
+   ]
+  },
+  {
+   "id": "j1363140",
+   "word": "申請書",
+   "reading": "しんせいしょ",
+   "ko": "신청서",
+   "en": [
+    "written application"
+   ]
+  },
+  {
+   "id": "j1598350",
+   "word": "手続き",
+   "reading": "てつづき",
+   "ko": "절차",
+   "en": [
+    "procedure; process; proceedings"
+   ]
+  },
+  {
+   "id": "j2214950",
+   "word": "必要書類",
+   "reading": "ひつようしょるい",
+   "ko": "필요 서류",
+   "en": [
+    "necessary documents; required documents"
+   ]
+  },
+  {
+   "id": "j1436410",
+   "word": "提出",
+   "reading": "ていしゅつ",
+   "ko": "제출",
+   "en": [
+    "presentation (of documents); submission (of an application, report, etc.); production (e.g. of evidence)"
+   ]
+  },
+  {
+   "id": "j1220560",
+   "word": "期限",
+   "reading": "きげん",
+   "ko": "기한",
+   "en": [
+    "term; period; time frame"
+   ]
+  },
+  {
+   "id": "j2845979",
+   "word": "在留期間",
+   "reading": "ざいりゅうきかん",
+   "ko": "체류 기간",
+   "en": [
+    "(permitted) period of stay (in a country); authorized length of stay; duration of stay"
+   ]
+  },
+  {
+   "id": "j2202890",
+   "word": "在留資格",
+   "reading": "ざいりゅうしかく",
+   "ko": "체류 자격",
+   "en": [
+    "status of residence; residence status; visa status"
+   ]
+  },
+  {
+   "id": "j1279370",
+   "word": "更新",
+   "reading": "こうしん",
+   "ko": "갱신",
+   "en": [
+    "renewal; update; replacement"
+   ]
+  },
+  {
+   "id": "j1657500",
+   "word": "国民健康保険",
+   "reading": "こくみんけんこうほけん",
+   "ko": "국민건강보험",
+   "en": [
+    "national health insurance"
+   ]
+  },
+  {
+   "id": "j1351700",
+   "word": "証明書",
+   "reading": "しょうめいしょ",
+   "ko": "증명서",
+   "en": [
+    "certificate; credentials; testimonial"
+   ]
+  },
+  {
+   "id": "j1311060",
+   "word": "氏名",
+   "reading": "しめい",
+   "ko": "성명",
+   "en": [
+    "(full) name; identity"
+   ]
+  },
+  {
+   "id": "j1334080",
+   "word": "住所",
+   "reading": "じゅうしょ",
+   "ko": "주소",
+   "en": [
+    "address (of a home, business, etc.); residence; domicile"
+   ]
+  },
+  {
+   "id": "j1379410",
+   "word": "生年月日",
+   "reading": "せいねんがっぴ",
+   "ko": "생년월일",
+   "en": [
+    "birth date; date of birth; DOB"
+   ]
+  },
+  {
+   "id": "j1375520",
+   "word": "性別",
+   "reading": "せいべつ",
+   "ko": "성별",
+   "en": [
+    "(distinction of) sex; gender"
+   ]
+  },
+  {
+   "id": "j1559930",
+   "word": "連絡先",
+   "reading": "れんらくさき",
+   "ko": "연락처",
+   "en": [
+    "contact information (address, phone number, etc.)"
+   ]
+  },
+  {
+   "id": "j1443940",
+   "word": "電話番号",
+   "reading": "でんわばんごう",
+   "ko": "전화번호",
+   "en": [
+    "telephone number; phone number"
+   ]
+  },
+  {
+   "id": "j2863563",
+   "word": "緊急連絡先",
+   "reading": "きんきゅうれんらくさき",
+   "ko": "비상 연락처",
+   "en": [
+    "emergency contact"
+   ]
+  },
+  {
+   "id": "j1487540",
+   "word": "必須",
+   "reading": "ひっす",
+   "ko": "필수",
+   "en": [
+    "indispensable; essential; requisite"
+   ]
+  },
+  {
+   "id": "j1528040",
+   "word": "未満",
+   "reading": "みまん",
+   "ko": "미만",
+   "en": [
+    "less than; under; below"
+   ]
+  },
+  {
+   "id": "j1432220",
+   "word": "津波",
+   "reading": "つなみ",
+   "ko": "쓰나미, 해일",
+   "en": [
+    "tsunami; tidal wave"
+   ]
+  },
+  {
+   "id": "j1252520",
+   "word": "警報",
+   "reading": "けいほう",
+   "ko": "경보",
+   "en": [
+    "warning; alarm; alert"
+   ]
+  },
+  {
+   "id": "j1426560",
+   "word": "注意報",
+   "reading": "ちゅういほう",
+   "ko": "주의보",
+   "en": [
+    "advisory"
+   ]
+  },
+  {
+   "id": "j1484660",
+   "word": "避難",
+   "reading": "ひなん",
+   "ko": "피난",
+   "en": [
+    "taking refuge; finding shelter; evacuation"
+   ]
+  },
+  {
+   "id": "j1751840",
+   "word": "避難所",
+   "reading": "ひなんじょ",
+   "ko": "대피소",
+   "en": [
+    "shelter; safe shelter; evacuation shelter"
+   ]
+  },
+  {
+   "id": "j2399950",
+   "word": "避難場所",
+   "reading": "ひなんばしょ",
+   "ko": "대피 장소",
+   "en": [
+    "emergency evacuation site (typically outdoors); refuge shelter"
+   ]
+  },
+  {
+   "id": "j2839229",
+   "word": "避難経路",
+   "reading": "ひなんけいろ",
+   "ko": "대피 경로",
+   "en": [
+    "escape route; evacuation route"
+   ]
+  },
+  {
+   "id": "j2831515",
+   "word": "避難指示",
+   "reading": "ひなんしじ",
+   "ko": "대피 지시",
+   "en": [
+    "evacuation order; evacuation notice"
+   ]
+  },
+  {
+   "id": "j2616350",
+   "word": "緊急地震速報",
+   "reading": "きんきゅうじしんそくほう",
+   "ko": "긴급 지진 속보",
+   "en": [
+    "Earthquake Early Warning; EEW"
+   ]
+  },
+  {
+   "id": "j1366380",
+   "word": "震度",
+   "reading": "しんど",
+   "ko": "진도",
+   "en": [
+    "seismic intensity"
+   ]
+  },
+  {
+   "id": "j1193880",
+   "word": "火災",
+   "reading": "かさい",
+   "ko": "화재",
+   "en": [
+    "conflagration; fire"
+   ]
+  },
+  {
+   "id": "j1350170",
+   "word": "消火器",
+   "reading": "しょうかき",
+   "ko": "소화기",
+   "en": [
+    "fire extinguisher"
+   ]
+  },
+  {
+   "id": "j1484950",
+   "word": "非常口",
+   "reading": "ひじょうぐち",
+   "ko": "비상구",
+   "en": [
+    "emergency exit"
+   ]
+  },
+  {
+   "id": "j1272500",
+   "word": "交番",
+   "reading": "こうばん",
+   "ko": "파출소",
+   "en": [
+    "police box; koban; small neighborhood police station"
+   ]
+  },
+  {
+   "id": "j1597010",
+   "word": "立入禁止",
+   "reading": "たちいりきんし",
+   "ko": "출입 금지",
+   "en": [
+    "No Entry; No Trespassing; No Admittance"
+   ]
+  },
+  {
+   "id": "j2650000",
+   "word": "関係者以外立入禁止",
+   "reading": "かんけいしゃいがいたちいりきんし",
+   "ko": "관계자 외 출입 금지",
+   "en": [
+    "No Unauthorized Persons; No Unauthorized Entry; Authorized Personnel Only"
+   ]
+  },
+  {
+   "id": "j1724330",
+   "word": "火気厳禁",
+   "reading": "かきげんきん",
+   "ko": "화기 엄금",
+   "en": [
+    "total fire ban; no source of ignition permitted; no open flame"
+   ]
+  },
+  {
+   "id": "p62bc",
+   "word": "押",
+   "reading": "おす",
+   "ko": "미세요",
+   "en": []
+  },
+  {
+   "id": "j2148430",
+   "word": "引",
+   "reading": "びき",
+   "ko": "당기세요",
+   "en": [
+    "-off (price reduction); discount"
+   ]
+  },
+  {
+   "id": "j2436180",
+   "word": "故障中",
+   "reading": "こしょうちゅう",
+   "ko": "고장 중",
+   "en": [
+    "out of order; out of service"
+   ]
+  },
+  {
+   "id": "j1549820",
+   "word": "履歴書",
+   "reading": "りれきしょ",
+   "ko": "이력서",
+   "en": [
+    "personal history document; curriculum vitae; resume"
+   ]
+  },
+  {
+   "id": "j1316100",
+   "word": "時給",
+   "reading": "じきゅう",
+   "ko": "시급",
+   "en": [
+    "hourly pay; hourly wage"
+   ]
+  },
+  {
+   "id": "j1227720",
+   "word": "休憩",
+   "reading": "きゅうけい",
+   "ko": "휴식",
+   "en": [
+    "rest; break; recess"
+   ]
+  },
+  {
+   "id": "j1444810",
+   "word": "登録",
+   "reading": "とうろく",
+   "ko": "등록",
+   "en": [
+    "registration; accession; register"
+   ]
+  },
+  {
+   "id": "j2834963",
+   "word": "新規登録",
+   "reading": "しんきとうろく",
+   "ko": "신규 가입",
+   "en": [
+    "new registration; registering for the first time"
+   ]
+  },
+  {
+   "id": "j1467560",
+   "word": "認証",
+   "reading": "にんしょう",
+   "ko": "인증",
+   "en": [
+    "certification; attestation; authentication"
+   ]
+  },
+  {
+   "id": "j1402820",
+   "word": "送信",
+   "reading": "そうしん",
+   "ko": "전송",
+   "en": [
+    "transmission; sending"
+   ]
+  },
+  {
+   "id": "j1599050",
+   "word": "取消",
+   "reading": "とりけし",
+   "ko": "취소",
+   "en": [
+    "cancellation; withdrawal; abolition"
+   ]
+  },
+  {
+   "id": "j1298120",
+   "word": "削除",
+   "reading": "さくじょ",
+   "ko": "삭제",
+   "en": [
+    "deletion; elimination; erasure"
+   ]
+  },
+  {
+   "id": "j1513940",
+   "word": "保存",
+   "reading": "ほぞん",
+   "ko": "저장",
+   "en": [
+    "preservation; conservation; storage"
+   ]
+  },
+  {
+   "id": "j1386060",
+   "word": "設定",
+   "reading": "せってい",
+   "ko": "설정",
+   "en": [
+    "establishment; creation; posing (a problem)"
+   ]
+  },
+  {
+   "id": "j1466850",
+   "word": "入力",
+   "reading": "にゅうりょく",
+   "ko": "입력",
+   "en": [
+    "input; (data) entry; typing"
+   ]
+  },
+  {
+   "id": "j1451850",
+   "word": "同意",
+   "reading": "どうい",
+   "ko": "동의",
+   "en": [
+    "agreement; consent; approval"
+   ]
+  },
+  {
+   "id": "j1541310",
+   "word": "有効期限",
+   "reading": "ゆうこうきげん",
+   "ko": "유효기간",
+   "en": [
+    "term of validity; expiration date (of medicine, credit card, etc.)"
+   ]
+  },
+  {
+   "id": "j2097700",
+   "word": "熱中症",
+   "reading": "ねっちゅうしょう",
+   "ko": "열사병",
+   "en": [
+    "heatstroke"
+   ]
+  },
+  {
+   "id": "j1507720",
+   "word": "平日",
+   "reading": "へいじつ",
+   "ko": "평일",
+   "en": [
+    "weekday; ordinary days (i.e. non-holiday)"
+   ]
+  },
+  {
+   "id": "j1523110",
+   "word": "本日",
+   "reading": "ほんじつ",
+   "ko": "오늘(공식적)",
+   "en": [
+    "today; this day"
+   ]
+  },
+  {
+   "id": "j1594590",
+   "word": "締め切り",
+   "reading": "しめきり",
+   "ko": "마감",
+   "en": [
+    "deadline; closing; cut-off"
+   ]
+  },
+  {
+   "id": "j1424410",
+   "word": "中止",
+   "reading": "ちゅうし",
+   "ko": "중지, 취소",
+   "en": [
+    "interruption; discontinuance; suspension"
+   ]
+  },
+  {
+   "id": "j1355270",
+   "word": "乗車",
+   "reading": "じょうしゃ",
+   "ko": "승차",
+   "en": [
+    "boarding (a train, bus, etc.); getting into (e.g. a taxi)"
+   ]
+  },
+  {
+   "id": "j1618150",
+   "word": "降車",
+   "reading": "こうしゃ",
+   "ko": "하차",
+   "en": [
+    "alighting (from a train, bus, etc.); getting off; getting out (of a car)"
+   ]
+  },
+  {
+   "id": "j1307610",
+   "word": "始発",
+   "reading": "しはつ",
+   "ko": "첫차; 출발역",
+   "en": [
+    "first departure (of the day); first train; first bus"
+   ]
+  },
+  {
+   "id": "j1834410",
+   "word": "振替輸送",
+   "reading": "ふりかえゆそう",
+   "ko": "대체 수송",
+   "en": [
+    "transfer (of passengers or freight)"
+   ]
+  },
+  {
+   "id": "j2403890",
+   "word": "精算機",
+   "reading": "せいさんき",
+   "ko": "정산기",
+   "en": [
+    "fare adjustment machine; ticket adjustment machine"
+   ]
+  },
+  {
+   "id": "j1355290",
+   "word": "乗車券",
+   "reading": "じょうしゃけん",
+   "ko": "승차권",
+   "en": [
+    "ticket (for bus, train, etc.); passenger ticket"
+   ]
+  },
+  {
+   "id": "j1309930",
+   "word": "指定席",
+   "reading": "していせき",
+   "ko": "지정석",
+   "en": [
+    "reserved seat"
+   ]
+  },
+  {
+   "id": "j1318790",
+   "word": "自由席",
+   "reading": "じゆうせき",
+   "ko": "자유석",
+   "en": [
+    "unreserved seat; non-reserved seat"
+   ]
+  },
+  {
+   "id": "j1947880",
+   "word": "優先席",
+   "reading": "ゆうせんせき",
+   "ko": "노약자석",
+   "en": [
+    "priority seat; courtesy seat; seat provided in trains, buses, etc. for the use of the disabled, young children, the elderly, pregnant women, etc."
+   ]
+  },
+  {
+   "id": "j2838879",
+   "word": "女性専用車",
+   "reading": "じょせいせんようしゃ",
+   "ko": "여성 전용칸",
+   "en": [
+    "women-only carriage (e.g. on a train)"
+   ]
+  },
+  {
+   "id": "j1560040",
+   "word": "路線",
+   "reading": "ろせん",
+   "ko": "노선",
+   "en": [
+    "route (bus, train, air, etc.); line"
+   ]
+  },
+  {
+   "id": "j2110210",
+   "word": "降り場",
+   "reading": "おりば",
+   "ko": "내리는 곳",
+   "en": [
+    "place for alighting (from a bus, ski lift, etc.); drop-off point (e.g. for taxis); getting-off point"
+   ]
+  },
+  {
+   "id": "j1332950",
+   "word": "終点",
+   "reading": "しゅうてん",
+   "ko": "종점",
+   "en": [
+    "terminus; last stop (e.g. train)"
+   ]
+  },
+  {
+   "id": "j1447790",
+   "word": "東口",
+   "reading": "ひがしぐち",
+   "ko": "동쪽 출구",
+   "en": [
+    "east entrance; east exit"
+   ]
+  },
+  {
+   "id": "j1380950",
+   "word": "西口",
+   "reading": "にしぐち",
+   "ko": "서쪽 출구",
+   "en": [
+    "west entrance; west exit"
+   ]
+  },
+  {
+   "id": "j1460280",
+   "word": "南口",
+   "reading": "みなみぐち",
+   "ko": "남쪽 출구",
+   "en": [
+    "south entrance; south exit"
+   ]
+  },
+  {
+   "id": "j1520970",
+   "word": "北口",
+   "reading": "きたぐち",
+   "ko": "북쪽 출구",
+   "en": [
+    "north entrance; north exit"
+   ]
+  },
+  {
+   "id": "j1179760",
+   "word": "往復",
+   "reading": "おうふく",
+   "ko": "왕복",
+   "en": [
+    "making a round trip; going and returning; coming and going"
+   ]
+  },
+  {
+   "id": "j1172820",
+   "word": "運賃",
+   "reading": "うんちん",
+   "ko": "운임",
+   "en": [
+    "(passenger) fare"
+   ]
+  },
+  {
+   "id": "j1316230",
+   "word": "時刻表",
+   "reading": "じこくひょう",
+   "ko": "시간표",
+   "en": [
+    "timetable; schedule"
+   ]
+  },
+  {
+   "id": "j1477500",
+   "word": "発車",
+   "reading": "はっしゃ",
+   "ko": "발차, 출발",
+   "en": [
+    "departure (of a train, car, etc.); starting; leaving"
+   ]
+  },
+  {
+   "id": "j1435080",
+   "word": "停留所",
+   "reading": "ていりゅうじょ",
+   "ko": "정류장",
+   "en": [
+    "stop (bus, tram, etc.); station; stopping place"
+   ]
+  },
+  {
+   "id": "j1376260",
+   "word": "整理券",
+   "reading": "せいりけん",
+   "ko": "정리권(버스 승차 시 뽑는 번호표)",
+   "en": [
+    "numbered ticket (e.g. to determine order of service in shop, etc.)"
+   ]
+  },
+  {
+   "id": "j1199610",
+   "word": "回送",
+   "reading": "かいそう",
+   "ko": "회송(손님 안 태움)",
+   "en": [
+    "forwarding; sending on; redirecting (e.g. mail)"
+   ]
+  },
+  {
+   "id": "j1245610",
+   "word": "空車",
+   "reading": "くうしゃ",
+   "ko": "빈 차(택시)",
+   "en": [
+    "empty conveyance; empty taxi; free taxi"
+   ]
+  },
+  {
+   "id": "j1812490",
+   "word": "満車",
+   "reading": "まんしゃ",
+   "ko": "만차",
+   "en": [
+    "being fully occupied (of a parking lot)"
+   ]
+  },
+  {
+   "id": "j1427000",
+   "word": "駐輪場",
+   "reading": "ちゅうりんじょう",
+   "ko": "자전거 주차장",
+   "en": [
+    "parking area for bicycles; bicycle parking"
+   ]
+  },
+  {
+   "id": "j1166550",
+   "word": "一方通行",
+   "reading": "いっぽうつうこう",
+   "ko": "일방통행",
+   "en": [
+    "one-way traffic"
+   ]
+  },
+  {
+   "id": "j1278150",
+   "word": "工事中",
+   "reading": "こうじちゅう",
+   "ko": "공사 중",
+   "en": [
+    "under construction"
+   ]
+  },
+  {
+   "id": "j1592970",
+   "word": "交差点",
+   "reading": "こうさてん",
+   "ko": "교차로",
+   "en": [
+    "crossing; intersection"
+   ]
+  },
+  {
+   "id": "j1180910",
+   "word": "横断歩道",
+   "reading": "おうだんほどう",
+   "ko": "횡단보도",
+   "en": [
+    "pedestrian crossing; crosswalk"
+   ]
+  },
+  {
+   "id": "j1345590",
+   "word": "徐行",
+   "reading": "じょこう",
+   "ko": "서행",
+   "en": [
+    "going slowly (esp. to enable a vehicle to stop immediately); going at a reduced speed; slowing down"
+   ]
+  },
+  {
+   "id": "j1533150",
+   "word": "免許証",
+   "reading": "めんきょしょう",
+   "ko": "면허증",
+   "en": [
+    "licence; license; permit"
+   ]
+  },
+  {
+   "id": "j2620060",
+   "word": "臨時休業",
+   "reading": "りんじきゅうぎょう",
+   "ko": "임시 휴업",
+   "en": [
+    "temporary closure (of a shop, etc.)"
+   ]
+  },
+  {
+   "id": "j1508720",
+   "word": "閉店",
+   "reading": "へいてん",
+   "ko": "폐점; 문 닫음",
+   "en": [
+    "closing up shop (for the day)"
+   ]
+  },
+  {
+   "id": "j1202870",
+   "word": "開店",
+   "reading": "かいてん",
+   "ko": "개점",
+   "en": [
+    "opening a new shop"
+   ]
+  },
+  {
+   "id": "j1350320",
+   "word": "消費税",
+   "reading": "しょうひぜい",
+   "ko": "소비세",
+   "en": [
+    "consumption tax (incl. sales tax, VAT, excise duty, etc.)"
+   ]
+  },
+  {
+   "id": "j1606950",
+   "word": "割引",
+   "reading": "わりびき",
+   "ko": "할인",
+   "en": [
+    "discount; reduction; rebate"
+   ]
+  },
+  {
+   "id": "j1600190",
+   "word": "値引き",
+   "reading": "ねびき",
+   "ko": "가격 할인",
+   "en": [
+    "price reduction; discount"
+   ]
+  },
+  {
+   "id": "j1479050",
+   "word": "半額",
+   "reading": "はんがく",
+   "ko": "반값",
+   "en": [
+    "half the amount (of money); half price; half fare"
+   ]
+  },
+  {
+   "id": "j1554760",
+   "word": "領収書",
+   "reading": "りょうしゅうしょ",
+   "ko": "영수증",
+   "en": [
+    "formal receipt (of payment; oft. hand-written)"
+   ]
+  },
+  {
+   "id": "j1512300",
+   "word": "返品",
+   "reading": "へんぴん",
+   "ko": "반품",
+   "en": [
+    "returned goods; returning purchased goods"
+   ]
+  },
+  {
+   "id": "j1512200",
+   "word": "返金",
+   "reading": "へんきん",
+   "ko": "환불",
+   "en": [
+    "refund; repayment; reimbursement"
+   ]
+  },
+  {
+   "id": "j1490640",
+   "word": "品切れ",
+   "reading": "しなぎれ",
+   "ko": "품절",
+   "en": [
+    "out of stock; sold out"
+   ]
+  },
+  {
+   "id": "j1473870",
+   "word": "売り切れ",
+   "reading": "うりきれ",
+   "ko": "매진",
+   "en": [
+    "sold-out"
+   ]
+  },
+  {
+   "id": "j1264670",
+   "word": "限定",
+   "reading": "げんてい",
+   "ko": "한정",
+   "en": [
+    "limit; restriction"
+   ]
+  },
+  {
+   "id": "j1312510",
+   "word": "試着室",
+   "reading": "しちゃくしつ",
+   "ko": "탈의실",
+   "en": [
+    "dressing room; fitting room"
+   ]
+  },
+  {
+   "id": "j1440780",
+   "word": "店内",
+   "reading": "てんない",
+   "ko": "매장 안",
+   "en": [
+    "inside of a store (restaurant, café, etc.); store interior; on the premises"
+   ]
+  },
+  {
+   "id": "j1770030",
+   "word": "持ち帰り",
+   "reading": "もちかえり",
+   "ko": "포장",
+   "en": [
+    "takeout (food); take-out; takeaway"
+   ]
+  },
+  {
+   "id": "j1348470",
+   "word": "小銭",
+   "reading": "こぜに",
+   "ko": "잔돈, 동전",
+   "en": [
+    "small change; pocket change; coins"
+   ]
+  },
+  {
+   "id": "j1270550",
+   "word": "お釣り",
+   "reading": "おつり",
+   "ko": "거스름돈",
+   "en": [
+    "change (for a purchase)"
+   ]
+  },
+  {
+   "id": "j1402870",
+   "word": "送料",
+   "reading": "そうりょう",
+   "ko": "배송료",
+   "en": [
+    "postage; carriage; shipping charge"
+   ]
+  },
+  {
+   "id": "j2831505",
+   "word": "年齢確認",
+   "reading": "ねんれいかくにん",
+   "ko": "나이 확인",
+   "en": [
+    "age verification"
+   ]
+  },
+  {
+   "id": "j1604490",
+   "word": "未成年",
+   "reading": "みせいねん",
+   "ko": "미성년",
+   "en": [
+    "minority (i.e. being under age); minor; underage person"
+   ]
+  },
+  {
+   "id": "j1932960",
+   "word": "喫煙所",
+   "reading": "きつえんじょ",
+   "ko": "흡연 구역",
+   "en": [
+    "smoking area; smoking corner"
+   ]
+  },
+  {
+   "id": "j2134380",
+   "word": "最後尾",
+   "reading": "さいこうび",
+   "ko": "(줄의) 맨 끝",
+   "en": [
+    "end (e.g. of a line); tail end; rear"
+   ]
+  },
+  {
+   "id": "j1342390",
+   "word": "順番",
+   "reading": "じゅんばん",
+   "ko": "순서, 차례",
+   "en": [
+    "order; turn"
+   ]
+  },
+  {
+   "id": "j1948210",
+   "word": "予約制",
+   "reading": "よやくせい",
+   "ko": "예약제",
+   "en": [
+    "reservation system; appointment system; (on) a subscription basis"
+   ]
+  },
+  {
+   "id": "j1526850",
+   "word": "満席",
+   "reading": "まんせき",
+   "ko": "만석",
+   "en": [
+    "full house; all seats occupied; fully occupied"
+   ]
+  },
+  {
+   "id": "j1732520",
+   "word": "番号札",
+   "reading": "ばんごうふだ",
+   "ko": "번호표",
+   "en": [
+    "numbered tag; numbered ticket"
+   ]
+  },
+  {
+   "id": "j1449210",
+   "word": "当日",
+   "reading": "とうじつ",
+   "ko": "당일",
+   "en": [
+    "day in question; appointed day; that very day"
+   ]
+  },
+  {
+   "id": "j1358440",
+   "word": "食券",
+   "reading": "しょっけん",
+   "ko": "식권",
+   "en": [
+    "meal ticket"
+   ]
+  },
+  {
+   "id": "j1665430",
+   "word": "券売機",
+   "reading": "けんばいき",
+   "ko": "식권 자판기",
+   "en": [
+    "ticket machine; ticket-vending machine"
+   ]
+  },
+  {
+   "id": "j1414280",
+   "word": "大盛り",
+   "reading": "おおもり",
+   "ko": "곱빼기",
+   "en": [
+    "large serving; large portion"
+   ]
+  },
+  {
+   "id": "j1435650",
+   "word": "定食",
+   "reading": "ていしょく",
+   "ko": "정식(세트 식사)",
+   "en": [
+    "set meal; special (of the day)"
+   ]
+  },
+  {
+   "id": "j1562970",
+   "word": "丼",
+   "reading": "どんぶり",
+   "ko": "덮밥",
+   "en": [
+    "porcelain bowl"
+   ]
+  },
+  {
+   "id": "j1533610",
+   "word": "麺",
+   "reading": "めん",
+   "ko": "면",
+   "en": [
+    "noodles"
+   ]
+  },
+  {
+   "id": "j1169840",
+   "word": "飲み放題",
+   "reading": "のみほうだい",
+   "ko": "음료 무한리필",
+   "en": [
+    "all you can drink; bottomless cup"
+   ]
+  },
+  {
+   "id": "j1358360",
+   "word": "食べ放題",
+   "reading": "たべほうだい",
+   "ko": "무한리필(뷔페)",
+   "en": [
+    "all-you-can-eat; eating as much as one likes"
+   ]
+  },
+  {
+   "id": "j1432460",
+   "word": "追加",
+   "reading": "ついか",
+   "ko": "추가",
+   "en": [
+    "addition; supplement; appending"
+   ]
+  },
+  {
+   "id": "j1609630",
+   "word": "辛口",
+   "reading": "からくち",
+   "ko": "매운맛",
+   "en": [
+    "dry taste (e.g. sake, wine)"
+   ]
+  },
+  {
+   "id": "j1213510",
+   "word": "甘口",
+   "reading": "あまくち",
+   "ko": "순한 맛, 단맛",
+   "en": [
+    "sweet flavour; sweet flavor; mildness"
+   ]
+  },
+  {
+   "id": "j1595650",
+   "word": "寿司",
+   "reading": "すし",
+   "ko": "초밥",
+   "en": [
+    "sushi; range of dishes made with vinegared rice combined with fish, vegetables, egg, etc."
+   ]
+  },
+  {
+   "id": "j1513060",
+   "word": "弁当",
+   "reading": "べんとう",
+   "ko": "도시락",
+   "en": [
+    "bento; Japanese box lunch"
+   ]
+  },
+  {
+   "id": "j1476410",
+   "word": "箸",
+   "reading": "はし",
+   "ko": "젓가락",
+   "en": [
+    "chopsticks"
+   ]
+  },
+  {
+   "id": "p5e97518598f298df",
+   "word": "店内飲食",
+   "reading": "てんないいんしょく",
+   "ko": "매장 내 식사",
+   "en": []
+  },
+  {
+   "id": "p6e293081",
+   "word": "温め",
+   "reading": "あたため",
+   "ko": "데우기",
+   "en": []
+  },
+  {
+   "id": "j1348350",
+   "word": "小人",
+   "reading": "しょうにん",
+   "ko": "어린이(요금)",
+   "en": [
+    "child (esp. one of elementary school age or younger)"
+   ]
+  },
+  {
+   "id": "j1557100",
+   "word": "冷蔵",
+   "reading": "れいぞう",
+   "ko": "냉장",
+   "en": [
+    "cold storage; refrigeration"
+   ]
+  },
+  {
+   "id": "j1798230",
+   "word": "常温",
+   "reading": "じょうおん",
+   "ko": "상온",
+   "en": [
+    "normal temperature; room temperature"
+   ]
+  },
+  {
+   "id": "j1414680",
+   "word": "大豆",
+   "reading": "だいず",
+   "ko": "콩",
+   "en": [
+    "soya bean (Glycine max); soybean; soy"
+   ]
+  },
+  {
+   "id": "j1457440",
+   "word": "豚肉",
+   "reading": "ぶたにく",
+   "ko": "돼지고기",
+   "en": [
+    "pork"
+   ]
+  },
+  {
+   "id": "j1253020",
+   "word": "鶏肉",
+   "reading": "とりにく",
+   "ko": "닭고기",
+   "en": [
+    "chicken meat"
+   ]
+  },
+  {
+   "id": "j1588720",
+   "word": "海老",
+   "reading": "えび",
+   "ko": "새우",
+   "en": [
+    "prawn; shrimp; lobster"
+   ]
+  },
+  {
+   "id": "j1595020",
+   "word": "醤油",
+   "reading": "しょうゆ",
+   "ko": "간장",
+   "en": [
+    "soy sauce; soya sauce; shoyu"
+   ]
+  },
+  {
+   "id": "j1527040",
+   "word": "味噌",
+   "reading": "みそ",
+   "ko": "된장",
+   "en": [
+    "miso; fermented condiment usu. made from soybeans"
+   ]
+  },
+  {
+   "id": "j1291600",
+   "word": "砂糖",
+   "reading": "さとう",
+   "ko": "설탕",
+   "en": [
+    "sugar"
+   ]
+  },
+  {
+   "id": "j1378450",
+   "word": "生",
+   "reading": "なま",
+   "ko": "날것; 생",
+   "en": [
+    "raw; uncooked; fresh"
+   ]
+  },
+  {
+   "id": "j1190470",
+   "word": "加熱",
+   "reading": "かねつ",
+   "ko": "가열",
+   "en": [
+    "heating; application of heat"
+   ]
+  },
+  {
+   "id": "p958b5c015f8c",
+   "word": "開封後",
+   "reading": "かいふうご",
+   "ko": "개봉 후",
+   "en": []
+  },
+  {
+   "id": "j2835814",
+   "word": "保存方法",
+   "reading": "ほぞんほうほう",
+   "ko": "보관 방법",
+   "en": [
+    "storage method (e.g. for food); storage instructions"
+   ]
+  },
+  {
+   "id": "j1159730",
+   "word": "医院",
+   "reading": "いいん",
+   "ko": "의원",
+   "en": [
+    "doctor's office; doctor's surgery; clinic"
+   ]
+  },
+  {
+   "id": "j1203380",
+   "word": "外科",
+   "reading": "げか",
+   "ko": "외과",
+   "en": [
+    "surgery (branch of medicine)"
+   ]
+  },
+  {
+   "id": "j1313110",
+   "word": "歯科",
+   "reading": "しか",
+   "ko": "치과",
+   "en": [
+    "dentistry"
+   ]
+  },
+  {
+   "id": "j1217150",
+   "word": "眼科",
+   "reading": "がんか",
+   "ko": "안과",
+   "en": [
+    "ophthalmology"
+   ]
+  },
+  {
+   "id": "j1483940",
+   "word": "皮膚科",
+   "reading": "ひふか",
+   "ko": "피부과",
+   "en": [
+    "dermatology"
+   ]
+  },
+  {
+   "id": "j1317310",
+   "word": "耳鼻科",
+   "reading": "じびか",
+   "ko": "이비인후과",
+   "en": [
+    "otolaryngology; ear, nose, and throat department"
+   ]
+  },
+  {
+   "id": "j1348200",
+   "word": "小児科",
+   "reading": "しょうにか",
+   "ko": "소아과",
+   "en": [
+    "pediatrics"
+   ]
+  },
+  {
+   "id": "j1705630",
+   "word": "診察券",
+   "reading": "しんさつけん",
+   "ko": "진찰권",
+   "en": [
+    "patient's registration ticket"
+   ]
+  },
+  {
+   "id": "j1798960",
+   "word": "初診",
+   "reading": "しょしん",
+   "ko": "초진",
+   "en": [
+    "initial medical examination; first visit (to a doctor, clinic, hospital, etc.)"
+   ]
+  },
+  {
+   "id": "j2236510",
+   "word": "問診票",
+   "reading": "もんしんひょう",
+   "ko": "문진표",
+   "en": [
+    "medical questionnaire; medical interview sheet; medical history form"
+   ]
+  },
+  {
+   "id": "j1357120",
+   "word": "錠剤",
+   "reading": "じょうざい",
+   "ko": "알약",
+   "en": [
+    "pill; lozenge; tablet"
+   ]
+  },
+  {
+   "id": "j1535690",
+   "word": "目薬",
+   "reading": "めぐすり",
+   "ko": "안약",
+   "en": [
+    "eye drops; eyewash"
+   ]
+  },
+  {
+   "id": "j1609540",
+   "word": "風邪薬",
+   "reading": "かぜぐすり",
+   "ko": "감기약",
+   "en": [
+    "remedy for a cold; cold medicine"
+   ]
+  },
+  {
+   "id": "j1432690",
+   "word": "痛み止め",
+   "reading": "いたみどめ",
+   "ko": "진통제",
+   "en": [
+    "painkiller"
+   ]
+  },
+  {
+   "id": "j1839720",
+   "word": "食間",
+   "reading": "しょっかん",
+   "ko": "식간",
+   "en": [
+    "between meals"
+   ]
+  },
+  {
+   "id": "j1546410",
+   "word": "用法",
+   "reading": "ようほう",
+   "ko": "용법",
+   "en": [
+    "way of using (something); usage; use"
+   ]
+  },
+  {
+   "id": "j1409250",
+   "word": "体温",
+   "reading": "たいおん",
+   "ko": "체온",
+   "en": [
+    "body temperature"
+   ]
+  },
+  {
+   "id": "j1204300",
+   "word": "咳",
+   "reading": "せき",
+   "ko": "기침",
+   "en": [
+    "cough; coughing; tussis"
+   ]
+  },
+  {
+   "id": "j1487060",
+   "word": "鼻水",
+   "reading": "はなみず",
+   "ko": "콧물",
+   "en": [
+    "nasal mucus; dripping nose; snot"
+   ]
+  },
+  {
+   "id": "j1501230",
+   "word": "腹痛",
+   "reading": "ふくつう",
+   "ko": "복통",
+   "en": [
+    "stomach ache; abdominal pain"
+   ]
+  },
+  {
+   "id": "j1444120",
+   "word": "吐き気",
+   "reading": "はきけ",
+   "ko": "구역질",
+   "en": [
+    "nausea; feeling like throwing up; feeling sick"
+   ]
+  },
+  {
+   "id": "j1186540",
+   "word": "下痢",
+   "reading": "げり",
+   "ko": "설사",
+   "en": [
+    "diarrhea; diarrhoea"
+   ]
+  },
+  {
+   "id": "j1577310",
+   "word": "火傷",
+   "reading": "やけど",
+   "ko": "화상",
+   "en": [
+    "burn; scald"
+   ]
+  },
+  {
+   "id": "j1426590",
+   "word": "注射",
+   "reading": "ちゅうしゃ",
+   "ko": "주사",
+   "en": [
+    "injection; jab; shot"
+   ]
+  },
+  {
+   "id": "j1257890",
+   "word": "検査",
+   "reading": "けんさ",
+   "ko": "검사",
+   "en": [
+    "inspection (e.g. customs, factory); examination; test"
+   ]
+  },
+  {
+   "id": "j1536530",
+   "word": "夜間",
+   "reading": "やかん",
+   "ko": "야간",
+   "en": [
+    "night; nighttime"
+   ]
+  },
+  {
+   "id": "j2612860",
+   "word": "管理費",
+   "reading": "かんりひ",
+   "ko": "관리비",
+   "en": [
+    "administration costs; administrative expenses; management costs"
+   ]
+  },
+  {
+   "id": "j2666140",
+   "word": "更新料",
+   "reading": "こうしんりょう",
+   "ko": "갱신료",
+   "en": [
+    "renewal charge; renewal fee"
+   ]
+  },
+  {
+   "id": "j1411370",
+   "word": "退去",
+   "reading": "たいきょ",
+   "ko": "퇴거",
+   "en": [
+    "departure; leaving; going away"
+   ]
+  },
+  {
+   "id": "j1465980",
+   "word": "入居",
+   "reading": "にゅうきょ",
+   "ko": "입주",
+   "en": [
+    "moving in (to a house, apartment, etc.); taking up residence"
+   ]
+  },
+  {
+   "id": "j1502460",
+   "word": "物件",
+   "reading": "ぶっけん",
+   "ko": "매물, 집",
+   "en": [
+    "article; thing; object"
+   ]
+  },
+  {
+   "id": "j1215490",
+   "word": "間取り",
+   "reading": "まどり",
+   "ko": "방 구조",
+   "en": [
+    "layout (of a house or apartment); arrangement of rooms"
+   ]
+  },
+  {
+   "id": "j1547460",
+   "word": "浴室",
+   "reading": "よくしつ",
+   "ko": "욕실",
+   "en": [
+    "bathroom"
+   ]
+  },
+  {
+   "id": "j1500100",
+   "word": "風呂",
+   "reading": "ふろ",
+   "ko": "목욕; 욕실",
+   "en": [
+    "bath; bathing; bathtub"
+   ]
+  },
+  {
+   "id": "j1391070",
+   "word": "洗面所",
+   "reading": "せんめんじょ",
+   "ko": "세면실",
+   "en": [
+    "washroom; bathroom"
+   ]
+  },
+  {
+   "id": "j1263400",
+   "word": "玄関",
+   "reading": "げんかん",
+   "ko": "현관",
+   "en": [
+    "entrance; front door; entryway"
+   ]
+  },
+  {
+   "id": "j2595880",
+   "word": "管理会社",
+   "reading": "かんりがいしゃ",
+   "ko": "관리 회사",
+   "en": [
+    "maintenance company; management company"
+   ]
+  },
+  {
+   "id": "j1494220",
+   "word": "不動産",
+   "reading": "ふどうさん",
+   "ko": "부동산",
+   "en": [
+    "real estate"
+   ]
+  },
+  {
+   "id": "j1513820",
+   "word": "保証人",
+   "reading": "ほしょうにん",
+   "ko": "보증인",
+   "en": [
+    "guarantor; surety; sponsor"
+   ]
+  },
+  {
+   "id": "j1403060",
+   "word": "騒音",
+   "reading": "そうおん",
+   "ko": "소음",
+   "en": [
+    "noise; din"
+   ]
+  },
+  {
+   "id": "j1242350",
+   "word": "近所",
+   "reading": "きんじょ",
+   "ko": "근처, 이웃",
+   "en": [
+    "neighbourhood; neighborhood; vicinity"
+   ]
+  },
+  {
+   "id": "j1601880",
+   "word": "引っ越し",
+   "reading": "ひっこし",
+   "ko": "이사",
+   "en": [
+    "moving (dwelling, office, etc.); changing residence"
+   ]
+  },
+  {
+   "id": "j1332400",
+   "word": "修理",
+   "reading": "しゅうり",
+   "ko": "수리",
+   "en": [
+    "repair; mending; fixing"
+   ]
+  },
+  {
+   "id": "j1441540",
+   "word": "点検",
+   "reading": "てんけん",
+   "ko": "점검",
+   "en": [
+    "detailed inspection; thorough examination; checking"
+   ]
+  },
+  {
+   "id": "j1557290",
+   "word": "冷房",
+   "reading": "れいぼう",
+   "ko": "냉방",
+   "en": [
+    "air conditioning; air cooling"
+   ]
+  },
+  {
+   "id": "j1419860",
+   "word": "暖房",
+   "reading": "だんぼう",
+   "ko": "난방",
+   "en": [
+    "(indoor) heating"
+   ]
+  },
+  {
+   "id": "j1390990",
+   "word": "洗濯機",
+   "reading": "せんたくき",
+   "ko": "세탁기",
+   "en": [
+    "washing machine; (clothes) washer"
+   ]
+  },
+  {
+   "id": "j1378640",
+   "word": "生ゴミ",
+   "reading": "なまゴミ",
+   "ko": "음식물 쓰레기",
+   "en": [
+    "kitchen waste; food scraps; raw garbage"
+   ]
+  },
+  {
+   "id": "j1199470",
+   "word": "回収",
+   "reading": "かいしゅう",
+   "ko": "수거",
+   "en": [
+    "collection; recovery; withdrawal"
+   ]
+  },
+  {
+   "id": "j1214540",
+   "word": "缶",
+   "reading": "かん",
+   "ko": "캔",
+   "en": [
+    "can; tin"
+   ]
+  },
+  {
+   "id": "j2859088",
+   "word": "指定袋",
+   "reading": "していぶくろ",
+   "ko": "지정 봉투",
+   "en": [
+    "designated garbage bag (as specified by a municipality)"
+   ]
+  },
+  {
+   "id": "p53e35ea7958b8a2d",
+   "word": "口座開設",
+   "reading": "こうざかいせつ",
+   "ko": "계좌 개설",
+   "en": []
+  },
+  {
+   "id": "j1433490",
+   "word": "通帳",
+   "reading": "つうちょう",
+   "ko": "통장",
+   "en": [
+    "passbook; bankbook"
+   ]
+  },
+  {
+   "id": "p632f8fbc5148",
+   "word": "振込先",
+   "reading": "ふりこみさき",
+   "ko": "입금 계좌",
+   "en": []
+  },
+  {
+   "id": "j1466040",
+   "word": "入金",
+   "reading": "にゅうきん",
+   "ko": "입금",
+   "en": [
+    "receipt of money; money received; receipts"
+   ]
+  },
+  {
+   "id": "j1338650",
+   "word": "出金",
+   "reading": "しゅっきん",
+   "ko": "출금",
+   "en": [
+    "withdrawal (of money); payment; contribution"
+   ]
+  },
+  {
+   "id": "j1601650",
+   "word": "引き出し",
+   "reading": "ひきだし",
+   "ko": "인출",
+   "en": [
+    "drawer"
+   ]
+  },
+  {
+   "id": "j2531100",
+   "word": "預け入れ",
+   "reading": "あずけいれ",
+   "ko": "예금(입금)",
+   "en": [
+    "deposit"
+   ]
+  },
+  {
+   "id": "j1402750",
+   "word": "送金",
+   "reading": "そうきん",
+   "ko": "송금",
+   "en": [
+    "remittance; sending money; transferring money"
+   ]
+  },
+  {
+   "id": "j1532440",
+   "word": "明細",
+   "reading": "めいさい",
+   "ko": "명세",
+   "en": [
+    "details; particulars; specifics"
+   ]
+  },
+  {
+   "id": "j1542480",
+   "word": "郵便番号",
+   "reading": "ゆうびんばんごう",
+   "ko": "우편번호",
+   "en": [
+    "postal code"
+   ]
+  },
+  {
+   "id": "j1586500",
+   "word": "宛先",
+   "reading": "あてさき",
+   "ko": "받는 곳(주소)",
+   "en": [
+    "address; destination"
+   ]
+  },
+  {
+   "id": "j1593760",
+   "word": "差出人",
+   "reading": "さしだしにん",
+   "ko": "보내는 사람",
+   "en": [
+    "sender (e.g. of mail)"
+   ]
+  },
+  {
+   "id": "j1589960",
+   "word": "書留",
+   "reading": "かきとめ",
+   "ko": "등기",
+   "en": [
+    "registered mail; registered post; registration (of mail)"
+   ]
+  },
+  {
+   "id": "j1423230",
+   "word": "着払い",
+   "reading": "ちゃくばらい",
+   "ko": "착불",
+   "en": [
+    "payment on delivery; cash on delivery; COD"
+   ]
+  },
+  {
+   "id": "j1415790",
+   "word": "宅配便",
+   "reading": "たくはいびん",
+   "ko": "택배",
+   "en": [
+    "express home delivery service"
+   ]
+  },
+  {
+   "id": "j1329770",
+   "word": "受取",
+   "reading": "うけとり",
+   "ko": "수령",
+   "en": [
+    "receiving; receipt"
+   ]
+  },
+  {
+   "id": "j1629260",
+   "word": "受取人",
+   "reading": "うけとりにん",
+   "ko": "받는 사람",
+   "en": [
+    "recipient (e.g. of mail); addressee; payee"
+   ]
+  },
+  {
+   "id": "p6642959363075b9a",
+   "word": "時間指定",
+   "reading": "じかんしてい",
+   "ko": "배달 시간 지정",
+   "en": []
+  },
+  {
+   "id": "j1538020",
+   "word": "役所",
+   "reading": "やくしょ",
+   "ko": "관공서",
+   "en": [
+    "government office; public office"
+   ]
+  },
+  {
+   "id": "j1457240",
+   "word": "届出",
+   "reading": "とどけで",
+   "ko": "신고",
+   "en": [
+    "report; notification"
+   ]
+  },
+  {
+   "id": "j1468540",
+   "word": "年金",
+   "reading": "ねんきん",
+   "ko": "연금",
+   "en": [
+    "annuity; pension"
+   ]
+  },
+  {
+   "id": "j1334220",
+   "word": "住民税",
+   "reading": "じゅうみんぜい",
+   "ko": "주민세",
+   "en": [
+    "municipal tax"
+   ]
+  },
+  {
+   "id": "j2870139",
+   "word": "記入例",
+   "reading": "きにゅうれい",
+   "ko": "기입 예시",
+   "en": [
+    "entry example; filling example; input example"
+   ]
+  },
+  {
+   "id": "j1376270",
+   "word": "整理番号",
+   "reading": "せいりばんごう",
+   "ko": "대기 번호",
+   "en": [
+    "reference number; serial number"
+   ]
+  },
+  {
+   "id": "j1241120",
+   "word": "勤務先",
+   "reading": "きんむさき",
+   "ko": "근무처",
+   "en": [
+    "place of employment"
+   ]
+  },
+  {
+   "id": "j1485670",
+   "word": "備考",
+   "reading": "びこう",
+   "ko": "비고",
+   "en": [
+    "note (for reference); remarks; N.B."
+   ]
+  },
+  {
+   "id": "j1204700",
+   "word": "該当",
+   "reading": "がいとう",
+   "ko": "해당",
+   "en": [
+    "corresponding to; being applicable to; being relevant to"
+   ]
+  },
+  {
+   "id": "j1467160",
+   "word": "任意",
+   "reading": "にんい",
+   "ko": "임의, 선택",
+   "en": [
+    "optional; voluntary; arbitrary"
+   ]
+  },
+  {
+   "id": "j1602900",
+   "word": "不要",
+   "reading": "ふよう",
+   "ko": "불필요",
+   "en": [
+    "unnecessary; unneeded"
+   ]
+  },
+  {
+   "id": "j1155180",
+   "word": "以内",
+   "reading": "いない",
+   "ko": "이내",
+   "en": [
+    "within; inside of; less than"
+   ]
+  },
+  {
+   "id": "j1545790",
+   "word": "様",
+   "reading": "さま",
+   "ko": "님",
+   "en": [
+    "Mr; Mrs; Miss"
+   ]
+  },
+  {
+   "id": "j1413070",
+   "word": "大雨",
+   "reading": "おおあめ",
+   "ko": "큰비",
+   "en": [
+    "heavy rain; torrential rainfall; downpour"
+   ]
+  },
+  {
+   "id": "j1279930",
+   "word": "洪水",
+   "reading": "こうずい",
+   "ko": "홍수",
+   "en": [
+    "flood; flooding"
+   ]
+  },
+  {
+   "id": "j2657530",
+   "word": "土砂災害",
+   "reading": "どしゃさいがい",
+   "ko": "산사태 피해",
+   "en": [
+    "landslide disaster; sediment disaster"
+   ]
+  },
+  {
+   "id": "j1544290",
+   "word": "余震",
+   "reading": "よしん",
+   "ko": "여진",
+   "en": [
+    "aftershock"
+   ]
+  },
+  {
+   "id": "j1945740",
+   "word": "非常階段",
+   "reading": "ひじょうかいだん",
+   "ko": "비상계단",
+   "en": [
+    "emergency staircase; fire escape"
+   ]
+  },
+  {
+   "id": "j1520360",
+   "word": "防災",
+   "reading": "ぼうさい",
+   "ko": "방재",
+   "en": [
+    "disaster preparedness; prevention of damage resulting from a natural disaster; protection against disaster"
+   ]
+  },
+  {
+   "id": "j1589250",
+   "word": "落とし物",
+   "reading": "おとしもの",
+   "ko": "분실물",
+   "en": [
+    "lost property; something dropped and left behind"
+   ]
+  },
+  {
+   "id": "j1448500",
+   "word": "盗難",
+   "reading": "とうなん",
+   "ko": "도난",
+   "en": [
+    "theft; robbery"
+   ]
+  },
+  {
+   "id": "j1291690",
+   "word": "詐欺",
+   "reading": "さぎ",
+   "ko": "사기",
+   "en": [
+    "fraud; swindle; graft"
+   ]
+  },
+  {
+   "id": "j2038970",
+   "word": "不審者",
+   "reading": "ふしんしゃ",
+   "ko": "수상한 사람",
+   "en": [
+    "suspicious person"
+   ]
+  },
+  {
+   "id": "j2850263",
+   "word": "撮影禁止",
+   "reading": "さつえいきんし",
+   "ko": "촬영 금지",
+   "en": [
+    "no photographs; no photography"
+   ]
+  },
+  {
+   "id": "j2271770",
+   "word": "飲食禁止",
+   "reading": "いんしょくきんし",
+   "ko": "음식물 금지",
+   "en": [
+    "no food or drink (e.g. as a sign in a library, etc.); no eating or drinking"
+   ]
+  },
+  {
+   "id": "j2863455",
+   "word": "頭上注意",
+   "reading": "ずじょうちゅうい",
+   "ko": "머리 조심",
+   "en": [
+    "Watch Your Head"
+   ]
+  },
+  {
+   "id": "p8db351436ce8610f",
+   "word": "足元注意",
+   "reading": "あしもとちゅうい",
+   "ko": "발밑 조심",
+   "en": []
+  },
+  {
+   "id": "j1419960",
+   "word": "段差",
+   "reading": "だんさ",
+   "ko": "단차, 턱",
+   "en": [
+    "difference in grades (e.g. in go, shoji, etc.)"
+   ]
+  },
+  {
+   "id": "j1638160",
+   "word": "高電圧",
+   "reading": "こうでんあつ",
+   "ko": "고압 전기",
+   "en": [
+    "high voltage; high tension"
+   ]
+  },
+  {
+   "id": "j1599010",
+   "word": "取扱注意",
+   "reading": "とりあつかいちゅうい",
+   "ko": "취급 주의",
+   "en": [
+    "handling warning"
+   ]
+  },
+  {
+   "id": "j2846661",
+   "word": "非常停止",
+   "reading": "ひじょうていし",
+   "ko": "비상 정지",
+   "en": [
+    "emergency stop; emergency shutdown"
+   ]
+  },
+  {
+   "id": "j2105430",
+   "word": "使用中",
+   "reading": "しようちゅう",
+   "ko": "사용 중",
+   "en": [
+    "in use; occupied (e.g. toilet); engaged"
+   ]
+  },
+  {
+   "id": "p6e0563834e2d",
+   "word": "清掃中",
+   "reading": "せいそうちゅう",
+   "ko": "청소 중",
+   "en": []
+  },
+  {
+   "id": "p70b9691c4e2d",
+   "word": "点検中",
+   "reading": "てんけんちゅう",
+   "ko": "점검 중",
+   "en": []
+  },
+  {
+   "id": "j1180030",
+   "word": "応募",
+   "reading": "おうぼ",
+   "ko": "응모, 지원",
+   "en": [
+    "application; subscription; entry (competition, raffle, etc.)"
+   ]
+  },
+  {
+   "id": "j1294890",
+   "word": "採用",
+   "reading": "さいよう",
+   "ko": "채용",
+   "en": [
+    "use; adoption; acceptance"
+   ]
+  },
+  {
+   "id": "j1611070",
+   "word": "日給",
+   "reading": "にっきゅう",
+   "ko": "일급",
+   "en": [
+    "daily wages"
+   ]
+  },
+  {
+   "id": "j1255560",
+   "word": "月給",
+   "reading": "げっきゅう",
+   "ko": "월급",
+   "en": [
+    "monthly salary"
+   ]
+  },
+  {
+   "id": "j2235270",
+   "word": "給与明細",
+   "reading": "きゅうよめいさい",
+   "ko": "급여 명세서",
+   "en": [
+    "payslip"
+   ]
+  },
+  {
+   "id": "j1272410",
+   "word": "交通費",
+   "reading": "こうつうひ",
+   "ko": "교통비",
+   "en": [
+    "traveling expenses; travelling expenses; carfare"
+   ]
+  },
+  {
+   "id": "j1241070",
+   "word": "勤務",
+   "reading": "きんむ",
+   "ko": "근무",
+   "en": [
+    "service; duty; work"
+   ]
+  },
+  {
+   "id": "j1933470",
+   "word": "勤務時間",
+   "reading": "きんむじかん",
+   "ko": "근무 시간",
+   "en": [
+    "office hours; business hours; working hours"
+   ]
+  },
+  {
+   "id": "j1338600",
+   "word": "出勤",
+   "reading": "しゅっきん",
+   "ko": "출근",
+   "en": [
+    "going to work; leaving for work; attendance (at work)"
+   ]
+  },
+  {
+   "id": "j2219610",
+   "word": "退勤",
+   "reading": "たいきん",
+   "ko": "퇴근",
+   "en": [
+    "leaving work; clocking out"
+   ]
+  },
+  {
+   "id": "j1304560",
+   "word": "残業",
+   "reading": "ざんぎょう",
+   "ko": "잔업, 야근",
+   "en": [
+    "overtime (work)"
+   ]
+  },
+  {
+   "id": "j1400310",
+   "word": "早退",
+   "reading": "そうたい",
+   "ko": "조퇴",
+   "en": [
+    "leaving early"
+   ]
+  },
+  {
+   "id": "j1253960",
+   "word": "欠勤",
+   "reading": "けっきん",
+   "ko": "결근",
+   "en": [
+    "absence (from work)"
+   ]
+  },
+  {
+   "id": "j1440730",
+   "word": "店長",
+   "reading": "てんちょう",
+   "ko": "점장",
+   "en": [
+    "shop manager"
+   ]
+  },
+  {
+   "id": "j1377330",
+   "word": "正社員",
+   "reading": "せいしゃいん",
+   "ko": "정규직",
+   "en": [
+    "regular employee; permanent employee; full-time employee"
+   ]
+  },
+  {
+   "id": "j1258660",
+   "word": "研修",
+   "reading": "けんしゅう",
+   "ko": "연수",
+   "en": [
+    "training (esp. in-service); induction course"
+   ]
+  },
+  {
+   "id": "j1411420",
+   "word": "退職",
+   "reading": "たいしょく",
+   "ko": "퇴직",
+   "en": [
+    "retirement; resignation"
+   ]
+  },
+  {
+   "id": "j1329810",
+   "word": "受信",
+   "reading": "じゅしん",
+   "ko": "수신",
+   "en": [
+    "receiving (a message, letter, email, etc.); reception (radio, TV, etc.)"
+   ]
+  },
+  {
+   "id": "j1257900",
+   "word": "検索",
+   "reading": "けんさく",
+   "ko": "검색",
+   "en": [
+    "looking up (e.g. a word in a dictionary); search (e.g. on the Internet); retrieval (of information)"
+   ]
+  },
+  {
+   "id": "j1392290",
+   "word": "選択",
+   "reading": "せんたく",
+   "ko": "선택",
+   "en": [
+    "choice; selection; option"
+   ]
+  },
+  {
+   "id": "j2831622",
+   "word": "利用規約",
+   "reading": "りようきやく",
+   "ko": "이용약관",
+   "en": [
+    "terms of service; terms of use; terms and conditions"
+   ]
+  },
+  {
+   "id": "j1264870",
+   "word": "個人情報",
+   "reading": "こじんじょうほう",
+   "ko": "개인정보",
+   "en": [
+    "personal information"
+   ]
+  },
+  {
+   "id": "j1254260",
+   "word": "決済",
+   "reading": "けっさい",
+   "ko": "결제",
+   "en": [
+    "settlement (of an account); liquidation of debts; payment"
+   ]
+  },
+  {
+   "id": "j2838992",
+   "word": "支払方法",
+   "reading": "しはらいほうほう",
+   "ko": "결제 방법",
+   "en": [
+    "payment method"
+   ]
+  },
+  {
+   "id": "j1433470",
+   "word": "通知",
+   "reading": "つうち",
+   "ko": "알림",
+   "en": [
+    "notice; notification; report"
+   ]
+  },
+  {
+   "id": "j1334390",
+   "word": "充電",
+   "reading": "じゅうでん",
+   "ko": "충전",
+   "en": [
+    "charging (electrically)"
+   ]
+  },
+  {
+   "id": "j1443220",
+   "word": "電源",
+   "reading": "でんげん",
+   "ko": "전원",
+   "en": [
+    "source of electricity; electrical power"
+   ]
+  },
+  {
+   "id": "j1197610",
+   "word": "画面",
+   "reading": "がめん",
+   "ko": "화면",
+   "en": [
+    "screen (of a TV, computer, etc.)"
+   ]
+  },
+  {
+   "id": "j1512240",
+   "word": "返信",
+   "reading": "へんしん",
+   "ko": "답장",
+   "en": [
+    "reply (e.g. email, fax, letter); answer"
+   ]
+  },
+  {
+   "id": "j2056830",
+   "word": "既読",
+   "reading": "きどく",
+   "ko": "읽음",
+   "en": [
+    "already read"
+   ]
+  },
+  {
+   "id": "j1529930",
+   "word": "無効",
+   "reading": "むこう",
+   "ko": "무효",
+   "en": [
+    "invalid; void; ineffective"
+   ]
+  },
+  {
+   "id": "j1292960",
+   "word": "再生",
+   "reading": "さいせい",
+   "ko": "재생",
+   "en": [
+    "restoration to life; coming to life again; resuscitation"
+   ]
+  },
+  {
+   "id": "j1438770",
+   "word": "天気予報",
+   "reading": "てんきよほう",
+   "ko": "일기예보",
+   "en": [
+    "weather forecast; weather report"
+   ]
+  },
+  {
+   "id": "j2235800",
+   "word": "降水確率",
+   "reading": "こうすいかくりつ",
+   "ko": "강수 확률",
+   "en": [
+    "chance of precipitation; chance of rain"
+   ]
+  },
+  {
+   "id": "j1582960",
+   "word": "梅雨",
+   "reading": "つゆ",
+   "ko": "장마",
+   "en": [
+    "(East Asian) rainy season (in Japan, usu. from early June to mid-July)"
+   ]
+  },
+  {
+   "id": "j2730780",
+   "word": "土日祝",
+   "reading": "どにちしゅく",
+   "ko": "토·일·공휴일",
+   "en": [
+    "Saturdays, Sundays, and holidays"
+   ]
+  },
+  {
+   "id": "j2051780",
+   "word": "年末年始",
+   "reading": "ねんまつねんし",
+   "ko": "연말연시",
+   "en": [
+    "year-end and New Year holidays (e.g. from December 29 to January 3)"
+   ]
+  },
+  {
+   "id": "j1393790",
+   "word": "前日",
+   "reading": "ぜんじつ",
+   "ko": "전날",
+   "en": [
+    "previous day; day before; eve"
+   ]
+  },
+  {
+   "id": "j1524690",
+   "word": "毎週",
+   "reading": "まいしゅう",
+   "ko": "매주",
+   "en": [
+    "every week"
+   ]
+  },
+  {
+   "id": "j1454760",
+   "word": "特急券",
+   "reading": "とっきゅうけん",
+   "ko": "특급권",
+   "en": [
+    "limited-express ticket (usu. needed in addition to a basic fare ticket); special-express ticket"
+   ]
+  },
+  {
+   "id": "j1355300",
+   "word": "乗車口",
+   "reading": "じょうしゃぐち",
+   "ko": "승차구",
+   "en": [
+    "entrance (for passengers at a train station)"
+   ]
+  },
+  {
+   "id": "j1348010",
+   "word": "小計",
+   "reading": "しょうけい",
+   "ko": "소계",
+   "en": [
+    "subtotal"
+   ]
+  },
+  {
+   "id": "j1161470",
+   "word": "一括",
+   "reading": "いっかつ",
+   "ko": "일시불",
+   "en": [
+    "lumping together; summing up; bundle"
+   ]
+  },
+  {
+   "id": "j1503280",
+   "word": "分割",
+   "reading": "ぶんかつ",
+   "ko": "할부",
+   "en": [
+    "partition; division; separation"
+   ]
+  },
+  {
+   "id": "j1296470",
+   "word": "在庫",
+   "reading": "ざいこ",
+   "ko": "재고",
+   "en": [
+    "stock; inventory"
+   ]
+  },
+  {
+   "id": "j2840724",
+   "word": "新商品",
+   "reading": "しんしょうひん",
+   "ko": "신상품",
+   "en": [
+    "new product"
+   ]
+  },
+  {
+   "id": "j1455250",
+   "word": "特売",
+   "reading": "とくばい",
+   "ko": "특가 판매",
+   "en": [
+    "special sale; bargain sale"
+   ]
+  },
+  {
+   "id": "j1748130",
+   "word": "保証書",
+   "reading": "ほしょうしょ",
+   "ko": "보증서",
+   "en": [
+    "written guarantee; guarantee letter; warranty"
+   ]
+  },
+  {
+   "id": "j1599000",
+   "word": "取扱説明書",
+   "reading": "とりあつかいせつめいしょ",
+   "ko": "사용 설명서",
+   "en": [
+    "user's manual; instruction manual; operation manual"
+   ]
+  },
+  {
+   "id": "j2835025",
+   "word": "授乳室",
+   "reading": "じゅにゅうしつ",
+   "ko": "수유실",
+   "en": [
+    "room for breast-feeding; nursing room"
+   ]
+  },
+  {
+   "id": "j1376300",
+   "word": "整列",
+   "reading": "せいれつ",
+   "ko": "줄 서기",
+   "en": [
+    "standing in a row; forming a line; alignment"
+   ]
+  },
+  {
+   "id": "j1888990",
+   "word": "先着順",
+   "reading": "せんちゃくじゅん",
+   "ko": "선착순",
+   "en": [
+    "order of arrival; first-come-first-served basis"
+   ]
+  },
+  {
+   "id": "j1401080",
+   "word": "相席",
+   "reading": "あいせき",
+   "ko": "합석",
+   "en": [
+    "sharing a table with someone you don't know (e.g. at a restaurant)"
+   ]
+  },
+  {
+   "id": "j1769880",
+   "word": "待ち時間",
+   "reading": "まちじかん",
+   "ko": "대기 시간",
+   "en": [
+    "waiting time; latency; standby time (e.g. cellular phones)"
+   ]
+  },
+  {
+   "id": "j2827507",
+   "word": "並盛り",
+   "reading": "なみもり",
+   "ko": "보통 양",
+   "en": [
+    "normal serving; medium-sized portion"
+   ]
+  },
+  {
+   "id": "j1410840",
+   "word": "替え玉",
+   "reading": "かえだま",
+   "ko": "면 추가(라멘)",
+   "en": [
+    "stand-in; proxy; substitute"
+   ]
+  },
+  {
+   "id": "j2068400",
+   "word": "激辛",
+   "reading": "げきから",
+   "ko": "아주 매움",
+   "en": [
+    "extremely spicy; fiery hot"
+   ]
+  },
+  {
+   "id": "j1562130",
+   "word": "和食",
+   "reading": "わしょく",
+   "ko": "일본 음식",
+   "en": [
+    "Japanese food; Japanese dish; Japanese cuisine"
+   ]
+  },
+  {
+   "id": "j1546000",
+   "word": "洋食",
+   "reading": "ようしょく",
+   "ko": "양식",
+   "en": [
+    "Western food; Western dish; Western cooking"
+   ]
+  },
+  {
+   "id": "j1423560",
+   "word": "中華",
+   "reading": "ちゅうか",
+   "ko": "중국 음식",
+   "en": [
+    "China"
+   ]
+  },
+  {
+   "id": "j1605420",
+   "word": "焼肉",
+   "reading": "やきにく",
+   "ko": "고기구이",
+   "en": [
+    "yakiniku; Japanese dish of grilled meat similar to Korean barbecue"
+   ]
+  },
+  {
+   "id": "j1399580",
+   "word": "惣菜",
+   "reading": "そうざい",
+   "ko": "반찬",
+   "en": [
+    "small dish (served as a part of an ordinary household meal); side dish"
+   ]
+  },
+  {
+   "id": "j1002720",
+   "word": "お冷",
+   "reading": "おひや",
+   "ko": "(식당의) 냉수",
+   "en": [
+    "cold (drinking) water; (glass of) cold water"
+   ]
+  },
+  {
+   "id": "j1606940",
+   "word": "割り箸",
+   "reading": "わりばし",
+   "ko": "나무젓가락",
+   "en": [
+    "dispensable chopsticks; throwaway chopsticks"
+   ]
+  },
+  {
+   "id": "j1261480",
+   "word": "原産地",
+   "reading": "げんさんち",
+   "ko": "원산지",
+   "en": [
+    "place of origin (of a plant or animal species, etc.); natural habitat; original home"
+   ]
+  },
+  {
+   "id": "j1286590",
+   "word": "国産",
+   "reading": "こくさん",
+   "ko": "국산",
+   "en": [
+    "domestically produced; domestic; Japanese-made"
+   ]
+  },
+  {
+   "id": "j1440840",
+   "word": "添加物",
+   "reading": "てんかぶつ",
+   "ko": "첨가물",
+   "en": [
+    "additive"
+   ]
+  },
+  {
+   "id": "j1370270",
+   "word": "酢",
+   "reading": "す",
+   "ko": "식초",
+   "en": [
+    "vinegar"
+   ]
+  },
+  {
+   "id": "j2838898",
+   "word": "内容量",
+   "reading": "ないようりょう",
+   "ko": "내용량",
+   "en": [
+    "net content (e.g. on food packaging)"
+   ]
+  },
+  {
+   "id": "j1329190",
+   "word": "酒類",
+   "reading": "しゅるい",
+   "ko": "주류",
+   "en": [
+    "alcoholic drinks; liquor"
+   ]
+  },
+  {
+   "id": "j1303850",
+   "word": "産婦人科",
+   "reading": "さんふじんか",
+   "ko": "산부인과",
+   "en": [
+    "maternity and gynaecology department (gynecology); department of obstetrics and gynaecology (gynecology)"
+   ]
+  },
+  {
+   "id": "j1504890",
+   "word": "粉薬",
+   "reading": "こなぐすり",
+   "ko": "가루약",
+   "en": [
+    "powdered medicine; powder"
+   ]
+  },
+  {
+   "id": "j1365490",
+   "word": "診断書",
+   "reading": "しんだんしょ",
+   "ko": "진단서",
+   "en": [
+    "medical certificate"
+   ]
+  },
+  {
+   "id": "j1543690",
+   "word": "予防接種",
+   "reading": "よぼうせっしゅ",
+   "ko": "예방접종",
+   "en": [
+    "vaccination; inoculation; immunization"
+   ]
+  },
+  {
+   "id": "j1467350",
+   "word": "妊娠",
+   "reading": "にんしん",
+   "ko": "임신",
+   "en": [
+    "pregnancy; conception; gestation"
+   ]
+  },
+  {
+   "id": "j1234310",
+   "word": "共益費",
+   "reading": "きょうえきひ",
+   "ko": "공익비(공용 관리비)",
+   "en": [
+    "monthly fee for common areas of an apartment building (lighting, etc.); condo fees"
+   ]
+  },
+  {
+   "id": "j1562110",
+   "word": "和室",
+   "reading": "わしつ",
+   "ko": "다다미방",
+   "en": [
+    "Japanese-style room"
+   ]
+  },
+  {
+   "id": "j1545970",
+   "word": "洋室",
+   "reading": "ようしつ",
+   "ko": "서양식 방",
+   "en": [
+    "Western-style room"
+   ]
+  },
+  {
+   "id": "j2855060",
+   "word": "仲介手数料",
+   "reading": "ちゅうかいてすうりょう",
+   "ko": "중개 수수료",
+   "en": [
+    "brokerage fee; agency fee; brokerage commission"
+   ]
+  },
+  {
+   "id": "j1711240",
+   "word": "除湿",
+   "reading": "じょしつ",
+   "ko": "제습",
+   "en": [
+    "dehumidification"
+   ]
+  },
+  {
+   "id": "j1496890",
+   "word": "布団",
+   "reading": "ふとん",
+   "ko": "이불",
+   "en": [
+    "futon; Japanese bedding consisting of a mattress and a duvet"
+   ]
+  },
+  {
+   "id": "j1199810",
+   "word": "回覧板",
+   "reading": "かいらんばん",
+   "ko": "회람판",
+   "en": [
+    "circular notice (esp. in binder form; passed around households within a neighbourhood association, etc.)"
+   ]
+  },
+  {
+   "id": "j1659930",
+   "word": "古紙",
+   "reading": "こし",
+   "ko": "폐지",
+   "en": [
+    "used paper; paper for recycling"
+   ]
+  },
+  {
+   "id": "j1311600",
+   "word": "紙幣",
+   "reading": "しへい",
+   "ko": "지폐",
+   "en": [
+    "paper money; note; bill"
+   ]
+  },
+  {
+   "id": "j1405030",
+   "word": "速達",
+   "reading": "そくたつ",
+   "ko": "속달",
+   "en": [
+    "express; special delivery"
+   ]
+  },
+  {
+   "id": "j1261050",
+   "word": "元払い",
+   "reading": "もとばらい",
+   "ko": "선불(발송인 부담)",
+   "en": [
+    "prepayment (of postage, shipping, etc.)"
+   ]
+  },
+  {
+   "id": "j2833040",
+   "word": "置き配",
+   "reading": "おきはい",
+   "ko": "문 앞 배송",
+   "en": [
+    "delivery in which the package is left in front of the door or in a designated area; safe drop"
+   ]
+  },
+  {
+   "id": "j1343370",
+   "word": "所得税",
+   "reading": "しょとくぜい",
+   "ko": "소득세",
+   "en": [
+    "income tax"
+   ]
+  },
+  {
+   "id": "j1819560",
+   "word": "確定申告",
+   "reading": "かくていしんこく",
+   "ko": "확정 신고(연말정산 비슷)",
+   "en": [
+    "final income tax return; final declaration; final report"
+   ]
+  },
+  {
+   "id": "j2137220",
+   "word": "源泉徴収票",
+   "reading": "げんせんちょうしゅうひょう",
+   "ko": "원천징수표",
+   "en": [
+    "tax certificate slip; statement of earnings; tax-income certificate"
+   ]
+  },
+  {
+   "id": "j1412470",
+   "word": "代理人",
+   "reading": "だいりにん",
+   "ko": "대리인",
+   "en": [
+    "proxy; agent; substitute"
+   ]
+  },
+  {
+   "id": "j1156190",
+   "word": "委任状",
+   "reading": "いにんじょう",
+   "ko": "위임장",
+   "en": [
+    "commission; proxy; power of attorney"
+   ]
+  },
+  {
+   "id": "j1374180",
+   "word": "世帯主",
+   "reading": "せたいぬし",
+   "ko": "세대주",
+   "en": [
+    "head of the family (esp. as recorded in the resident register); head of the household; householder"
+   ]
+  },
+  {
+   "id": "j1527320",
+   "word": "未記入",
+   "reading": "みきにゅう",
+   "ko": "미기입",
+   "en": [
+    "blank (book)"
+   ]
+  },
+  {
+   "id": "j1270530",
+   "word": "御中",
+   "reading": "おんちゅう",
+   "ko": "귀중(편지 받는 단체)",
+   "en": [
+    "... and Company; Messrs; for the attention of ..."
+   ]
+  },
+  {
+   "id": "j2161400",
+   "word": "非常食",
+   "reading": "ひじょうしょく",
+   "ko": "비상식량",
+   "en": [
+    "emergency food; emergency rations"
+   ]
+  },
+  {
+   "id": "j1200600",
+   "word": "懐中電灯",
+   "reading": "かいちゅうでんとう",
+   "ko": "손전등",
+   "en": [
+    "(electric) torch; flashlight"
+   ]
+  },
+  {
+   "id": "j1541200",
+   "word": "有給",
+   "reading": "ゆうきゅう",
+   "ko": "유급 휴가",
+   "en": [
+    "salaried; paid; with pay"
+   ]
+  },
+  {
+   "id": "j1374940",
+   "word": "制服",
+   "reading": "せいふく",
+   "ko": "유니폼",
+   "en": [
+    "uniform"
+   ]
+  },
+  {
+   "id": "j1257090",
+   "word": "圏外",
+   "reading": "けんがい",
+   "ko": "통화권 이탈",
+   "en": [
+    "outside (a region, area, etc.); out of range (of a mobile network, radar, etc.); outside the sphere (of influence, etc.)"
+   ]
+  },
+  {
+   "id": "j1527880",
+   "word": "未読",
+   "reading": "みどく",
+   "ko": "안 읽음",
+   "en": [
+    "unread"
+   ]
+  },
+  {
+   "id": "j1255960",
+   "word": "件名",
+   "reading": "けんめい",
+   "ko": "제목(메일)",
+   "en": [
+    "subject; title"
+   ]
+  },
+  {
+   "id": "j1440880",
+   "word": "添付",
+   "reading": "てんぷ",
+   "ko": "첨부",
+   "en": [
+    "attaching (documents, etc.); appending; affixing"
+   ]
+  },
+  {
+   "id": "j2057920",
+   "word": "迷惑メール",
+   "reading": "めいわくメール",
+   "ko": "스팸 메일",
+   "en": [
+    "spam; unsolicited email"
+   ]
+  },
+  {
+   "id": "j1184120",
+   "word": "音量",
+   "reading": "おんりょう",
+   "ko": "음량",
+   "en": [
+    "volume (sound)"
+   ]
+  },
+  {
+   "id": "j1315220",
+   "word": "字幕",
+   "reading": "じまく",
+   "ko": "자막",
+   "en": [
+    "subtitles; captioning"
+   ]
+  },
+  {
+   "id": "j2848153",
+   "word": "最高気温",
+   "reading": "さいこうきおん",
+   "ko": "최고 기온",
+   "en": [
+    "maximum temperature; highest temperature; (today's) high"
+   ]
+  },
+  {
+   "id": "j2848154",
+   "word": "最低気温",
+   "reading": "さいていきおん",
+   "ko": "최저 기온",
+   "en": [
+    "minimum temperature; lowest temperature; (today's) low"
+   ]
+  },
+  {
+   "id": "j1607110",
+   "word": "隔週",
+   "reading": "かくしゅう",
+   "ko": "격주",
+   "en": [
+    "every other week; every two weeks"
+   ]
+  }
+ ],
+ "kanji": [
+  {
+   "k": "粧",
+   "eum": [
+    "장"
+   ],
+   "en": [
+    "cosmetics",
+    "adorn (one's person)"
+   ]
+  },
+  {
+   "k": "診",
+   "eum": [
+    "진"
+   ],
+   "en": [
+    "checkup",
+    "seeing",
+    "diagnose",
+    "examine"
+   ]
+  },
+  {
+   "k": "保",
+   "eum": [
+    "보"
+   ],
+   "en": [
+    "protect",
+    "guarantee",
+    "keep",
+    "preserve"
+   ]
+  },
+  {
+   "k": "証",
+   "eum": [
+    "정"
+   ],
+   "en": [
+    "evidence",
+    "proof",
+    "certificate"
+   ]
+  },
+  {
+   "k": "箋",
+   "eum": [
+    "전"
+   ],
+   "en": [
+    "paper",
+    "label",
+    "letter",
+    "composition"
+   ]
+  },
+  {
+   "k": "怪",
+   "eum": [
+    "괴"
+   ],
+   "en": [
+    "suspicious",
+    "mystery",
+    "apparition"
+   ]
+  },
+  {
+   "k": "我",
+   "eum": [
+    "아"
+   ],
+   "en": [
+    "ego",
+    "I",
+    "selfish",
+    "our"
+   ]
+  },
+  {
+   "k": "救",
+   "eum": [
+    "구"
+   ],
+   "en": [
+    "salvation",
+    "save",
+    "help",
+    "rescue"
+   ]
+  },
+  {
+   "k": "緊",
+   "eum": [
+    "긴"
+   ],
+   "en": [
+    "tense",
+    "solid",
+    "hard",
+    "reliable"
+   ]
+  },
+  {
+   "k": "賃",
+   "eum": [
+    "임"
+   ],
+   "en": [
+    "fare",
+    "fee",
+    "hire",
+    "rent"
+   ]
+  },
+  {
+   "k": "敷",
+   "eum": [
+    "부"
+   ],
+   "en": [
+    "spread",
+    "pave",
+    "sit",
+    "promulgate"
+   ]
+  },
+  {
+   "k": "契",
+   "eum": [
+    "계",
+    "글",
+    "설"
+   ],
+   "en": [
+    "pledge",
+    "promise",
+    "vow"
+   ]
+  },
+  {
+   "k": "鍵",
+   "eum": [
+    "건"
+   ],
+   "en": [
+    "key"
+   ]
+  },
+  {
+   "k": "請",
+   "eum": [
+    "청"
+   ],
+   "en": [
+    "solicit",
+    "invite",
+    "ask"
+   ]
+  },
+  {
+   "k": "故",
+   "eum": [
+    "고"
+   ],
+   "en": [
+    "happenstance",
+    "especially",
+    "intentionally",
+    "reason"
+   ]
+  },
+  {
+   "k": "障",
+   "eum": [
+    "장"
+   ],
+   "en": [
+    "hinder",
+    "hurt",
+    "harm"
+   ]
+  },
+  {
+   "k": "源",
+   "eum": [
+    "원"
+   ],
+   "en": [
+    "source",
+    "origin"
+   ]
+  },
+  {
+   "k": "粗",
+   "eum": [
+    "조"
+   ],
+   "en": [
+    "coarse",
+    "rough",
+    "rugged"
+   ]
+  },
+  {
+   "k": "振",
+   "eum": [
+    "진"
+   ],
+   "en": [
+    "shake",
+    "wave",
+    "wag",
+    "swing"
+   ]
+  },
+  {
+   "k": "鑑",
+   "eum": [
+    "감"
+   ],
+   "en": [
+    "specimen",
+    "take warning from",
+    "learn from"
+   ]
+  },
+  {
+   "k": "票",
+   "eum": [
+    "표"
+   ],
+   "en": [
+    "ballot",
+    "label",
+    "ticket",
+    "sign"
+   ]
+  },
+  {
+   "k": "提",
+   "eum": [
+    "제"
+   ],
+   "en": [
+    "propose",
+    "take along",
+    "carry in hand"
+   ]
+  },
+  {
+   "k": "健",
+   "eum": [
+    "건"
+   ],
+   "en": [
+    "healthy",
+    "health",
+    "strength",
+    "persistence"
+   ]
+  },
+  {
+   "k": "康",
+   "eum": [
+    "강"
+   ],
+   "en": [
+    "ease",
+    "peace"
+   ]
+  },
+  {
+   "k": "氏",
+   "eum": [
+    "씨"
+   ],
+   "en": [
+    "family name",
+    "surname",
+    "clan"
+   ]
+  },
+  {
+   "k": "須",
+   "eum": [
+    "수"
+   ],
+   "en": [
+    "ought",
+    "by all means",
+    "necessarily"
+   ]
+  },
+  {
+   "k": "津",
+   "eum": [
+    "진"
+   ],
+   "en": [
+    "haven",
+    "port",
+    "harbor",
+    "ferry"
+   ]
+  },
+  {
+   "k": "避",
+   "eum": [
+    "피"
+   ],
+   "en": [
+    "evade",
+    "avoid",
+    "avert",
+    "ward off"
+   ]
+  },
+  {
+   "k": "災",
+   "eum": [
+    "재"
+   ],
+   "en": [
+    "disaster",
+    "calamity",
+    "woe",
+    "curse"
+   ]
+  },
+  {
+   "k": "器",
+   "eum": [
+    "기"
+   ],
+   "en": [
+    "utensil",
+    "vessel",
+    "receptacle",
+    "implement"
+   ]
+  },
+  {
+   "k": "厳",
+   "eum": [
+    "엄"
+   ],
+   "en": [
+    "stern",
+    "strictness",
+    "severity",
+    "rigidity"
+   ]
+  },
+  {
+   "k": "履",
+   "eum": [
+    "리",
+    "이"
+   ],
+   "en": [
+    "perform",
+    "complete",
+    "footgear",
+    "shoes"
+   ]
+  },
+  {
+   "k": "憩",
+   "eum": [
+    "게"
+   ],
+   "en": [
+    "recess",
+    "rest",
+    "relax",
+    "repose"
+   ]
+  },
+  {
+   "k": "削",
+   "eum": [
+    "삭"
+   ],
+   "en": [
+    "plane",
+    "sharpen",
+    "whittle",
+    "pare"
+   ]
+  },
+  {
+   "k": "症",
+   "eum": [
+    "증"
+   ],
+   "en": [
+    "symptoms",
+    "illness"
+   ]
+  },
+  {
+   "k": "締",
+   "eum": [
+    "체"
+   ],
+   "en": [
+    "tighten",
+    "tie",
+    "shut",
+    "lock"
+   ]
+  },
+  {
+   "k": "往",
+   "eum": [
+    "왕"
+   ],
+   "en": [
+    "journey",
+    "travel",
+    "chase away",
+    "let go"
+   ]
+  },
+  {
+   "k": "整",
+   "eum": [
+    "정"
+   ],
+   "en": [
+    "organize",
+    "arranging",
+    "tune",
+    "tone"
+   ]
+  },
+  {
+   "k": "徐",
+   "eum": [
+    "서"
+   ],
+   "en": [
+    "gradually",
+    "slowly",
+    "deliberately",
+    "gently"
+   ]
+  },
+  {
+   "k": "免",
+   "eum": [
+    "면"
+   ],
+   "en": [
+    "excuse",
+    "dismissal"
+   ]
+  },
+  {
+   "k": "臨",
+   "eum": [
+    "림",
+    "임"
+   ],
+   "en": [
+    "look to",
+    "face",
+    "meet",
+    "confront"
+   ]
+  },
+  {
+   "k": "銭",
+   "eum": [
+    "전"
+   ],
+   "en": [
+    "coin",
+    ".01 yen",
+    "money"
+   ]
+  },
+  {
+   "k": "釣",
+   "eum": [
+    "조"
+   ],
+   "en": [
+    "angling",
+    "fish",
+    "catch",
+    "allure"
+   ]
+  },
+  {
+   "k": "尾",
+   "eum": [
+    "미"
+   ],
+   "en": [
+    "tail",
+    "end",
+    "counter for fish",
+    "lower slope of mountain"
+   ]
+  },
+  {
+   "k": "盛",
+   "eum": [
+    "성"
+   ],
+   "en": [
+    "boom",
+    "prosper",
+    "copulate"
+   ]
+  },
+  {
+   "k": "丼",
+   "eum": [
+    "정"
+   ],
+   "en": [
+    "bowl",
+    "bowl of food"
+   ]
+  },
+  {
+   "k": "麺",
+   "eum": [
+    "면"
+   ],
+   "en": [
+    "noodles",
+    "wheat flour"
+   ]
+  },
+  {
+   "k": "寿",
+   "eum": [
+    "수"
+   ],
+   "en": [
+    "longevity",
+    "congratulations",
+    "one's natural life"
+   ]
+  },
+  {
+   "k": "司",
+   "eum": [
+    "사"
+   ],
+   "en": [
+    "director",
+    "official",
+    "govt office",
+    "rule"
+   ]
+  },
+  {
+   "k": "弁",
+   "eum": [
+    "변"
+   ],
+   "en": [
+    "valve",
+    "petal",
+    "braid",
+    "speech"
+   ]
+  },
+  {
+   "k": "箸",
+   "eum": [
+    "저"
+   ],
+   "en": [
+    "chopsticks"
+   ]
+  },
+  {
+   "k": "豆",
+   "eum": [
+    "두"
+   ],
+   "en": [
+    "beans",
+    "pea",
+    "midget"
+   ]
+  },
+  {
+   "k": "豚",
+   "eum": [
+    "돈"
+   ],
+   "en": [
+    "pork",
+    "pig"
+   ]
+  },
+  {
+   "k": "鶏",
+   "eum": [
+    "계"
+   ],
+   "en": [
+    "chicken"
+   ]
+  },
+  {
+   "k": "醤",
+   "eum": [
+    "장"
+   ],
+   "en": [
+    "a kind of miso"
+   ]
+  },
+  {
+   "k": "噌",
+   "eum": [
+    "쟁",
+    "증"
+   ],
+   "en": [
+    "boisterous"
+   ]
+  },
+  {
+   "k": "糖",
+   "eum": [
+    "당",
+    "탕"
+   ],
+   "en": [
+    "sugar"
+   ]
+  },
+  {
+   "k": "眼",
+   "eum": [
+    "안"
+   ],
+   "en": [
+    "eyeball"
+   ]
+  },
+  {
+   "k": "錠",
+   "eum": [
+    "정"
+   ],
+   "en": [
+    "lock",
+    "fetters",
+    "shackles"
+   ]
+  },
+  {
+   "k": "剤",
+   "eum": [
+    "제",
+    "자"
+   ],
+   "en": [
+    "dose",
+    "medicine",
+    "drug"
+   ]
+  },
+  {
+   "k": "邪",
+   "eum": [
+    "사"
+   ],
+   "en": [
+    "wicked",
+    "injustice",
+    "wrong"
+   ]
+  },
+  {
+   "k": "咳",
+   "eum": [
+    "해"
+   ],
+   "en": [
+    "cough",
+    "clear throat"
+   ]
+  },
+  {
+   "k": "吐",
+   "eum": [
+    "토"
+   ],
+   "en": [
+    "spit",
+    "vomit",
+    "belch",
+    "confess"
+   ]
+  },
+  {
+   "k": "痢",
+   "eum": [
+    "리",
+    "이"
+   ],
+   "en": [
+    "diarrhea"
+   ]
+  },
+  {
+   "k": "傷",
+   "eum": [
+    "상"
+   ],
+   "en": [
+    "wound",
+    "hurt",
+    "injure",
+    "impair"
+   ]
+  },
+  {
+   "k": "射",
+   "eum": [
+    "사"
+   ],
+   "en": [
+    "shoot",
+    "shine into",
+    "onto",
+    "archery"
+   ]
+  },
+  {
+   "k": "検",
+   "eum": [
+    "검"
+   ],
+   "en": [
+    "examination",
+    "investigate"
+   ]
+  },
+  {
+   "k": "呂",
+   "eum": [
+    "려",
+    "여"
+   ],
+   "en": [
+    "spine",
+    "backbone"
+   ]
+  },
+  {
+   "k": "玄",
+   "eum": [
+    "현"
+   ],
+   "en": [
+    "mysterious",
+    "occultness",
+    "black",
+    "deep"
+   ]
+  },
+  {
+   "k": "騒",
+   "eum": [
+    "소"
+   ],
+   "en": [
+    "boisterous",
+    "make noise",
+    "clamor",
+    "disturb"
+   ]
+  },
+  {
+   "k": "修",
+   "eum": [
+    "수"
+   ],
+   "en": [
+    "discipline",
+    "conduct oneself well",
+    "study",
+    "master"
+   ]
+  },
+  {
+   "k": "房",
+   "eum": [
+    "방"
+   ],
+   "en": [
+    "tassel",
+    "tuft",
+    "fringe",
+    "bunch"
+   ]
+  },
+  {
+   "k": "暖",
+   "eum": [
+    "난"
+   ],
+   "en": [
+    "warmth"
+   ]
+  },
+  {
+   "k": "帳",
+   "eum": [
+    "장"
+   ],
+   "en": [
+    "notebook",
+    "account book",
+    "album",
+    "curtain"
+   ]
+  },
+  {
+   "k": "宛",
+   "eum": [
+    "완"
+   ],
+   "en": [
+    "address",
+    "just like",
+    "fortunately"
+   ]
+  },
+  {
+   "k": "該",
+   "eum": [
+    "해"
+   ],
+   "en": [
+    "above-stated",
+    "the said",
+    "that specific"
+   ]
+  },
+  {
+   "k": "洪",
+   "eum": [
+    "홍"
+   ],
+   "en": [
+    "deluge",
+    "flood",
+    "vast"
+   ]
+  },
+  {
+   "k": "詐",
+   "eum": [
+    "사"
+   ],
+   "en": [
+    "lie",
+    "falsehood",
+    "deceive",
+    "pretend"
+   ]
+  },
+  {
+   "k": "欺",
+   "eum": [
+    "기"
+   ],
+   "en": [
+    "deceit",
+    "cheat",
+    "delude"
+   ]
+  },
+  {
+   "k": "審",
+   "eum": [
+    "심"
+   ],
+   "en": [
+    "hearing",
+    "judge",
+    "trial"
+   ]
+  },
+  {
+   "k": "撮",
+   "eum": [
+    "촬"
+   ],
+   "en": [
+    "snapshot",
+    "take pictures"
+   ]
+  },
+  {
+   "k": "影",
+   "eum": [
+    "영"
+   ],
+   "en": [
+    "shadow",
+    "silhouette",
+    "phantom"
+   ]
+  },
+  {
+   "k": "扱",
+   "eum": [
+    "급"
+   ],
+   "en": [
+    "handle",
+    "entertain",
+    "thresh",
+    "strip"
+   ]
+  },
+  {
+   "k": "応",
+   "eum": [
+    "응"
+   ],
+   "en": [
+    "apply",
+    "answer",
+    "yes",
+    "OK"
+   ]
+  },
+  {
+   "k": "索",
+   "eum": [
+    "삭",
+    "색"
+   ],
+   "en": [
+    "cord",
+    "rope",
+    "searching",
+    "inquiring"
+   ]
+  },
+  {
+   "k": "択",
+   "eum": [
+    "택"
+   ],
+   "en": [
+    "choose",
+    "select",
+    "elect",
+    "prefer"
+   ]
+  },
+  {
+   "k": "充",
+   "eum": [
+    "충"
+   ],
+   "en": [
+    "allot",
+    "fill"
+   ]
+  },
+  {
+   "k": "既",
+   "eum": [
+    "기"
+   ],
+   "en": [
+    "previously",
+    "already",
+    "long ago"
+   ]
+  },
+  {
+   "k": "率",
+   "eum": [
+    "률",
+    "솔",
+    "율"
+   ],
+   "en": [
+    "ratio",
+    "rate",
+    "proportion",
+    "%"
+   ]
+  },
+  {
+   "k": "梅",
+   "eum": [
+    "매"
+   ],
+   "en": [
+    "plum"
+   ]
+  },
+  {
+   "k": "括",
+   "eum": [
+    "괄"
+   ],
+   "en": [
+    "fasten",
+    "tie up",
+    "arrest",
+    "constrict"
+   ]
+  },
+  {
+   "k": "授",
+   "eum": [
+    "수"
+   ],
+   "en": [
+    "impart",
+    "instruct",
+    "grant",
+    "confer"
+   ]
+  },
+  {
+   "k": "激",
+   "eum": [
+    "격"
+   ],
+   "en": [
+    "violent",
+    "get excited",
+    "enraged",
+    "chafe"
+   ]
+  },
+  {
+   "k": "華",
+   "eum": [
+    "화"
+   ],
+   "en": [
+    "splendor",
+    "flower",
+    "petal",
+    "shine"
+   ]
+  },
+  {
+   "k": "惣",
+   "eum": [
+    "총"
+   ],
+   "en": [
+    "all"
+   ]
+  },
+  {
+   "k": "添",
+   "eum": [
+    "첨"
+   ],
+   "en": [
+    "annexed",
+    "accompany",
+    "marry",
+    "suit"
+   ]
+  },
+  {
+   "k": "酢",
+   "eum": [
+    "초"
+   ],
+   "en": [
+    "vinegar",
+    "sour",
+    "acid",
+    "tart"
+   ]
+  },
+  {
+   "k": "妊",
+   "eum": [
+    "임"
+   ],
+   "en": [
+    "pregnancy"
+   ]
+  },
+  {
+   "k": "娠",
+   "eum": [
+    "신"
+   ],
+   "en": [
+    "with child",
+    "pregnancy"
+   ]
+  },
+  {
+   "k": "益",
+   "eum": [
+    "익"
+   ],
+   "en": [
+    "benefit",
+    "gain",
+    "profit",
+    "advantage"
+   ]
+  },
+  {
+   "k": "覧",
+   "eum": [
+    "람"
+   ],
+   "en": [
+    "perusal",
+    "see"
+   ]
+  },
+  {
+   "k": "幣",
+   "eum": [
+    "폐"
+   ],
+   "en": [
+    "cash",
+    "bad habit",
+    "humble prefix",
+    "gift"
+   ]
+  },
+  {
+   "k": "徴",
+   "eum": [
+    "징",
+    "치"
+   ],
+   "en": [
+    "indications",
+    "sign",
+    "omen",
+    "symptom"
+   ]
+  },
+  {
+   "k": "懐",
+   "eum": [
+    "회"
+   ],
+   "en": [
+    "feelings",
+    "heart",
+    "yearn",
+    "miss someone"
+   ]
+  },
+  {
+   "k": "圏",
+   "eum": [
+    "권"
+   ],
+   "en": [
+    "sphere",
+    "circle",
+    "radius",
+    "range"
+   ]
+  },
+  {
+   "k": "惑",
+   "eum": [
+    "혹"
+   ],
+   "en": [
+    "beguile",
+    "delusion",
+    "perplexity"
+   ]
+  },
+  {
+   "k": "幕",
+   "eum": [
+    "막"
+   ],
+   "en": [
+    "curtain",
+    "bunting",
+    "act of play"
+   ]
+  },
+  {
+   "k": "隔",
+   "eum": [
+    "격"
+   ],
+   "en": [
+    "isolate",
+    "alternate",
+    "distance",
+    "separate"
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "id": "j1204900",
+   "word": "各駅停車",
+   "ja": "急行列車は各駅停車より一時間も早い。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1332960",
+   "word": "終電",
+   "ja": "これって、終電じゃないですよね？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1422030",
+   "word": "遅延",
+   "ja": "大雪のため電車は遅延していた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1379930",
+   "word": "精算",
+   "ja": "彼は精算をしてホテルを出た。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1482330",
+   "word": "番線",
+   "ja": "ダウンタウン行きは何番線ですか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1600520",
+   "word": "乗り場",
+   "ja": "７番バスの乗り場はどこですか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1582820",
+   "word": "入口",
+   "ja": "警官が横に列を組んで入口を固めた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1692060",
+   "word": "駐車禁止",
+   "ja": "この通りは駐車禁止ですよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1651100",
+   "word": "一時停止",
+   "ja": "発売してすぐにワゴンどころか販売一時停止だとさ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1918560",
+   "word": "止まれ",
+   "ja": "止まれとおっしゃっているんですか？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1173470",
+   "word": "営業中",
+   "ja": "年中休まず営業中！",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1341750",
+   "word": "準備中",
+   "ja": "給食の準備中、スプーンを落としてしまった。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1173450",
+   "word": "営業時間",
+   "ja": "営業時間は十時から七時までです。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1541690",
+   "word": "有料",
+   "ja": "この道路は有料です。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1351980",
+   "word": "賞味期限",
+   "ja": "彼女は賞味期限切れの牛乳を飲んだ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2233960",
+   "word": "消費期限",
+   "ja": "この豆の缶詰、消費期限が切れてるよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1261430",
+   "word": "原材料",
+   "ja": "日本は海外から様々な原材料を輸入している。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1464980",
+   "word": "乳",
+   "ja": "赤ちゃんがお乳を欲しがっています。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1457830",
+   "word": "内科",
+   "ja": "内科医は普通外科医と区別されている。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1365460",
+   "word": "診察",
+   "ja": "診察券は要らないんですか。",
+   "ko_tatoeba": "진찰권은 필요하지 않습니까?"
+  },
+  {
+   "id": "j1513490",
+   "word": "保険証",
+   "ja": "毎月初めは保険証を提示してください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1655680",
+   "word": "処方箋",
+   "ja": "吸入器は処方箋無しで買えますか？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1538200",
+   "word": "薬局",
+   "ja": "この近くに薬局はありますか？",
+   "ko_tatoeba": "이 근처에 약국 있어요?"
+  },
+  {
+   "id": "j1500400",
+   "word": "副作用",
+   "ja": "副作用やフライングがあるだろう。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1358520",
+   "word": "食前",
+   "ja": "果物は食後よりも食前に食べた方が体にいいらしいよ。",
+   "ko_tatoeba": "과일은 식후보다 식전에 먹는 것이 몸에 좋다고 해."
+  },
+  {
+   "id": "j1358450",
+   "word": "食後",
+   "ja": "果物は食後よりも食前に食べた方が体にいいらしいよ。",
+   "ko_tatoeba": "과일은 식후보다 식전에 먹는 것이 몸에 좋다고 해."
+  },
+  {
+   "id": "j1477790",
+   "word": "発熱",
+   "ja": "発熱は体の防御反応の一つだ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1200220",
+   "word": "怪我",
+   "ja": "怪我で血が流れた。",
+   "ko_tatoeba": "상처에서 피가 흘렀다."
+  },
+  {
+   "id": "j1229100",
+   "word": "救急車",
+   "ja": "通りの真ん中で救急車が故障した。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1229080",
+   "word": "救急",
+   "ja": "通りの真ん中で救急車が故障した。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1241850",
+   "word": "緊急",
+   "ja": "今日は緊急避難訓練が行われた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1192270",
+   "word": "家賃",
+   "ja": "彼の収入の大部分は家賃で消える。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1497040",
+   "word": "敷金",
+   "ja": "２ヶ月分の敷金を入れていただきます。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1250190",
+   "word": "契約",
+   "ja": "彼は彼らと家具の売買契約をした。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1250210",
+   "word": "契約書",
+   "ja": "もう契約書にサインはしましたか？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1199300",
+   "word": "解約",
+   "ja": "私はその商品の予約を解約した。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1260490",
+   "word": "鍵",
+   "ja": "このドアは内側から鍵が掛かっている。",
+   "ko_tatoeba": "이 문은 안쪽에서 열쇠가 잠겨져 있다."
+  },
+  {
+   "id": "j1554280",
+   "word": "料金",
+   "ja": "４月から公共料金が値上げになる。",
+   "ko_tatoeba": "4월부터 공공 요금이 인상된다."
+  },
+  {
+   "id": "j1381330",
+   "word": "請求書",
+   "ja": "請求書は合計２５ドル以上になった。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1419660",
+   "word": "断水",
+   "ja": "水道が断水しました。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1267180",
+   "word": "故障",
+   "ja": "クーラーが故障してしまった。",
+   "ko_tatoeba": "쿨러가 고장났다."
+  },
+  {
+   "id": "j1276150",
+   "word": "口座",
+   "ja": "トムはクレジットカードも銀行口座も持ってないんだ。",
+   "ko_tatoeba": "톰은 신용 카드도 은행 계좌도 가지고 있지 않아."
+  },
+  {
+   "id": "j1154610",
+   "word": "暗証番号",
+   "ja": "暗証番号を入力してください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1304590",
+   "word": "残高",
+   "ja": "私の預金残高はどうなっていますか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1602960",
+   "word": "振込",
+   "ja": "銀行振込でお支払いします。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1327980",
+   "word": "手数料",
+   "ja": "手数料は３パーセントかかります。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1401420",
+   "word": "窓口",
+   "ja": "申請書類を窓口に提出してください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1365820",
+   "word": "身分証明書",
+   "ja": "身分証明書を二枚拝見できますか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1168120",
+   "word": "印鑑",
+   "ja": "こちらに印鑑かサインをお願いします。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2863879",
+   "word": "不在票",
+   "ja": "あら？不在票が入ってるわ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1308760",
+   "word": "市役所",
+   "ja": "市役所まで行く必要があるんです。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1244270",
+   "word": "区役所",
+   "ja": "豊島区役所までどのくらいかかりますか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1363130",
+   "word": "申請",
+   "ja": "もうパスポートを申請しましたか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1363140",
+   "word": "申請書",
+   "ja": "日本語の申請書はありますか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1598350",
+   "word": "手続き",
+   "ja": "単位履修の手続きは終えましたか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2214950",
+   "word": "必要書類",
+   "ja": "必要書類を提出してください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1436410",
+   "word": "提出",
+   "ja": "報告書は月曜日に提出ですからね。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1220560",
+   "word": "期限",
+   "ja": "期限までに仕事は仕上がりますか？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1279370",
+   "word": "更新",
+   "ja": "久しぶりに更新しててほっとした。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1351700",
+   "word": "証明書",
+   "ja": "身分証明書を二枚拝見できますか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1311060",
+   "word": "氏名",
+   "ja": "警察官は彼らの住所氏名を詰問した。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1334080",
+   "word": "住所",
+   "ja": "この住所まで、行ってください。",
+   "ko_tatoeba": "이 주소로 가주세요."
+  },
+  {
+   "id": "j1375520",
+   "word": "性別",
+   "ja": "性別で人を分け隔てすべきでない。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1559930",
+   "word": "連絡先",
+   "ja": "これが私の連絡先です。",
+   "ko_tatoeba": "이게 제 연락처입니다."
+  },
+  {
+   "id": "j1443940",
+   "word": "電話番号",
+   "ja": "電話番号は何番ですか。",
+   "ko_tatoeba": "전화번호가 뭐예요?"
+  },
+  {
+   "id": "j2863563",
+   "word": "緊急連絡先",
+   "ja": "緊急連絡先は何番ですか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1487540",
+   "word": "必須",
+   "ja": "キャリーバッグは旅行に必須。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1528040",
+   "word": "未満",
+   "ja": "１８歳未満の方は入場できません。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1432220",
+   "word": "津波",
+   "ja": "津波で流されてしまったのです。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1252520",
+   "word": "警報",
+   "ja": "その警報で皆部屋から飛び出した。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1484660",
+   "word": "避難",
+   "ja": "今日、学校で避難訓練をしました。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2399950",
+   "word": "避難場所",
+   "ja": "彼は雨を避ける避難場所を捜した。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1193880",
+   "word": "火災",
+   "ja": "彼は新築の家に火災保険をかけた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1272500",
+   "word": "交番",
+   "ja": "交番はどこにあるかわかりますか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1597010",
+   "word": "立入禁止",
+   "ja": "こっからは立入禁止だって。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2436180",
+   "word": "故障中",
+   "ja": "電話は今、故障中だよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1549820",
+   "word": "履歴書",
+   "ja": "ぼくは履歴書なんか気にしないよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1316100",
+   "word": "時給",
+   "ja": "あの修理工たちは時給一万円ももらっている。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1227720",
+   "word": "休憩",
+   "ja": "１０分間、休憩をとりましょう。",
+   "ko_tatoeba": "10분간 쉬죠."
+  },
+  {
+   "id": "j1444810",
+   "word": "登録",
+   "ja": "登録は午後から受け付けています。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1467560",
+   "word": "認証",
+   "ja": "この認証システム、通す気ないだろ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1402820",
+   "word": "送信",
+   "ja": "トムは「送信」ボタンを押しました。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1298120",
+   "word": "削除",
+   "ja": "この写真、削除してもらえますか？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1513940",
+   "word": "保存",
+   "ja": "ほら、保存料たっぷりの弁当だよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1386060",
+   "word": "設定",
+   "ja": "設定料金に労務費用は含みません。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1466850",
+   "word": "入力",
+   "ja": "PINコードを入力してください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1451850",
+   "word": "同意",
+   "ja": "その意見には同意いたしかねます。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1541310",
+   "word": "有効期限",
+   "ja": "運転免許証の有効期限が過ぎてますね。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2097700",
+   "word": "熱中症",
+   "ja": "トムって、熱中症になったんだよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1507720",
+   "word": "平日",
+   "ja": "私は平日は白いシャツを着ている。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1523110",
+   "word": "本日",
+   "ja": "恐れ入りますが、本日は満席です。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1594590",
+   "word": "締め切り",
+   "ja": "締め切りは今日の2時半です。",
+   "ko_tatoeba": "마감은 오늘 2시 반입니다."
+  },
+  {
+   "id": "j1424410",
+   "word": "中止",
+   "ja": "クリスマス会は中止になったんだ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1355270",
+   "word": "乗車",
+   "ja": "この列車乗車券は３カ月有効だ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1618150",
+   "word": "降車",
+   "ja": "彼らは次のバス停で降車した。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1307610",
+   "word": "始発",
+   "ja": "私は始発電車に乗らねばならない。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1355290",
+   "word": "乗車券",
+   "ja": "この列車乗車券は３カ月有効だ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1309930",
+   "word": "指定席",
+   "ja": "この映画の指定席はありますか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1318790",
+   "word": "自由席",
+   "ja": "自由席を三枚ください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1560040",
+   "word": "路線",
+   "ja": "市はバス路線を１０Ｋｍ延長した。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1332950",
+   "word": "終点",
+   "ja": "この路線の終点はどこでしょうか？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1179760",
+   "word": "往復",
+   "ja": "彼は往復ともタクシーに乗った。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1172820",
+   "word": "運賃",
+   "ja": "バスの運賃が20%値上げされました。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1316230",
+   "word": "時刻表",
+   "ja": "バスの時刻表をいただけませんか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1477500",
+   "word": "発車",
+   "ja": "駅に着く前に列車は発車していた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1376260",
+   "word": "整理券",
+   "ja": "最悪・・・入場制限を設けるしかないでしょう。整理券の配布とかで。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1245610",
+   "word": "空車",
+   "ja": "バスは空車だった。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1812490",
+   "word": "満車",
+   "ja": "駐車場は満車です。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1427000",
+   "word": "駐輪場",
+   "ja": "駐輪場がないからあちこちに自転車がとめられてる。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1166550",
+   "word": "一方通行",
+   "ja": "ここは一方通行ですか？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1278150",
+   "word": "工事中",
+   "ja": "職員室と体育館は、改修工事中です。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1592970",
+   "word": "交差点",
+   "ja": "その事故はあの交差点で起こった。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1180910",
+   "word": "横断歩道",
+   "ja": "その横断歩道を渡った先が公園です。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1345590",
+   "word": "徐行",
+   "ja": "車が徐行でついてきているような気がする。",
+   "ko_tatoeba": "자동차가 천천히 따라오는 것 같은 느낌이 든다."
+  },
+  {
+   "id": "j1533150",
+   "word": "免許証",
+   "ja": "先月、運転免許証を更新しました。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1508720",
+   "word": "閉店",
+   "ja": "彼は店の入り口に閉店の札をかけた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1202870",
+   "word": "開店",
+   "ja": "店は9時開店です。",
+   "ko_tatoeba": "가게는 9시 오픈입니다."
+  },
+  {
+   "id": "j1350320",
+   "word": "消費税",
+   "ja": "私たちの多くは消費税に反対である。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1606950",
+   "word": "割引",
+   "ja": "その店は夏の間特別割引をやった。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1600190",
+   "word": "値引き",
+   "ja": "どのくらいなら値引きできますか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1479050",
+   "word": "半額",
+   "ja": "半額にしたって売れないと思うよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1554760",
+   "word": "領収書",
+   "ja": "私たちはサインある領収書がいる。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1512300",
+   "word": "返品",
+   "ja": "いったん封を切るとそのテープは返品できません。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1512200",
+   "word": "返金",
+   "ja": "注文をキャンセルしますので、返金してください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1490640",
+   "word": "品切れ",
+   "ja": "ただいま品切れとなっております。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1473870",
+   "word": "売り切れ",
+   "ja": "今日のカスタードまんは売り切れ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1264670",
+   "word": "限定",
+   "ja": "開店と同時に限定品に客が殺到した。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1312510",
+   "word": "試着室",
+   "ja": "試着室はどこかしら？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1440780",
+   "word": "店内",
+   "ja": "いいか。店内では大人しくしてるんだぞ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1770030",
+   "word": "持ち帰り",
+   "ja": "食べ残しはお持ち帰りください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1348470",
+   "word": "小銭",
+   "ja": "これを小銭に換えてもらえますか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1270550",
+   "word": "お釣り",
+   "ja": "ごめん、お釣りが無い。",
+   "ko_tatoeba": "미안, 잔돈이 없어."
+  },
+  {
+   "id": "j1402870",
+   "word": "送料",
+   "ja": "あと300円で送料無料になるんだけど何か買いたいものある？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1604490",
+   "word": "未成年",
+   "ja": "未成年者は喫煙を禁じられている。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2134380",
+   "word": "最後尾",
+   "ja": "彼女は列の最後尾に並んでしまった。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1342390",
+   "word": "順番",
+   "ja": "君達全部のいう事を順番に聞こう。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1526850",
+   "word": "満席",
+   "ja": "恐れ入りますが、本日は満席です。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1449210",
+   "word": "当日",
+   "ja": "当日雨天の場合は順延となります。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1358440",
+   "word": "食券",
+   "ja": "食券はここで出しているのですか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1414280",
+   "word": "大盛り",
+   "ja": "ご飯は大盛りでお願いします。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1435650",
+   "word": "定食",
+   "ja": "彼は焼き魚定食一人前を注文した。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1562970",
+   "word": "丼",
+   "ja": "彼はご飯を丼で食べたよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1533610",
+   "word": "麺",
+   "ja": "たまにカップ麺が食べたくなります。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1358360",
+   "word": "食べ放題",
+   "ja": "食べ放題と言いつつ満足に料理が出てこない。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1432460",
+   "word": "追加",
+   "ja": "間違って追加されちゃったのかな？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1609630",
+   "word": "辛口",
+   "ja": "点数高いけど辛口なアドバイスだった。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1213510",
+   "word": "甘口",
+   "ja": "そんな甘口には乗らないよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1595650",
+   "word": "寿司",
+   "ja": "お寿司って、食べてみたことある？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1513060",
+   "word": "弁当",
+   "ja": "ほら、保存料たっぷりの弁当だよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1476410",
+   "word": "箸",
+   "ja": "パーカーさんは箸で食べてみました。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "p6e293081",
+   "word": "温め",
+   "ja": "水は温められると、気体になる。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1557100",
+   "word": "冷蔵",
+   "ja": "冷蔵庫に卵いくつある？",
+   "ko_tatoeba": "냉장고에 계란 얼마나 있어?"
+  },
+  {
+   "id": "j1798230",
+   "word": "常温",
+   "ja": "直射日光を避け、常温で保存してください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1414680",
+   "word": "大豆",
+   "ja": "肉の代わりに大豆を食べましょう。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1457440",
+   "word": "豚肉",
+   "ja": "豚肉と牛肉の違いが分かりません。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1588720",
+   "word": "海老",
+   "ja": "私たちは海老やその他のシーフードで腹いっぱいになった。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1595020",
+   "word": "醤油",
+   "ja": "マヨネーズと醤油を買わなきゃ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1291600",
+   "word": "砂糖",
+   "ja": "コーヒーに砂糖は入れないよ。",
+   "ko_tatoeba": "커피에 설탕 안 넣어."
+  },
+  {
+   "id": "j1378450",
+   "word": "生",
+   "ja": "生の鶏肉を食べると、毒効果が付く。",
+   "ko_tatoeba": "생 닭고기를 먹으면, 독 효과가 붙는다."
+  },
+  {
+   "id": "j1190470",
+   "word": "加熱",
+   "ja": "料理の加熱時間を管理するためにタイマーを使っている。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "p958b5c015f8c",
+   "word": "開封後",
+   "ja": "開封後は一両日中にお召し上がり下さい。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1159730",
+   "word": "医院",
+   "ja": "手術は医院内で三十分以内に完了します。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1203380",
+   "word": "外科",
+   "ja": "その外科医はその患者を手術した。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1313110",
+   "word": "歯科",
+   "ja": "歯科医は彼女の虫歯を引き抜いた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1217150",
+   "word": "眼科",
+   "ja": "私は眼科医です。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1317310",
+   "word": "耳鼻科",
+   "ja": "今、耳鼻科にかかっています。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1348200",
+   "word": "小児科",
+   "ja": "トムは小児科の先生じゃないよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1705630",
+   "word": "診察券",
+   "ja": "診察券は要らないんですか。",
+   "ko_tatoeba": "진찰권은 필요하지 않습니까?"
+  },
+  {
+   "id": "j1798960",
+   "word": "初診",
+   "ja": "初診の受付は一番窓口です。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1357120",
+   "word": "錠剤",
+   "ja": "錠剤のおかげで痛みがなくなった。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1535690",
+   "word": "目薬",
+   "ja": "目薬持ってくればよかった。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1609540",
+   "word": "風邪薬",
+   "ja": "寝る前に風邪薬を3錠飲んだ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1432690",
+   "word": "痛み止め",
+   "ja": "痛い時は、痛み止めを飲んでください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1546410",
+   "word": "用法",
+   "ja": "国文法の現在形はこれからのことを示す用法が多い。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1409250",
+   "word": "体温",
+   "ja": "それでは、体温を測りますね。",
+   "ko_tatoeba": "그럼 체온을 측정하겠습니다."
+  },
+  {
+   "id": "j1204300",
+   "word": "咳",
+   "ja": "咳が出ますか。",
+   "ko_tatoeba": "기침이 나옵니까?"
+  },
+  {
+   "id": "j1487060",
+   "word": "鼻水",
+   "ja": "風邪を引くと私はいつも鼻水が出る。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1501230",
+   "word": "腹痛",
+   "ja": "この薬を飲めば腹痛は治まりますよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1444120",
+   "word": "吐き気",
+   "ja": "なんだかめまいと吐き気がします。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1186540",
+   "word": "下痢",
+   "ja": "昨日から下痢が続いているんです。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1577310",
+   "word": "火傷",
+   "ja": "オーブン熱いから火傷しないようにね。",
+   "ko_tatoeba": "오븐이 뜨거우니까 화상입지 않게 조심해."
+  },
+  {
+   "id": "j1426590",
+   "word": "注射",
+   "ja": "注射待ちの犬がブルブル震えてる。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1257890",
+   "word": "検査",
+   "ja": "検査は全くおざなりなものだった。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1536530",
+   "word": "夜間",
+   "ja": "全市に夜間外出禁止令が布かれた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1465980",
+   "word": "入居",
+   "ja": "つい先日、入居なさったんですよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1502460",
+   "word": "物件",
+   "ja": "あそこのビルは、当社の所有物件です。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1547460",
+   "word": "浴室",
+   "ja": "この家には浴室が二つ付いている。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1500100",
+   "word": "風呂",
+   "ja": "トムくんは今お風呂に入ってるところよ。",
+   "ko_tatoeba": "톰 군은 지금 목욕을 하고 있는 중이야."
+  },
+  {
+   "id": "j1263400",
+   "word": "玄関",
+   "ja": "私は表玄関に鍵をかけた。",
+   "ko_tatoeba": "나는 앞쪽 현관을 열쇠로 잠갔다."
+  },
+  {
+   "id": "j1494220",
+   "word": "不動産",
+   "ja": "不動産が高すぎるという意見に賛成だ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1513820",
+   "word": "保証人",
+   "ja": "彼が借金の保証人になってくれた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1403060",
+   "word": "騒音",
+   "ja": "彼の声が騒音にも負けずに聞こえた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1242350",
+   "word": "近所",
+   "ja": "トムはメアリーのご近所さんです。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1601880",
+   "word": "引っ越し",
+   "ja": "彼は私の引っ越しを手伝ってくれた。",
+   "ko_tatoeba": "그는 내 이사를 도와줬다."
+  },
+  {
+   "id": "j1332400",
+   "word": "修理",
+   "ja": "橋は修理中です。",
+   "ko_tatoeba": "다리는 수리중입니다."
+  },
+  {
+   "id": "j1441540",
+   "word": "点検",
+   "ja": "彼は課長に書類を点検させられた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1557290",
+   "word": "冷房",
+   "ja": "その部屋は冷房がついていますか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1419860",
+   "word": "暖房",
+   "ja": "この暖房装置は石油を燃料とする。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1390990",
+   "word": "洗濯機",
+   "ja": "洗濯機の使い方を教えてください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1199470",
+   "word": "回収",
+   "ja": "ポストの回収現場に出くわした。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1214540",
+   "word": "缶",
+   "ja": "豆乳と缶チューハイ、好きでしょ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1433490",
+   "word": "通帳",
+   "ja": "貯金通帳に残っていた金で利子がついた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1466040",
+   "word": "入金",
+   "ja": "生じた利息は貯金口座に入金されます。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1601650",
+   "word": "引き出し",
+   "ja": "机の引き出しは全部空っぽでした。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1402750",
+   "word": "送金",
+   "ja": "トムはメアリーに送金しました。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1532440",
+   "word": "明細",
+   "ja": "明細を教えていただけますか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1542480",
+   "word": "郵便番号",
+   "ja": "郵便番号って、全部で何個あるの？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1586500",
+   "word": "宛先",
+   "ja": "封筒の宛先、書き間違えちゃった。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1593760",
+   "word": "差出人",
+   "ja": "彼らは差出人と受取人の名前を混同した。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1589960",
+   "word": "書留",
+   "ja": "この手紙を書留にしてもらいたいのですが。",
+   "ko_tatoeba": "이 편지를 등기로 보내고 싶은데요."
+  },
+  {
+   "id": "j1415790",
+   "word": "宅配便",
+   "ja": "これはかさばるから宅配便で送ろう。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1329770",
+   "word": "受取",
+   "ja": "手荷物受取所で待っています。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1629260",
+   "word": "受取人",
+   "ja": "ここに受取人の名前を書いてください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1538020",
+   "word": "役所",
+   "ja": "市役所まで行く必要があるんです。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1468540",
+   "word": "年金",
+   "ja": "小額の年金で生活するのは彼には困難であった。",
+   "ko_tatoeba": "적은 연금으로 생활하는 것은 그에게는 곤란했다."
+  },
+  {
+   "id": "j1241120",
+   "word": "勤務先",
+   "ja": "こちらが私の勤務先の住所です。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1204700",
+   "word": "該当",
+   "ja": "洗濯機で該当オプションを適用した。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1467160",
+   "word": "任意",
+   "ja": "A ⊂ ℝ の場合、Aの任意の元を表すxを変数と言う。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1602900",
+   "word": "不要",
+   "ja": "参加のための会費は不要です。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1155180",
+   "word": "以内",
+   "ja": "3時間以内に飛行機に乗らなきゃ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1545790",
+   "word": "様",
+   "ja": "ライオンはジャングルの王様です。",
+   "ko_tatoeba": "사자는 정글의 왕이다."
+  },
+  {
+   "id": "j1413070",
+   "word": "大雨",
+   "ja": "大雨は洪水となって被害を与えた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1279930",
+   "word": "洪水",
+   "ja": "ラジオで洪水の危険が伝えられた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1544290",
+   "word": "余震",
+   "ja": "今も、ときどき余震が発生しています。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1945740",
+   "word": "非常階段",
+   "ja": "このビルは非常階段を備えている。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1520360",
+   "word": "防災",
+   "ja": "市の防災行政無線放送が聞こえる。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1589250",
+   "word": "落とし物",
+   "ja": "落とし物カウンターはどこですか？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1448500",
+   "word": "盗難",
+   "ja": "彼は盗難車を見たと知らせてきた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1291690",
+   "word": "詐欺",
+   "ja": "詐欺師が捕まった。",
+   "ko_tatoeba": "사기꾼은 체포당했다."
+  },
+  {
+   "id": "j2038970",
+   "word": "不審者",
+   "ja": "不審者を見かけたら警察に通報してください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2850263",
+   "word": "撮影禁止",
+   "ja": "写真撮影禁止。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2271770",
+   "word": "飲食禁止",
+   "ja": "図書館内は飲食禁止です。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1419960",
+   "word": "段差",
+   "ja": "段差があるので、注意してくださいね。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2105430",
+   "word": "使用中",
+   "ja": "学校のトイレの半分は、いつも使用中だ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1180030",
+   "word": "応募",
+   "ja": "講堂は熱心な応募者でいっぱいだ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1294890",
+   "word": "採用",
+   "ja": "君の考えが気に入って、採用した。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1611070",
+   "word": "日給",
+   "ja": "この仕事は日給１万円です。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1255560",
+   "word": "月給",
+   "ja": "彼はたくさん月給をもらっている。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1241070",
+   "word": "勤務",
+   "ja": "彼は法律事務所に６年勤務していた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1933470",
+   "word": "勤務時間",
+   "ja": "トムは勤務時間中に寝てました。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1338600",
+   "word": "出勤",
+   "ja": "金曜日は、ジーンズで出勤してるよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1304560",
+   "word": "残業",
+   "ja": "父は今日も今日とて残業である。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1400310",
+   "word": "早退",
+   "ja": "できたら、今日は早退したいな。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1253960",
+   "word": "欠勤",
+   "ja": "校長は彼に無断欠勤の理由をただした。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1440730",
+   "word": "店長",
+   "ja": "この店の店長はひげが生えています。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1377330",
+   "word": "正社員",
+   "ja": "9月末まで本屋で正社員として働きます。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1258660",
+   "word": "研修",
+   "ja": "研修会は午後4時開始予定です。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1411420",
+   "word": "退職",
+   "ja": "たいていの人は６０歳で退職する。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1329810",
+   "word": "受信",
+   "ja": "この地区では三局受信できます。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1257900",
+   "word": "検索",
+   "ja": "検索エンジンって、どれ使ってる？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1392290",
+   "word": "選択",
+   "ja": "人生における難しさは選択である。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2831622",
+   "word": "利用規約",
+   "ja": "利用規約に違反すると、アカウントは停止されます。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1264870",
+   "word": "個人情報",
+   "ja": "個人情報を集めようとする会社が増えてきた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2838992",
+   "word": "支払方法",
+   "ja": "どのような支払方法がありますか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1433470",
+   "word": "通知",
+   "ja": "「通知表は？」「もう渡したじゃん」",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1334390",
+   "word": "充電",
+   "ja": "家の電池はすべて充電池にした。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1443220",
+   "word": "電源",
+   "ja": "もうパソコンの電源は落としたよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1197610",
+   "word": "画面",
+   "ja": "少し青みがかった画面が気になる。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1512240",
+   "word": "返信",
+   "ja": "ご返信をお待ちいたしております。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1529930",
+   "word": "無効",
+   "ja": "この証書は完全に無効である。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1292960",
+   "word": "再生",
+   "ja": "音楽を頭の中で再生してみなさい。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1438770",
+   "word": "天気予報",
+   "ja": "天気予報が当たったよ。",
+   "ko_tatoeba": "일기예보가 맞았어."
+  },
+  {
+   "id": "j1582960",
+   "word": "梅雨",
+   "ja": "梅雨らしく空はどんよりしている。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2051780",
+   "word": "年末年始",
+   "ja": "今年の年末年始は、家でのんびり過ごすわ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1393790",
+   "word": "前日",
+   "ja": "彼は前日に買った時計をなくした。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1524690",
+   "word": "毎週",
+   "ja": "毎週日曜日午後は、店へ行きます。",
+   "ko_tatoeba": "매주 일요일 오후에는 가게로 갑니다."
+  },
+  {
+   "id": "j1161470",
+   "word": "一括",
+   "ja": "物はすべて一括して買うとやすい。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1503280",
+   "word": "分割",
+   "ja": "車の代金は１２ヶ月分割払いである。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1296470",
+   "word": "在庫",
+   "ja": "石油の在庫がきれかかっている。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2840724",
+   "word": "新商品",
+   "ja": "まかない飯は新商品のテストをかねてます。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1455250",
+   "word": "特売",
+   "ja": "よくこんな特売を見つけてくるなあ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1599000",
+   "word": "取扱説明書",
+   "ja": "商品説明と取扱説明書は人間にも必要です。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1888990",
+   "word": "先着順",
+   "ja": "先着順に並んでください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1401080",
+   "word": "相席",
+   "ja": "相席させていただいてよろしいですか。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1769880",
+   "word": "待ち時間",
+   "ja": "待ち時間はどれくらいになりますか？",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1410840",
+   "word": "替え玉",
+   "ja": "警察が追っていたのは替え玉で、その間に真犯人を逃してしまった。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1562130",
+   "word": "和食",
+   "ja": "時々、和食が食べたくなります。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1546000",
+   "word": "洋食",
+   "ja": "私は洋食はあまり好きではない。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1423560",
+   "word": "中華",
+   "ja": "彼は中華料理がすきかたずねた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1605420",
+   "word": "焼肉",
+   "ja": "明日、一人焼肉行ってこよっと。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1399580",
+   "word": "惣菜",
+   "ja": "惣菜売り場が充実している。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1606940",
+   "word": "割り箸",
+   "ja": "和食のレストランへ行くたびに、割り箸を家へもって帰ります。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1261480",
+   "word": "原産地",
+   "ja": "じゃがいもは中南米高地が原産地である。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1286590",
+   "word": "国産",
+   "ja": "我々消費者は国産品をもっと買わなければならない。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1440840",
+   "word": "添加物",
+   "ja": "あのマヨネーズの中、添加物ばっかり！",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1370270",
+   "word": "酢",
+   "ja": "お酢と油を持ってきてください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1329190",
+   "word": "酒類",
+   "ja": "この店では酒類は売っていない。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1303850",
+   "word": "産婦人科",
+   "ja": "最近、産婦人科の不足が問題になっているね。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1365490",
+   "word": "診断書",
+   "ja": "もし診断書があったらお待ちください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1543690",
+   "word": "予防接種",
+   "ja": "インフルエンザの予防接種を受けた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1467350",
+   "word": "妊娠",
+   "ja": "彼女は妊娠中です。",
+   "ko_tatoeba": "그녀는 임신 중입니다."
+  },
+  {
+   "id": "j1562110",
+   "word": "和室",
+   "ja": "和室が好きな英国人もいると言われます。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1711240",
+   "word": "除湿",
+   "ja": "部屋の除湿のため窓を開けた。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1496890",
+   "word": "布団",
+   "ja": "少なくとも週に２回は布団を干します。",
+   "ko_tatoeba": "적어도 주2회는 이불을 넙니다."
+  },
+  {
+   "id": "j1199810",
+   "word": "回覧板",
+   "ja": "ポストに回覧板入れといたよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1311600",
+   "word": "紙幣",
+   "ja": "私は１０ドル紙幣をなくした。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1405030",
+   "word": "速達",
+   "ja": "手紙を速達で送ってください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1343370",
+   "word": "所得税",
+   "ja": "私達は収入に応じて所得税を払う。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1412470",
+   "word": "代理人",
+   "ja": "代理人ではなくあなた本人が来てください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1200600",
+   "word": "懐中電灯",
+   "ja": "暗い部屋の中を懐中電灯で照らした。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1374940",
+   "word": "制服",
+   "ja": "トムとメアリーは制服を着てたよ。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1257090",
+   "word": "圏外",
+   "ja": "ロケットは大気圏外へ飛んでいった。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1440880",
+   "word": "添付",
+   "ja": "品質証明書を添付してください。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1184120",
+   "word": "音量",
+   "ja": "トムはテレビの音量を上げた。",
+   "ko_tatoeba": "톰은 텔레비전의 음량을 올렸다."
+  },
+  {
+   "id": "j1315220",
+   "word": "字幕",
+   "ja": "この映画にはフランス語の字幕があります。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j2848154",
+   "word": "最低気温",
+   "ja": "この朝の最低気温は零下４度だった。",
+   "ko_tatoeba": null
+  },
+  {
+   "id": "j1607110",
+   "word": "隔週",
+   "ja": "ミーティングは隔週でやってます。",
+   "ko_tatoeba": null
+  }
+ ]
+}

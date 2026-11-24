@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import type { AppData } from "../App";
 import { StatusDot } from "../components/CardView";
-import { cardIndex, kanjiStatus, kanjiTable } from "../insights";
+import { cardIndex, kanjiStatus, kanjiTable, lvLabel } from "../insights";
 import { STATUS_LABEL } from "../srs";
 
 interface Props {
@@ -87,7 +87,7 @@ export function Search({ data, onBack, onOpenCard, onOpenKanji }: Props) {
                 <span className="kh-info">
                   <b>{info.hun ?? info.en.join(", ")}</b>
                   <span className="muted">
-                    N{info.lv} · <span className={`dot st-${st}`} />
+                    {lvLabel(info.lv)} · <span className={`dot st-${st}`} />
                     {STATUS_LABEL[st]}
                   </span>
                 </span>

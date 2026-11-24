@@ -1,0 +1,6777 @@
+[
+{
+"cat": "교통",
+"w": "乗車",
+"g": 2,
+"ko": "승차",
+"r": "じょうしゃ",
+"id": "1355270",
+"common": true,
+"en": "boarding (a train, bus, etc.); getting into (e.g. a taxi)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "降車",
+"g": 2,
+"ko": "하차",
+"r": "こうしゃ",
+"id": "1618150",
+"common": false,
+"en": "alighting (from a train, bus, etc.); getting off; getting out (of a car)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "乗換",
+"g": 1,
+"ko": "환승",
+"r": "のりかえ",
+"id": "1600460",
+"common": true,
+"en": "transfer (trains, buses, etc.); change; connection",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "乗り換え",
+"g": 1,
+"ko": "환승, 갈아타기",
+"r": "のりかえ",
+"id": "1600460",
+"common": true,
+"en": "transfer (trains, buses, etc.); change; connection",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "各駅停車",
+"g": 1,
+"ko": "각 역 정차(완행)",
+"r": "かくえきていしゃ",
+"id": "1204900",
+"common": false,
+"en": "train that stops at every station; local train",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "普通",
+"g": 2,
+"ko": "보통(열차)",
+"r": "ふつう",
+"id": "1497190",
+"common": true,
+"en": "normal; ordinary; regular",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "快速",
+"g": 1,
+"ko": "쾌속(일부 역 통과)",
+"r": "かいそく",
+"id": "1200080",
+"common": true,
+"en": "high speed; rapidity",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "急行",
+"g": 1,
+"ko": "급행",
+"r": "きゅうこう",
+"id": "1228690",
+"common": true,
+"en": "hurrying (to somewhere); rushing; hastening",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "特急",
+"g": 2,
+"ko": "특급",
+"r": "とっきゅう",
+"id": "1454750",
+"common": true,
+"en": "limited express (train for which a limited-express ticket is required)",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "終電",
+"g": 1,
+"ko": "막차(전철)",
+"r": "しゅうでん",
+"id": "1332960",
+"common": true,
+"en": "last train (of the day)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "始発",
+"g": 2,
+"ko": "첫차; 출발역",
+"r": "しはつ",
+"id": "1307610",
+"common": true,
+"en": "first departure (of the day); first train; first bus",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "運休",
+"g": 1,
+"ko": "운행 중지",
+"r": "うんきゅう",
+"id": "1172730",
+"common": true,
+"en": "suspension (of a transportation service); cancellation; stoppage",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "遅延",
+"g": 1,
+"ko": "지연",
+"r": "ちえん",
+"id": "1422030",
+"common": true,
+"en": "delay; latency",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "運転見合わせ",
+"g": 1,
+"ko": "운행 보류",
+"r": "うんてんみあわせ",
+"id": "2823630",
+"common": false,
+"en": "temporary suspension public transport service",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "振替輸送",
+"g": 2,
+"ko": "대체 수송",
+"r": "ふりかえゆそう",
+"id": "1834410",
+"common": false,
+"en": "transfer (of passengers or freight)",
+"inDeck": null,
+"newKanji": [
+"振"
+]
+},
+{
+"cat": "교통",
+"w": "精算",
+"g": 1,
+"ko": "정산",
+"r": "せいさん",
+"id": "1379930",
+"common": true,
+"en": "exact calculation; squaring of accounts; adjustment",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "精算機",
+"g": 2,
+"ko": "정산기",
+"r": "せいさんき",
+"id": "2403890",
+"common": false,
+"en": "fare adjustment machine; ticket adjustment machine",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "切符",
+"g": 1,
+"ko": "표, 승차권",
+"r": "きっぷ",
+"id": "1385170",
+"common": true,
+"en": "ticket",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "乗車券",
+"g": 2,
+"ko": "승차권",
+"r": "じょうしゃけん",
+"id": "1355290",
+"common": true,
+"en": "ticket (for bus, train, etc.); passenger ticket",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "特急券",
+"g": 3,
+"ko": "특급권",
+"r": "とっきゅうけん",
+"id": "1454760",
+"common": false,
+"en": "limited-express ticket (usu. needed in addition to a basic fare ticket); special-express ticket",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "定期券",
+"g": 2,
+"ko": "정기권",
+"r": "ていきけん",
+"id": "1435510",
+"common": true,
+"en": "commuter pass; season ticket",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "指定席",
+"g": 2,
+"ko": "지정석",
+"r": "していせき",
+"id": "1309930",
+"common": false,
+"en": "reserved seat",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "自由席",
+"g": 2,
+"ko": "자유석",
+"r": "じゆうせき",
+"id": "1318790",
+"common": false,
+"en": "unreserved seat; non-reserved seat",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "優先席",
+"g": 2,
+"ko": "노약자석",
+"r": "ゆうせんせき",
+"id": "1947880",
+"common": false,
+"en": "priority seat; courtesy seat; seat provided in trains, buses, etc. for the use of the disabled, young children, the elderly, pregnant women, etc.",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "女性専用車",
+"g": 2,
+"ko": "여성 전용칸",
+"r": "じょせいせんようしゃ",
+"id": "2838879",
+"common": false,
+"en": "women-only carriage (e.g. on a train)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "路線",
+"g": 2,
+"ko": "노선",
+"r": "ろせん",
+"id": "1560040",
+"common": true,
+"en": "route (bus, train, air, etc.); line",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "番線",
+"g": 1,
+"ko": "(몇 번) 승강장",
+"r": "ばんせん",
+"id": "1482330",
+"common": false,
+"en": "track number; platform number",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "乗り場",
+"g": 1,
+"ko": "타는 곳",
+"r": "のりば",
+"id": "1600520",
+"common": true,
+"en": "place for boarding vehicles; bus stop; bus terminal",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "降り場",
+"g": 2,
+"ko": "내리는 곳",
+"r": "おりば",
+"id": "2110210",
+"common": false,
+"en": "place for alighting (from a bus, ski lift, etc.); drop-off point (e.g. for taxis); getting-off point",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "終点",
+"g": 2,
+"ko": "종점",
+"r": "しゅうてん",
+"id": "1332950",
+"common": true,
+"en": "terminus; last stop (e.g. train)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "出口",
+"g": 1,
+"ko": "출구",
+"r": "でぐち",
+"id": "1338850",
+"common": true,
+"en": "exit; way out",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "入口",
+"g": 1,
+"ko": "입구",
+"r": "いりぐち",
+"id": "1582820",
+"common": true,
+"en": "entrance; entry; gate",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "東口",
+"g": 2,
+"ko": "동쪽 출구",
+"r": "ひがしぐち",
+"id": "1447790",
+"common": true,
+"en": "east entrance; east exit",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "西口",
+"g": 2,
+"ko": "서쪽 출구",
+"r": "にしぐち",
+"id": "1380950",
+"common": true,
+"en": "west entrance; west exit",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "南口",
+"g": 2,
+"ko": "남쪽 출구",
+"r": "みなみぐち",
+"id": "1460280",
+"common": true,
+"en": "south entrance; south exit",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "北口",
+"g": 2,
+"ko": "북쪽 출구",
+"r": "きたぐち",
+"id": "1520970",
+"common": true,
+"en": "north entrance; north exit",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "改札口",
+"g": 1,
+"ko": "개찰구",
+"r": "かいさつぐち",
+"id": "1200850",
+"common": true,
+"en": "ticket barrier; ticket gate; wicket",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "往復",
+"g": 2,
+"ko": "왕복",
+"r": "おうふく",
+"id": "1179760",
+"common": true,
+"en": "making a round trip; going and returning; coming and going",
+"inDeck": null,
+"newKanji": [
+"往"
+]
+},
+{
+"cat": "교통",
+"w": "片道",
+"g": 2,
+"ko": "편도",
+"r": "かたみち",
+"id": "1511760",
+"common": true,
+"en": "one-way (trip)",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "運賃",
+"g": 2,
+"ko": "운임",
+"r": "うんちん",
+"id": "1172820",
+"common": true,
+"en": "(passenger) fare",
+"inDeck": null,
+"newKanji": [
+"賃"
+]
+},
+{
+"cat": "교통",
+"w": "時刻表",
+"g": 2,
+"ko": "시간표",
+"r": "じこくひょう",
+"id": "1316230",
+"common": true,
+"en": "timetable; schedule",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "発車",
+"g": 2,
+"ko": "발차, 출발",
+"r": "はっしゃ",
+"id": "1477500",
+"common": true,
+"en": "departure (of a train, car, etc.); starting; leaving",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "到着",
+"g": 2,
+"ko": "도착",
+"r": "とうちゃく",
+"id": "1449870",
+"common": true,
+"en": "arrival",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "停留所",
+"g": 2,
+"ko": "정류장",
+"r": "ていりゅうじょ",
+"id": "1435080",
+"common": true,
+"en": "stop (bus, tram, etc.); station; stopping place",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "整理券",
+"g": 2,
+"ko": "정리권(버스 승차 시 뽑는 번호표)",
+"r": "せいりけん",
+"id": "1376260",
+"common": false,
+"en": "numbered ticket (e.g. to determine order of service in shop, etc.)",
+"inDeck": null,
+"newKanji": [
+"整"
+]
+},
+{
+"cat": "교통",
+"w": "両替",
+"g": 2,
+"ko": "환전; 잔돈 바꾸기",
+"r": "りょうがえ",
+"id": "1553820",
+"common": true,
+"en": "change; money exchange",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "回送",
+"g": 2,
+"ko": "회송(손님 안 태움)",
+"r": "かいそう",
+"id": "1199610",
+"common": true,
+"en": "forwarding; sending on; redirecting (e.g. mail)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "空車",
+"g": 2,
+"ko": "빈 차(택시)",
+"r": "くうしゃ",
+"id": "1245610",
+"common": true,
+"en": "empty conveyance; empty taxi; free taxi",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "満車",
+"g": 2,
+"ko": "만차",
+"r": "まんしゃ",
+"id": "1812490",
+"common": false,
+"en": "being fully occupied (of a parking lot)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "駐車場",
+"g": 2,
+"ko": "주차장",
+"r": "ちゅうしゃじょう",
+"id": "1426920",
+"common": true,
+"en": "parking lot; car park; carpark",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "駐輪場",
+"g": 2,
+"ko": "자전거 주차장",
+"r": "ちゅうりんじょう",
+"id": "1427000",
+"common": false,
+"en": "parking area for bicycles; bicycle parking",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "駐車禁止",
+"g": 1,
+"ko": "주차 금지",
+"r": "ちゅうしゃきんし",
+"id": "1692060",
+"common": false,
+"en": "No Parking; Parking Prohibited",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "一方通行",
+"g": 2,
+"ko": "일방통행",
+"r": "いっぽうつうこう",
+"id": "1166550",
+"common": true,
+"en": "one-way traffic",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "通行止め",
+"g": 1,
+"ko": "통행금지",
+"r": "つうこうどめ",
+"id": "1433190",
+"common": true,
+"en": "closure (of a road); suspension of traffic",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "工事中",
+"g": 2,
+"ko": "공사 중",
+"r": "こうじちゅう",
+"id": "1278150",
+"common": true,
+"en": "under construction",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "交差点",
+"g": 2,
+"ko": "교차로",
+"r": "こうさてん",
+"id": "1592970",
+"common": true,
+"en": "crossing; intersection",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "信号",
+"g": 2,
+"ko": "신호등",
+"r": "しんごう",
+"id": "1359240",
+"common": true,
+"en": "signal; signalling; signaling",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "横断歩道",
+"g": 2,
+"ko": "횡단보도",
+"r": "おうだんほどう",
+"id": "1180910",
+"common": true,
+"en": "pedestrian crossing; crosswalk",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "歩道",
+"g": 2,
+"ko": "보도",
+"r": "ほどう",
+"id": "1514420",
+"common": true,
+"en": "footpath; walkway; sidewalk",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "徐行",
+"g": 2,
+"ko": "서행",
+"r": "じょこう",
+"id": "1345590",
+"common": true,
+"en": "going slowly (esp. to enable a vehicle to stop immediately); going at a reduced speed; slowing down",
+"inDeck": null,
+"newKanji": [
+"徐"
+]
+},
+{
+"cat": "교통",
+"w": "一時停止",
+"g": 1,
+"ko": "일시 정지",
+"r": "いちじていし",
+"id": "1651100",
+"common": false,
+"en": "suspension; pause; temporary halt",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "止まれ",
+"g": 1,
+"ko": "멈춤(표지)",
+"r": "とまれ",
+"id": "1918560",
+"common": false,
+"en": "Stop",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "교통",
+"w": "免許証",
+"g": 2,
+"ko": "면허증",
+"r": "めんきょしょう",
+"id": "1533150",
+"common": true,
+"en": "licence; license; permit",
+"inDeck": null,
+"newKanji": [
+"免",
+"証"
+]
+},
+{
+"cat": "교통",
+"w": "乗車口",
+"g": 3,
+"ko": "승차구",
+"r": "じょうしゃぐち",
+"id": "1355300",
+"common": false,
+"en": "entrance (for passengers at a train station)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "営業中",
+"g": 1,
+"ko": "영업 중",
+"r": "えいぎょうちゅう",
+"id": "1173470",
+"common": false,
+"en": "open (for business)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "準備中",
+"g": 1,
+"ko": "준비 중(영업 안 함)",
+"r": "じゅんびちゅう",
+"id": "1341750",
+"common": false,
+"en": "in preparation; (shop) not yet open for business",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "定休日",
+"g": 1,
+"ko": "정기 휴일",
+"r": "ていきゅうび",
+"id": "1435540",
+"common": true,
+"en": "regular holiday; fixed day off; regular closing day",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "営業時間",
+"g": 1,
+"ko": "영업시간",
+"r": "えいぎょうじかん",
+"id": "1173450",
+"common": true,
+"en": "business hours; opening hours; office hours",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "本日休業",
+"g": 1,
+"ko": "오늘 휴업",
+"r": "ほんじつきゅうぎょう",
+"id": "2850262",
+"common": false,
+"en": "Closed Today",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "臨時休業",
+"g": 2,
+"ko": "임시 휴업",
+"r": "りんじきゅうぎょう",
+"id": "2620060",
+"common": false,
+"en": "temporary closure (of a shop, etc.)",
+"inDeck": null,
+"newKanji": [
+"臨"
+]
+},
+{
+"cat": "가게",
+"w": "閉店",
+"g": 2,
+"ko": "폐점; 문 닫음",
+"r": "へいてん",
+"id": "1508720",
+"common": true,
+"en": "closing up shop (for the day)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "開店",
+"g": 2,
+"ko": "개점",
+"r": "かいてん",
+"id": "1202870",
+"common": true,
+"en": "opening a new shop",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "税込",
+"g": 1,
+"ko": "세금 포함",
+"r": "ぜいこみ",
+"id": "1596250",
+"common": false,
+"en": "including tax (of a price); pretax (income or profits); before tax",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "税抜",
+"g": 1,
+"ko": "세금 별도",
+"r": "ぜいぬき",
+"id": "2105350",
+"common": false,
+"en": "tax excluded; excluding tax",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "消費税",
+"g": 2,
+"ko": "소비세",
+"r": "しょうひぜい",
+"id": "1350320",
+"common": true,
+"en": "consumption tax (incl. sales tax, VAT, excise duty, etc.)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "割引",
+"g": 2,
+"ko": "할인",
+"r": "わりびき",
+"id": "1606950",
+"common": true,
+"en": "discount; reduction; rebate",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "値引き",
+"g": 2,
+"ko": "가격 할인",
+"r": "ねびき",
+"id": "1600190",
+"common": true,
+"en": "price reduction; discount",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "半額",
+"g": 2,
+"ko": "반값",
+"r": "はんがく",
+"id": "1479050",
+"common": true,
+"en": "half the amount (of money); half price; half fare",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "会計",
+"g": 1,
+"ko": "계산",
+"r": "かいけい",
+"id": "1198430",
+"common": true,
+"en": "accounting; finance; account",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "合計",
+"g": 2,
+"ko": "합계",
+"r": "ごうけい",
+"id": "1284740",
+"common": true,
+"en": "sum total; total amount",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "小計",
+"g": 3,
+"ko": "소계",
+"r": "しょうけい",
+"id": "1348010",
+"common": false,
+"en": "subtotal",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "領収書",
+"g": 2,
+"ko": "영수증",
+"r": "りょうしゅうしょ",
+"id": "1554760",
+"common": true,
+"en": "formal receipt (of payment; oft. hand-written)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "現金",
+"g": 1,
+"ko": "현금",
+"r": "げんきん",
+"id": "1263550",
+"common": true,
+"en": "cash; ready money; money on hand",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "支払い",
+"g": 1,
+"ko": "지불",
+"r": "しはらい",
+"id": "1594480",
+"common": true,
+"en": "payment",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "一括",
+"g": 3,
+"ko": "일시불",
+"r": "いっかつ",
+"id": "1161470",
+"common": true,
+"en": "lumping together; summing up; bundle",
+"inDeck": null,
+"newKanji": [
+"括"
+]
+},
+{
+"cat": "가게",
+"w": "分割",
+"g": 3,
+"ko": "할부",
+"r": "ぶんかつ",
+"id": "1503280",
+"common": true,
+"en": "partition; division; separation",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "返品",
+"g": 2,
+"ko": "반품",
+"r": "へんぴん",
+"id": "1512300",
+"common": true,
+"en": "returned goods; returning purchased goods",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "交換",
+"g": 2,
+"ko": "교환",
+"r": "こうかん",
+"id": "1271750",
+"common": true,
+"en": "exchange; interchange; switching",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "返金",
+"g": 2,
+"ko": "환불",
+"r": "へんきん",
+"id": "1512200",
+"common": true,
+"en": "refund; repayment; reimbursement",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "品切れ",
+"g": 2,
+"ko": "품절",
+"r": "しなぎれ",
+"id": "1490640",
+"common": true,
+"en": "out of stock; sold out",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "売り切れ",
+"g": 2,
+"ko": "매진",
+"r": "うりきれ",
+"id": "1473870",
+"common": true,
+"en": "sold-out",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "在庫",
+"g": 3,
+"ko": "재고",
+"r": "ざいこ",
+"id": "1296470",
+"common": true,
+"en": "stock; inventory",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "限定",
+"g": 2,
+"ko": "한정",
+"r": "げんてい",
+"id": "1264670",
+"common": true,
+"en": "limit; restriction",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "新商品",
+"g": 3,
+"ko": "신상품",
+"r": "しんしょうひん",
+"id": "2840724",
+"common": true,
+"en": "new product",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "特売",
+"g": 3,
+"ko": "특가 판매",
+"r": "とくばい",
+"id": "1455250",
+"common": true,
+"en": "special sale; bargain sale",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "試着室",
+"g": 2,
+"ko": "탈의실",
+"r": "しちゃくしつ",
+"id": "1312510",
+"common": false,
+"en": "dressing room; fitting room",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "有料",
+"g": 1,
+"ko": "유료",
+"r": "ゆうりょう",
+"id": "1541690",
+"common": true,
+"en": "fee-charging; paid; not free",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "店員",
+"g": 2,
+"ko": "점원",
+"r": "てんいん",
+"id": "1440670",
+"common": true,
+"en": "employee (of a store); shop assistant; clerk",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "店内",
+"g": 2,
+"ko": "매장 안",
+"r": "てんない",
+"id": "1440780",
+"common": true,
+"en": "inside of a store (restaurant, café, etc.); store interior; on the premises",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "持ち帰り",
+"g": 2,
+"ko": "포장",
+"r": "もちかえり",
+"id": "1770030",
+"common": true,
+"en": "takeout (food); take-out; takeaway",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "袋",
+"g": 2,
+"ko": "봉투",
+"r": "ふくろ",
+"id": "1411070",
+"common": true,
+"en": "bag; sack; pouch",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "小銭",
+"g": 2,
+"ko": "잔돈, 동전",
+"r": "こぜに",
+"id": "1348470",
+"common": true,
+"en": "small change; pocket change; coins",
+"inDeck": null,
+"newKanji": [
+"銭"
+]
+},
+{
+"cat": "가게",
+"w": "お釣り",
+"g": 2,
+"ko": "거스름돈",
+"r": "おつり",
+"id": "1270550",
+"common": true,
+"en": "change (for a purchase)",
+"inDeck": null,
+"newKanji": [
+"釣"
+]
+},
+{
+"cat": "가게",
+"w": "送料",
+"g": 2,
+"ko": "배송료",
+"r": "そうりょう",
+"id": "1402870",
+"common": true,
+"en": "postage; carriage; shipping charge",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "保証書",
+"g": 3,
+"ko": "보증서",
+"r": "ほしょうしょ",
+"id": "1748130",
+"common": false,
+"en": "written guarantee; guarantee letter; warranty",
+"inDeck": null,
+"newKanji": [
+"保",
+"証"
+]
+},
+{
+"cat": "가게",
+"w": "取扱説明書",
+"g": 3,
+"ko": "사용 설명서",
+"r": "とりあつかいせつめいしょ",
+"id": "1599000",
+"common": false,
+"en": "user's manual; instruction manual; operation manual",
+"inDeck": null,
+"newKanji": [
+"扱"
+]
+},
+{
+"cat": "가게",
+"w": "年齢確認",
+"g": 2,
+"ko": "나이 확인",
+"r": "ねんれいかくにん",
+"id": "2831505",
+"common": false,
+"en": "age verification",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "未成年",
+"g": 2,
+"ko": "미성년",
+"r": "みせいねん",
+"id": "1604490",
+"common": true,
+"en": "minority (i.e. being under age); minor; underage person",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "喫煙所",
+"g": 2,
+"ko": "흡연 구역",
+"r": "きつえんじょ",
+"id": "1932960",
+"common": false,
+"en": "smoking area; smoking corner",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "化粧室",
+"g": 1,
+"ko": "화장실",
+"r": "けしょうしつ",
+"id": "1187020",
+"common": false,
+"en": "toilet; lavatory; powder room",
+"inDeck": null,
+"newKanji": [
+"粧"
+]
+},
+{
+"cat": "가게",
+"w": "お手洗い",
+"g": 1,
+"ko": "화장실",
+"r": "おてあらい",
+"id": "1002100",
+"common": true,
+"en": "toilet; restroom; lavatory",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "授乳室",
+"g": 3,
+"ko": "수유실",
+"r": "じゅにゅうしつ",
+"id": "2835025",
+"common": false,
+"en": "room for breast-feeding; nursing room",
+"inDeck": null,
+"newKanji": [
+"授"
+]
+},
+{
+"cat": "가게",
+"w": "迷子",
+"g": 2,
+"ko": "미아",
+"r": "まいご",
+"id": "1532750",
+"common": true,
+"en": "lost child; lost person; stray child",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "最後尾",
+"g": 2,
+"ko": "(줄의) 맨 끝",
+"r": "さいこうび",
+"id": "2134380",
+"common": true,
+"en": "end (e.g. of a line); tail end; rear",
+"inDeck": null,
+"newKanji": [
+"尾"
+]
+},
+{
+"cat": "가게",
+"w": "整列",
+"g": 3,
+"ko": "줄 서기",
+"r": "せいれつ",
+"id": "1376300",
+"common": true,
+"en": "standing in a row; forming a line; alignment",
+"inDeck": null,
+"newKanji": [
+"整"
+]
+},
+{
+"cat": "가게",
+"w": "順番",
+"g": 2,
+"ko": "순서, 차례",
+"r": "じゅんばん",
+"id": "1342390",
+"common": true,
+"en": "order; turn",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "予約",
+"g": 1,
+"ko": "예약",
+"r": "よやく",
+"id": "1543750",
+"common": true,
+"en": "reservation; appointment; booking",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "予約制",
+"g": 2,
+"ko": "예약제",
+"r": "よやくせい",
+"id": "1948210",
+"common": false,
+"en": "reservation system; appointment system; (on) a subscription basis",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "先着順",
+"g": 3,
+"ko": "선착순",
+"r": "せんちゃくじゅん",
+"id": "1888990",
+"common": false,
+"en": "order of arrival; first-come-first-served basis",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "満席",
+"g": 2,
+"ko": "만석",
+"r": "まんせき",
+"id": "1526850",
+"common": true,
+"en": "full house; all seats occupied; fully occupied",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "相席",
+"g": 3,
+"ko": "합석",
+"r": "あいせき",
+"id": "1401080",
+"common": false,
+"en": "sharing a table with someone you don't know (e.g. at a restaurant)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "待ち時間",
+"g": 3,
+"ko": "대기 시간",
+"r": "まちじかん",
+"id": "1769880",
+"common": false,
+"en": "waiting time; latency; standby time (e.g. cellular phones)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "番号札",
+"g": 2,
+"ko": "번호표",
+"r": "ばんごうふだ",
+"id": "1732520",
+"common": false,
+"en": "numbered tag; numbered ticket",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "가게",
+"w": "当日",
+"g": 2,
+"ko": "당일",
+"r": "とうじつ",
+"id": "1449210",
+"common": true,
+"en": "day in question; appointed day; that very day",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "注文",
+"g": 1,
+"ko": "주문",
+"r": "ちゅうもん",
+"id": "1426650",
+"common": true,
+"en": "order (for an item)",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "食券",
+"g": 2,
+"ko": "식권",
+"r": "しょっけん",
+"id": "1358440",
+"common": false,
+"en": "meal ticket",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "券売機",
+"g": 2,
+"ko": "식권 자판기",
+"r": "けんばいき",
+"id": "1665430",
+"common": false,
+"en": "ticket machine; ticket-vending machine",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "大盛り",
+"g": 2,
+"ko": "곱빼기",
+"r": "おおもり",
+"id": "1414280",
+"common": true,
+"en": "large serving; large portion",
+"inDeck": null,
+"newKanji": [
+"盛"
+]
+},
+{
+"cat": "식당",
+"w": "並盛り",
+"g": 3,
+"ko": "보통 양",
+"r": "なみもり",
+"id": "2827507",
+"common": false,
+"en": "normal serving; medium-sized portion",
+"inDeck": null,
+"newKanji": [
+"盛"
+]
+},
+{
+"cat": "식당",
+"w": "定食",
+"g": 2,
+"ko": "정식(세트 식사)",
+"r": "ていしょく",
+"id": "1435650",
+"common": true,
+"en": "set meal; special (of the day)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "丼",
+"g": 2,
+"ko": "덮밥",
+"r": "どんぶり",
+"id": "1562970",
+"common": true,
+"en": "porcelain bowl",
+"inDeck": null,
+"newKanji": [
+"丼"
+]
+},
+{
+"cat": "식당",
+"w": "麺",
+"g": 2,
+"ko": "면",
+"r": "めん",
+"id": "1533610",
+"common": true,
+"en": "noodles",
+"inDeck": null,
+"newKanji": [
+"麺"
+]
+},
+{
+"cat": "식당",
+"w": "替え玉",
+"g": 3,
+"ko": "면 추가(라멘)",
+"r": "かえだま",
+"id": "1410840",
+"common": true,
+"en": "stand-in; proxy; substitute",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "飲み放題",
+"g": 2,
+"ko": "음료 무한리필",
+"r": "のみほうだい",
+"id": "1169840",
+"common": false,
+"en": "all you can drink; bottomless cup",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "食べ放題",
+"g": 2,
+"ko": "무한리필(뷔페)",
+"r": "たべほうだい",
+"id": "1358360",
+"common": false,
+"en": "all-you-can-eat; eating as much as one likes",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "追加",
+"g": 2,
+"ko": "추가",
+"r": "ついか",
+"id": "1432460",
+"common": true,
+"en": "addition; supplement; appending",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "辛口",
+"g": 2,
+"ko": "매운맛",
+"r": "からくち",
+"id": "1609630",
+"common": true,
+"en": "dry taste (e.g. sake, wine)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "甘口",
+"g": 2,
+"ko": "순한 맛, 단맛",
+"r": "あまくち",
+"id": "1213510",
+"common": false,
+"en": "sweet flavour; sweet flavor; mildness",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "激辛",
+"g": 3,
+"ko": "아주 매움",
+"r": "げきから",
+"id": "2068400",
+"common": false,
+"en": "extremely spicy; fiery hot",
+"inDeck": null,
+"newKanji": [
+"激"
+]
+},
+{
+"cat": "식당",
+"w": "和食",
+"g": 3,
+"ko": "일본 음식",
+"r": "わしょく",
+"id": "1562130",
+"common": true,
+"en": "Japanese food; Japanese dish; Japanese cuisine",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "洋食",
+"g": 3,
+"ko": "양식",
+"r": "ようしょく",
+"id": "1546000",
+"common": true,
+"en": "Western food; Western dish; Western cooking",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "中華",
+"g": 3,
+"ko": "중국 음식",
+"r": "ちゅうか",
+"id": "1423560",
+"common": true,
+"en": "China",
+"inDeck": null,
+"newKanji": [
+"華"
+]
+},
+{
+"cat": "식당",
+"w": "焼肉",
+"g": 3,
+"ko": "고기구이",
+"r": "やきにく",
+"id": "1605420",
+"common": true,
+"en": "yakiniku; Japanese dish of grilled meat similar to Korean barbecue",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "刺身",
+"g": 3,
+"ko": "회",
+"r": "さしみ",
+"id": "1306570",
+"common": true,
+"en": "sashimi (raw sliced fish, shellfish or crustaceans)",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "寿司",
+"g": 2,
+"ko": "초밥",
+"r": "すし",
+"id": "1595650",
+"common": true,
+"en": "sushi; range of dishes made with vinegared rice combined with fish, vegetables, egg, etc.",
+"inDeck": null,
+"newKanji": [
+"寿",
+"司"
+]
+},
+{
+"cat": "식당",
+"w": "弁当",
+"g": 2,
+"ko": "도시락",
+"r": "べんとう",
+"id": "1513060",
+"common": true,
+"en": "bento; Japanese box lunch",
+"inDeck": null,
+"newKanji": [
+"弁"
+]
+},
+{
+"cat": "식당",
+"w": "惣菜",
+"g": 3,
+"ko": "반찬",
+"r": "そうざい",
+"id": "1399580",
+"common": true,
+"en": "small dish (served as a part of an ordinary household meal); side dish",
+"inDeck": null,
+"newKanji": [
+"惣"
+]
+},
+{
+"cat": "식당",
+"w": "お冷",
+"g": 3,
+"ko": "(식당의) 냉수",
+"r": "おひや",
+"id": "1002720",
+"common": false,
+"en": "cold (drinking) water; (glass of) cold water",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "割り箸",
+"g": 3,
+"ko": "나무젓가락",
+"r": "わりばし",
+"id": "1606940",
+"common": true,
+"en": "dispensable chopsticks; throwaway chopsticks",
+"inDeck": null,
+"newKanji": [
+"箸"
+]
+},
+{
+"cat": "식당",
+"w": "箸",
+"g": 2,
+"ko": "젓가락",
+"r": "はし",
+"id": "1476410",
+"common": true,
+"en": "chopsticks",
+"inDeck": null,
+"newKanji": [
+"箸"
+]
+},
+{
+"cat": "식당",
+"w": "皿",
+"g": 2,
+"ko": "접시",
+"r": "さら",
+"id": "1299680",
+"common": true,
+"en": "plate; dish; platter",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "店内飲食",
+"g": 2,
+"ko": "매장 내 식사",
+"r": "てんないいんしょく",
+"id": null,
+"common": null,
+"en": "",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "温め",
+"g": 2,
+"ko": "데우기",
+"r": "あたため",
+"id": null,
+"common": null,
+"en": "",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "大人",
+"g": 2,
+"ko": "어른",
+"r": "おとな",
+"id": "1414170",
+"common": true,
+"en": "adult; grown-up",
+"inDeck": 5,
+"newKanji": []
+},
+{
+"cat": "식당",
+"w": "小人",
+"g": 2,
+"ko": "어린이(요금)",
+"r": "しょうにん",
+"id": "1348350",
+"common": true,
+"en": "child (esp. one of elementary school age or younger)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "賞味期限",
+"g": 1,
+"ko": "맛있게 먹을 수 있는 기한",
+"r": "しょうみきげん",
+"id": "1351980",
+"common": true,
+"en": "best-before date (on food); use-by date; expiry date",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "消費期限",
+"g": 1,
+"ko": "소비기한(지나면 먹으면 안 됨)",
+"r": "しょうひきげん",
+"id": "2233960",
+"common": false,
+"en": "expiry date (esp. on food); expiration date; use-by date",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "要冷蔵",
+"g": 1,
+"ko": "냉장 보관",
+"r": "ようれいぞう",
+"id": "2805680",
+"common": false,
+"en": "requiring refrigeration",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "要冷凍",
+"g": 1,
+"ko": "냉동 보관",
+"r": "ようれいとう",
+"id": null,
+"common": null,
+"en": "",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "冷蔵",
+"g": 2,
+"ko": "냉장",
+"r": "れいぞう",
+"id": "1557100",
+"common": true,
+"en": "cold storage; refrigeration",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "冷凍",
+"g": 2,
+"ko": "냉동",
+"r": "れいとう",
+"id": "1557170",
+"common": true,
+"en": "freezing; cold storage; refrigeration",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "常温",
+"g": 2,
+"ko": "상온",
+"r": "じょうおん",
+"id": "1798230",
+"common": false,
+"en": "normal temperature; room temperature",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "原材料",
+"g": 1,
+"ko": "원재료",
+"r": "げんざいりょう",
+"id": "1261430",
+"common": true,
+"en": "raw materials; ingredients",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "原産地",
+"g": 3,
+"ko": "원산지",
+"r": "げんさんち",
+"id": "1261480",
+"common": true,
+"en": "place of origin (of a plant or animal species, etc.); natural habitat; original home",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "国産",
+"g": 3,
+"ko": "국산",
+"r": "こくさん",
+"id": "1286590",
+"common": true,
+"en": "domestically produced; domestic; Japanese-made",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "添加物",
+"g": 3,
+"ko": "첨가물",
+"r": "てんかぶつ",
+"id": "1440840",
+"common": true,
+"en": "additive",
+"inDeck": null,
+"newKanji": [
+"添"
+]
+},
+{
+"cat": "식품",
+"w": "卵",
+"g": 1,
+"ko": "달걀(알레르기 표시)",
+"r": "たまご",
+"id": "1549140",
+"common": true,
+"en": "eggs; egg; spawn",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "乳",
+"g": 1,
+"ko": "우유 성분(알레르기 표시)",
+"r": "ちち",
+"id": "1464980",
+"common": true,
+"en": "milk",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "小麦",
+"g": 1,
+"ko": "밀(알레르기 표시)",
+"r": "こむぎ",
+"id": "1348630",
+"common": true,
+"en": "wheat",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "落花生",
+"g": 1,
+"ko": "땅콩(알레르기 표시)",
+"r": "らっかせい",
+"id": "1775610",
+"common": false,
+"en": "peanut (Arachis hypogaea); groundnut",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "大豆",
+"g": 2,
+"ko": "콩",
+"r": "だいず",
+"id": "1414680",
+"common": true,
+"en": "soya bean (Glycine max); soybean; soy",
+"inDeck": null,
+"newKanji": [
+"豆"
+]
+},
+{
+"cat": "식품",
+"w": "豚肉",
+"g": 2,
+"ko": "돼지고기",
+"r": "ぶたにく",
+"id": "1457440",
+"common": true,
+"en": "pork",
+"inDeck": null,
+"newKanji": [
+"豚"
+]
+},
+{
+"cat": "식품",
+"w": "牛肉",
+"g": 2,
+"ko": "소고기",
+"r": "ぎゅうにく",
+"id": "1231580",
+"common": true,
+"en": "beef",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "鶏肉",
+"g": 2,
+"ko": "닭고기",
+"r": "とりにく",
+"id": "1253020",
+"common": true,
+"en": "chicken meat",
+"inDeck": null,
+"newKanji": [
+"鶏"
+]
+},
+{
+"cat": "식품",
+"w": "海老",
+"g": 2,
+"ko": "새우",
+"r": "えび",
+"id": "1588720",
+"common": true,
+"en": "prawn; shrimp; lobster",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "牛乳",
+"g": 2,
+"ko": "우유",
+"r": "ぎゅうにゅう",
+"id": "1231590",
+"common": true,
+"en": "(cow's) milk",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "醤油",
+"g": 2,
+"ko": "간장",
+"r": "しょうゆ",
+"id": "1595020",
+"common": true,
+"en": "soy sauce; soya sauce; shoyu",
+"inDeck": null,
+"newKanji": [
+"醤"
+]
+},
+{
+"cat": "식품",
+"w": "味噌",
+"g": 2,
+"ko": "된장",
+"r": "みそ",
+"id": "1527040",
+"common": true,
+"en": "miso; fermented condiment usu. made from soybeans",
+"inDeck": null,
+"newKanji": [
+"噌"
+]
+},
+{
+"cat": "식품",
+"w": "砂糖",
+"g": 2,
+"ko": "설탕",
+"r": "さとう",
+"id": "1291600",
+"common": true,
+"en": "sugar",
+"inDeck": null,
+"newKanji": [
+"糖"
+]
+},
+{
+"cat": "식품",
+"w": "塩",
+"g": 2,
+"ko": "소금",
+"r": "しお",
+"id": "1576630",
+"common": true,
+"en": "salt; common salt; table salt",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "酢",
+"g": 3,
+"ko": "식초",
+"r": "す",
+"id": "1370270",
+"common": true,
+"en": "vinegar",
+"inDeck": null,
+"newKanji": [
+"酢"
+]
+},
+{
+"cat": "식품",
+"w": "生",
+"g": 2,
+"ko": "날것; 생",
+"r": "なま",
+"id": "1378450",
+"common": true,
+"en": "raw; uncooked; fresh",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "加熱",
+"g": 2,
+"ko": "가열",
+"r": "かねつ",
+"id": "1190470",
+"common": true,
+"en": "heating; application of heat",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "開封後",
+"g": 2,
+"ko": "개봉 후",
+"r": "かいふうご",
+"id": null,
+"common": null,
+"en": "",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "保存方法",
+"g": 2,
+"ko": "보관 방법",
+"r": "ほぞんほうほう",
+"id": "2835814",
+"common": false,
+"en": "storage method (e.g. for food); storage instructions",
+"inDeck": null,
+"newKanji": [
+"保"
+]
+},
+{
+"cat": "식품",
+"w": "内容量",
+"g": 3,
+"ko": "내용량",
+"r": "ないようりょう",
+"id": "2838898",
+"common": false,
+"en": "net content (e.g. on food packaging)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "식품",
+"w": "酒類",
+"g": 3,
+"ko": "주류",
+"r": "しゅるい",
+"id": "1329190",
+"common": true,
+"en": "alcoholic drinks; liquor",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "病院",
+"g": 1,
+"ko": "병원",
+"r": "びょういん",
+"id": "1490220",
+"common": true,
+"en": "hospital; clinic; doctor's office",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "医院",
+"g": 2,
+"ko": "의원",
+"r": "いいん",
+"id": "1159730",
+"common": true,
+"en": "doctor's office; doctor's surgery; clinic",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "内科",
+"g": 1,
+"ko": "내과",
+"r": "ないか",
+"id": "1457830",
+"common": true,
+"en": "internal medicine",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "外科",
+"g": 2,
+"ko": "외과",
+"r": "げか",
+"id": "1203380",
+"common": true,
+"en": "surgery (branch of medicine)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "歯科",
+"g": 2,
+"ko": "치과",
+"r": "しか",
+"id": "1313110",
+"common": true,
+"en": "dentistry",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "眼科",
+"g": 2,
+"ko": "안과",
+"r": "がんか",
+"id": "1217150",
+"common": true,
+"en": "ophthalmology",
+"inDeck": null,
+"newKanji": [
+"眼"
+]
+},
+{
+"cat": "병원",
+"w": "皮膚科",
+"g": 2,
+"ko": "피부과",
+"r": "ひふか",
+"id": "1483940",
+"common": true,
+"en": "dermatology",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "耳鼻科",
+"g": 2,
+"ko": "이비인후과",
+"r": "じびか",
+"id": "1317310",
+"common": true,
+"en": "otolaryngology; ear, nose, and throat department",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "小児科",
+"g": 2,
+"ko": "소아과",
+"r": "しょうにか",
+"id": "1348200",
+"common": true,
+"en": "pediatrics",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "産婦人科",
+"g": 3,
+"ko": "산부인과",
+"r": "さんふじんか",
+"id": "1303850",
+"common": true,
+"en": "maternity and gynaecology department (gynecology); department of obstetrics and gynaecology (gynecology)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "受付",
+"g": 1,
+"ko": "접수",
+"r": "うけつけ",
+"id": "1588060",
+"common": true,
+"en": "reception (desk); information desk; receptionist",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "診察",
+"g": 1,
+"ko": "진찰",
+"r": "しんさつ",
+"id": "1365460",
+"common": true,
+"en": "medical examination; checkup; consultation",
+"inDeck": null,
+"newKanji": [
+"診"
+]
+},
+{
+"cat": "병원",
+"w": "診察券",
+"g": 2,
+"ko": "진찰권",
+"r": "しんさつけん",
+"id": "1705630",
+"common": false,
+"en": "patient's registration ticket",
+"inDeck": null,
+"newKanji": [
+"診"
+]
+},
+{
+"cat": "병원",
+"w": "保険証",
+"g": 1,
+"ko": "건강보험증",
+"r": "ほけんしょう",
+"id": "1513490",
+"common": false,
+"en": "insurance card",
+"inDeck": null,
+"newKanji": [
+"保",
+"証"
+]
+},
+{
+"cat": "병원",
+"w": "初診",
+"g": 2,
+"ko": "초진",
+"r": "しょしん",
+"id": "1798960",
+"common": false,
+"en": "initial medical examination; first visit (to a doctor, clinic, hospital, etc.)",
+"inDeck": null,
+"newKanji": [
+"診"
+]
+},
+{
+"cat": "병원",
+"w": "問診票",
+"g": 2,
+"ko": "문진표",
+"r": "もんしんひょう",
+"id": "2236510",
+"common": false,
+"en": "medical questionnaire; medical interview sheet; medical history form",
+"inDeck": null,
+"newKanji": [
+"診",
+"票"
+]
+},
+{
+"cat": "병원",
+"w": "処方箋",
+"g": 1,
+"ko": "처방전",
+"r": "しょほうせん",
+"id": "1655680",
+"common": true,
+"en": "prescription",
+"inDeck": null,
+"newKanji": [
+"箋"
+]
+},
+{
+"cat": "병원",
+"w": "薬局",
+"g": 1,
+"ko": "약국",
+"r": "やっきょく",
+"id": "1538200",
+"common": true,
+"en": "pharmacy; drugstore; chemist's (shop)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "薬",
+"g": 1,
+"ko": "약",
+"r": "くすり",
+"id": "1538160",
+"common": true,
+"en": "medicine; pharmaceuticals; (legal) drugs",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "錠剤",
+"g": 2,
+"ko": "알약",
+"r": "じょうざい",
+"id": "1357120",
+"common": true,
+"en": "pill; lozenge; tablet",
+"inDeck": null,
+"newKanji": [
+"錠",
+"剤"
+]
+},
+{
+"cat": "병원",
+"w": "粉薬",
+"g": 3,
+"ko": "가루약",
+"r": "こなぐすり",
+"id": "1504890",
+"common": false,
+"en": "powdered medicine; powder",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "目薬",
+"g": 2,
+"ko": "안약",
+"r": "めぐすり",
+"id": "1535690",
+"common": true,
+"en": "eye drops; eyewash",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "風邪薬",
+"g": 2,
+"ko": "감기약",
+"r": "かぜぐすり",
+"id": "1609540",
+"common": true,
+"en": "remedy for a cold; cold medicine",
+"inDeck": null,
+"newKanji": [
+"邪"
+]
+},
+{
+"cat": "병원",
+"w": "痛み止め",
+"g": 2,
+"ko": "진통제",
+"r": "いたみどめ",
+"id": "1432690",
+"common": false,
+"en": "painkiller",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "副作用",
+"g": 1,
+"ko": "부작용",
+"r": "ふくさよう",
+"id": "1500400",
+"common": true,
+"en": "side effect; adverse reaction",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "食前",
+"g": 1,
+"ko": "식전",
+"r": "しょくぜん",
+"id": "1358520",
+"common": false,
+"en": "before meals",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "食後",
+"g": 1,
+"ko": "식후",
+"r": "しょくご",
+"id": "1358450",
+"common": true,
+"en": "after a meal",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "食間",
+"g": 2,
+"ko": "식간",
+"r": "しょっかん",
+"id": "1839720",
+"common": false,
+"en": "between meals",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "用法",
+"g": 2,
+"ko": "용법",
+"r": "ようほう",
+"id": "1546410",
+"common": false,
+"en": "way of using (something); usage; use",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "用量",
+"g": 1,
+"ko": "용량",
+"r": "ようりょう",
+"id": "1546430",
+"common": false,
+"en": "dose",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "発熱",
+"g": 1,
+"ko": "발열",
+"r": "はつねつ",
+"id": "1477790",
+"common": true,
+"en": "generation of heat",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "体温",
+"g": 2,
+"ko": "체온",
+"r": "たいおん",
+"id": "1409250",
+"common": true,
+"en": "body temperature",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "咳",
+"g": 2,
+"ko": "기침",
+"r": "せき",
+"id": "1204300",
+"common": true,
+"en": "cough; coughing; tussis",
+"inDeck": null,
+"newKanji": [
+"咳"
+]
+},
+{
+"cat": "병원",
+"w": "鼻水",
+"g": 2,
+"ko": "콧물",
+"r": "はなみず",
+"id": "1487060",
+"common": true,
+"en": "nasal mucus; dripping nose; snot",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "頭痛",
+"g": 2,
+"ko": "두통",
+"r": "ずつう",
+"id": "1450890",
+"common": true,
+"en": "headache",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "腹痛",
+"g": 2,
+"ko": "복통",
+"r": "ふくつう",
+"id": "1501230",
+"common": true,
+"en": "stomach ache; abdominal pain",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "吐き気",
+"g": 2,
+"ko": "구역질",
+"r": "はきけ",
+"id": "1444120",
+"common": true,
+"en": "nausea; feeling like throwing up; feeling sick",
+"inDeck": null,
+"newKanji": [
+"吐"
+]
+},
+{
+"cat": "병원",
+"w": "下痢",
+"g": 2,
+"ko": "설사",
+"r": "げり",
+"id": "1186540",
+"common": true,
+"en": "diarrhea; diarrhoea",
+"inDeck": null,
+"newKanji": [
+"痢"
+]
+},
+{
+"cat": "병원",
+"w": "怪我",
+"g": 1,
+"ko": "부상, 다침",
+"r": "けが",
+"id": "1200220",
+"common": true,
+"en": "injury; wound",
+"inDeck": null,
+"newKanji": [
+"怪",
+"我"
+]
+},
+{
+"cat": "병원",
+"w": "骨折",
+"g": 2,
+"ko": "골절",
+"r": "こっせつ",
+"id": "1288640",
+"common": true,
+"en": "bone fracture",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "火傷",
+"g": 2,
+"ko": "화상",
+"r": "やけど",
+"id": "1577310",
+"common": true,
+"en": "burn; scald",
+"inDeck": null,
+"newKanji": [
+"傷"
+]
+},
+{
+"cat": "병원",
+"w": "注射",
+"g": 2,
+"ko": "주사",
+"r": "ちゅうしゃ",
+"id": "1426590",
+"common": true,
+"en": "injection; jab; shot",
+"inDeck": null,
+"newKanji": [
+"射"
+]
+},
+{
+"cat": "병원",
+"w": "検査",
+"g": 2,
+"ko": "검사",
+"r": "けんさ",
+"id": "1257890",
+"common": true,
+"en": "inspection (e.g. customs, factory); examination; test",
+"inDeck": null,
+"newKanji": [
+"検"
+]
+},
+{
+"cat": "병원",
+"w": "入院",
+"g": 2,
+"ko": "입원",
+"r": "にゅういん",
+"id": "1465720",
+"common": true,
+"en": "hospitalization; hospitalisation",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "退院",
+"g": 2,
+"ko": "퇴원",
+"r": "たいいん",
+"id": "1411300",
+"common": true,
+"en": "leaving hospital; discharge from hospital",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "手術",
+"g": 2,
+"ko": "수술",
+"r": "しゅじゅつ",
+"id": "1327790",
+"common": true,
+"en": "surgery; operation; procedure",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "救急車",
+"g": 1,
+"ko": "구급차",
+"r": "きゅうきゅうしゃ",
+"id": "1229100",
+"common": true,
+"en": "ambulance",
+"inDeck": null,
+"newKanji": [
+"救"
+]
+},
+{
+"cat": "병원",
+"w": "救急",
+"g": 1,
+"ko": "응급",
+"r": "きゅうきゅう",
+"id": "1229080",
+"common": true,
+"en": "first-aid; emergency (aid)",
+"inDeck": null,
+"newKanji": [
+"救"
+]
+},
+{
+"cat": "병원",
+"w": "緊急",
+"g": 1,
+"ko": "긴급",
+"r": "きんきゅう",
+"id": "1241850",
+"common": true,
+"en": "urgency; emergency",
+"inDeck": null,
+"newKanji": [
+"緊"
+]
+},
+{
+"cat": "병원",
+"w": "夜間",
+"g": 2,
+"ko": "야간",
+"r": "やかん",
+"id": "1536530",
+"common": true,
+"en": "night; nighttime",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "診断書",
+"g": 3,
+"ko": "진단서",
+"r": "しんだんしょ",
+"id": "1365490",
+"common": false,
+"en": "medical certificate",
+"inDeck": null,
+"newKanji": [
+"診"
+]
+},
+{
+"cat": "병원",
+"w": "予防接種",
+"g": 3,
+"ko": "예방접종",
+"r": "よぼうせっしゅ",
+"id": "1543690",
+"common": true,
+"en": "vaccination; inoculation; immunization",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "병원",
+"w": "妊娠",
+"g": 3,
+"ko": "임신",
+"r": "にんしん",
+"id": "1467350",
+"common": true,
+"en": "pregnancy; conception; gestation",
+"inDeck": null,
+"newKanji": [
+"妊",
+"娠"
+]
+},
+{
+"cat": "집",
+"w": "家賃",
+"g": 1,
+"ko": "집세, 월세",
+"r": "やちん",
+"id": "1192270",
+"common": true,
+"en": "rent",
+"inDeck": null,
+"newKanji": [
+"賃"
+]
+},
+{
+"cat": "집",
+"w": "敷金",
+"g": 1,
+"ko": "보증금(시키킨)",
+"r": "しききん",
+"id": "1497040",
+"common": true,
+"en": "(security) deposit; caution money",
+"inDeck": null,
+"newKanji": [
+"敷"
+]
+},
+{
+"cat": "집",
+"w": "礼金",
+"g": 1,
+"ko": "사례금(레이킨)",
+"r": "れいきん",
+"id": "1557500",
+"common": true,
+"en": "money (given as thanks); reward money; fee",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "管理費",
+"g": 2,
+"ko": "관리비",
+"r": "かんりひ",
+"id": "2612860",
+"common": false,
+"en": "administration costs; administrative expenses; management costs",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "共益費",
+"g": 3,
+"ko": "공익비(공용 관리비)",
+"r": "きょうえきひ",
+"id": "1234310",
+"common": false,
+"en": "monthly fee for common areas of an apartment building (lighting, etc.); condo fees",
+"inDeck": null,
+"newKanji": [
+"益"
+]
+},
+{
+"cat": "집",
+"w": "契約",
+"g": 1,
+"ko": "계약",
+"r": "けいやく",
+"id": "1250190",
+"common": true,
+"en": "contract; compact; agreement",
+"inDeck": null,
+"newKanji": [
+"契"
+]
+},
+{
+"cat": "집",
+"w": "契約書",
+"g": 1,
+"ko": "계약서",
+"r": "けいやくしょ",
+"id": "1250210",
+"common": true,
+"en": "(written) contract; agreement",
+"inDeck": null,
+"newKanji": [
+"契"
+]
+},
+{
+"cat": "집",
+"w": "更新料",
+"g": 2,
+"ko": "갱신료",
+"r": "こうしんりょう",
+"id": "2666140",
+"common": false,
+"en": "renewal charge; renewal fee",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "解約",
+"g": 1,
+"ko": "해약",
+"r": "かいやく",
+"id": "1199300",
+"common": true,
+"en": "cancellation of a contract",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "退去",
+"g": 2,
+"ko": "퇴거",
+"r": "たいきょ",
+"id": "1411370",
+"common": true,
+"en": "departure; leaving; going away",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "入居",
+"g": 2,
+"ko": "입주",
+"r": "にゅうきょ",
+"id": "1465980",
+"common": true,
+"en": "moving in (to a house, apartment, etc.); taking up residence",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "物件",
+"g": 2,
+"ko": "매물, 집",
+"r": "ぶっけん",
+"id": "1502460",
+"common": true,
+"en": "article; thing; object",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "間取り",
+"g": 2,
+"ko": "방 구조",
+"r": "まどり",
+"id": "1215490",
+"common": true,
+"en": "layout (of a house or apartment); arrangement of rooms",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "和室",
+"g": 3,
+"ko": "다다미방",
+"r": "わしつ",
+"id": "1562110",
+"common": true,
+"en": "Japanese-style room",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "洋室",
+"g": 3,
+"ko": "서양식 방",
+"r": "ようしつ",
+"id": "1545970",
+"common": true,
+"en": "Western-style room",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "台所",
+"g": 2,
+"ko": "부엌",
+"r": "だいどころ",
+"id": "1412640",
+"common": true,
+"en": "kitchen",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "浴室",
+"g": 2,
+"ko": "욕실",
+"r": "よくしつ",
+"id": "1547460",
+"common": true,
+"en": "bathroom",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "風呂",
+"g": 2,
+"ko": "목욕; 욕실",
+"r": "ふろ",
+"id": "1500100",
+"common": true,
+"en": "bath; bathing; bathtub",
+"inDeck": null,
+"newKanji": [
+"呂"
+]
+},
+{
+"cat": "집",
+"w": "洗面所",
+"g": 2,
+"ko": "세면실",
+"r": "せんめんじょ",
+"id": "1391070",
+"common": true,
+"en": "washroom; bathroom",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "玄関",
+"g": 2,
+"ko": "현관",
+"r": "げんかん",
+"id": "1263400",
+"common": true,
+"en": "entrance; front door; entryway",
+"inDeck": null,
+"newKanji": [
+"玄"
+]
+},
+{
+"cat": "집",
+"w": "押入れ",
+"g": 3,
+"ko": "붙박이장",
+"r": "おしいれ",
+"id": "1589110",
+"common": true,
+"en": "closet (built into the wall, usu. with sliding doors); (built-in) wardrobe",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "鍵",
+"g": 1,
+"ko": "열쇠",
+"r": "かぎ",
+"id": "1260490",
+"common": true,
+"en": "key",
+"inDeck": null,
+"newKanji": [
+"鍵"
+]
+},
+{
+"cat": "집",
+"w": "大家",
+"g": 2,
+"ko": "집주인",
+"r": "おおや",
+"id": "1413140",
+"common": true,
+"en": "landlord; landlady",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "管理会社",
+"g": 2,
+"ko": "관리 회사",
+"r": "かんりがいしゃ",
+"id": "2595880",
+"common": false,
+"en": "maintenance company; management company",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "不動産",
+"g": 2,
+"ko": "부동산",
+"r": "ふどうさん",
+"id": "1494220",
+"common": true,
+"en": "real estate",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "保証人",
+"g": 2,
+"ko": "보증인",
+"r": "ほしょうにん",
+"id": "1513820",
+"common": true,
+"en": "guarantor; surety; sponsor",
+"inDeck": null,
+"newKanji": [
+"保",
+"証"
+]
+},
+{
+"cat": "집",
+"w": "仲介手数料",
+"g": 3,
+"ko": "중개 수수료",
+"r": "ちゅうかいてすうりょう",
+"id": "2855060",
+"common": false,
+"en": "brokerage fee; agency fee; brokerage commission",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "騒音",
+"g": 2,
+"ko": "소음",
+"r": "そうおん",
+"id": "1403060",
+"common": true,
+"en": "noise; din",
+"inDeck": null,
+"newKanji": [
+"騒"
+]
+},
+{
+"cat": "집",
+"w": "近所",
+"g": 2,
+"ko": "근처, 이웃",
+"r": "きんじょ",
+"id": "1242350",
+"common": true,
+"en": "neighbourhood; neighborhood; vicinity",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "引っ越し",
+"g": 2,
+"ko": "이사",
+"r": "ひっこし",
+"id": "1601880",
+"common": true,
+"en": "moving (dwelling, office, etc.); changing residence",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "電気",
+"g": 2,
+"ko": "전기",
+"r": "でんき",
+"id": "1443000",
+"common": true,
+"en": "electricity",
+"inDeck": 5,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "水道",
+"g": 2,
+"ko": "수도",
+"r": "すいどう",
+"id": "1371920",
+"common": true,
+"en": "water supply; water service; waterworks",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "料金",
+"g": 1,
+"ko": "요금",
+"r": "りょうきん",
+"id": "1554280",
+"common": true,
+"en": "fee; charge; fare",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "請求書",
+"g": 1,
+"ko": "청구서",
+"r": "せいきゅうしょ",
+"id": "1381330",
+"common": true,
+"en": "bill; account; invoice",
+"inDeck": null,
+"newKanji": [
+"請"
+]
+},
+{
+"cat": "집",
+"w": "停電",
+"g": 1,
+"ko": "정전",
+"r": "ていでん",
+"id": "1435020",
+"common": true,
+"en": "power outage; power failure; power cut",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "断水",
+"g": 1,
+"ko": "단수",
+"r": "だんすい",
+"id": "1419660",
+"common": true,
+"en": "suspension of water supply; water outage",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "故障",
+"g": 1,
+"ko": "고장",
+"r": "こしょう",
+"id": "1267180",
+"common": true,
+"en": "fault; trouble; breakdown",
+"inDeck": null,
+"newKanji": [
+"故",
+"障"
+]
+},
+{
+"cat": "집",
+"w": "修理",
+"g": 2,
+"ko": "수리",
+"r": "しゅうり",
+"id": "1332400",
+"common": true,
+"en": "repair; mending; fixing",
+"inDeck": null,
+"newKanji": [
+"修"
+]
+},
+{
+"cat": "집",
+"w": "点検",
+"g": 2,
+"ko": "점검",
+"r": "てんけん",
+"id": "1441540",
+"common": true,
+"en": "detailed inspection; thorough examination; checking",
+"inDeck": null,
+"newKanji": [
+"検"
+]
+},
+{
+"cat": "집",
+"w": "冷房",
+"g": 2,
+"ko": "냉방",
+"r": "れいぼう",
+"id": "1557290",
+"common": true,
+"en": "air conditioning; air cooling",
+"inDeck": null,
+"newKanji": [
+"房"
+]
+},
+{
+"cat": "집",
+"w": "暖房",
+"g": 2,
+"ko": "난방",
+"r": "だんぼう",
+"id": "1419860",
+"common": true,
+"en": "(indoor) heating",
+"inDeck": null,
+"newKanji": [
+"暖",
+"房"
+]
+},
+{
+"cat": "집",
+"w": "除湿",
+"g": 3,
+"ko": "제습",
+"r": "じょしつ",
+"id": "1711240",
+"common": false,
+"en": "dehumidification",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "洗濯機",
+"g": 2,
+"ko": "세탁기",
+"r": "せんたくき",
+"id": "1390990",
+"common": true,
+"en": "washing machine; (clothes) washer",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "冷蔵庫",
+"g": 2,
+"ko": "냉장고",
+"r": "れいぞうこ",
+"id": "1557110",
+"common": true,
+"en": "refrigerator; fridge",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "布団",
+"g": 3,
+"ko": "이불",
+"r": "ふとん",
+"id": "1496890",
+"common": true,
+"en": "futon; Japanese bedding consisting of a mattress and a duvet",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "집",
+"w": "回覧板",
+"g": 3,
+"ko": "회람판",
+"r": "かいらんばん",
+"id": "1199810",
+"common": false,
+"en": "circular notice (esp. in binder form; passed around households within a neighbourhood association, etc.)",
+"inDeck": null,
+"newKanji": [
+"覧"
+]
+},
+{
+"cat": "쓰레기",
+"w": "燃えるゴミ",
+"g": 1,
+"ko": "타는 쓰레기",
+"r": "もえるごみ",
+"id": "2842183",
+"common": false,
+"en": "burnable garbage; burnable waste",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "쓰레기",
+"w": "燃えないゴミ",
+"g": 1,
+"ko": "안 타는 쓰레기",
+"r": "もえないゴミ",
+"id": "2842184",
+"common": false,
+"en": "nonburnable garbage; nonflammables",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "쓰레기",
+"w": "資源ゴミ",
+"g": 1,
+"ko": "재활용 쓰레기",
+"r": "しげんごみ",
+"id": "2112630",
+"common": false,
+"en": "recyclable garbage; recyclable waste",
+"inDeck": null,
+"newKanji": [
+"源"
+]
+},
+{
+"cat": "쓰레기",
+"w": "粗大ゴミ",
+"g": 1,
+"ko": "대형 쓰레기",
+"r": "そだいゴミ",
+"id": "1397030",
+"common": false,
+"en": "large-size refuse (e.g. furniture, electrical goods); oversized garbage; bulky rubbish",
+"inDeck": null,
+"newKanji": [
+"粗"
+]
+},
+{
+"cat": "쓰레기",
+"w": "可燃ゴミ",
+"g": 1,
+"ko": "가연성 쓰레기",
+"r": "かねんごみ",
+"id": "2770250",
+"common": false,
+"en": "combustible waste; burnable rubbish",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "쓰레기",
+"w": "不燃ゴミ",
+"g": 1,
+"ko": "불연성 쓰레기",
+"r": "ふねんごみ",
+"id": "2845440",
+"common": false,
+"en": "non-combustible waste; non-burnable rubbish",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "쓰레기",
+"w": "生ゴミ",
+"g": 2,
+"ko": "음식물 쓰레기",
+"r": "なまごみ",
+"id": "1378640",
+"common": false,
+"en": "kitchen waste; food scraps; raw garbage",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "쓰레기",
+"w": "分別",
+"g": 1,
+"ko": "분리배출",
+"r": "ふんべつ",
+"id": "1504190",
+"common": true,
+"en": "discretion; prudence; good sense",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "쓰레기",
+"w": "収集日",
+"g": 1,
+"ko": "수거일",
+"r": "しゅうしゅうび",
+"id": "2645110",
+"common": false,
+"en": "collection day (for rubbish)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "쓰레기",
+"w": "回収",
+"g": 2,
+"ko": "수거",
+"r": "かいしゅう",
+"id": "1199470",
+"common": true,
+"en": "collection; recovery; withdrawal",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "쓰레기",
+"w": "缶",
+"g": 2,
+"ko": "캔",
+"r": "かん",
+"id": "1214540",
+"common": true,
+"en": "can; tin",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "쓰레기",
+"w": "瓶",
+"g": 2,
+"ko": "병",
+"r": "びん",
+"id": "1491120",
+"common": true,
+"en": "bottle; jar; decanter",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "쓰레기",
+"w": "古紙",
+"g": 3,
+"ko": "폐지",
+"r": "こし",
+"id": "1659930",
+"common": true,
+"en": "used paper; paper for recycling",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "쓰레기",
+"w": "指定袋",
+"g": 2,
+"ko": "지정 봉투",
+"r": "していぶくろ",
+"id": "2859088",
+"common": false,
+"en": "designated garbage bag (as specified by a municipality)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "銀行",
+"g": 1,
+"ko": "은행",
+"r": "ぎんこう",
+"id": "1243490",
+"common": true,
+"en": "bank; banking institution",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "口座",
+"g": 1,
+"ko": "계좌",
+"r": "こうざ",
+"id": "1276150",
+"common": true,
+"en": "account (e.g. bank)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "口座開設",
+"g": 2,
+"ko": "계좌 개설",
+"r": "こうざかいせつ",
+"id": null,
+"common": null,
+"en": "",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "通帳",
+"g": 2,
+"ko": "통장",
+"r": "つうちょう",
+"id": "1433490",
+"common": true,
+"en": "passbook; bankbook",
+"inDeck": null,
+"newKanji": [
+"帳"
+]
+},
+{
+"cat": "은행·우편",
+"w": "暗証番号",
+"g": 1,
+"ko": "비밀번호(PIN)",
+"r": "あんしょうばんごう",
+"id": "1154610",
+"common": false,
+"en": "personal identification number; PIN; password number",
+"inDeck": null,
+"newKanji": [
+"証"
+]
+},
+{
+"cat": "은행·우편",
+"w": "残高",
+"g": 1,
+"ko": "잔액",
+"r": "ざんだか",
+"id": "1304590",
+"common": true,
+"en": "(bank) balance; remainder",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "振込",
+"g": 1,
+"ko": "계좌이체, 송금",
+"r": "ふりこみ",
+"id": "1602960",
+"common": true,
+"en": "payment made via bank deposit transfer",
+"inDeck": null,
+"newKanji": [
+"振"
+]
+},
+{
+"cat": "은행·우편",
+"w": "振込先",
+"g": 2,
+"ko": "입금 계좌",
+"r": "ふりこみさき",
+"id": null,
+"common": null,
+"en": "",
+"inDeck": null,
+"newKanji": [
+"振"
+]
+},
+{
+"cat": "은행·우편",
+"w": "入金",
+"g": 2,
+"ko": "입금",
+"r": "にゅうきん",
+"id": "1466040",
+"common": true,
+"en": "receipt of money; money received; receipts",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "出金",
+"g": 2,
+"ko": "출금",
+"r": "しゅっきん",
+"id": "1338650",
+"common": true,
+"en": "withdrawal (of money); payment; contribution",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "引き出し",
+"g": 2,
+"ko": "인출",
+"r": "ひきだし",
+"id": "1601650",
+"common": true,
+"en": "drawer",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "預け入れ",
+"g": 2,
+"ko": "예금(입금)",
+"r": "あずけいれ",
+"id": "2531100",
+"common": false,
+"en": "deposit",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "送金",
+"g": 2,
+"ko": "송금",
+"r": "そうきん",
+"id": "1402750",
+"common": true,
+"en": "remittance; sending money; transferring money",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "手数料",
+"g": 1,
+"ko": "수수료",
+"r": "てすうりょう",
+"id": "1327980",
+"common": true,
+"en": "(handling) fee; charge (e.g. for a cancellation); commission",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "明細",
+"g": 2,
+"ko": "명세",
+"r": "めいさい",
+"id": "1532440",
+"common": true,
+"en": "details; particulars; specifics",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "硬貨",
+"g": 3,
+"ko": "동전",
+"r": "こうか",
+"id": "1280530",
+"common": true,
+"en": "coin",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "紙幣",
+"g": 3,
+"ko": "지폐",
+"r": "しへい",
+"id": "1311600",
+"common": true,
+"en": "paper money; note; bill",
+"inDeck": null,
+"newKanji": [
+"幣"
+]
+},
+{
+"cat": "은행·우편",
+"w": "支店",
+"g": 2,
+"ko": "지점",
+"r": "してん",
+"id": "1310230",
+"common": true,
+"en": "branch office; branch store",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "窓口",
+"g": 1,
+"ko": "창구",
+"r": "まどぐち",
+"id": "1401420",
+"common": true,
+"en": "counter; window; teller window",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "本人確認",
+"g": 1,
+"ko": "본인 확인",
+"r": "ほんにんかくにん",
+"id": "2828131",
+"common": false,
+"en": "identity verification",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "身分証明書",
+"g": 1,
+"ko": "신분증",
+"r": "みぶんしょうめいしょ",
+"id": "1365820",
+"common": true,
+"en": "identification papers; piece of identification; identity document",
+"inDeck": null,
+"newKanji": [
+"証"
+]
+},
+{
+"cat": "은행·우편",
+"w": "印鑑",
+"g": 1,
+"ko": "도장",
+"r": "いんかん",
+"id": "1168120",
+"common": true,
+"en": "stamp; seal",
+"inDeck": null,
+"newKanji": [
+"鑑"
+]
+},
+{
+"cat": "은행·우편",
+"w": "署名",
+"g": 1,
+"ko": "서명",
+"r": "しょめい",
+"id": "1343640",
+"common": true,
+"en": "signature; autograph",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "記入",
+"g": 1,
+"ko": "기입",
+"r": "きにゅう",
+"id": "1223330",
+"common": true,
+"en": "entry (in a form, register, diary, etc.); filling in; filling out",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "郵便局",
+"g": 1,
+"ko": "우체국",
+"r": "ゆうびんきょく",
+"id": "1542430",
+"common": true,
+"en": "post office",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "郵便番号",
+"g": 2,
+"ko": "우편번호",
+"r": "ゆうびんばんごう",
+"id": "1542480",
+"common": false,
+"en": "postal code",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "宛先",
+"g": 2,
+"ko": "받는 곳(주소)",
+"r": "あてさき",
+"id": "1586500",
+"common": true,
+"en": "address; destination",
+"inDeck": null,
+"newKanji": [
+"宛"
+]
+},
+{
+"cat": "은행·우편",
+"w": "差出人",
+"g": 2,
+"ko": "보내는 사람",
+"r": "さしだしにん",
+"id": "1593760",
+"common": true,
+"en": "sender (e.g. of mail)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "切手",
+"g": 2,
+"ko": "우표",
+"r": "きって",
+"id": "1385070",
+"common": true,
+"en": "stamp (postage)",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "速達",
+"g": 3,
+"ko": "속달",
+"r": "そくたつ",
+"id": "1405030",
+"common": true,
+"en": "express; special delivery",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "書留",
+"g": 2,
+"ko": "등기",
+"r": "かきとめ",
+"id": "1589960",
+"common": true,
+"en": "registered mail; registered post; registration (of mail)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "小包",
+"g": 2,
+"ko": "소포",
+"r": "こづつみ",
+"id": "1593290",
+"common": true,
+"en": "parcel; package",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "不在票",
+"g": 1,
+"ko": "부재중 배달 안내표",
+"r": "ふざいひょう",
+"id": "2863879",
+"common": false,
+"en": "missed delivery notice",
+"inDeck": null,
+"newKanji": [
+"票"
+]
+},
+{
+"cat": "은행·우편",
+"w": "再配達",
+"g": 1,
+"ko": "재배달",
+"r": "さいはいたつ",
+"id": "2143700",
+"common": false,
+"en": "redelivery",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "配達",
+"g": 2,
+"ko": "배달",
+"r": "はいたつ",
+"id": "1473140",
+"common": true,
+"en": "delivery",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "着払い",
+"g": 2,
+"ko": "착불",
+"r": "ちゃくばらい",
+"id": "1423230",
+"common": false,
+"en": "payment on delivery; cash on delivery; COD",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "元払い",
+"g": 3,
+"ko": "선불(발송인 부담)",
+"r": "もとばらい",
+"id": "1261050",
+"common": false,
+"en": "prepayment (of postage, shipping, etc.)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "荷物",
+"g": 2,
+"ko": "짐, 택배",
+"r": "にもつ",
+"id": "1195430",
+"common": true,
+"en": "luggage; baggage; package",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "宅配便",
+"g": 2,
+"ko": "택배",
+"r": "たくはいびん",
+"id": "1415790",
+"common": true,
+"en": "express home delivery service",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "受取",
+"g": 2,
+"ko": "수령",
+"r": "うけとり",
+"id": "1329770",
+"common": true,
+"en": "receiving; receipt",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "受取人",
+"g": 2,
+"ko": "받는 사람",
+"r": "うけとりにん",
+"id": "1629260",
+"common": true,
+"en": "recipient (e.g. of mail); addressee; payee",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "時間指定",
+"g": 2,
+"ko": "배달 시간 지정",
+"r": "じかんしてい",
+"id": null,
+"common": null,
+"en": "",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "은행·우편",
+"w": "置き配",
+"g": 3,
+"ko": "문 앞 배송",
+"r": "おきはい",
+"id": "2833040",
+"common": false,
+"en": "delivery in which the package is left in front of the door or in a designated area; safe drop",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "在留カード",
+"g": 1,
+"ko": "재류카드",
+"r": "ざいりゅうカード",
+"id": "2737510",
+"common": false,
+"en": "residence card; resident card",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "住民票",
+"g": 1,
+"ko": "주민표(주민등록 등본)",
+"r": "じゅうみんひょう",
+"id": "1334240",
+"common": true,
+"en": "certificate of residence",
+"inDeck": null,
+"newKanji": [
+"票"
+]
+},
+{
+"cat": "관공서",
+"w": "転入届",
+"g": 1,
+"ko": "전입 신고",
+"r": "てんにゅうとどけ",
+"id": "1441310",
+"common": false,
+"en": "notification of moving in",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "転出届",
+"g": 1,
+"ko": "전출 신고",
+"r": "てんしゅつとどけ",
+"id": "2210920",
+"common": false,
+"en": "notification of moving out",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "市役所",
+"g": 1,
+"ko": "시청",
+"r": "しやくしょ",
+"id": "1308760",
+"common": true,
+"en": "municipal office; council; city hall",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "区役所",
+"g": 1,
+"ko": "구청",
+"r": "くやくしょ",
+"id": "1244270",
+"common": true,
+"en": "ward office; council (regional)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "役所",
+"g": 2,
+"ko": "관공서",
+"r": "やくしょ",
+"id": "1538020",
+"common": true,
+"en": "government office; public office",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "申請",
+"g": 1,
+"ko": "신청",
+"r": "しんせい",
+"id": "1363130",
+"common": true,
+"en": "application; request; petition",
+"inDeck": null,
+"newKanji": [
+"請"
+]
+},
+{
+"cat": "관공서",
+"w": "申請書",
+"g": 1,
+"ko": "신청서",
+"r": "しんせいしょ",
+"id": "1363140",
+"common": false,
+"en": "written application",
+"inDeck": null,
+"newKanji": [
+"請"
+]
+},
+{
+"cat": "관공서",
+"w": "届出",
+"g": 2,
+"ko": "신고",
+"r": "とどけで",
+"id": "1457240",
+"common": false,
+"en": "report; notification",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "手続き",
+"g": 1,
+"ko": "절차",
+"r": "てつづき",
+"id": "1598350",
+"common": true,
+"en": "procedure; process; proceedings",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "必要書類",
+"g": 1,
+"ko": "필요 서류",
+"r": "ひつようしょるい",
+"id": "2214950",
+"common": false,
+"en": "necessary documents; required documents",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "提出",
+"g": 1,
+"ko": "제출",
+"r": "ていしゅつ",
+"id": "1436410",
+"common": true,
+"en": "presentation (of documents); submission (of an application, report, etc.); production (e.g. of evidence)",
+"inDeck": null,
+"newKanji": [
+"提"
+]
+},
+{
+"cat": "관공서",
+"w": "期限",
+"g": 1,
+"ko": "기한",
+"r": "きげん",
+"id": "1220560",
+"common": true,
+"en": "term; period; time frame",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "在留期間",
+"g": 1,
+"ko": "체류 기간",
+"r": "ざいりゅうきかん",
+"id": "2845979",
+"common": false,
+"en": "(permitted) period of stay (in a country); authorized length of stay; duration of stay",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "在留資格",
+"g": 1,
+"ko": "체류 자격",
+"r": "ざいりゅうしかく",
+"id": "2202890",
+"common": false,
+"en": "status of residence; residence status; visa status",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "更新",
+"g": 1,
+"ko": "갱신",
+"r": "こうしん",
+"id": "1279370",
+"common": true,
+"en": "renewal; update; replacement",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "国民健康保険",
+"g": 1,
+"ko": "국민건강보험",
+"r": "こくみんけんこうほけん",
+"id": "1657500",
+"common": true,
+"en": "national health insurance",
+"inDeck": null,
+"newKanji": [
+"健",
+"康",
+"保"
+]
+},
+{
+"cat": "관공서",
+"w": "年金",
+"g": 2,
+"ko": "연금",
+"r": "ねんきん",
+"id": "1468540",
+"common": true,
+"en": "annuity; pension",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "税金",
+"g": 2,
+"ko": "세금",
+"r": "ぜいきん",
+"id": "1382100",
+"common": true,
+"en": "tax; duty",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "住民税",
+"g": 2,
+"ko": "주민세",
+"r": "じゅうみんぜい",
+"id": "1334220",
+"common": true,
+"en": "municipal tax",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "所得税",
+"g": 3,
+"ko": "소득세",
+"r": "しょとくぜい",
+"id": "1343370",
+"common": true,
+"en": "income tax",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "確定申告",
+"g": 3,
+"ko": "확정 신고(연말정산 비슷)",
+"r": "かくていしんこく",
+"id": "1819560",
+"common": false,
+"en": "final income tax return; final declaration; final report",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "源泉徴収票",
+"g": 3,
+"ko": "원천징수표",
+"r": "げんせんちょうしゅうひょう",
+"id": "2137220",
+"common": false,
+"en": "tax certificate slip; statement of earnings; tax-income certificate",
+"inDeck": null,
+"newKanji": [
+"源",
+"徴",
+"票"
+]
+},
+{
+"cat": "관공서",
+"w": "証明書",
+"g": 1,
+"ko": "증명서",
+"r": "しょうめいしょ",
+"id": "1351700",
+"common": true,
+"en": "certificate; credentials; testimonial",
+"inDeck": null,
+"newKanji": [
+"証"
+]
+},
+{
+"cat": "관공서",
+"w": "代理人",
+"g": 3,
+"ko": "대리인",
+"r": "だいりにん",
+"id": "1412470",
+"common": true,
+"en": "proxy; agent; substitute",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "委任状",
+"g": 3,
+"ko": "위임장",
+"r": "いにんじょう",
+"id": "1156190",
+"common": false,
+"en": "commission; proxy; power of attorney",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "記入例",
+"g": 2,
+"ko": "기입 예시",
+"r": "きにゅうれい",
+"id": "2870139",
+"common": false,
+"en": "entry example; filling example; input example",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "整理番号",
+"g": 2,
+"ko": "대기 번호",
+"r": "せいりばんごう",
+"id": "1376270",
+"common": false,
+"en": "reference number; serial number",
+"inDeck": null,
+"newKanji": [
+"整"
+]
+},
+{
+"cat": "관공서",
+"w": "世帯主",
+"g": 3,
+"ko": "세대주",
+"r": "せたいぬし",
+"id": "1374180",
+"common": false,
+"en": "head of the family (esp. as recorded in the resident register); head of the household; householder",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "관공서",
+"w": "国籍",
+"g": 2,
+"ko": "국적",
+"r": "こくせき",
+"id": "1286780",
+"common": true,
+"en": "nationality; citizenship",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "氏名",
+"g": 1,
+"ko": "성명",
+"r": "しめい",
+"id": "1311060",
+"common": true,
+"en": "(full) name; identity",
+"inDeck": null,
+"newKanji": [
+"氏"
+]
+},
+{
+"cat": "양식",
+"w": "住所",
+"g": 1,
+"ko": "주소",
+"r": "じゅうしょ",
+"id": "1334080",
+"common": true,
+"en": "address (of a home, business, etc.); residence; domicile",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "生年月日",
+"g": 1,
+"ko": "생년월일",
+"r": "せいねんがっぴ",
+"id": "1379410",
+"common": true,
+"en": "birth date; date of birth; DOB",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "年齢",
+"g": 2,
+"ko": "나이",
+"r": "ねんれい",
+"id": "1600240",
+"common": true,
+"en": "age; years",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "性別",
+"g": 1,
+"ko": "성별",
+"r": "せいべつ",
+"id": "1375520",
+"common": true,
+"en": "(distinction of) sex; gender",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "職業",
+"g": 2,
+"ko": "직업",
+"r": "しょくぎょう",
+"id": "1357510",
+"common": true,
+"en": "occupation; profession; job",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "連絡先",
+"g": 1,
+"ko": "연락처",
+"r": "れんらくさき",
+"id": "1559930",
+"common": true,
+"en": "contact information (address, phone number, etc.)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "電話番号",
+"g": 1,
+"ko": "전화번호",
+"r": "でんわばんごう",
+"id": "1443940",
+"common": true,
+"en": "telephone number; phone number",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "緊急連絡先",
+"g": 1,
+"ko": "비상 연락처",
+"r": "きんきゅうれんらくさき",
+"id": "2863563",
+"common": false,
+"en": "emergency contact",
+"inDeck": null,
+"newKanji": [
+"緊"
+]
+},
+{
+"cat": "양식",
+"w": "勤務先",
+"g": 2,
+"ko": "근무처",
+"r": "きんむさき",
+"id": "1241120",
+"common": false,
+"en": "place of employment",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "日付",
+"g": 2,
+"ko": "날짜",
+"r": "ひづけ",
+"id": "1464340",
+"common": true,
+"en": "date; dating",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "備考",
+"g": 2,
+"ko": "비고",
+"r": "びこう",
+"id": "1485670",
+"common": true,
+"en": "note (for reference); remarks; N.B.",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "該当",
+"g": 2,
+"ko": "해당",
+"r": "がいとう",
+"id": "1204700",
+"common": true,
+"en": "corresponding to; being applicable to; being relevant to",
+"inDeck": null,
+"newKanji": [
+"該"
+]
+},
+{
+"cat": "양식",
+"w": "必須",
+"g": 1,
+"ko": "필수",
+"r": "ひっす",
+"id": "1487540",
+"common": true,
+"en": "indispensable; essential; requisite",
+"inDeck": null,
+"newKanji": [
+"須"
+]
+},
+{
+"cat": "양식",
+"w": "任意",
+"g": 2,
+"ko": "임의, 선택",
+"r": "にんい",
+"id": "1467160",
+"common": true,
+"en": "optional; voluntary; arbitrary",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "不要",
+"g": 2,
+"ko": "불필요",
+"r": "ふよう",
+"id": "1602900",
+"common": true,
+"en": "unnecessary; unneeded",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "未記入",
+"g": 3,
+"ko": "미기입",
+"r": "みきにゅう",
+"id": "1527320",
+"common": false,
+"en": "blank (book)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "以上",
+"g": 2,
+"ko": "이상",
+"r": "いじょう",
+"id": "1155120",
+"common": true,
+"en": "not less than ...; ... and over; ... and above",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "以下",
+"g": 2,
+"ko": "이하",
+"r": "いか",
+"id": "1155060",
+"common": true,
+"en": "not exceeding ...; not more than ...; ... and under",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "未満",
+"g": 1,
+"ko": "미만",
+"r": "みまん",
+"id": "1528040",
+"common": true,
+"en": "less than; under; below",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "以内",
+"g": 2,
+"ko": "이내",
+"r": "いない",
+"id": "1155180",
+"common": true,
+"en": "within; inside of; less than",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "御中",
+"g": 3,
+"ko": "귀중(편지 받는 단체)",
+"r": "おんちゅう",
+"id": "1270530",
+"common": true,
+"en": "... and Company; Messrs; for the attention of ...",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "양식",
+"w": "様",
+"g": 2,
+"ko": "님",
+"r": "さま",
+"id": "1545790",
+"common": true,
+"en": "Mr; Mrs; Miss",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "地震",
+"g": 1,
+"ko": "지진",
+"r": "じしん",
+"id": "1421210",
+"common": true,
+"en": "earthquake",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "津波",
+"g": 1,
+"ko": "쓰나미, 해일",
+"r": "つなみ",
+"id": "1432220",
+"common": true,
+"en": "tsunami; tidal wave",
+"inDeck": null,
+"newKanji": [
+"津"
+]
+},
+{
+"cat": "재난·안전",
+"w": "台風",
+"g": 1,
+"ko": "태풍",
+"r": "たいふう",
+"id": "1596780",
+"common": true,
+"en": "typhoon; hurricane",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "大雨",
+"g": 2,
+"ko": "큰비",
+"r": "おおあめ",
+"id": "1413070",
+"common": true,
+"en": "heavy rain; torrential rainfall; downpour",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "洪水",
+"g": 2,
+"ko": "홍수",
+"r": "こうずい",
+"id": "1279930",
+"common": true,
+"en": "flood; flooding",
+"inDeck": null,
+"newKanji": [
+"洪"
+]
+},
+{
+"cat": "재난·안전",
+"w": "土砂災害",
+"g": 2,
+"ko": "산사태 피해",
+"r": "どしゃさいがい",
+"id": "2657530",
+"common": false,
+"en": "landslide disaster; sediment disaster",
+"inDeck": null,
+"newKanji": [
+"災"
+]
+},
+{
+"cat": "재난·안전",
+"w": "警報",
+"g": 1,
+"ko": "경보",
+"r": "けいほう",
+"id": "1252520",
+"common": true,
+"en": "warning; alarm; alert",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "注意報",
+"g": 1,
+"ko": "주의보",
+"r": "ちゅういほう",
+"id": "1426560",
+"common": true,
+"en": "advisory",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "避難",
+"g": 1,
+"ko": "피난",
+"r": "ひなん",
+"id": "1484660",
+"common": true,
+"en": "taking refuge; finding shelter; evacuation",
+"inDeck": null,
+"newKanji": [
+"避"
+]
+},
+{
+"cat": "재난·안전",
+"w": "避難所",
+"g": 1,
+"ko": "대피소",
+"r": "ひなんじょ",
+"id": "1751840",
+"common": false,
+"en": "shelter; safe shelter; evacuation shelter",
+"inDeck": null,
+"newKanji": [
+"避"
+]
+},
+{
+"cat": "재난·안전",
+"w": "避難場所",
+"g": 1,
+"ko": "대피 장소",
+"r": "ひなんばしょ",
+"id": "2399950",
+"common": false,
+"en": "emergency evacuation site (typically outdoors); refuge shelter",
+"inDeck": null,
+"newKanji": [
+"避"
+]
+},
+{
+"cat": "재난·안전",
+"w": "避難経路",
+"g": 1,
+"ko": "대피 경로",
+"r": "ひなんけいろ",
+"id": "2839229",
+"common": false,
+"en": "escape route; evacuation route",
+"inDeck": null,
+"newKanji": [
+"避"
+]
+},
+{
+"cat": "재난·안전",
+"w": "避難指示",
+"g": 1,
+"ko": "대피 지시",
+"r": "ひなんしじ",
+"id": "2831515",
+"common": false,
+"en": "evacuation order; evacuation notice",
+"inDeck": null,
+"newKanji": [
+"避"
+]
+},
+{
+"cat": "재난·안전",
+"w": "緊急地震速報",
+"g": 1,
+"ko": "긴급 지진 속보",
+"r": "きんきゅうじしんそくほう",
+"id": "2616350",
+"common": false,
+"en": "Earthquake Early Warning; EEW",
+"inDeck": null,
+"newKanji": [
+"緊"
+]
+},
+{
+"cat": "재난·안전",
+"w": "震度",
+"g": 1,
+"ko": "진도",
+"r": "しんど",
+"id": "1366380",
+"common": true,
+"en": "seismic intensity",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "余震",
+"g": 2,
+"ko": "여진",
+"r": "よしん",
+"id": "1544290",
+"common": true,
+"en": "aftershock",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "火事",
+"g": 1,
+"ko": "화재",
+"r": "かじ",
+"id": "1193950",
+"common": true,
+"en": "fire; conflagration",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "火災",
+"g": 1,
+"ko": "화재",
+"r": "かさい",
+"id": "1193880",
+"common": true,
+"en": "conflagration; fire",
+"inDeck": null,
+"newKanji": [
+"災"
+]
+},
+{
+"cat": "재난·안전",
+"w": "消火器",
+"g": 1,
+"ko": "소화기",
+"r": "しょうかき",
+"id": "1350170",
+"common": true,
+"en": "fire extinguisher",
+"inDeck": null,
+"newKanji": [
+"器"
+]
+},
+{
+"cat": "재난·안전",
+"w": "非常口",
+"g": 1,
+"ko": "비상구",
+"r": "ひじょうぐち",
+"id": "1484950",
+"common": true,
+"en": "emergency exit",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "非常階段",
+"g": 2,
+"ko": "비상계단",
+"r": "ひじょうかいだん",
+"id": "1945740",
+"common": false,
+"en": "emergency staircase; fire escape",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "防災",
+"g": 2,
+"ko": "방재",
+"r": "ぼうさい",
+"id": "1520360",
+"common": true,
+"en": "disaster preparedness; prevention of damage resulting from a natural disaster; protection against disaster",
+"inDeck": null,
+"newKanji": [
+"災"
+]
+},
+{
+"cat": "재난·안전",
+"w": "非常食",
+"g": 3,
+"ko": "비상식량",
+"r": "ひじょうしょく",
+"id": "2161400",
+"common": false,
+"en": "emergency food; emergency rations",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "懐中電灯",
+"g": 3,
+"ko": "손전등",
+"r": "かいちゅうでんとう",
+"id": "1200600",
+"common": true,
+"en": "(electric) torch; flashlight",
+"inDeck": null,
+"newKanji": [
+"懐"
+]
+},
+{
+"cat": "재난·안전",
+"w": "警察",
+"g": 1,
+"ko": "경찰",
+"r": "けいさつ",
+"id": "1252390",
+"common": true,
+"en": "police",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "交番",
+"g": 1,
+"ko": "파출소",
+"r": "こうばん",
+"id": "1272500",
+"common": true,
+"en": "police box; koban; small neighborhood police station",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "消防",
+"g": 2,
+"ko": "소방",
+"r": "しょうぼう",
+"id": "1350340",
+"common": true,
+"en": "fire fighting",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "落とし物",
+"g": 2,
+"ko": "분실물",
+"r": "おとしもの",
+"id": "1589250",
+"common": true,
+"en": "lost property; something dropped and left behind",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "盗難",
+"g": 2,
+"ko": "도난",
+"r": "とうなん",
+"id": "1448500",
+"common": true,
+"en": "theft; robbery",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "詐欺",
+"g": 2,
+"ko": "사기",
+"r": "さぎ",
+"id": "1291690",
+"common": true,
+"en": "fraud; swindle; graft",
+"inDeck": null,
+"newKanji": [
+"詐",
+"欺"
+]
+},
+{
+"cat": "재난·안전",
+"w": "不審者",
+"g": 2,
+"ko": "수상한 사람",
+"r": "ふしんしゃ",
+"id": "2038970",
+"common": false,
+"en": "suspicious person",
+"inDeck": null,
+"newKanji": [
+"審"
+]
+},
+{
+"cat": "재난·안전",
+"w": "危険",
+"g": 1,
+"ko": "위험",
+"r": "きけん",
+"id": "1218560",
+"common": true,
+"en": "danger; peril; hazard",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "注意",
+"g": 1,
+"ko": "주의",
+"r": "ちゅうい",
+"id": "1426530",
+"common": true,
+"en": "attention; notice; heed",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "警告",
+"g": 1,
+"ko": "경고",
+"r": "けいこく",
+"id": "1252360",
+"common": true,
+"en": "warning; caution; admonition",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "禁止",
+"g": 1,
+"ko": "금지",
+"r": "きんし",
+"id": "1241550",
+"common": true,
+"en": "prohibition; inhibition; ban",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "立入禁止",
+"g": 1,
+"ko": "출입 금지",
+"r": "たちいりきんし",
+"id": "1597010",
+"common": true,
+"en": "No Entry; No Trespassing; No Admittance",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "関係者以外立入禁止",
+"g": 1,
+"ko": "관계자 외 출입 금지",
+"r": "かんけいしゃいがいたちいりきんし",
+"id": "2650000",
+"common": false,
+"en": "No Unauthorized Persons; No Unauthorized Entry; Authorized Personnel Only",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "火気厳禁",
+"g": 1,
+"ko": "화기 엄금",
+"r": "かきげんきん",
+"id": "1724330",
+"common": false,
+"en": "total fire ban; no source of ignition permitted; no open flame",
+"inDeck": null,
+"newKanji": [
+"厳"
+]
+},
+{
+"cat": "재난·안전",
+"w": "撮影禁止",
+"g": 2,
+"ko": "촬영 금지",
+"r": "さつえいきんし",
+"id": "2850263",
+"common": false,
+"en": "no photographs; no photography",
+"inDeck": null,
+"newKanji": [
+"撮",
+"影"
+]
+},
+{
+"cat": "재난·안전",
+"w": "禁煙",
+"g": 1,
+"ko": "금연",
+"r": "きんえん",
+"id": "1241490",
+"common": true,
+"en": "abstaining from smoking; quitting smoking",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "飲食禁止",
+"g": 2,
+"ko": "음식물 금지",
+"r": "いんしょくきんし",
+"id": "2271770",
+"common": false,
+"en": "no food or drink (e.g. as a sign in a library, etc.); no eating or drinking",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "頭上注意",
+"g": 2,
+"ko": "머리 조심",
+"r": "ずじょうちゅうい",
+"id": "2863455",
+"common": false,
+"en": "Watch Your Head",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "足元注意",
+"g": 2,
+"ko": "발밑 조심",
+"r": "あしもとちゅうい",
+"id": null,
+"common": null,
+"en": "",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "段差",
+"g": 2,
+"ko": "단차, 턱",
+"r": "だんさ",
+"id": "1419960",
+"common": false,
+"en": "difference in grades (e.g. in go, shoji, etc.)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "高電圧",
+"g": 2,
+"ko": "고압 전기",
+"r": "こうでんあつ",
+"id": "1638160",
+"common": false,
+"en": "high voltage; high tension",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "取扱注意",
+"g": 2,
+"ko": "취급 주의",
+"r": "とりあつかいちゅうい",
+"id": "1599010",
+"common": true,
+"en": "handling warning",
+"inDeck": null,
+"newKanji": [
+"扱"
+]
+},
+{
+"cat": "재난·안전",
+"w": "押",
+"g": 1,
+"ko": "미세요",
+"r": "おす",
+"id": null,
+"common": null,
+"en": "",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "引",
+"g": 1,
+"ko": "당기세요",
+"r": "びき",
+"id": "2148430",
+"common": false,
+"en": "-off (price reduction); discount",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "非常停止",
+"g": 2,
+"ko": "비상 정지",
+"r": "ひじょうていし",
+"id": "2846661",
+"common": false,
+"en": "emergency stop; emergency shutdown",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "故障中",
+"g": 1,
+"ko": "고장 중",
+"r": "こしょうちゅう",
+"id": "2436180",
+"common": false,
+"en": "out of order; out of service",
+"inDeck": null,
+"newKanji": [
+"故",
+"障"
+]
+},
+{
+"cat": "재난·안전",
+"w": "使用中",
+"g": 2,
+"ko": "사용 중",
+"r": "しようちゅう",
+"id": "2105430",
+"common": false,
+"en": "in use; occupied (e.g. toilet); engaged",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "清掃中",
+"g": 2,
+"ko": "청소 중",
+"r": "せいそうちゅう",
+"id": null,
+"common": null,
+"en": "",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "재난·안전",
+"w": "点検中",
+"g": 2,
+"ko": "점검 중",
+"r": "てんけんちゅう",
+"id": null,
+"common": null,
+"en": "",
+"inDeck": null,
+"newKanji": [
+"検"
+]
+},
+{
+"cat": "일·알바",
+"w": "履歴書",
+"g": 1,
+"ko": "이력서",
+"r": "りれきしょ",
+"id": "1549820",
+"common": true,
+"en": "personal history document; curriculum vitae; resume",
+"inDeck": null,
+"newKanji": [
+"履"
+]
+},
+{
+"cat": "일·알바",
+"w": "面接",
+"g": 1,
+"ko": "면접",
+"r": "めんせつ",
+"id": "1533510",
+"common": true,
+"en": "interview (e.g. for a job)",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "応募",
+"g": 2,
+"ko": "응모, 지원",
+"r": "おうぼ",
+"id": "1180030",
+"common": true,
+"en": "application; subscription; entry (competition, raffle, etc.)",
+"inDeck": null,
+"newKanji": [
+"応"
+]
+},
+{
+"cat": "일·알바",
+"w": "募集",
+"g": 2,
+"ko": "모집",
+"r": "ぼしゅう",
+"id": "1514830",
+"common": true,
+"en": "recruitment; invitation; selection",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "採用",
+"g": 2,
+"ko": "채용",
+"r": "さいよう",
+"id": "1294890",
+"common": true,
+"en": "use; adoption; acceptance",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "時給",
+"g": 1,
+"ko": "시급",
+"r": "じきゅう",
+"id": "1316100",
+"common": true,
+"en": "hourly pay; hourly wage",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "日給",
+"g": 2,
+"ko": "일급",
+"r": "にっきゅう",
+"id": "1611070",
+"common": true,
+"en": "daily wages",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "月給",
+"g": 2,
+"ko": "월급",
+"r": "げっきゅう",
+"id": "1255560",
+"common": true,
+"en": "monthly salary",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "給料",
+"g": 1,
+"ko": "급여",
+"r": "きゅうりょう",
+"id": "1230360",
+"common": true,
+"en": "salary; wages; pay",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "給与明細",
+"g": 2,
+"ko": "급여 명세서",
+"r": "きゅうよめいさい",
+"id": "2235270",
+"common": false,
+"en": "payslip",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "交通費",
+"g": 2,
+"ko": "교통비",
+"r": "こうつうひ",
+"id": "1272410",
+"common": true,
+"en": "traveling expenses; travelling expenses; carfare",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "支給",
+"g": 2,
+"ko": "지급",
+"r": "しきゅう",
+"id": "1310130",
+"common": true,
+"en": "provision; supply; payment",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "勤務",
+"g": 2,
+"ko": "근무",
+"r": "きんむ",
+"id": "1241070",
+"common": true,
+"en": "service; duty; work",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "勤務時間",
+"g": 2,
+"ko": "근무 시간",
+"r": "きんむじかん",
+"id": "1933470",
+"common": true,
+"en": "office hours; business hours; working hours",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "出勤",
+"g": 2,
+"ko": "출근",
+"r": "しゅっきん",
+"id": "1338600",
+"common": true,
+"en": "going to work; leaving for work; attendance (at work)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "退勤",
+"g": 2,
+"ko": "퇴근",
+"r": "たいきん",
+"id": "2219610",
+"common": false,
+"en": "leaving work; clocking out",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "休憩",
+"g": 1,
+"ko": "휴식",
+"r": "きゅうけい",
+"id": "1227720",
+"common": true,
+"en": "rest; break; recess",
+"inDeck": null,
+"newKanji": [
+"憩"
+]
+},
+{
+"cat": "일·알바",
+"w": "有給",
+"g": 3,
+"ko": "유급 휴가",
+"r": "ゆうきゅう",
+"id": "1541200",
+"common": true,
+"en": "salaried; paid; with pay",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "残業",
+"g": 2,
+"ko": "잔업, 야근",
+"r": "ざんぎょう",
+"id": "1304560",
+"common": true,
+"en": "overtime (work)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "遅刻",
+"g": 2,
+"ko": "지각",
+"r": "ちこく",
+"id": "1422050",
+"common": true,
+"en": "lateness; tardiness; arriving late",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "早退",
+"g": 2,
+"ko": "조퇴",
+"r": "そうたい",
+"id": "1400310",
+"common": true,
+"en": "leaving early",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "欠勤",
+"g": 2,
+"ko": "결근",
+"r": "けっきん",
+"id": "1253960",
+"common": false,
+"en": "absence (from work)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "店長",
+"g": 2,
+"ko": "점장",
+"r": "てんちょう",
+"id": "1440730",
+"common": true,
+"en": "shop manager",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "正社員",
+"g": 2,
+"ko": "정규직",
+"r": "せいしゃいん",
+"id": "1377330",
+"common": false,
+"en": "regular employee; permanent employee; full-time employee",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "研修",
+"g": 2,
+"ko": "연수",
+"r": "けんしゅう",
+"id": "1258660",
+"common": true,
+"en": "training (esp. in-service); induction course",
+"inDeck": null,
+"newKanji": [
+"修"
+]
+},
+{
+"cat": "일·알바",
+"w": "制服",
+"g": 3,
+"ko": "유니폼",
+"r": "せいふく",
+"id": "1374940",
+"common": true,
+"en": "uniform",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "일·알바",
+"w": "退職",
+"g": 2,
+"ko": "퇴직",
+"r": "たいしょく",
+"id": "1411420",
+"common": true,
+"en": "retirement; resignation",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "登録",
+"g": 1,
+"ko": "등록",
+"r": "とうろく",
+"id": "1444810",
+"common": true,
+"en": "registration; accession; register",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "新規登録",
+"g": 1,
+"ko": "신규 가입",
+"r": "しんきとうろく",
+"id": "2834963",
+"common": false,
+"en": "new registration; registering for the first time",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "会員",
+"g": 2,
+"ko": "회원",
+"r": "かいいん",
+"id": "1198230",
+"common": true,
+"en": "member; the membership",
+"inDeck": 4,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "認証",
+"g": 1,
+"ko": "인증",
+"r": "にんしょう",
+"id": "1467560",
+"common": true,
+"en": "certification; attestation; authentication",
+"inDeck": null,
+"newKanji": [
+"証"
+]
+},
+{
+"cat": "앱·기기",
+"w": "送信",
+"g": 1,
+"ko": "전송",
+"r": "そうしん",
+"id": "1402820",
+"common": true,
+"en": "transmission; sending",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "受信",
+"g": 2,
+"ko": "수신",
+"r": "じゅしん",
+"id": "1329810",
+"common": true,
+"en": "receiving (a message, letter, email, etc.); reception (radio, TV, etc.)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "取消",
+"g": 1,
+"ko": "취소",
+"r": "とりけし",
+"id": "1599050",
+"common": false,
+"en": "cancellation; withdrawal; abolition",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "削除",
+"g": 1,
+"ko": "삭제",
+"r": "さくじょ",
+"id": "1298120",
+"common": true,
+"en": "deletion; elimination; erasure",
+"inDeck": null,
+"newKanji": [
+"削"
+]
+},
+{
+"cat": "앱·기기",
+"w": "変更",
+"g": 1,
+"ko": "변경",
+"r": "へんこう",
+"id": "1511040",
+"common": true,
+"en": "change; modification; alteration",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "保存",
+"g": 1,
+"ko": "저장",
+"r": "ほぞん",
+"id": "1513940",
+"common": true,
+"en": "preservation; conservation; storage",
+"inDeck": null,
+"newKanji": [
+"保"
+]
+},
+{
+"cat": "앱·기기",
+"w": "設定",
+"g": 1,
+"ko": "설정",
+"r": "せってい",
+"id": "1386060",
+"common": true,
+"en": "establishment; creation; posing (a problem)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "検索",
+"g": 2,
+"ko": "검색",
+"r": "けんさく",
+"id": "1257900",
+"common": true,
+"en": "looking up (e.g. a word in a dictionary); search (e.g. on the Internet); retrieval (of information)",
+"inDeck": null,
+"newKanji": [
+"検",
+"索"
+]
+},
+{
+"cat": "앱·기기",
+"w": "入力",
+"g": 1,
+"ko": "입력",
+"r": "にゅうりょく",
+"id": "1466850",
+"common": true,
+"en": "input; (data) entry; typing",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "選択",
+"g": 2,
+"ko": "선택",
+"r": "せんたく",
+"id": "1392290",
+"common": true,
+"en": "choice; selection; option",
+"inDeck": null,
+"newKanji": [
+"択"
+]
+},
+{
+"cat": "앱·기기",
+"w": "決定",
+"g": 2,
+"ko": "결정",
+"r": "けってい",
+"id": "1254380",
+"common": true,
+"en": "decision; determination",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "完了",
+"g": 1,
+"ko": "완료",
+"r": "かんりょう",
+"id": "1211630",
+"common": true,
+"en": "completion; conclusion",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "失敗",
+"g": 2,
+"ko": "실패",
+"r": "しっぱい",
+"id": "1320140",
+"common": true,
+"en": "failure; mistake; blunder",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "利用規約",
+"g": 2,
+"ko": "이용약관",
+"r": "りようきやく",
+"id": "2831622",
+"common": false,
+"en": "terms of service; terms of use; terms and conditions",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "同意",
+"g": 1,
+"ko": "동의",
+"r": "どうい",
+"id": "1451850",
+"common": true,
+"en": "agreement; consent; approval",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "個人情報",
+"g": 2,
+"ko": "개인정보",
+"r": "こじんじょうほう",
+"id": "1264870",
+"common": false,
+"en": "personal information",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "有効期限",
+"g": 1,
+"ko": "유효기간",
+"r": "ゆうこうきげん",
+"id": "1541310",
+"common": false,
+"en": "term of validity; expiration date (of medicine, credit card, etc.)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "決済",
+"g": 2,
+"ko": "결제",
+"r": "けっさい",
+"id": "1254260",
+"common": true,
+"en": "settlement (of an account); liquidation of debts; payment",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "支払方法",
+"g": 2,
+"ko": "결제 방법",
+"r": "しはらいほうほう",
+"id": "2838992",
+"common": true,
+"en": "payment method",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "通知",
+"g": 2,
+"ko": "알림",
+"r": "つうち",
+"id": "1433470",
+"common": true,
+"en": "notice; notification; report",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "接続",
+"g": 2,
+"ko": "연결",
+"r": "せつぞく",
+"id": "1385480",
+"common": true,
+"en": "connection; attachment; union",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "圏外",
+"g": 3,
+"ko": "통화권 이탈",
+"r": "けんがい",
+"id": "1257090",
+"common": true,
+"en": "outside (a region, area, etc.); out of range (of a mobile network, radar, etc.); outside the sphere (of influence, etc.)",
+"inDeck": null,
+"newKanji": [
+"圏"
+]
+},
+{
+"cat": "앱·기기",
+"w": "充電",
+"g": 2,
+"ko": "충전",
+"r": "じゅうでん",
+"id": "1334390",
+"common": true,
+"en": "charging (electrically)",
+"inDeck": null,
+"newKanji": [
+"充"
+]
+},
+{
+"cat": "앱·기기",
+"w": "電源",
+"g": 2,
+"ko": "전원",
+"r": "でんげん",
+"id": "1443220",
+"common": true,
+"en": "source of electricity; electrical power",
+"inDeck": null,
+"newKanji": [
+"源"
+]
+},
+{
+"cat": "앱·기기",
+"w": "画面",
+"g": 2,
+"ko": "화면",
+"r": "がめん",
+"id": "1197610",
+"common": true,
+"en": "screen (of a TV, computer, etc.)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "返信",
+"g": 2,
+"ko": "답장",
+"r": "へんしん",
+"id": "1512240",
+"common": true,
+"en": "reply (e.g. email, fax, letter); answer",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "既読",
+"g": 2,
+"ko": "읽음",
+"r": "きどく",
+"id": "2056830",
+"common": false,
+"en": "already read",
+"inDeck": null,
+"newKanji": [
+"既"
+]
+},
+{
+"cat": "앱·기기",
+"w": "未読",
+"g": 3,
+"ko": "안 읽음",
+"r": "みどく",
+"id": "1527880",
+"common": false,
+"en": "unread",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "件名",
+"g": 3,
+"ko": "제목(메일)",
+"r": "けんめい",
+"id": "1255960",
+"common": false,
+"en": "subject; title",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "添付",
+"g": 3,
+"ko": "첨부",
+"r": "てんぷ",
+"id": "1440880",
+"common": true,
+"en": "attaching (documents, etc.); appending; affixing",
+"inDeck": null,
+"newKanji": [
+"添"
+]
+},
+{
+"cat": "앱·기기",
+"w": "迷惑メール",
+"g": 3,
+"ko": "스팸 메일",
+"r": "めいわくメール",
+"id": "2057920",
+"common": false,
+"en": "spam; unsolicited email",
+"inDeck": null,
+"newKanji": [
+"惑"
+]
+},
+{
+"cat": "앱·기기",
+"w": "無効",
+"g": 2,
+"ko": "무효",
+"r": "むこう",
+"id": "1529930",
+"common": true,
+"en": "invalid; void; ineffective",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "有効",
+"g": 2,
+"ko": "유효",
+"r": "ゆうこう",
+"id": "1541290",
+"common": true,
+"en": "valid; effective",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "再生",
+"g": 2,
+"ko": "재생",
+"r": "さいせい",
+"id": "1292960",
+"common": true,
+"en": "restoration to life; coming to life again; resuscitation",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "音量",
+"g": 3,
+"ko": "음량",
+"r": "おんりょう",
+"id": "1184120",
+"common": true,
+"en": "volume (sound)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "앱·기기",
+"w": "字幕",
+"g": 3,
+"ko": "자막",
+"r": "じまく",
+"id": "1315220",
+"common": true,
+"en": "subtitles; captioning",
+"inDeck": null,
+"newKanji": [
+"幕"
+]
+},
+{
+"cat": "날씨·시간",
+"w": "天気予報",
+"g": 2,
+"ko": "일기예보",
+"r": "てんきよほう",
+"id": "1438770",
+"common": true,
+"en": "weather forecast; weather report",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "晴れ",
+"g": 2,
+"ko": "맑음",
+"r": "はれ",
+"id": "1376460",
+"common": true,
+"en": "clear weather; fine weather",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "曇り",
+"g": 2,
+"ko": "흐림",
+"r": "くもり",
+"id": "1592340",
+"common": true,
+"en": "cloudiness; cloudy weather",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "気温",
+"g": 2,
+"ko": "기온",
+"r": "きおん",
+"id": "1221950",
+"common": true,
+"en": "(air) temperature",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "最高気温",
+"g": 3,
+"ko": "최고 기온",
+"r": "さいこうきおん",
+"id": "2848153",
+"common": false,
+"en": "maximum temperature; highest temperature; (today's) high",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "最低気温",
+"g": 3,
+"ko": "최저 기온",
+"r": "さいていきおん",
+"id": "2848154",
+"common": false,
+"en": "minimum temperature; lowest temperature; (today's) low",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "降水確率",
+"g": 2,
+"ko": "강수 확률",
+"r": "こうすいかくりつ",
+"id": "2235800",
+"common": false,
+"en": "chance of precipitation; chance of rain",
+"inDeck": null,
+"newKanji": [
+"率"
+]
+},
+{
+"cat": "날씨·시간",
+"w": "湿度",
+"g": 3,
+"ko": "습도",
+"r": "しつど",
+"id": "1320490",
+"common": true,
+"en": "humidity",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "熱中症",
+"g": 1,
+"ko": "열사병",
+"r": "ねっちゅうしょう",
+"id": "2097700",
+"common": false,
+"en": "heatstroke",
+"inDeck": null,
+"newKanji": [
+"症"
+]
+},
+{
+"cat": "날씨·시간",
+"w": "梅雨",
+"g": 2,
+"ko": "장마",
+"r": "つゆ",
+"id": "1582960",
+"common": true,
+"en": "(East Asian) rainy season (in Japan, usu. from early June to mid-July)",
+"inDeck": null,
+"newKanji": [
+"梅"
+]
+},
+{
+"cat": "날씨·시간",
+"w": "平日",
+"g": 1,
+"ko": "평일",
+"r": "へいじつ",
+"id": "1507720",
+"common": true,
+"en": "weekday; ordinary days (i.e. non-holiday)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "祝日",
+"g": 1,
+"ko": "공휴일",
+"r": "しゅくじつ",
+"id": "1337500",
+"common": true,
+"en": "national holiday; public holiday",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "土日祝",
+"g": 2,
+"ko": "토·일·공휴일",
+"r": "どにちしゅく",
+"id": "2730780",
+"common": false,
+"en": "Saturdays, Sundays, and holidays",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "年末年始",
+"g": 2,
+"ko": "연말연시",
+"r": "ねんまつねんし",
+"id": "2051780",
+"common": false,
+"en": "year-end and New Year holidays (e.g. from December 29 to January 3)",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "本日",
+"g": 1,
+"ko": "오늘(공식적)",
+"r": "ほんじつ",
+"id": "1523110",
+"common": true,
+"en": "today; this day",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "翌日",
+"g": 2,
+"ko": "다음 날",
+"r": "よくじつ",
+"id": "1547510",
+"common": true,
+"en": "next day",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "前日",
+"g": 2,
+"ko": "전날",
+"r": "ぜんじつ",
+"id": "1393790",
+"common": true,
+"en": "previous day; day before; eve",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "締め切り",
+"g": 1,
+"ko": "마감",
+"r": "しめきり",
+"id": "1594590",
+"common": true,
+"en": "deadline; closing; cut-off",
+"inDeck": null,
+"newKanji": [
+"締"
+]
+},
+{
+"cat": "날씨·시간",
+"w": "延期",
+"g": 2,
+"ko": "연기",
+"r": "えんき",
+"id": "1176430",
+"common": true,
+"en": "postponement; deferment; adjournment",
+"inDeck": 2,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "中止",
+"g": 1,
+"ko": "중지, 취소",
+"r": "ちゅうし",
+"id": "1424410",
+"common": true,
+"en": "interruption; discontinuance; suspension",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "期間",
+"g": 2,
+"ko": "기간",
+"r": "きかん",
+"id": "1220550",
+"common": true,
+"en": "period; term; interval",
+"inDeck": 3,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "毎週",
+"g": 2,
+"ko": "매주",
+"r": "まいしゅう",
+"id": "1524690",
+"common": true,
+"en": "every week",
+"inDeck": null,
+"newKanji": []
+},
+{
+"cat": "날씨·시간",
+"w": "隔週",
+"g": 3,
+"ko": "격주",
+"r": "かくしゅう",
+"id": "1607110",
+"common": true,
+"en": "every other week; every two weeks",
+"inDeck": null,
+"newKanji": [
+"隔"
+]
+}
+]

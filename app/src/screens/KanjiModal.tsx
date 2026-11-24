@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import type { AppData } from "../App";
 import { StatusDot } from "../components/CardView";
-import { cardsWithKanji, kanjiRecentWrong, kanjiStatus, kanjiTable, kanjiWrongTotal, similarKanji } from "../insights";
+import { cardsWithKanji, kanjiRecentWrong, kanjiStatus, kanjiTable, kanjiWrongTotal, lvLabel, similarKanji } from "../insights";
 import { STATUS_LABEL } from "../srs";
 
 interface Props {
@@ -42,7 +42,7 @@ export function KanjiModal({ k, data, onClose, onOpenCard, onOpenKanji, onSaveMe
           <span className={`badge st-${st}`}>{STATUS_LABEL[st]}</span>
           {info && (
             <span className="muted">
-              N{info.lv} · {info.st}획 · 최근 30일 모름 {recent}회 (누적 {wrong}회)
+              {lvLabel(info.lv)} · {info.st}획 · 최근 30일 모름 {recent}회 (누적 {wrong}회)
             </span>
           )}
           <button className="icon-btn" aria-label="닫기" onClick={onClose}>

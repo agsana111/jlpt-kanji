@@ -157,7 +157,7 @@ export function CardBack({ card, deck, progress, decks, onOpenCard, onOpenKanji 
               <div className="kanji-info">
                 <div className="kanji-hun">
                   {info?.hun ?? info?.en.join(", ")}
-                  {info && info.lv !== Number(deck.id.slice(1)) && <span className="lv">N{info.lv}</span>}
+                  {info && info.lv >= 2 && info.lv !== Number(deck.id.slice(1)) && <span className="lv">N{info.lv}</span>}
                 </div>
                 {info && (
                   <div className="kanji-read">
