@@ -21,14 +21,39 @@ export function SettingsView({ data, onSave, onSaveBreak, onToast, onExport, onI
   const [brkEnd, setBrkEnd] = useState(data.breakPlan?.end ?? "");
   const fileRef = useRef<HTMLInputElement>(null);
 
-  const num = (k: keyof Settings, min: number, max: number) => (
+  // What is typed stays as typed (so "10" -> "" -> "2" -> "20" works); the range is applied when leaving the field or saving.
+  const [drafts, setDrafts] = useState<Partial<Record<keyof Settings, string>>>({});
+  const LIMITS: Record<keyof Settings, [number, number]> = {
+    newPerBatch: [3, 30],
+    reviewPerBatch: [5, 60],
+    reviewCap: [20, 500],
+    backlogStop: [10, 500],
+  };
+  const clamp = (k: keyof Settings, text: string | undefined) => {
+    const [min, max] = LIMITS[k];
+    const n = Math.round(Number(text));
+    return text === undefined || text.trim() === "" || !Number.isFinite(n) ? s[k] : Math.max(min, Math.min(max, n));
+  };
+  const commit = (k: keyof Settings) => {
+    if (drafts[k] === undefined) return;
+    setS({ ...s, [k]: clamp(k, drafts[k]) });
+    setDrafts(({ [k]: _, ...rest }) => rest);
+  };
+  const withDrafts = (): Settings => {
+    const out = { ...s };
+    for (const k of Object.keys(drafts) as (keyof Settings)[]) out[k] = clamp(k, drafts[k]);
+    return out;
+  };
+
+  const num = (k: keyof Settings) => (
     <input
       type="number"
       inputMode="numeric"
-      min={min}
-      max={max}
-      value={s[k]}
-      onChange={(e) => setS({ ...s, [k]: Math.max(min, Math.min(max, Number(e.target.value) || min)) })}
+      min={LIMITS[k][0]}
+      max={LIMITS[k][1]}
+      value={drafts[k] ?? String(s[k])}
+      onChange={(e) => setDrafts({ ...drafts, [k]: e.target.value })}
+      onBlur={() => commit(k)}
     />
   );
 
@@ -45,17 +70,20 @@ export function SettingsView({ data, onSave, onSaveBreak, onToast, onExport, onI
       <section className="panel">
         <h2>학습량</h2>
         <label>
-          묶음당 신규 {num("newPerBatch", 3, 30)}
+          묶음당 신규 {num("newPerBatch")}
         </label>
         <label>
-          묶음당 복습 {num("reviewPerBatch", 5, 60)}
+          묶음당 복습 {num("reviewPerBatch")}
         </label>
         <label>
-          하루 복습 상한 (전체 덱) {num("reviewCap", 20, 500)}
+          하루 복습 상한 (전체 덱) {num("reviewCap")}
         </label>
         <label>
-          밀린 복습이 이보다 많으면 신규 정지 {num("backlogStop", 10, 500)}
+          밀린 복습이 이보다 많으면 신규 정지 {num("backlogStop")}
         </label>
+        <p className="muted small">
+          범위: 신규 3~30 · 복습 5~60 · 상한 20~500 · 신규 정지 10~500. 벗어나면 저장할 때 가장 가까운 값으로 맞춰요.
+        </p>
       </section>
 
       <section className="panel">
@@ -92,7 +120,7 @@ export function SettingsView({ data, onSave, onSaveBreak, onToast, onExport, onI
           ))}
       </section>
 
-      <button className="primary wide" onClick={() => onSave(s, decks)}>
+      <button className="primary wide" onClick={() => onSave(withDrafts(), decks)}>
         저장
       </button>
 
