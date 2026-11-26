@@ -161,8 +161,8 @@ export function CardBack({ card, deck, progress, decks, onOpenCard, onOpenKanji 
                 </div>
                 {info && (
                   <div className="kanji-read">
-                    {info.on.length > 0 && <span>음 {info.on.join("・")}</span>}
-                    {info.kun.length > 0 && <span>훈 {kunList(info.kun).join("・")}</span>}
+                    {info.on.length > 0 && <span><i>음</i>{info.on.join("・")}</span>}
+                    {info.kun.length > 0 && <span><i>훈</i>{kunList(info.kun).join("・")}</span>}
                   </div>
                 )}
                 {info && !info.sx?.p.length && info.parts.length > 0 && <div className="kanji-parts">부품 {info.parts.join(" ")}</div>}

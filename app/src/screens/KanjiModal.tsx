@@ -56,8 +56,8 @@ export function KanjiModal({ k, data, onClose, onOpenCard, onOpenKanji, onSaveMe
             <div className="kanji-hun big">{info?.hun ?? "-"}</div>
             {info && (
               <div className="kanji-read">
-                {info.on.length > 0 && <span>음 {info.on.join("・")}</span>}
-                {info.kun.length > 0 && <span>훈 {kunList(info.kun).join("・")}</span>}
+                {info.on.length > 0 && <span><i>음</i>{info.on.join("・")}</span>}
+                {info.kun.length > 0 && <span><i>훈</i>{kunList(info.kun).join("・")}</span>}
               </div>
             )}
             {info && <div className="muted">{info.en.join(", ")}</div>}
